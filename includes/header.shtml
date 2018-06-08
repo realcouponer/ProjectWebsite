@@ -8,8 +8,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 topWrap styleShaded">
-                    <div class="logo img">
+                    <!--<div class="logo img">
                         <a href="index.shtml" class="navbar-brand"><img src="img/logos/advanced-algos/aa-logo.svg" class="logo_main"></a><br>
+                    </div>-->
+                    <div class="logo logo_left with_text">
+                        <a href="index.shtml" class="navbar-brand"><img src="img/logos/advanced-algos/aa-logo.svg" alt="Advanced Algos Logo" class="logo_main"></a>
                     </div>
                     <a href="#" class="openResponsiveMenu">Menu</a>
                     <nav id="mainmenu_wrapper" class="menuTopWrap topMenuStyleLine">
@@ -21,10 +24,13 @@
                                 <a href="about-advanced-algos.shtml">ABOUT</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item-type-custom">
+                                        <a href="about-advanced-algos-ltd.shtml" class="sf-with-ul">The Startup</a>
+                                    </li>
+                                    <li class="menu-item-type-custom">
                                         <a href="about-advanced-algos-project.shtml" class="sf-with-ul">The Project</a>
                                     </li>
                                     <li class="menu-item-type-custom">
-                                        <a href="about-advanced-algos-ltd.shtml" class="sf-with-ul">The Startup</a>
+                                        <a href="ecosystem.shtml" class="sf-with-ul">The <span class="red_text">ALGO</span> Ecosystem</a>
                                     </li>
                                 </ul>
                             </li>
