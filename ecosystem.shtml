@@ -1,0 +1,135 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>About the Advanced Algos Project</title>
+    <meta name="description" content="Our vision for the future of algorithmic crypto trading">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--#include file="includes/header.shtml" -->
+
+
+    <section class="green_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h5 class="sc_title">Building crypto trading bots has never been easier</h5>
+                    <h2 class="sc_title sc_title_underline">The <span class="red_text">ALGO</span> Ecosystem</h2>
+                    <img src="img/illustrations/how-algo.svg" alt="ALGO" width="50%" class="margin_bottom_small margin_top_small">
+                    <h4><span class="red_text">ALGO</span> is energy</h4>
+                    <h4>Bots are open source algorithms</br>and are powered by <span class="red_text">ALGO</span></br>so we call them</br><strong>algobots</strong></h4>
+                    <img src="img/illustrations/how-algo-trade.svg" alt="Algobots" width="50%" class="margin_bottom_small margin_top_small">
+                    <h4>Algobots get ALGO for the services they provide</br>and use ALGO to pay for services they consume</h4>
+                    <h4>They run on the <strong>AAPlatform</strong>,</br>the infrastructure provided by</br>Advanced Algos Ltd.</h4>
+                    <img src="img/logos/advanced-algos/aa-logo-vert.svg" alt="Advanced Algos Ltd." width="25%" class="margin_bottom_small margin_top_small">
+                    <h4>Algobots are created by a community of</br>developers, traders, entrepreneurs</br> and crypto holders known as the </br><strong>Algobots Community</strong></h4>
+                    <img src="img/logos/algobots-community/aa-comm-logo-vert.svg" alt="Algobots Community" width="25%" class="margin_bottom_small margin_top_small">
+                    <h4>The community creates new algobots</br>mostly by forking existing ones</h4>
+                    <img src="img/illustrations/how-algo-fork-white.svg" alt="Algobots" width="50%" class="margin_bottom_small margin_top_small">
+                    <h4>People in the community form</br><strong>Algobot Teams</strong></br>to collaborate and</br> compete with other teams</br>in open trading competitions</h4>
+                    <h4>Winning algobots earn prizes for their teams</br>both in ALGO and other cryptos</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section id="history_section" class="darkgrey_section fullwidth no_padding_container no_margin_col">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h5 class="sc_title margin_top_big text-center">Main stakeholders and entities in the network</h5>
+                    <h2 class="sc_title sc_title_underline text-center">Ecosystem Actors</h2>
+                </div>
+            </div>
+            <div class="row autoHeight columnsWrap">
+                <div class="col-md-6">
+                    <img src="img/logos/advanced-algos/aa-logo-vert-dark.svg" alt="Advanced Algos Ltd. Logo" height="75%" class="margin_bottom_mini margin_top_mini">
+                </div>
+                <div class="col-md-6 col-sm-12 text-left">
+                    <div class="history_content">
+                        <h5 class="sc_title margin_top_big">The Startup</h5>
+                        <h2 class="sc_title">Advanced Algos Ltd.</h2>
+                        <p>Advanced Algos Ltd. is the startup developing the AAPlatform &ndash;a system designed to empower developers wishing to work on their own trading bots&mdash;by hosting specialized cloud infrastructure, web tools and fully-functional open source algobots to serve as templates and a vantage point to get devs up and running in less than a minute.</p>
+                        <span class="sc_button sc_button_style_border_1 sc_button_size_big margin_bottom_mini margin_top_mini squareButton border_1 big">
+                            <a href="about-advanced-algos-ltd.shtml">Learn More</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="history_section" class="grey_section fullwidth no_padding_container no_margin_col">
+        <div class="container">
+            <div class="row columnsWrap">
+                <div class="col-md-6 col-sm-12 text-left">
+                    <div class="history_content">
+                        <h5 class="sc_title margin_top_big">The Autonomous Agents</h5>
+                        <h2 class="sc_title">Algobots</h2>
+                        <p>They are open source algorithms running on the AAPlatform and designed to consume each other's services as autonomous agents with the ultimate goal of automating crypto trading strategies by harnessing collective algobot intelligence. Bots are powered by ALGO, so we call them algobots.</p>
+                        <!--<span class="sc_button sc_button_style_border_1 sc_button_size_big margin_bottom_mini margin_top_mini squareButton border_1 big">
+                            <a href="#">Learn More</a>
+                        </span>-->
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <img src="img/illustrations/how-algo-trade.svg" alt="Algobots" class="margin_bottom_mini margin_top_mini">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="history_section" class="darkgrey_section fullwidth no_padding_container no_margin_col">
+        <div class="container">
+            <div class="row autoHeight columnsWrap">
+                <div class="col-md-6">
+                    <img src="img/logos/algobots-community/aa-comm-logo-vert.svg" height="75%" alt="Algobots Community" class="margin_bottom_mini margin_top_mini">
+                </div>
+                <div class="col-md-6 col-sm-12 text-left ">
+                    <div class="history_content margin_bottom_large">
+                        <h5 class="sc_title margin_top_big">The Algobot Makers</h5>
+                        <h2 class="sc_title">Algobots Community</h2>
+                        <p>The Algobots Community is an incipient crowd of developers and traders joining forces in Algobot Teams to create state-of-the-art algobots that compete with each other in open trading competitions &mdash;one of the key drivers for algobots evolution.</p>
+                        <!--<span class="sc_button sc_button_style_border_1 sc_button_size_big margin_bottom_mini margin_top_mini squareButton border_1 big">
+                            <a href="#">Learn More</a>
+                        </span>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="history_section" class="grey_section fullwidth no_padding_container no_margin_col">
+        <div class="container">
+            <div class="row columnsWrap">
+                <div class="col-md-6 col-sm-12 text-left">
+                    <div class="history_content">
+                        <h5 class="sc_title margin_top_big">The Energy</h5>
+                        <h2 class="sc_title">ALGO</h2>
+                        <p>ALGO is the energy that powers de grid of resources of the ALGO Ecosystem. It is the platform's native token that functions as a medium of exchange within the network.</p>
+                        <!--<span class="sc_button sc_button_style_border_1 sc_button_size_big margin_bottom_mini margin_top_mini squareButton border_1 big">
+                            <a href="#">Learn More</a>
+                        </span>-->
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <img src="img/illustrations/how-algo.svg" alt="ALGO" class="margin_bottom_mini margin_top_mini">
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <!--#include file="includes/footer.shtml" -->
+    <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>

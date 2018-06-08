@@ -434,6 +434,11 @@ background-color: #EAE2DE;
     color: #303036;
 }
 
+.yellow_section {
+    background-color: #F4E409;
+
+}
+
 .red_text {
     color: #e3493c;
     font-weight:600;
@@ -583,7 +588,7 @@ header .logo { float: left; line-height: 55px; padding: 0 0 0 0; }
 header .logo.logo_left { text-align: left; }
 header .logo a { color: #1a1d1f; display: block; font-size: 50px; padding-left: 0; }
 header .logo .logo_text { display: inline-block; vertical-align: top; line-height: 55px; margin-right: 8px; font-weight: 700; }
-header .logo img { display: inline-block; height: 75px; border: none; vertical-align: top; margin-top: 5px; }
+header .logo img { height: 75px; border: none; margin-top: 5px; }
 
 /* cart in top */
 .topWrap .cart { float: right; position: relative; margin: 41px 0 42px 10px; width: 47px; }
@@ -2494,10 +2499,10 @@ a:hover .menu_item_description { color: inherit; }
         margin-bottom: 10px;
     }
     .carousel-indicators li{
-        border-color: #f55858;
+        border-color: #e3493c;
     }
     .carousel-indicators li.active{
-        background-color: #f55858;
+        background-color: #e3493c;
     }
 }
 
@@ -3820,7 +3825,7 @@ label{
     line-height: 14px;
     text-transform: uppercase;
 }
-label.required:after{ color:#f55858; content:'*'; display:block; float:left; margin:0 1px; }
+label.required:after{ color:#e3493c; content:'*'; display:block; float:left; margin:0 1px; }
 
 
 
@@ -4218,7 +4223,7 @@ input[type="button"],
 
 input[type="submit"],
 input[type="button"],
-.squareButton > a, .squareButton > button, .squareButton > span { height:40px; line-height:40px; display: block; padding: 0 10px; color: #ffffff; position: relative; font-size:14px; cursor:pointer; font-weight:100; background-color:#f55858; overflow: hidden;}
+.squareButton > a, .squareButton > button, .squareButton > span { height:40px; line-height:40px; display: block; padding: 0 10px; color: #ffffff; position: relative; font-size:14px; cursor:pointer; font-weight:100; background-color:#e3493c; overflow: hidden;}
 
 .squareButton.medium > a, .squareButton.medium > button, .squareButton.medium > span { height:40px; line-height:40px; font-size:14px; font-weight: 100; letter-spacing: 0; padding:0 30px; }
 .squareButton.big  > a, .squareButton.big  > button, .squareButton.big  > span { height:50px; line-height:50px; font-size:14px; font-weight: 100; letter-spacing: 2px; text-transform: uppercase; padding:0 30px; }
@@ -4397,7 +4402,7 @@ table.calendar th, table.calendar td,
 .sc_pricing_light .sc_pricing_columns:hover ul.columnsAnimate li.sc_pricing_title,
 .sc_pricing_light .sc_pricing_columns:hover ul.columnsAnimate li.sc_pricing_price
 { background-color:#f9f9f9; }
-.sc_pricing_light .sc_pricing_columns:hover ul.columnsAnimate .sc_pricing_title { color: #f55858; }
+.sc_pricing_light .sc_pricing_columns:hover ul.columnsAnimate .sc_pricing_title { color: #e3493c; }
 .sc_pricing_light .sc_pricing_data > span { color: #303036; }
 
 /*style dark*/
@@ -4538,7 +4543,7 @@ span.sc_button.sc_button_style_global{
 .sc_infobox.sc_infobox_style_info { background-color:#05d1d4; }
 .sc_infobox.sc_infobox_style_success {  background-color:#a3c656; }
 .sc_infobox.sc_infobox_style_warning {  background-color:#ffc455; }
-.sc_infobox.sc_infobox_style_error { background-color:#f55858;  }
+.sc_infobox.sc_infobox_style_error { background-color:#e3493c;  }
 .sc_infobox.sc_infobox_style_regular { color:#303036; background-color:#EAE2DE;  }
 .sc_infobox.sc_infobox_style_regular h4 { color:#303036; }
 
@@ -5907,7 +5912,7 @@ input[type=text]::-ms-clear { display: none; }
   transition: all 0.2s linear; }
 
 #toTop:hover:after {
-  color: #f55858; }
+  color: #e3493c; }
 
 #toTop:active, #toTop:focus {
   outline: medium none; }
@@ -6059,7 +6064,7 @@ div.ppt{color:#fff;display:none;font-size:17px;z-index:9999;margin:0 0 5px 15px}
 
 .thumbnail + h3 + p {
   text-align: center;
-  color: #f55858; }
+  color: #e3493c; }
 
 /*= Slider ==================================================================================================================================================================*/
 
