@@ -1,0 +1,74 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>About Advanced Algos Ltd.</title>
+    <meta name="description" content="The role of the startup in the Advanced Algos Project">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--#include file="includes/header.shtml" -->
+
+    <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="flexslider">
+                        <ul class="slides text-center">
+                            <li>
+                                <img src="img/photos/leading.jpg" alt="Leading">
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="about_section" class="light_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h2 class="sc_title sc_title_underline">Advanced Algos Ltd. is the startup <span class="red_text">leading</span> the project while granting the Algobots Community a major role in the business</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <h3>Our Role</h3>
+                    <p>The role of our startup in the Advanced Algos Project is that of a facilitator, <span class="red_text">empowering</span> and <span class="red_text">incentivizing</span> the Algobots Community.</p>
+                    <br />
+                    <p>Our mission is to set up the infrastructure that enables the work of the Algobots Community. As such, our startup is tasked with developing the AAPlatform, the system that provides the infrastructure for running algobots in the cloud and serves a number of web tools to empower Algobot Teams –squads of developers, traders and crypto holders creating algobots and taking part in trading competitions.</p>
+                </div>
+                <div class="col-sm-4">
+                    <h3>Empowering</h3>
+                    <p>We empower the Algobots Community by...</p>
+                    </br>
+                    <ul>
+                        <li>providing all of these tools for free in the Development Environment, which allows real trading while running algobots in users' browsers;</li>
+                        </br>
+                        <li>granting permissionless access to: existing algobots, hosting trading competitions and creating applications on top of the AAPlatform.</li>
+                    </ul>
+                </div>
+                <div class="col-sm-4">
+                    <h3>Incentivizing</h3>
+                    <p>We incentivize the Algobots Community by...</p>
+                    </br>
+                    <ul>
+                        <li>providing a comprehensive and sustainable business model through which Algobot Teams can effectively monetize their efforts by allowing users to subscribe to their trading algobots for a fee;</li>
+                        </br>
+                        <li>reserving 25% of ALGO –the project's native token—for the community, to be distributed in competition prizes.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--#include file="includes/footer.shtml" -->
+    <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>
