@@ -35,7 +35,7 @@
                                     <div class="slide_description to_animate">
                                         <div data-animation="fadeInUp">
                                             <h3>Fork a</br>competition-</br>winning algobot</h3>
-                                            <p><b>No set ups, no payments, no trust required.</b></br>Trade from your own computer,</br>from your own exchange account</p>
+                                            <p><b>No set ups, no payments required.</b></br>Trade from your own computer,</br>from your own exchange account</p>
                                         </div>
                                     </div>
                                 </div>
@@ -46,7 +46,7 @@
                                     <div class="slide_description to_animate">
                                         <div data-animation="fadeInUp">
                                             <h3>Visually debug,</br>backtest and code</br>right on the browser</h3>
-                                            <p>Debug and polish the strategy step-by-step</br>right over a candlestick chart</br>using our <b>specialized IDE to develop algobots</b></p>
+                                            <p>Debug and polish the strategy</br>step-by-step right over the charts</br>using the <b>Advanced Algos IDE to develop algobots</b></p>
                                         </div>
                                     </div>
                                 </div>
@@ -62,33 +62,36 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h5 class="sc_title text-center">Crypto trading bots have never been easier</h5>
-                    <h2 class="sc_title sc_title_underline text-center">How It Works</h2>
+                    <h5 class="sc_title text-center">The Algobots Competition Platform</h5>
+                    <h2 class="sc_title sc_title_underline text-center">The world's only specialized IDE for visually debugging, testing and training algobots right on the browser</h2>
                     <div>
                         <div class="col-sm-4 sc_content">
-                            <h3 class="sc_title margin_bottom_micro">Your own crypto trading algobot up and running in 60 seconds</h3>
+                            <h3 class="sc_title margin_bottom_micro">Get your own crypto trading algobot up and running in 60 seconds</h3>
                             <p class="sc_content">
-                                <strong>No kidding! How is this possible?</strong></br></br>
                                 <ul>
                                     <li>Algobots run on the browser.</li>
-                                    <li>You may start with a fork of a proven algobot—no less than a trading competition winner.</li>
-                                    <li>You can debug and code using your browser's built-in capabilities.</li>
+                                    <li>Start with a fork of a proven algobot—no less than a trading competition winner.</li>
+                                    <li>Debug and code using your browser's built-in capabilities.</li>
                                 </ul>
                             </p>
                         </div>
                         <div class="col-sm-4 sc_content">
                             <h3 class="sc_title margin_bottom_micro">Start with a fork of a competition-winning algobot</h3>
                             <p class="sc_content">
-                                Algobots compete in trading competitions as a means to drive rapid-evolution. Competition after competition, algobots become more and more efficient and optimized by the sheer force of the community and the dynamics of constant iterative improvements. Moreover, algobots' activities are stored in public logs thus anyone can verify their track records.
+                                <ul>
+                                    <li>Rapid-evolution through Algobot participation in trading competitions.</li>
+                                    <li>Algobot optimization and efficiency developed by the combined force of community collaboration and the constant iterative improvements gained through ongoing cycles of competition.</li>
+                                    <li>Public access and verification of algobot evolutionary track record.</li>
+                                </ul>
                             </p>
                         </div>
                         <div class="col-sm-4 sc_content">
-                            <h3 class="sc_title margin_bottom_micro">Use our specialized IDE to develop algobots on the browser</h3>
+                            <h3 class="sc_title margin_bottom_micro">Use the Advanced Algos IDE to develop algobots on the browser</h3>
                             <p class="sc_content">
                                 <ul>
-                                    <li>You can debug visually on the charts and also in the code.</li>
-                                    <li>Changes made in the algobot code with the browser's developer tools are persisted.</li>
-                                    <li>No arbitrary barriers are imposed on your creativity. You may code anything JavaScript allows you to.</li>
+                                    <li>Debug visually on the charts and also in the code.</li>
+                                    <li>Change algobots code with the browser's developer tools.</li>
+                                    <li>No arbitrary barriers imposed on your creativity. You may code anything JavaScript allows you to.</li>
                                 </ul>
                             </p>
                         </div>
@@ -107,7 +110,7 @@
                     <div>
                         <div class="col-sm-12 sc_content text-center">
                             <p>
-                                <strong>Sign up and start trading right away...</strong> </br>No tricky set ups, no payments, no personal information collected.
+                                <strong>Try it out and start trading right away...</strong> </br>No tricky set ups, no payments.
                                 </p>
 
                                 <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
