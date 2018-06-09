@@ -62,7 +62,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h5 class="sc_title text-center">The Algobots Competition Platform</h5>
+                    <h5 class="sc_title text-center">Algobots Competition Platform</h5>
                     <h2 class="sc_title sc_title_underline text-center">The world's only specialized IDE for visually debugging, testing and training algobots right on the browser</h2>
                     <div>
                         <div class="col-sm-4 sc_content">
@@ -101,33 +101,35 @@
         </div>
     </section>
 
-    <section id="get_started_section" class="yellow_section">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <h5 class="sc_title text-center">Ready, set go!</h5>
-                    <h2 class="sc_title sc_title_underline text-center">Let's Get You Started!</h2>
-                    <div>
-                        <div class="col-sm-12 sc_content text-center">
-                            <p>
-                                <strong>Try it out and start trading right away...</strong> </br>No tricky set ups, no payments.
-                                </p>
+    <!--
+        <section id="get_started_section" class="yellow_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h5 class="sc_title text-center">Ready, set, go!</h5>
+                        <h2 class="sc_title sc_title_underline text-center">Let's Get You Started!</h2>
+                        <div>
+                            <div class="col-sm-12 sc_content text-center">
+                                <p>
+                                    <strong>Try it out and start trading right away...</strong> </br>No tricky set ups, no payments.
+                                    </p>
 
-                                <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                    <a href="#" class="">Get me started!</a>
-                                </span>
+                                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                        <a href="#" class="">Get me started!</a>
+                                    </span>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
+    -->
 
     <section id="get_started_section" class="light_section">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h5 class="sc_title text-center">About</h5>
+                    <h5 class="sc_title text-center">Learn More About</h5>
                     <h2 class="sc_title sc_title_underline text-center">The Advanced Algos Project</h2>
                     <div>
                         <div class="col-sm-6 sc_content">
