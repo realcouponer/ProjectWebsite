@@ -49,24 +49,25 @@
                 </div>
                 <div class="col-sm-6">
                     <ul>
-                        <li>A corporation with a number of programmers and scientists on the payroll working eight-hours shifts?</li>
+                        <li><p>A corporation with a number of programmers and scientists on the payroll working eight-hours shifts?</p></li>
                         </br>
-                        <li>A crypto startup with a closed source platform totally missing the point of permissionless innovation and the new sharing economy?</li>
+                        <li><p>A crypto startup with a closed source platform totally missing the point of permissionless innovation and the new sharing economy?</p></li>
                         </br>
-                        <li>A worldwide community of developers, traders, analysts, scientists, entrepreneurs and crypto holders...</li>
+                        <li><p>A worldwide community of developers, traders, analysts, scientists, entrepreneurs and crypto holders...</p></li>
                         <ul>
                             </br>
-                            <li>working together towards a common goal,  </li>
+                            <li><p>working together towards a common goal,</p></li>
                             </br>
-                            <li>collaborating by polishing and improving each other's algobots,</li>
+                            <li><p>collaborating by polishing and improving each other's algobots,</p></li>
                             </br>
-                            <li>competing to conquer top spots on trading competitions with substantial monetary prizes,</li>
+                            <li><p>competing to conquer top spots on trading competitions with substantial monetary prizes,</p></li>
                             </br>
-                            <li>fine-tuning and tweaking winning algobots in a never-ending evolutionary process,</li>
+                            <li><p>fine-tuning and tweaking winning algobots in a never-ending evolutionary process,</p></li>
                             </br>
-                            <li>building reputation and a public track record for their algobots to gain crypto holders' subscriptions</li>
+                            <li><p>building reputation and a public track record for their algobots to gain crypto holders' subscriptions</p></li>
                         </ul>
-                        </br>... all within an ecosystem in which open source and permissionless innovation constitute key drivers for rapid evolution?
+                        </br>
+                        <p>... all within an ecosystem in which open source and permissionless innovation constitute key drivers for rapid evolution?</p>
 
                     </ul>
                 </div>
@@ -87,11 +88,26 @@
                         <h2 class="sc_title">The Project's Mission</h2>
                         <p>
                             <ul>
-                                <li>Develop a platform for easy algobots' creation and operation.</li>
-                                <li>Bootstrap and incentivize a multi-talent community developing algobots.</li>
-                                <li>Provide a sustainable business model catering to all crypto holders.</li>
-                                <li>Encourage permissionless innovation and gamified competition to drive algobots’ rapid evolution. </li>
-                            </ul>
+                                <li>
+                        <p>
+                            Develop a platform for easy algobots' creation and operation.
+                        </p></li>
+                        <li>
+                            <p>
+                                Bootstrap and incentivize a multi-talent community developing algobots.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Provide a sustainable business model catering to all crypto holders.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Encourage permissionless innovation and gamified competition to drive algobots’ rapid-evolution.
+                            </p>
+                        </li>
+                        </ul>
                         </p>
 
                         <!--<span class="sc_button sc_button_style_border_1 sc_button_size_big margin_bottom_mini margin_top_mini squareButton border_1 big">
@@ -104,7 +120,7 @@
     </section>
 
     <!--#include file="includes/footer.shtml" -->
-                        <!--#include file="includes/preloader.shtml" -->
+    <!--#include file="includes/preloader.shtml" -->
 
 </body>
 </html>

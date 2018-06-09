@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="logo">
-                    <a href="#">
+                    <a href="index.shtml">
                         <img src="img/logos/advanced-algos/aa-logo-dark.svg" alt="Advanced Algos Ltd. Logo">
                     </a>
                 </div>
@@ -18,7 +18,7 @@
 <section id="copyright" class="dark_section copyWrap no_padding_container">
     <div class="container">
         <div class="row copy">
-            <div class="col-sm-12 copyright">
+            <div class="col-sm-12 margin_bottom_micro">
                 <p>&copy; Advanced Algos Ltd. <!--#config timefmt="%Y" --> <!--#echo var="DATE_LOCAL" --> All Rights Reserved</p>
             </div>
         </div>
