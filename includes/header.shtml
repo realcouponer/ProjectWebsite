@@ -1,0 +1,39 @@
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+<div id="box_wrapper">
+
+    <header id="header" class="light_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 topWrap styleShaded">
+                    <div class="logo logo_left with_text">
+                        <a href="index.shtml" class="navbar-brand"><img src="img/logos/advanced-algos/aa-logo.svg" alt="Advanced Algos Logo" class="logo_main"></a>
+                    </div>
+                    <a href="#" class="openResponsiveMenu">Menu</a>
+                    <nav id="mainmenu_wrapper" class="menuTopWrap topMenuStyleLine">
+                        <ul id="mainmenu" class="nav sf-menu inited ">
+                            <li class="menu-item-type-custom">
+                                <a href="index.shtml">HOME</a>
+                            </li>
+                            <li class="menu-item-type-custom menu-item-has-children">
+                                <a href="about-advanced-algos-ltd.shtml">ABOUT</a>
+                                <ul class="sub-menu">
+                                    <li class="menu-item-type-custom">
+                                        <a href="about-advanced-algos-ltd.shtml" class="sf-with-ul">The Startup</a>
+                                    </li>
+                                    <li class="menu-item-type-custom">
+                                        <a href="about-advanced-algos-project.shtml" class="sf-with-ul">The Project</a>
+                                    </li>
+                                    <li class="menu-item-type-custom">
+                                        <a href="ecosystem.shtml" class="sf-with-ul">The <span class="red_text">ALGO</span> Ecosystem</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
