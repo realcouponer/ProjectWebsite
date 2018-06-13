@@ -1,0 +1,9 @@
+<div class="signup-form-container">
+     <form id="email-signup" action="#" class="form-inline">
+      <div class="success invisible">Thank you for your interest! We'll keep you informed</div>
+      <div class="form-group">
+         <input class="btn btn-lg" name="email" id="signup_email" type="email" placeholder="Sign up for email updates" required>
+         <button class="btn btn-info btn-lg" type="submit">Submit</button>
+      </div>
+     </form>
+</div>
