@@ -2,7 +2,7 @@
 
 <head>
     <title>Advanced Algos</title>
-    <meta name="description" content="Open source crypto trading algobots">
+    <meta name="description" content="Open source crypto-trading algobots competition platform">
     <meta charset="utf-8">
     
 <!--#include file="includes/headlinks.shtml" -->
@@ -62,7 +62,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h5 class="sc_title text-center">Algobots Competition Platform</h5>
+                    <h5 class="sc_title text-center">What We Do</h5>
                     <h2 class="sc_title sc_title_underline text-center">The world's only specialized IDE for visually debugging, testing and training algobots right on the browser</h2>
                     <div>
                         <div class="col-sm-4 sc_content">

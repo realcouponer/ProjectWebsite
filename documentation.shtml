@@ -1,0 +1,1579 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>About Advanced Algos Ltd.</title>
+    <meta name="description" content="The role of the startup in the Advanced Algos Project">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--#include file="includes/header.shtml" -->
+
+
+    <section class="light_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="sc_tabs sc_tabs_style_1 inited">
+                        <ul class="nav nav-tabs sc_tabs_titles" role="tablist" id="tabs_sliders">
+                            <li class="tab_names active"><a class="theme_button" href="#tab1" role="tab" data-toggle="tab">INTRO</a></li>
+                            <li class="tab_names"><a class="theme_button" href="#tab2" role="tab" data-toggle="tab">AAPLATFORM</a></li>
+                            <li class="tab_names"><a class="theme_button" href="#tab3" role="tab" data-toggle="tab">ALGOBOTS</a></li>
+                            <li class="tab_names"><a class="theme_button" href="#tab4" role="tab" data-toggle="tab">T-BOTS</a></li>
+                        </ul>
+                        <!-- Tab panes -->
+                        <div class="tab-content">
+                            <div class="tab-pane fade in active" id="tab1">
+
+                                <div class="row">
+                                    <div class="col-sm-10 margin_top_small">
+
+                                        <h2>Welcome to the Algobots Competition Platform!</h2>
+
+                                        <p>
+                                            Join us for a dive into the world of algorithmic cryptocurrency trading to collaborate and compete with a community of developers and traders joining forces to enable the rapid-evolution of open-source cryptocurrency algobots.
+                                            </br></br>
+                                            In this series of pages you will find all the information you need to:
+                                            </br></br>
+                                            <ul>
+                                                <li>
+                                        <p>
+                                            understand why we are joining forces and what our collective mission is,
+                                            </br></br>
+                                            </li>
+                                        </p>
+                                        <li>
+                                            <p>
+                                                get acquainted with the Advanced Algos infrastructure that facilitates the creation of trading bots,
+                                                </br></br>
+                                        </li>
+                                        <li>
+                                            <p>
+                                                get you started in creating your own algobots, and
+                                                </br></br>
+                                        </li>
+                                        <li>
+                                            <p>
+                                                participate in our algorithmic trading competitions with prizes in metallic to be distributed among all participants.
+                                                </br></br>
+                                        </li>
+                                        </ul>
+                                        <p>
+                                            Let's get things rolling!
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-sm-10 margin_top_small">
+
+                                        <h2>Basic Definitions</h2>
+                                        <h3>Infrastructure</h3>
+
+                                        <p>
+                                            <ul>
+                                                <li>
+                                        <p>
+                                            <strong>Algobots</strong>: Open-source algorithms destined to become autonomous agents with an autonomous financial life once the AAPlatform along with the Algobots Ecosystem are launched.
+                                            </li></br>
+                                            <li>
+                                        <p>
+                                            <strong>AAPlatform</strong>: AKA <i>the platform</i>, it is the IT system on top of which everything runs.
+                                            </li></br>
+                                            <li>
+                                        <p>
+                                            <strong>AACloud</strong>: The part of the system that runs algobots in the cloud.
+                                            </li></br>
+                                            <li>
+                                        <p>
+                                            <strong>AAWeb</strong>: The part of the system that shows algobots' activities in a visual environment.
+                                            </li></br>
+                                            <li>
+                                        <p>
+                                            <strong>Algobots Arena</strong>: The scenario in which competitions take place.
+                                            </li></br>
+                                            </ul>
+                                        </p>
+                                        <h3>
+                                            Stakeholders
+                                        </h3>
+                                        <p>
+                                            <ul>
+                                                <li>
+                                        <p>
+                                            <strong>Advanced Algos Ltd.</strong>: The start up behind the creation of the AAPlatform and the people running this show until the Algobots Community takes over.
+                                            </li></br>
+                                            <li>
+                                        <p>
+                                            <strong>Algobots Community</strong>: The emerging community of developers and traders that share our vision and help push it forwards by creating algobots.
+                                            </li></br>
+                                            <li>
+                                        <p>
+                                            <strong>Algobot Team</strong>: That would be you, along with anyone else that wishes to help you out in this quest. Algobot Teams are subsets of the major Algobots Community.
+                                            </li></br>
+                                            </ul>
+                                        </p>
+                                        <h3>
+                                            Ecosystem
+                                        </h3>
+                                        <p>
+                                            <ul>
+                                                <li>
+                                        <p>
+                                            <strong><span class="red_text">ALGO</span> Ecosystem</strong>: Its the body of economic relationships established by stakeholders in the network by which each actor consumes services from other actors using ALGO as the medium of exchange.
+                                            </li></br>
+                                            <li>
+                                        <p>
+                                            <span class="red_text">ALGO</span>: Its the platform's native token designed as the medium of payment to access and use the network.
+                                            </li></br>
+                                            </ul>
+                                        </p>
+                                        <h2>
+                                            Still Wondering What We Are Doing Here?
+                                        </h2>
+                                        <p>
+
+                                            In a nut shell, we are bootstrapping a community that collaborates to create the most advanced, accessible and easy-to-use crypto trading algorithms. We compete to push ourselves and adopt open-source development practices and permissionless innovation principles to collaborate and drive the rapid-evolution of algobots.
+                                            </br></br>
+                                            Advanced Algos Ltd focuses on refining the infrastructure and developing the platform that will eventually allow end-users to hire our collective trading intelligence by subscribing to our trading algobots. The Community develops the actual algobots, has fun and win prizes competing with each other, and collects the profits resulting from each other's real-life crypto trading with our own t-bots.
+                                            </br></br>
+                                            Together, we are creating a new business in the new sharing economy. A business with fairness and transparency as core values, in which all parties benefit. And –at the same time– a business with a profound social mission: to bring the opportunity of economic progress to all people.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-sm-10 margin_top_small">
+
+                                        <h2>Relevant GitHub Organizations</h2>
+                                        <p>
+
+                                            There are three GitHub Organizations you need to be familiar with:
+                                            </br></br>
+                                            <ul>
+                                                <li>
+                                        <p>
+                                            <a href="https://github.com/AdvancedAlgos"><strong>AdvancedAlgos</strong></a>: Features repositories with the AAPlatform code including the bits that run in the cloud (AACloud) and in the web browser, along with a few other platform-related configurations and documentation.
+                                            </li></br>
+                                            <li>
+                                        <p>
+                                            <a href="https://github.com/AAMasters"><strong>AAMasters</strong></a>: Its a showcase GitHub organization similar to the one each Algobot Team needs to create for themselves. It features several examples of bots, each in their corresponding repository.
+                                            </li></br>
+                                            <li>
+                                        <p>
+                                            <a href="https://github.com/AAArena"><strong>AAArena</strong></a>: Its another showcase GitHub organization featuring the AA Application hosting the trading algobot competition you are about to enter.
+                                            </li></br>
+                                            </ul>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="tab-pane fade" id="tab2">
+                                <div class="row">
+                                    <div class="col-sm-10 margin_top_small">
+
+                                        <h2>The AAPlatform</h2>
+
+                                        <h3>Leading Principles</h3>
+                                        <p>
+                                            We live in a world crammed with bots working behind the scenes whose intellectual property and profits are held close by their companies and developers. Advanced Algos and the surrounding community envision a <i>World of Tomorrow</i> brimming with the greater wealth cultivated by permissionless knowledge and accessible resources. Thus, it is our mission to create a self-sustaining open-source algobot development and access platform –making algobots accessible and easy-to-use for the everyday person.
+                                        </p></br>
+
+                                        <h3>AACloud</h3>
+                                        <p>
+                                            AACloud is the part of the platform that interacts with algobots and puts them to run in the cloud.
+                                        </p></br>
+                                        <h4>Run.js</h4>
+                                        <p>
+                                            This is where everything starts:
+                                        </p></br>
+                                        <ul>
+                                            <li>
+                                                <p>
+                                                    Run.js makes a number of global definitions (global variables,  constants and parameters),
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    loads all relevant configuration files (starting from AACloud's <i>this.config.json</i> where each algobot process to be run is listed),
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    and eventually calls the <i>Main Loop</i> module corresponding to the type of algobot it is running.
+                                                </p>
+                                            </li></br>
+                                        </ul>
+                                        <h4>Main Loop Modules</h4>
+                                        <p>
+                                            The platform's architecture is designed so that algobots are run as self-contained entities, that is, when algobots finish their execution they are unloaded from memory and put to rest until the following scheduled execution starts.
+                                        </p></br>
+                                        <p>
+                                            Each type of algobot (extractor, indicator and trading) has a specific workflow, thus each of them are handled from separate Main Loop modules. However, all Main Loop modules share a similar structure:
+                                        </p></br>
+                                        <ul>
+                                            <li>
+                                                <p>
+                                                    They first set up a structure of nested objects to be passed on to algobots;
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    objects are initialized, exposing a number of public functions that algobots can consume to perform their business operations;
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    the corresponding algobots processes are executed and objects are passed on;
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    once algobots finish their run, the Main Loop stores the <i>Context</i>
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    and finally, sets the time for the next execution.
+                                                </p>
+                                            </li></br>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="tab-pane fade" id="tab3">
+                                <div class="row">
+                                    <div class="col-sm-10 margin_top_small">
+
+                                        <h2>About Algobots</h2>
+                                        <p>
+                                            Algobots are open source projects in Github, programed in JavaScript. AACloud calls algobots and puts them to run in specific time intervals. They consume services from the platform and data from other algobots, especially from indicator algobots, and at the same time, produce an output that is stored in the cloud (to be consumed by other algobots).
+                                        </p></br>
+                                        <h4>Types of Algobots</h4>
+
+                                        The AAPlatform handles three different types of bots, differentiating them by their incumbencies:
+                                        </p></br>
+
+                                        <h5>Extractor Algobots (AKA e-bots)</h5>
+                                        <p>
+                                            They extract raw trades and order books data from exchanges and store it in a standardized format for other bots to consume.
+                                        </p></br>
+                                        <p>
+                                            You will not need to program these kinds of bots for this competition, as we will be using an existing one –<a href="https://github.com/AAMasters/AACharly-Extraction-Bot">Charly</a>– who gets raw data from Poloniex, the one exchange we will be working with.
+                                        </p></br>
+                                        <h5>Indicator Algobots (AKA i-bots)</h5>
+                                        <p>
+                                            They process raw trades data and other indicators to output elaborate data structures, mainly technical indicators, for trading algobots to consume.
+                                        </p></br>
+                                        <p>
+                                            You will most likely need to program i-bots in order to perform Technical Analysis studies or functions. While it is true that you can process data and do all sorts of calculations from within your trading algobot's code, this is not recommended. Advanced Algos Ltd. encourages developers to respect incumbencies assigned to each type of algobot, for several reasons:
+                                        </p></br>
+                                        <ul>
+                                            <li>
+                                                <p>
+                                                    The AAPlatform's architecture is designed so that algobots can consume data from other algobots, in order for the network to reuse resources. By respecting the incumbencies of each type of algobot you contribute to growing the platform along with the embedded ecosystem in a sustainable manner.
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    The AAPlatform is set up as a marketplace of extractor, indicator and trading algobots. If you program and release an i-bot, you will soon be able to monetize that effort as algobots consuming the data your i-bot generates will pay you a fee.
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    If instead of creating an indicator algobot, you do the technical analysis from within your trading algobot, anyone can come at a later time, extract from your trading algobot the code that performs the technical analysis, and create their own indicator algobot with it. This means you may permanently lose the chance to monetize the indicator functions and effectively allow someone else to do it instead.
+                                                </p>
+                                            </li></br>
+                                        </ul>
+                                        <h5>Trading Algobots (AKA t-bots)</h5>
+                                        <p>
+                                            They automate trading strategies and place orders through the platform, which connects to exchanges via exchanges APIs to trade cryptocurrency.
+                                        </p></br>
+                                        <h4>How Algobots Work</h4>
+                                        <p>
+                                            Algobots mission is –in essence– creating <strong>products</strong> that others can consume. To do this, they run <strong>processes</strong> which produce and store <strong>datasets</strong>.
+                                        </p></br>
+                                        <p>
+                                            Eeach algobot may have several processes, and processes don't necessarily have a one-to-one relationship with products. That is, a product can be the result of the work of one or more processes.
+                                        </p></br>
+                                        <p>
+                                            Algobot processes are self-contained entities, meaning that they run when called by the AACloud and stop when they finish the task at hand, to wake up again only when AACloud calls the process the next time (in configurable intervals). The datasets processes create are the actual <strong>output</strong> of algobots which are stored in Azure cloud storage containers. But processes also produce and store a second valuable piece of information: <strong>status reports</strong>.
+                                        </p></br>
+                                        <p>
+                                            Status reports serve as temporal annotations that algobots read every time they are called by AACloud so as to know what was done in the previous run and what the state of affairs is at the present time. Status reports are dynamic, and they change constantly, with updates after every single run of the associated process.
+                                        </p></br>
+                                        <p>
+                                            We established that algobots produce products for others to consume. This "others" include other algobots, meaning that algobots usually depend on the datasets produced by other algobots. We call these <strong>data dependencies</strong> which are declared on each algobot configuration file.
+                                        </p></br>
+                                        <p>
+                                            Algobots consume their own status report and they might as well consume status reports from other algobots. We call these <strong>status dependencies</strong>  which are too declared in each algobot configuration file.
+                                        </p></br>
+                                        <p>
+                                            At this point in time, there are five different types of datasets: market files, daily files, minutes files, single file and file sequence. These types of datasets define the structure of the data and how it is stored.
+                                        </p></br>
+                                        <p>
+                                            A <strong>market file</strong> contains data spanning the whole existence of the market, that is, from the day the pair (e.g. USDT-BTC) started trading up to the present time. The data is stored in one single file, which is appended every time the process runs generating new data.
+                                        </p></br>
+                                        <p>
+                                            A <strong>daily file</strong> contains data segmented by day. That is, the process generates one file per day and stores it in the deepest level of a folder tree structure of the following type:  Year > Month > Day.
+                                        </p></br>
+                                        <p>
+                                            A <strong>minutes file</strong> contains data pertaining to one single minute and is stored in the deepest level of a folder tree structure of the following type:  Year > Month > Day > Hour > Minute.
+                                        </p></br>
+                                        <p>
+                                            A <strong>file sequence</strong> consists of sequential information that is not necessarily structured on any particular timeframe. The process stores two types of files: the one ending in <i>.Sequence.json</i> contains the number of files in the sequence, and the sequence is formed by multiple files ending in a sequential number (e.g. 15.json).
+                                        </p></br>
+                                        <p>
+                                            A <strong>single file</strong> is pretty much just that: a dataset that is stored in one file only.
+                                        </p></br>
+
+                                        <h4>Real Life Example</h4>
+
+                                        <p>
+                                            Let's put all this in perspective by analyzing the processes, products and dependencies of a few existing algobots.
+                                        </p></br>
+                                        <p>
+                                            <a href="https://github.com/AAMasters/AACharly-Extraction-Bot">Charly</a> is an extractor algobot. As his <a href="https://github.com/AAMasters/AACharly-Extraction-Bot/blob/master/README.md">README file</a> explains, he "gets trades data for all markets –both historic and live– assuring consistency using recursive processes, and store it in a highly fragmented and usable dataset".
+                                        </p></br>
+                                        <p>
+                                            Also explained in Charly's README file, Charly offers one product which is defined by the dataset scope and various characteristics. Please, go on and review <a href="https://github.com/AAMasters/AACharly-Extraction-Bot/blob/master/README.md">Charly's README file</a> and become familiarized with the concepts detailed in there.
+                                        </p></br>
+                                        <p>
+                                            Charly has three different processes: Poloniex-Live-Trades, Poloniex-Historic-Trades and Poloniex-Hole-Fixing. These three process combined generate the one single dataset that constitutes Charly's single product. The dataset is stored under the <strong>minutes file</strong> structure.
+                                        </p></br>
+                                        <p>
+                                            Now, let's see what <a href="https://github.com/AAMasters/AABruce-Indicator-Bot">Bruce</a>, an indicator algobot, does with Charly's product. As you can learn from <a href="https://github.com/AAMasters/AABruce-Indicator-Bot/blob/master/README.md">Bruce's README file</a> he produces two datasets: candles at 1 minute resolution and volumes at 1 minute resolution. The datasets are stored under the <i>daily file</i> type of dataset.
+                                        </p></br>
+                                        <p>
+                                            Now scroll down the README file and see what Bruce's dependencies are. That's right. Bruce depends on Charly's product. Bruce's processes take the trades data that Charly extracted from the exchange, performs calculations to build 1 minute candles and stores his own dataset with more elaborate data. In other words, Bruce is adding value to Charly's product and offering a new value-added product of his own.
+                                        </p></br>
+                                        <p>
+                                            But the value-adding chain does not stop there. Let's take a look at another i-bot, <a href="https://github.com/AAMasters/AAOlivia-Indicator-Bot">Olivia</a>. According to her <a href="https://github.com/AAMasters/AAOlivia-Indicator-Bot/blob/master/README.md">README file</a> Olivia offers four different products: candles at sub-hour resolutions, candles in resolutions above one hour, volumes in sub-hour resolutions and volumes in resolutions above one hour. And guess what? Indeed, Olivia uses Bruce's one minute candles and one minute volumes to produce complementary candles and volumes at different resolutions.
+                                        </p></br>
+                                        <p>
+                                            And so it goes. The last link in the chain usually comes in the form of trading algobots using data from indicator algobots, as that is the ultimate purpose of the whole algobots ecosystem: to provide trading algobots with quality preprocessed data they can use to make the best possible trading decisions.
+                                        </p></br>
+                                        <p>
+                                            Let's take a look at <a href="https://github.com/AAMasters/AAArtudito-Trading-Bot">Artudito</a>, for instance. Artudito –a t-bot– uses candles and volumes from Olivia to make trading decisions. Of course, the main goal of a t-bot like Artudito is to perform profitable trading. However, notice that trading algobots too have outputs, and thus offer products that are consumable by others. Trading bots output three different products: Live Trading History, Backtest Trading History and Competition Trading History. Those datasets are available for others to consume. For instance, the <a href="https://aawebproduction.azurewebsites.net">AAWeb application</a> uses those datasets to show t-bots activities on a visual environment resembling typical candlestick charts so that anyone can dive in and analyze what algobots are doing.
+                                        </p></br>
+
+                                        <h3>About Plotters</h3>
+
+                                        <p>
+                                            Plotters are –too– JavaScript programs created by Algobot Teams. They serve the purpose of creating a visual representation of datasets so that people can easily interpret the data. For instance, <a href="https://github.com/AAMasters/Plotters-Candles-Volumes">Plotters-Candles-Volumes</a> creates the visual representation of candlesticks and volume graphs.
+                                        </p></br>
+                                        <p>
+                                            Algobots are usually associated to plotters in order for the AAWeb app to be able to plot the corresponding datasets. For instance, trading algobots use <a href="https://github.com/AAMasters/Plotters-Trading">Plotters-Trading</a>.
+                                        </p></br>
+
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="tab-pane fade" id="tab4">
+                                <div class="row">
+                                    <div class="col-sm-10 margin_top_small">
+
+                                        <h2>Trading Algobots</h2>
+
+                                        <p>
+                                            You are almost done with your set up. Let's briefely discuss t-bots before actually cloning one to use as a template.
+                                        </p></br>
+
+                                        <h3>Overview</h3>
+
+                                        <p>
+                                            At this early stage, the AAPlatform and the trading algobot templates solve several of the main issues around algorithmic trading:
+                                        </p></br>
+                                        <ul>
+                                            <li>
+                                                <p>
+                                                    Infrastructure to run bots in the cloud;
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    Crucial historical and live trades data;
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    Connection with exchanges, placement and handling of orders.
+                                                </p>
+                                            </li></br>
+                                        </ul>
+                                        <p>
+                                            This leaves Algobot Teams free to focus in the creative side of things: coming up with and implementing a trading strategy.
+                                        </p></br>
+                                        <p>
+                                            There are four AACloud modules particularly significant to trading algobots:
+                                        </p></br>
+                                        <ul>
+                                            <li>
+                                                <p>
+                                                    <strong>Data Dependencies</strong> & <strong>Status Dependencies</strong>: Your trading algobot's config file contains two declarations of dependencies: data and status dependencies. Dependencies exist because t-bots use other algobot's datasets, or require certain data to be on a certain state. The dependencies modules load declared dependencies and pass them on to the bot through the Assistant module.
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    <strong>Context</strong>: In terms of context, trading algobots require the latest status report, the history of what was done on previous runs and the execution context tracking balances, trades, positions and so on. Context is saved in files as outputs of trading algobots. The context module reads the last status report, gets the date of the last execution, fetches the corresponding context file and serves it to the Assistant module.
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    <strong>Assistant</strong>: The Assistant module processes information available from other modules and serves a digest version to the trading algobot. The Assistant module also acts as an interface with the exchange, as it offers methods for placing, closing and moving orders.
+                                                </p>
+                                            </li></br>
+                                        </ul>
+                                        <p>
+                                            Let's review how AACloud interacts with trading algobots...
+                                        </p></br>
+                                        <h3>Trading Bot Process Main Loop.js</h3>
+
+                                        <p>
+                                            As explained elsewhere, Main Loop modules have a common structure that can be summarized in the following actions:
+                                        </p></br>
+                                        <ul>
+                                            <li>
+                                                <p>
+                                                    Set up objects
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    Initialize objects exposing public functions
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    Execute algobots processes
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    Save context
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    Schedule next execution
+                                                </p>
+                                            </li></br>
+                                        </ul>
+                                        <p>
+                                            Let's take a closer look at how all this is done in the case of trading algobots...
+                                        </p></br>
+
+                                        <h4>Set Up & Initialize Objects</h4>
+                                        
+                                        <p>
+                                            It all starts with _function loop()_ defining the modules that will become available to the rest of the infrastructure and to algobots themselves:
+                                        </p></br>
+                                        <figure>
+                                            <pre>
+                                            <code class="language-javascript">
+const UTILITIES = require(ROOT_DIR + 'Utilities');
+const BLOB_STORAGE = require(ROOT_DIR + 'Blob Storage');
+const DEBUG_MODULE = require(ROOT_DIR + 'Debug Log');
+const POLONIEX_CLIENT_MODULE = require(ROOT_DIR + 'Poloniex API Client');
+const EXCHANGE_API = require(ROOT_DIR + 'ExchangeAPI');
+const CONTEXT = require(ROOT_DIR + 'Context');
+const ASSISTANT = require(ROOT_DIR + 'Assistant');
+const STATUS_REPORT = require(ROOT_DIR + 'Status Report');
+const DATA_SET = require(ROOT_DIR + 'Data Set');
+const STATUS_DEPENDENCIES = require(ROOT_DIR + 'Status Dependencies');
+const DATA_DEPENDENCIES = require(ROOT_DIR + 'Data Dependencies');
+                                        </code>
+  </pre>
+                                        </figure></br>
+                                        <p>
+                                            Each of these modules in AACloud work as an object. In each module a _new_ function (e.g. _newContext_ in the Context module) constructs _thisObject_ –the main object of the module– defining properties and functions. These are the public functions which algobots can execute. Once the object is constructed and certain low-level operations are performed, _thisObject_ is returned as a result of the _new_ function.
+                                        </p></br>
+                                        <p>
+                                            The way in which the Trading Bot Process Main Loop sets up and initializes the nested objects structure is by calling each module, one after the other, passing on objects while initializing them, which are nested as each of the modules construct their own objects returning them to the Main Loop.
+                                            This is how it actually works:
+                                        </p></br>
+                                        <p>
+                                            Status Dependencies are initialized first...
+                                        </p></br>
+                                        <figure>
+                                            <pre>
+                                            <code class="language-javascript">
+function initializeStatusDependencies() {
+if (FULL_LOG === true) { logger.write("[INFO] run -> loop -> initializeStatusDependencies ->  Entering function."); }
+statusDependencies = STATUS_DEPENDENCIES.newStatusDependencies(bot, DEBUG_MODULE, STATUS_REPORT, BLOB_STORAGE, UTILITIES);
+statusDependencies.initialize(processConfig.statusDependencies, undefined, undefined, onInizialized);
+                                        </code>
+  </pre>
+                                        </figure></br>
+                                        <p>
+                                            Then it's the turn of Data Dependencies...
+                                        </p></br>
+                                        <figure>
+                                            <pre>
+                                            <code class="language-javascript">
+function initializeDataDependencies() {
+if (FULL_LOG === true) { logger.write("[INFO] run -> loop -> initializeDataDependencies ->  Entering function."); }
+dataDependencies = DATA_DEPENDENCIES.newDataDependencies(bot, DEBUG_MODULE, DATA_SET, BLOB_STORAGE, UTILITIES);
+dataDependencies.initialize(processConfig.dataDependencies, onInizialized);
+                                        </code>
+  </pre>
+                                        </figure></br>
+                                        <p>
+                                            Now Context is initialized with a reference to Status Dependencies...
+                                        </p></br>
+                                        <figure>
+                                            <pre>
+                                            <code class="language-javascript">
+function initializeContext() {
+if (FULL_LOG === true) { logger.write("[INFO] run -> loop -> initializeContext ->  Entering function."); }
+context = CONTEXT.newContext(bot, DEBUG_MODULE, BLOB_STORAGE, UTILITIES, STATUS_REPORT);
+context.initialize(statusDependencies, onInizialized);
+                                        </code>
+  </pre>
+                                        </figure></br>
+
+                                        <p>
+                                            Exchange API follows...
+                                        </p></br>
+                                        <figure>
+                                            <pre>
+                                            <code class="language-javascript">
+function initializeExchangeAPI() {
+if (FULL_LOG === true) { logger.write("[INFO] run -> loop -> initializeExchangeAPI ->  Entering function."); }
+exchangeAPI = EXCHANGE_API.newExchangeAPI(bot, DEBUG_MODULE, POLONIEX_CLIENT_MODULE);
+exchangeAPI.initialize(onInizialized);
+                                        </code>
+  </pre>
+                                        </figure></br>
+                                        <p>
+                                            Finally, Assitant is initialized with references to Context, Exchange API and Data Dependencies...
+                                        </p></br>
+                                        <figure>
+                                            <pre>
+                                            <code class="language-javascript">
+function initializeAssistant() {
+if (FULL_LOG === true) { logger.write("[INFO] run -> loop -> initializeAssistant ->  Entering function."); }
+assistant = ASSISTANT.newAssistant(bot, DEBUG_MODULE, UTILITIES);
+assistant.initialize(context, exchangeAPI, dataDependencies, onInizialized);
+                                        </code>
+  </pre>
+                                        </figure></br>
+                                        <p>
+                                            Thus, the whole object structure ends up in the _Assitant_ object, with the following arrangement:
+                                        </p></br>
+                                        <figure>
+                                            <pre>
+                                            <code class="language-markup">
+Assitant
+├── Context
+│	  └── Status Dependencies
+├── Exchange API
+└── Data Dependencies
+                                        </code>
+  </pre>
+                                        </figure></br>
+                                        <h4>Execute Algobots Processes</h4>
+
+                                        <p>
+                                            Once the object structure is constructed function _initializeUserBot()_ passes the Assistant object to the _UserBot.js_ module in the t-bot and function _startUserBot()_ executes it. **This makes the Assistant object the one and only direct interface of AACloud with t-bots.**
+                                        </p></br>
+
+                                        <h4>Save Context & Schedule Next Execution</h4>
+
+                                        <p>
+                                            Once the t-bot finishes its execution, function _saveContext()_ saves the context and function _loopControl(nextWaitTime)_ sets the wait time for the next execution according to configuration values.
+                                        </p>
+
+                                        <h3>How T-Bots Use the Assistant Object</h3>
+                                        </p></br>
+                                        <p>
+                                            The overall strategy when working with trading algobots can be summarized in the following bullet points:
+                                        </p></br>
+                                        <ul>
+                                            <li>
+                                                <p>
+                                                    Bots are executed every one minute.
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    Each time the bot runs, it first needs to understand the context of the current execution. T-Bots get the context info from the Assitant object. The Assistant keeps track of orders placed at the exchange, keeps track of balances, profit and every other variable related to the operations that the t-bot may have performed in previous runs. All of that information is available for the t-bot to consume every time it is executed. Bear in mind that each time the t-bot places or moves an order, it doesn't wait for any sort of confirmation of the result of the opreation. That means that when it runs the next time it needs to syncronize with the current state of affairs in the exchange, as the order may have filled or not, may have filled partially or may have failed for some unexpected reason.
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    After evaluating the context and syncronizing with the exchange, the t-bot embarks in the calculations required by its trading strategy. At this point in time, there are very few indicators offering processed information. As [explained earlier](../Algobots.md#indicator-algobots-aka-i-bots), we encourage you to respect the proposed incumbencies architectecture and put the Technical Analysis logic in **indicator algobots**. Almost all Technical Analysis indicators are calculated from trades and volume data. Their formulas are in the pubic domain and even code is readily available if you search around. You are free to use open source code within your bot's code.
+                                                </p>
+                                            </li></br>
+                                            <li>
+                                                <p>
+                                                    Once calculations are performed, the bot decides what to do, and uses the Assitant to place orders on the exchange.
+                                                </p>
+                                            </li></br>
+                                        </ul>
+                                        <p>
+                                            These are the functions the Assistant offers:
+                                        </p></br>
+                                        <figure>
+                                            <pre>
+                                            <code class="language-javascript">
+const MODULE_NAME = "Assistant";
+
+let thisObject = {
+dataDependencies: undefined,
+initialize: initialize,
+putPosition: putPosition,
+movePosition: movePosition,
+getPositions: getPositions,
+getBalance: getBalance,
+getAvailableBalance: getAvailableBalance,
+getInvestment: getInvestment,
+getProfits: getProfits,
+getMarketRate: getMarketRate,
+sendMessage: sendMessage
+};
+                                        </code>
+  </pre>
+                                        </figure></br>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="tab-pane fade" id="tab5">
+                                <div class="row">
+                                    <div class="col-sm-10 margin_top_small">
+
+                                        <h2>Exchange API Key</h2>
+
+                                        The AAPlatform places orders on exchanges through the use of the exchanges' APIs. You will need to create an API Key and configure your bot to use it.
+
+                                        <h3>Creating the API Key</h3>
+
+                                        This is how you create an API Key in Poloniex:
+
+                                        Go to the tools menu and select _API KEYS_...
+
+                                        ![Poloniex](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Poloniex-API-01.png)
+
+                                        If you have never used the API before, chances are it is disabled at the exchange. So before actually creating an API Key you will need to enable them...
+
+                                        ![Poloniex](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Poloniex-API-02.png)
+
+                                        You will need to follow the validation process involving checking your email and confirming your choice. Once that is taken care of, go back to the tools menu and click _API KEY_ again. You should now see a screen offering to create a new key...
+
+                                        ![Poloniex](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Poloniex-API-03.png)
+
+                                        Once you create your key, the system will present it as follows...
+
+                                        ![Poloniex](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Poloniex-API-04.png)
+
+                                        **Make sure you DO NOT enable withdrawals nor IP access restrictions**.
+
+                                        <h3>Creating an API Key File</h3>
+
+                                        Next, you will use the information in the API Key to a create a _.json_ file with the following structure using your own Key and Secret information:
+
+                                        ```
+                                        { "Key" : "6HS4YUEB-865UY9W4-KGHEHHJ-GH72ETG1", "Secret" : "1a3529851a05439asdasdw63426378ggd65701ac4a5d53c4859aa3511a8aa65acbd7e713bba755d0b1591ebe3a7618a71393ef4d3d11310628e1db"}
+                                        ```
+
+                                        Create a folder named _API-Keys_ at the same level of the platform's repository (out of the folder AACloud) and save the file using the following naming convention:
+
+                                        "**AA**" + **BotName** + "**.**" + **ExchangeName** + "**.json**"
+
+                                        e.g.: AAMariam.Poloniex.json
+
+                                        ```
+                                        .
+                                        ├── AACloud                             <h2>
+                                            You cloned this from git repository
+                                            └── API-Keys                            <h2>
+                                                Create this dir at same level as AACloud
+                                                └── AAYourAlgobot.Poloniex.json   <h2>
+                                                    Place your Poloniex API Key file here
+                                                    ```
+
+                                                    **NOTE: Make sure the folder and file doesn't accidentally end up in GitHub! Your API KEYs should be kept secret!**
+
+
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="tab-pane fade" id="tab6">
+                                <div class="row">
+                                    <div class="col-sm-10 margin_top_small">
+
+                                        <h2>Starting out Your Own T-Bot</h2>
+
+                                        <h3>Step 1: Using an Existing T-Bot as a Starting Point</h3>
+
+                                        Now is a good time to sit and think about your trading strategy. Do you have one?
+
+                                        If you do have a strategy you wish to automate, then we are going to offer you a trading algobot template to start from: it's called [Mariam]( https://github.com/AAMasters/AAMariam-Trading-Bot). As her [README]( https://github.com/AAMasters/AAMariam-Trading-Bot/blob/master/README.md) file goes, Mariam is ideal as a "starting point laying out the proper ways to interact with the AACloud". However, her actual trading strategy is quite unusable. Start with Mariam if you are bringing your own logic.
+
+                                        If you don't have a strategy or are not sure about starting out from scratch, we have a friend you might want to meet: this is [Artudito]( https://github.com/AAMasters/AAArtudito-Trading-Bot). Artudito is an accomplished trader. He uses linear regression channels to determine when to buy or sell. Check his [README]( https://github.com/AAMasters/AAArtudito-Trading-Bot/blob/master/README.md) file for more details.
+
+                                        Starting out with an accomplished trading algobot is all about making incremental improvements on how the algobot does what he does. You might want to introduce new complementary logic to make him smarter, or simply polish his decision-making by studying his actual performance and ironing out the flaws you may see when taking a closer look.
+
+                                        Now that we've cleared that up, it's time to move on and set you up with your template. For simplicity's sake we are going to describe how to proceed with Mariam, but the exact same explanation should work if you choose to clone Artudito instead.
+
+                                        <h4>A: Clone and Rename Algobot</h4>
+
+                                        We will use Mariam, a trading algobot within the AAMasters organization as a starting point for creating your own algobot.
+
+                                        But let's first remember the kind of folder structure you wish to develop. You have already cloned AACloud and placed it somewhere in your hard drive. Now its a good time to create a folder at the same level of AACloud with the name of your Algobot Team GitHub organization.
+
+                                        ```
+                                        .					<h2>
+                                            Top level directory located at your choice
+                                            ├── AACloud				<h2>
+                                                Already cloned from git repository
+                                                └── AAYourTeam				<h2>
+                                                    Directory named after your Algobot Team GitHub organization
+                                                    └── AAYourAlgobot-Trading-Bot	<h2>
+                                                        The location where you should clone Mariam
+                                                        <h2>
+                                                            only to rename the folder afterwards
+                                                            ```
+
+                                                            Clone [Mariam's repository](https://github.com/AAMasters/AAMariam-Trading-Bot) and –once in your local machine– rename the root folder with the name of your new algobot.
+
+                                                            ```
+                                                            $ git clone https://github.com/AAMasters/AAMariam-Trading-Bot _AAYourBotName-Trading-Bot_
+                                                            $ cd _AAYourAlgobotName-Trading-Bot_
+                                                            ```
+
+                                                            Make sure you follow the naming convention using the following string:
+
+                                                            "**AA**"+"**AlgobotName**"+"**-Indicator-Bot**" _or_ "**-Trading-Bot**"
+
+                                                            e.g.: _AAMariam-Trading-Bot_
+
+                                                            > NOTE: Make sure the algobot name is unique. That is, no other algobot by any other Algobot Team can have the same name. You can find the current list of algobots in the _[AAPlatform ecosystem.json file](https://github.com/AdvancedAlgos/AAPlatform/blob/master/ecosystem.json)_.
+
+                                                            <h4>B: Rename Solution</h4>
+
+                                                            Now rename the solution using the following syntax: "**AA**"+"**AlgobotName**"+"**-TypeOfAlgobot-**"+"**Bot**"+"**.sln**"
+
+                                                            e.g.: _AAMariam-Trading-Bot.sln_
+
+                                                            ```
+                                                            $ mv  AAMariam-Trading-Bot.sln _AAYourAlgobot-Trading-Bot.sln_
+                                                            ```
+
+                                                            <h4>C: Remove .git Folder</h4>
+
+                                                            Next, delete the hidden _.git_ folder to eliminate the relationship with the original GitHub repository.
+
+                                                            ```
+                                                            $ rm -rf .git
+                                                            ```
+
+                                                            <h4>D: Create New Repository</h4>
+
+                                                            Now you are going to use GitHub Desktop to turn the recently renamed folder back into a GitHub repository, this time with the name of your own bot. This is what you need to do:
+
+                                                            1. Go to GitHub Desktop, click _File > New Repository...
+
+                                                            ![GitHub Desktop](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/GitHub-Desktop-03.png)
+
+                                                            2. In the _Name_ field, type the exact same name you gave to the folder (better to copy and paste it). The name should look somewhat like _AAYourAlgobot-Trading-Bot_.
+
+                                                            3. In the _Description_ field, type a short description about the kind of strategy your t-bot will feature.
+
+                                                            4. In the _Local path_ field, choose the path to the folder containing the t-bot's folder (if you followed our recommendations that should be somewhat in the lines of _AAYourTeam_).
+
+                                                            5. Leave the rest of the fields in their default state and click _Create Repository_.
+
+                                                            ![GitHub Desktop](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/GitHub-Desktop-04.png)
+
+                                                            6. Now GitHub Desktop will show the newly created repository as the current repository and will offer a _Publish Repository_ button in the top / center of the app. Click the _Publish Repository_ button...
+
+                                                            ![GitHub Desktop](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/GitHub-Desktop-05.png)
+
+                                                            7. Uncheck _Keep this code private_, select your organization from the drop down menu and click _Publish repository_.
+
+                                                            This last step published your algobot's code, effectively creating a repository in your organization at github.com. You may go and check yourself if you wish.
+
+                                                            <h4>E: Request a Storage Container</h4>
+
+                                                            Bots store data in the cloud. For the time being, the process for setting up a storage container for your Algobot Team is manual. Please send us a request to set up a storage container over Telegram; include your Github Organization and algobot's name, please. When the request is processed, you will get a connection string file for AAMasters algobots. You need to place this file in a folder structure as follows:
+
+                                                            ```
+                                                            .                               # Top level directory located at your choice
+                                                            ├── AACloud                     # Your AACloud directory
+                                                            └── Connection-Strings          # You will create this dir structure at same level as AACloud
+                                                            └── Develop              	# Place connection string files here
+                                                            ├─ AAMasters.azure.storage.connstring
+                                                            └─ AAYourTeam.azure.storage.connstring
+                                                            ```
+
+                                                            The file we sent you is named _AAMasters.azure.storage.connstring_.
+
+                                                            Now you will create a connection string file for your own organization. Simply copy and paste the file in the same location and rename the copy with your algobot's name, respecting the syntax:
+
+                                                            "**AA**" + **YourTeam** + "**.azure.storage**" + **.connstring**"
+
+                                                            e.g.: AAYourTeam.azure.storage.connstring
+
+                                                            <h4>
+                                                                F: Configure Your Algobot
+
+                                                                Open _this.bot.config.json_, a file within your algobot's repository. Let's review and modify the config file segment by segment:
+
+                                                                ```
+                                                                {
+                                                                "displayName": "Mariam",
+                                                                "codeName": "AAMariam",
+                                                                "type": "Trading",
+                                                                "version": {
+                                                                "major": 1,
+                                                                "minor": 0,
+                                                                "patch": 0
+                                                                },
+                                                                ```
+                                                                You need to update that segment of the config with the following things in mind:
+
+                                                                - *displayName* (your algobot's name without the AA prefix; e.g. Mariam)
+                                                                - *codeName* (name with the AA prefix; e.g. AAMariam)
+                                                                - *version* (start with major:0, minor:1, patch:0 – increase minor until you release your algobot; once you do, change to major:1, minor: 0)
+
+                                                                ```
+                                                                "devTeam": "AAMasters",
+                                                                "profilePicture": "Mariam.png",
+                                                                "dataSetVersion": "dataSet.V1",
+                                                                ```
+
+                                                                - *devTeam* (your organization's name including the AA prefix)
+                                                                - *profilePicture* (your algobot's picture - change Mariam's picture with one appropriate for your t-bot)
+                                                                - *dataSetVersion* (different versions of algobots may use different versions of datasets)
+
+                                                                ```
+                                                                "processes": [
+                                                                {
+                                                                "name": "Trading-Process",
+                                                                "description": "Simple trading strategy to be used as a template.",
+                                                                "startMode": {
+                                                                "live": {
+                                                                "run": "true",
+                                                                "resumeExecution": "false"
+                                                                },
+                                                                "backtest": {
+                                                                "run": "false",
+                                                                "beginDatetime": "2018-04-12T16:00:00.000Z",
+                                                                "endDatetime": "2018-04-12T16:15:00.000Z",
+                                                                "waitTime": 1000
+                                                                },
+                                                                "competition": {
+                                                                "run": "false",
+                                                                "beginDatetime": "2018-04-27T16:00:00.000Z",
+                                                                "endDatetime": "2018-04-28T16:05:00.000Z",
+                                                                "resumeExecution": "false"
+                                                                }
+                                                                },
+                                                                ```
+
+                                                                - *description* (briefly describe your algobot's strategy)
+                                                                - *startMode* There are three ways in which your t-bot can be run and only one of them should be set to _true_:
+                                                                - _live_ means real live trading,
+                                                                - _backtest_ allows testing your strategy against historical data,
+                                                                - _competition_ means real trading within a competition
+
+                                                                ```
+                                                                "normalWaitTime": 60000,
+                                                                "retryWaitTime": 10000,
+                                                                "sleepWaitTime": 3600000,
+                                                                "comaWaitTime": 86400000,
+                                                                ```
+                                                                These parameters affect the frequency with which the algobot is run and wait periods in case of certain events. Leave them at the default value for the time being.
+
+                                                                ```
+                                                                "statusDependencies": [
+                                                                {
+                                                                "devTeam": "AAMasters",
+                                                                "bot": "AAMariam",
+                                                                "botVersion": {
+                                                                "major": 1,
+                                                                "minor": 0
+                                                                },
+                                                                "process": "Trading-Process",
+                                                                "dataSetVersion": "dataSet.V1"
+                                                                }
+                                                                ],
+                                                                ```
+
+                                                                This is a declaration of Status Dependencies, meaning the status reports the t-bot consumes. If your t-bot needs status reports from other algobots, this is where you need to configure those dependencies. In the meantime, replace the _devTeam_ with your own team and _bot_ with the name of your bot. Make sure you use the same values for _major_ and _minor_ you used before.
+
+                                                                ```
+                                                                "dataDependencies": [
+                                                                {
+                                                                "devTeam": "AAMasters",
+                                                                "bot": "AAOlivia",
+                                                                "botVersion": {
+                                                                "major": 1,
+                                                                "minor": 0
+                                                                },
+                                                                "product": "Candles",
+                                                                "dataSet": "Multi-Period-Market",
+                                                                "dataSetVersion": "dataSet.V1"
+                                                                },
+                                                                {
+                                                                "devTeam": "AAMasters",
+                                                                "bot": "AAOlivia",
+                                                                "botVersion": {
+                                                                "major": 1,
+                                                                "minor": 0
+                                                                },
+                                                                "product": "Candles",
+                                                                "dataSet": "Multi-Period-Daily",
+                                                                "dataSetVersion": "dataSet.V1"
+                                                                },
+                                                                {
+                                                                "devTeam": "AAMasters",
+                                                                "bot": "AABruce",
+                                                                "botVersion": {
+                                                                "major": 1,
+                                                                "minor": 0
+                                                                },
+                                                                "product": "Candles",
+                                                                "dataSet": "One-Min",
+                                                                "dataSetVersion": "dataSet.V1"
+                                                                }
+                                                                ]
+                                                                }
+                                                                ],
+                                                                ```
+
+                                                                These are declarations of Data Dependencies, that is, data from other algobots that Mariam consumes. If your algobot consumes data from other algobots, this is where you need to declare those dependencies.
+
+                                                                ```
+                                                                "products": [
+                                                                {
+                                                                "codeName": "Live Trading History",
+                                                                "displayName": "Live Trading History",
+                                                                "shortDisplayName": "Live",
+                                                                "description": "General information about Mariam live trading history.",
+                                                                "storageAccount": "aamariam",
+                                                                "dataSets": [
+                                                                {
+                                                                "codeName": "Backtest History",
+                                                                "type": "File Sequence",
+                                                                "validPeriods": [ "24-hs", "12-hs", "08-hs", "06-hs", "04-hs", "03-hs", "02-hs", "01-hs", "45-min", "40-min", "30-min", "20-min", "15-min", "10-min", "05-min", "04-min", "03-min", "02-min", "01-min" ],
+                                                                "filePath": "@DevTeam/@Bot.1.0/AACloud.1.1/Poloniex/dataSet.V1/Output/Trading-Process",
+                                                                "fileName": "Execution.History.Live.@Sequence.json"
+                                                                }
+                                                                ],
+                                                                "exchangeList": [
+                                                                {
+                                                                "name": "Poloniex"
+                                                                }
+                                                                ],
+                                                                "plotter": {
+                                                                "devTeam": "AAMasters",
+                                                                "codeName": "PlottersTrading",
+                                                                "moduleName": "History"
+                                                                }
+                                                                },
+                                                                ```
+
+                                                                Bots output certain products. AACloud keeps track of algobots activities in different running modes and makes it publicly available, for transparency purposes.
+
+                                                                The config segment above shows the configuration of the first and most important product all trading algobots output: the Live Trading History.
+
+                                                                ```
+                                                                {
+                                                                "codeName": "Backtest Trading History",
+                                                                "displayName": "Backtest Trading History",
+                                                                "shortDisplayName": "Backtest",
+                                                                "description": "General information about Mariam backtest trading history.",
+                                                                "storageAccount": "aamariam",
+                                                                "dataSets": [
+                                                                {
+                                                                "codeName": "Backtest History",
+                                                                "type": "File Sequence",
+                                                                "validPeriods": [ "24-hs", "12-hs", "08-hs", "06-hs", "04-hs", "03-hs", "02-hs", "01-hs", "45-min", "40-min", "30-min", "20-min", "15-min", "10-min", "05-min", "04-min", "03-min", "02-min", "01-min" ],
+                                                                "filePath": "@DevTeam/@Bot.1.0/AACloud.1.1/Poloniex/dataSet.V1/Output/Trading-Process",
+                                                                "fileName": "Execution.History.Backtest.@Sequence.json"
+                                                                }
+                                                                ],
+                                                                "exchangeList": [
+                                                                {
+                                                                "name": "Poloniex"
+                                                                }
+                                                                ],
+                                                                "plotter": {
+                                                                "devTeam": "AAMasters",
+                                                                "codeName": "PlottersTrading",
+                                                                "moduleName": "History"
+                                                                }
+                                                                },
+
+                                                                ```
+                                                                The above segment shows the configuration of the Backtest History product.
+
+                                                                ```
+                                                                {
+                                                                "codeName": "Competition Trading History",
+                                                                "displayName": "Competition Trading History",
+                                                                "shortDisplayName": "Competition",
+                                                                "description": "General information about Mariam competition trading history.",
+                                                                "storageAccount": "aamariam",
+                                                                "dataSets": [
+                                                                {
+                                                                "codeName": "Backtest History",
+                                                                "type": "File Sequence",
+                                                                "validPeriods": [ "24-hs", "12-hs", "08-hs", "06-hs", "04-hs", "03-hs", "02-hs", "01-hs", "45-min", "40-min", "30-min", "20-min", "15-min", "10-min", "05-min", "04-min", "03-min", "02-min", "01-min" ],
+                                                                "filePath": "@DevTeam/@Bot.1.0/AACloud.1.1/Poloniex/dataSet.V1/Output/Trading-Process",
+                                                                "fileName": "Execution.History.Competition.@Sequence.json"
+                                                                }
+                                                                ],
+                                                                "exchangeList": [
+                                                                {
+                                                                "name": "Poloniex"
+                                                                }
+                                                                ],
+                                                                "plotter": {
+                                                                "devTeam": "AAMasters",
+                                                                "codeName": "PlottersTrading",
+                                                                "moduleName": "History"
+                                                                }
+                                                                }
+                                                                ]
+                                                                }
+                                                                ```
+
+                                                                Finally, the last product configured is the Competition Trading History.
+
+                                                                <h3>Step 2: Configure the AACloud</h3>
+
+                                                                In the AACloud folder, open _this.config.json_, make the changes as explained below and save.
+
+                                                                ```
+                                                                {
+                                                                "codeName": "AACloud",
+                                                                "version": {
+                                                                "major": 1,
+                                                                "minor": 1,
+                                                                "patch": 0
+                                                                },
+                                                                "executionList": [
+                                                                {
+                                                                "enabled": "false",
+                                                                "botPath": "../Bots/AAMasters/AAMariam-Trading-Bot",	<h2>
+                                                                    Enter the path to your t-bot's project folder
+                                                                    "process": "Trading-Process"				<h2>
+                                                                        up to the last folder only.
+                                                                        },
+                                                                        {								<h2>
+                                                                            AACloud is prepared to run multiple algobots
+                                                                            "enabled": "false",					<h2>
+                                                                                each with it's own processes.
+                                                                                "botPath": "../Bots/AAMasters/AAOlivia-Indicator-Bot",	#
+                                                                                "process": "Multi-Period-Market"				<h2>
+                                                                                    When you clone AACloud
+                                                                                    },								<h2>
+                                                                                        you may find different algobots
+                                                                                        {								<h2>
+                                                                                            showing up in the configuration file,
+                                                                                            "enabled": "false",					<h2>
+                                                                                                just like the ones here.
+                                                                                                "botPath": "../Bots/AAMasters/AACharly-Extraction-Bot",	#
+                                                                                                "process": "Poloniex-Hole-Fixing"				<h2>
+                                                                                                    Delete the entries you are not using,
+                                                                                                    },								<h2>
+                                                                                                        making sure you delete the comma
+                                                                                                        {								<h2>
+                                                                                                            after your algobot.
+                                                                                                            "enabled": "true",
+                                                                                                            "botPath": "../Bots/AAMasters/AABruce-Indicator-Bot",
+                                                                                                            "process": "One-Min-Daily-Candles-Volumes"
+                                                                                                            }
+                                                                                                            ],
+                                                                                                            "stopGracefully": "true",		<h2>
+                                                                                                                'false' for continuous run, 'true' for one run only.
+                                                                                                                "storageConnStringFolder": "Develop",	<h2>
+                                                                                                                    Make sure the value is set to 'Develop'
+                                                                                                                    "maxLogLoops": 10			<h2>
+                                                                                                                        The number of loops you wish to log.
+                                                                                                                        "marketRateProvider": {
+                                                                                                                        "devTeam": "AAMasters",
+                                                                                                                        "bot": "AABruce",
+                                                                                                                        "botVersion": {
+                                                                                                                        "major": 1,
+                                                                                                                        "minor": 0
+                                                                                                                        },
+                                                                                                                        "product": "Candles",
+                                                                                                                        "dataSet": "One-Min",
+                                                                                                                        "dataSetVersion": "dataSet.V1"
+                                                                                                                        }
+                                                                                                                        }
+                                                                                                                        ```
+
+                                                                                                                        <h4>Path</h4>
+
+                                                                                                                        Change the path to the proper one pointing to your algobot in your local machine. Bear in mind the path is relative to where the _AACloud.sln_ is located. Do not include the actual _.sln_ file in the path; only the containing folder is expected.
+
+                                                                                                                        Make sure you delete the entries corresponding to bots you are not running, checking that the _json_ file remains valid (you need to delete the comma after your algobot's declaration).
+
+                                                                                                                        <h4>Stop Gracefully</h4>
+
+                                                                                                                        When you run a trading algobot in your local environment you can configure the AACloud to run it either continuously or only once. This is to avoid the consequences of stopping a trading algobot forcefully, which may cause the t-bot to loose sync with the exchange (open positions may not be taken into account in subsequent runs).
+
+                                                                                                                        This is where the _stopGracefully_ parameter comes into play. When the value is _false_ the platform will run the t-bot continuously. When the value is _true_ the platform runs the t-bot once and stops it afterwards.
+
+                                                                                                                        If you ran the t-bot with _"stopGracefully": "false"_ and need to stop the execution, then simply go back to the config, change the parameter to _true_, save the file and wait. Upon the next run, the algobot will be stopped.
+
+                                                                                                                        <h4>Configure Which Process to Run</h4>
+
+                                                                                                                        This step is required only if you are executing from within the VS IDE.
+
+                                                                                                                        You need to tell the platform which process to run. Open _AACloud.sln_ in Visual Studio and click on the AACloud node and make sure the value for the Script arguments field is "_Trading-Process_":
+
+                                                                                                                        ![VS](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Visual-Studio-02-TB.png)
+
+                                                                                                                        Also, make sure to delete the value of the Working Directory field.
+
+                                                                                                                        <h3>Step 3: Test Run</h3>
+
+                                                                                                                        <h4>Execute</h4>
+
+                                                                                                                        Run the IDE. Once running, the process should call the command prompt and start showing some activity:
+
+                                                                                                                        ![VS](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Command-Prompt-01.png)
+
+                                                                                                                        <h3>Step 4: What to Expect After Execution</h3>
+
+                                                                                                                        Once you run the AACloud and the platform calls the t-bot and process you just configured, you will not _see_ much more than the command prompt popping up, as described earlier. Do not expect any graphics, browser windows or candlestick charts to pop up.
+
+                                                                                                                        The visualization of algobots activity over a candlestick chart happens at AAWeb, discussed in the [Watching Algobots in Action](../Algobots-in-action.md) section. We will review that later on but feel free to take a peek if you wish.
+
+                                                                                                                        In the meantime, what you can review the dataset generated by the t-bot in the form of _.json_ files stored in the cloud, the logs stored locally and the orders that may have been placed in your account at the exchange.
+
+                                                                                                                        <h4>Output</h4>
+
+                                                                                                                        You should be able to browse the output of the t-bot using the Azure Storage Explorer with the connection string we provided for your algobot earlier.
+
+                                                                                                                        T-bots have two main outputs: the execution context and the execution history; the former can be of three different types depending on what mode the t-bot is running (backtest, live and competition).
+
+                                                                                                                        <h5>Execution Context</h5>
+
+                                                                                                                        It stores one blob per execution, thus one blob per minute, with information regarding the t-bot's business, including values of each variable such as balances, profit, positions and so on.
+
+                                                                                                                        <h5>Execution History</h5>
+
+                                                                                                                        Its a registry that keeps track of each execution, and is stored in a sequence of blobs. It is mostly used to plot t-bot's activity in AAWeb's timeline.
+
+                                                                                                                        <h4>Logs</h4>
+
+                                                                                                                        Upon execution, the platform creates a folder named _Logs_ right outside the platform's repository. Thus, you will find the Logs folder in the same directory as the AACloud folder. Each algobot stores logs in its own sub-folders.
+
+                                                                                                                        <h4>Debugging</h4>
+
+                                                                                                                        By now you should be able to run the t-bot in your local environment and use typical debugging tools and procedures should anything go wrong.
+
+                                                                                                                        In case you were not able to successfully run the t-bot, the logs files are the first place to go.
+
+                                                                                                                        <h4>Quick Logs Overview</h4>
+
+                                                                                                                        Logs are segregated per each execution so that it is easy to locate log files corresponding to different executions. The separation is accomplished by the folder structure itself.
+
+                                                                                                                        ```
+                                                                                                                        .
+                                                                                                                        ├── AACloud
+                                                                                                                        ├── Logs > [year] > [month] > [day] > [hour] > [minute ]	<h2>
+                                                                                                                            Folder structure showing execution datetime
+
+                                                                                                                            └── _Your_Team_ 				<h2>
+                                                                                                                                Directory named after your team
+                                                                                                                                └── Trading 				<h2>
+                                                                                                                                    Named after type of algobot (e.g. Trading, Indicator, etc)
+                                                                                                                                    └── _YourBot_ver_    		<h2>
+                                                                                                                                        Named after your algobot and Version
+                                                                                                                                        └── _Process_    	<h2>
+                                                                                                                                            Named after the specific process
+                                                                                                                                            └── ...logs 	<h2>
+                                                                                                                                                See below for details
+                                                                                                                                                ```
+                                                                                                                                                **Log name format:** _Date(Yr-Mo-Day-Hr-Min)–RandId–SourceFile.log_
+                                                                                                                                                \* _SourceFile_ is the name of the AACloud file to check for associated error or output.
+
+                                                                                                                                                **Selected Log Guide:\***
+                                                                                                                                                1.  _~.This.Bot.log:_ Errors and outputs specific to your algobot in its repository. All other logs point to CloudPlatform files.
+                                                                                                                                                2.  _~.Exchange Api.log:_ Output from exchange API
+                                                                                                                                                3.  _~.Assistant.log:_ Trading actions between t-bot and exchange
+                                                                                                                                                4.  _~.Datasource.log:_ Data accessed from storage by your algbots
+                                                                                                                                                5.  _~File Storage.\_Bot\_.log:_ Data access from storage by listed algobot
+                                                                                                                                                6. _~.trading algobot Main Loop.log:_ Best log to narrow down general cloud platform issues
+
+                                                                                                                                                \*_By closest relationship to your algobot. Read source code for more detailed comments and to view other files associated with the cloud platform_
+
+                                                                                                                                                If you wish to debug the platform and your algobot, open the _IntervalExecutor.js_ module and place a breakpoint in the following line:
+
+                                                                                                                                                ```
+                                                                                                                                                fileProcessingInterval.start(loopControl);
+                                                                                                                                                ```
+
+                                                                                                                                                Now, run the IDE. When execution halts, press F11 to step into the module _User.Bot.js_ that will be loaded from the configured algobot process folder. Once there you can set more breakpoints or debug the module step by step.
+
+                                                                                                                                                <h3>Step 5: Start Coding</h3>
+
+                                                                                                                                                Once you have managed to run the t-bot successfully, you are good to go. We've found the following workflow is quite practical:
+
+                                                                                                                                                * The main business logic/solution to edit is in  (_Your-Bot-Repo > Trading-Process > User.Bot.js_). Other types of algobots (e.g. indicator or extraction) have different process folder types.
+
+                                                                                                                                                * Your t-bot will not fully successfully run until there is a balance in your Poloniex account and your t-bot can make an actual trade. The t-bot status report will also not be written to your storage account until then. You can use the simulation mode described above (_exchangeSimulationMode_ in the AACloud config) for a temporary workaround until you fund your account.
+
+                                                                                                                                                * Code directly in the t-bot's solution until the code is fully implemented.
+
+                                                                                                                                                * Close the t-bot's module and go to the cloud platform solution to debug (as explained above). While debugging, the t-bot's files will pop up in separate tabs, so that you can edit the code in the process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                <h2>Launching Your Algobot</h2>
+
+                                                                                                                                                Now that your algobot is ready and you are happy with its behavior, it is time to release it under the AGPL license, register your Algobot Team and algobots in the AAPlatform and eventually run it in the cloud. Running in the cloud is not that different from running the algobot locally.
+
+                                                                                                                                                <h4>
+                                                                                                                                                    Release Under AGPL License
+
+                                                                                                                                                    If your algobot is based on any of the AAMasters t-bots, chances are you already have a LICENSE file in your repository. If you do and you can see the _AGPL-3.0_ notice on the top right corner of your repository (like in the below image) you are free to [skip](#configure-algobot-team-and-algobots-in-the-web-platform) the next few steps.
+
+                                                                                                                                                    ![AGPL License](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Bot-License-05.png)
+
+                                                                                                                                                    If you don't have the license file or you don't see the _AGPL-3.0_ notice, then follow this quick process:
+
+                                                                                                                                                    <h5>Step 1</h5>
+
+                                                                                                                                                    Go the algobot's repository in GitHub and click the _Create new file_ button:
+
+                                                                                                                                                    ![AGPL License](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Bot-License-01.png)
+
+                                                                                                                                                    <h5>Step 2</h5>
+
+                                                                                                                                                    Enter the word _LICENSE_ (in all CAPS!) in the text field and click the button _Choose a license template_:
+
+                                                                                                                                                    ![AGPL License](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Bot-License-02.png)
+
+                                                                                                                                                    <h5>Step 3</h5>
+
+                                                                                                                                                    Scroll the page and cick the _GNU Affero General Public License v3.0_ link:
+
+                                                                                                                                                    ![AGPL License](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Bot-License-03.png)
+
+                                                                                                                                                    <h5>Step 4</h5>
+
+                                                                                                                                                    Click the _Review and submit_ button and follow the rest of the usual steps to commit the changes:
+
+                                                                                                                                                    ![AGPL License](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Bot-License-04.png)
+
+                                                                                                                                                    > NOTE: Make sure you don't modify the license text in any way.
+
+                                                                                                                                                    <h5>Step 5</h5>
+
+                                                                                                                                                    Go back to your repository root and make sure the AGPL icon has been added to the top right corner of the page, next to the _contributors_ counter:
+
+                                                                                                                                                    ![AGPL License](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Bot-License-05.png)
+
+                                                                                                                                                    <h4>Configure Algobot Team and Algobots in the Web Platform</h4>
+
+                                                                                                                                                    Fork and clone the [AAPlatform](https://github.com/AdvancedAlgos/AAPlatform) repository and open _ecosystem.json_. You will need to locate the following piece of code:
+
+                                                                                                                                                    ```
+                                                                                                                                                    {
+                                                                                                                                                    "codeName": "AASpartans",
+                                                                                                                                                    "displayName": "AA Spartans",
+                                                                                                                                                    "bots": [
+                                                                                                                                                    {
+                                                                                                                                                    "repo": "AADumbO-Trading-Bot",
+                                                                                                                                                    "configFile": "this.bot.config.json"
+                                                                                                                                                    }
+                                                                                                                                                    ],
+                                                                                                                                                    "plotters": []
+                                                                                                                                                    }
+                                                                                                                                                    ```
+
+                                                                                                                                                    Copy the piece of code and replicate it immediately below the closing key, **adding a comma in between the two segments**:
+
+                                                                                                                                                    ```
+                                                                                                                                                    {
+                                                                                                                                                    "codeName": "AASpartans",
+                                                                                                                                                    "displayName": "AA Spartans",
+                                                                                                                                                    "bots": [
+                                                                                                                                                    {
+                                                                                                                                                    "repo": "AADumbO-Trading-Bot",
+                                                                                                                                                    "configFile": "this.bot.config.json"
+                                                                                                                                                    }
+                                                                                                                                                    ],
+                                                                                                                                                    "plotters": []
+                                                                                                                                                    }, <h2>
+                                                                                                                                                        <– ADD THIS COMMA AND CHANGE YOUR INFO BELOW
+                                                                                                                                                           {
+                                                                                                                                                           "codeName" : "AASpartans" ,
+                                                                                                                                                           "displayName" : "AA Spartans" ,
+                                                                                                                                                           "bots" : [
+                                                                                                                                                           {
+                                                                                                                                                           "repo" : "AADumbO-Trading-Bot" ,
+                                                                                                                                                           "configFile" : "this.bot.config.json"
+                                                                                                                                                           }
+                                                                                                                                                           ],
+                                                                                                                                                           "plotters" : []
+                                                                                                                                                           }
+                                                                                                                                                           ```
+                                                                                                                                                           Modify the pasted code to incorporate the details of your own GitHub organization and your own algobots:
+                                                                                                                                                           ```
+                                                                                                                                                           {
+                                                                                                                                                           "codeName" : "AASpartans" ,
+                                                                                                                                                           "displayName" : "AA Spartans" ,
+                                                                                                                                                           "bots" : [
+                                                                                                                                                           {
+                                                                                                                                                           "repo" : "AADumbO-Trading-Bot" ,
+                                                                                                                                                           "configFile" : "this.bot.config.json"
+                                                                                                                                                           }
+                                                                                                                                                           ],
+                                                                                                                                                           "plotters" : []
+                                                                                                                                                           },
+                                                                                                                                                           {
+                                                                                                                                                           "codeName" : "AAYourOrganization" ,
+                                                                                                                                                           "displayName" : "AA Your Organization" ,
+                                                                                                                                                           "bots" : [
+                                                                                                                                                           {
+                                                                                                                                                           "repo" : "AAYourBot-Trading-Bot" ,
+                                                                                                                                                           "configFile" : "this.bot.config.json"
+                                                                                                                                                           }
+                                                                                                                                                           ],
+                                                                                                                                                           "plotters" : []
+                                                                                                                                                           }
+                                                                                                                                                           ```
+            <h5>Git CLI commands for above:
+            ```
+            $ git clone https://github.com/_Your_Fork_/AAPlatform
+$ cd AAPlatform
+<h2>Make changes as explained above (e.g. vi ecosystem.json)
+$ git add .
+$ git commit -m 'Add MyTeam to AAPlatform'
+$ git push origin master
+<h2>In your browser, go to https://github.com/_Your_Fork_/AAPlatform/compare. Make sure Base fork is AdvancedAlgos/AAPlatform and head fork is yours. You may have to click on 'compare across forks.'
+Click 'Create Pull Request' button.
+```
+Once you are finished, commit the changes and submit a pull request. Someone in the AdvancedAlgos Organization will analyze your request and pull it into the main branch's code if everything looks right.
+
+Once that is done, you will be able to see your t-bot's activity at http://aawebdevelop.azurewebsites.net/
+
+<h4>Competition Configuration</h4>
+
+Once your algobot is finished and tested, you need to register it in the competition's configuration file. Fork and open [_this.competition.config.json_](https://github.com/AAArena/First-Closed-Doors-Competition/blob/master/this.competition.config.json). Locate the following segment:
+
+```
+      {
+        "devTeam": "AAMasters",
+        "bot": "AAMariam",
+        "release": "1.0.0"
+      }
+
+```
+
+Copy the piece of code and replicate it immediately below the closing key, **adding a comma in between the two segments**:
+
+
+```
+      {
+        "devTeam": "AAMasters",
+        "bot": "AAMariam",
+        "release": "1.0.0"
+      },  <h2><– ADD THIS COMMA AND CHANGE YOUR INFO BELOW
+               {
+               "devTeam" : "AAYourOrganization" ,
+               "bot" : "AAYourBot" ,
+               "release" : "1.0.0"
+               }
+               ```
+               Modify the pasted code to incorporate the details of your own GitHub organization and your own t-bot. Create a pull request and wait for someone at our end to review it.
+
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="tab-pane fade" id="tab6">
+                                <div class="row">
+                                    <div class="col-sm-10 margin_top_small">
+
+                                        <h2>Watching Algobots in Action</h2>
+
+                                        Now that you have a working version of your t-bot and have set it to perform some back testing or live trades, you can use the AAWeb app to visualize your algobot's actions on a candlestick chart. Being able to visually review your t-bot's trades is an essential part of the optimization process as it may help you fine-tune your t-bot's decision-making.
+
+                                        The AAWeb app is available both in the [development](http://aawebdevelop.azurewebsites.net/) and [production](http://aawebproduction.azurewebsites.net/) environments.
+
+                                        > **Known Issue**: At this point in time, AAWeb is being tested in Chrome only. While it should load on other browsers, some functions may not work as expected.
+
+                                        <h3>AAWeb Overview</h3>
+
+                                        AAWeb is an HTML canvas featuring three overlaid _visual spaces_ working simultaneously:
+
+                                        * **Charts Timeline**: It is a timeline in which algobots' products are displayed in a graphical representation created by plotters.
+
+                                        * **Floating Notifications**: It is a layer of information displayed on top the timeline, typically containing t-bots' related information such as t-bots' runtime position and messages.
+
+                                        * **Control & Information Panels**: There are two types of panels. One set of panels is built in the AAWeb and show certain control elements to dictate what exactly is shown on the timeline (time control features and a list of algobots products, for instance). A second type of panels is created by plotters to display additional information for certain products.
+
+                                        ![AAWeb Overview](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/AAWeb-01.png)
+
+                                        **References**:
+
+                                        _Charts Timeline_:
+
+                                        1. This is the Charts Timeline. Notice the background watermark indicating this is the USDT-BTC market.
+
+                                        2. The right margin features the Price Scale, in this case denominated in USDT.
+
+                                        3. The left margin features a Percent Scale that is used in Algobots Competitions to indicate ROI.
+
+                                        4. This is the candlestick chart visually showing Olivia's products, generated by [Plotters-Candles-Volumes](https://github.com/AAMasters/Plotters-Candles-Volumes).
+
+                                        _Floating Notifications_:
+
+                                        5. This is a message left by a t-bot, commenting on the nature of the operation being performed. The message is linked to a specific point in time.
+
+                                        6. This is an icon indicating the last execution of a certain t-bot.
+
+                                        _Control & Information Panels_:
+
+                                        7. This is the Algobots Products Panel featuring products of algobots registered on the [AAPlatform ecosystem.json]( https://github.com/AdvancedAlgos/AAPlatform/blob/master/ecosystem.json) configuration file.
+
+                                        8. This is the Time Control Panel, featuring controls for navigating the candles in either direction.
+
+                                        9. This is the Current Candle Panel providing additional information about the candle filled in yellow in the candlestick chart. This panel is too generated by the [Plotters-Candles-Volumes](https://github.com/AAMasters/Plotters-Candles-Volumes) used by Olivia to help visualize her products.
+
+                                        10. This is the Current Volume Panel, which works pretty much like the Current Candle Panel.
+
+                                        <h3>Navigating Through the Charts Timeline</h3>
+
+                                        With your mouse:
+
+                                        * Zoom in and out by turning the wheel forwards and blackguards respectively. Notice how the time scale is automatically adjusted for different levels of zoom. The timescale is represented by the actual candles and the time value of each candle is indicated in the Time Control Panel.
+
+                                        * Click and drag to pan across the timeline.
+
+                                        <img align="right" src="https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/AAWeb-small-time-control-panel.png">
+
+                                        By default, the timeline is paused. The buttons in the Time Control Panel allow you to walk through the timeline in different ways:
+
+                                        * The buttons immediately on either side of the pause button scroll the timeline horizontally in increments of one candlestick, either left or rightwards.
+
+                                        * The play buttons play the timeline forwards or backwards continuously.
+
+                                        <img align="right" src="https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/AAWeb-small-algobots-products-panels-short.png">
+
+                                        * The remaining buttons fast forwards and backwards respectively.
+
+                                        * The text displayed above the control buttons indicate datetime and timescale of the current candle.
+
+                                        <h3>Algobots Products Panel</h3>
+
+                                        Use the Algobots Products Panel to turn ON and OFF layers –including candlesticks, volumes, indicators and studies– by clicking on the radio buttons on the right. A green light means the layer is showing in the charts. A yellow light means the layer is being calculated and made available to dependent layers. A red light means the layer is not calculated, thus not showing.
+
+                                        To scroll the panel simply place your mouse pointer on top of it and turn the scroll wheel.
+
+                                        <h3>T-Bots in Action</h3>
+
+                                        <img align="right" src="https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/AAWeb-small-sell-order.png">
+
+                                        When either of the trading products is _on_ in the Algobots Products Panel, the [Plotters-Trading]( https://github.com/AAMasters/Plotters-Trading) associated with t-bots renders a number of visual clues in the timeline to indicate various t-bot actions. Notice the small triangles two candles after the current candle in solid yellow:
+
+                                        * A triangle pointing downwards represents a _sell order_.
+
+                                        * When the triangle is transparent with a red outline, it represents the moment in time and price point in which the order was placed.
+
+                                        * When the triangle is solid red, it represents the moment in time and price point in which the order was filled.
+
+                                        * Similarly, a triangle pointing upwards with a green outline means a _buy order_ was placed and the solid green triangle indicates that the order was filled.
+
+                                        > Notice that outlined and solid triangles may overlap if the zoom level does not allow rendering each triangle in separate candles. In that case, it means that the order was placed and filled during the period of time represented by the candle.
+
+                                        <h3>Action in a Competition Setting</h3>
+
+                                        Competition related events are –too– rendered over the timeline. A thin red vertical line marks the start of the competition and a checkered vertical banner marks the end of the competition.
+
+                                        ![ Action in a Competition Setting](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/AAWeb-02-competition.png)
+
+                                        T-Bots keep showing their trades on the candlestick charts, as usual. In addition, a new area of the timeline gains relevance: the intersection of the red vertical line with the 0% horizontal mark of the ROI scale in the left margin. This is exactly where the competition starts.
+
+                                        Trading algobots start out the competition at the 0% mark and their ROI is tracked with every single execution (every one minute) and rendered in the timeline accordingly.
+
+                                        In other words, the competition can be followed in real time simply by watching the timeline.
+
+                                        > **Note**: Bear in mind that the information plotted in the timeline is refreshed every one minute.
+
+
+                                        <h4>
+                                            Support
+
+                                            [Join the Advanced Algos Telegram Channel](https://t.me/advancedalgos)
+
+                                            <h4>
+                                                Feedback
+
+                                                We hope your participation is fun and educational and we'd love to make it better. Please submit any issues you experience during the competition in the [issues section](https://github.com/AAArena/First-Closed-Doors-Competition/issues) of this repository. Please also submit **any** suggestions or other feedback you might have to enhance future experiences via email to feedback at advancedalgos dot org.
+
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="tab-pane fade" id="tab6">
+                                <div class="row">
+                                    <div class="col-sm-10 margin_top_small">
+
+                                        <h2>Basic Definitions</h2>
+                                        <h3>Infrastructure</h3>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="tab-pane fade" id="tab6">
+                                <div class="row">
+                                    <div class="col-sm-10 margin_top_small">
+
+                                        <h2>Basic Definitions</h2>
+                                        <h3>Infrastructure</h3>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--#include file="includes/footer.shtml" -->
+    <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>
+

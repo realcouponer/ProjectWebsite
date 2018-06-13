@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
     <link rel="stylesheet" href="css/shortcodes.css">
+    <link rel="stylesheet" href="css/prism.css">
     <link rel="stylesheet" id="theme-skin-css" href="css/general.css">
     <style id="theme-skin-inline-css" type="text/css">
             footer .logo img {
