@@ -3,7 +3,7 @@ $(function() {
         e.preventDefault();
         $.ajax({
             type: "POST",
-            url: "http://aa-sendgrid-signup.azurewebsites.net/api/signup",
+            url: "http://aa-sendgrid-signup.azurewebsites.net/api/emailverify",
             data: { "email": $("#signup_email").val() },
             success: function(){
               $('#email-signup').trigger("reset");
