@@ -476,7 +476,7 @@
                                         <h4>Set Up & Initialize Objects</h4>
                                         
                                         <p>
-                                            It all starts with _function loop()_ defining the modules that will become available to the rest of the infrastructure and to algobots themselves:
+                                            It all starts with <i>function loop()</i> defining the modules that will become available to the rest of the infrastructure and to algobots themselves:
                                         </p></br>
                                         <figure>
                                             <pre>
@@ -496,7 +496,7 @@ const DATA_DEPENDENCIES = require(ROOT_DIR + 'Data Dependencies');
   </pre>
                                         </figure></br>
                                         <p>
-                                            Each of these modules in AACloud work as an object. In each module a _new_ function (e.g. _newContext_ in the Context module) constructs _thisObject_ –the main object of the module– defining properties and functions. These are the public functions which algobots can execute. Once the object is constructed and certain low-level operations are performed, _thisObject_ is returned as a result of the _new_ function.
+                                            Each of these modules in AACloud work as an object. In each module a <i>new</i> function (e.g. <i>newContext</i> in the Context module) constructs <i>thisObject</i> –the main object of the module– defining properties and functions. These are the public functions which algobots can execute. Once the object is constructed and certain low-level operations are performed, <i>thisObject</i> is returned as a result of the <i>new</i> function.
                                         </p></br>
                                         <p>
                                             The way in which the Trading Bot Process Main Loop sets up and initializes the nested objects structure is by calling each module, one after the other, passing on objects while initializing them, which are nested as each of the modules construct their own objects returning them to the Main Loop.
@@ -569,7 +569,7 @@ assistant.initialize(context, exchangeAPI, dataDependencies, onInizialized);
   </pre>
                                         </figure></br>
                                         <p>
-                                            Thus, the whole object structure ends up in the _Assitant_ object, with the following arrangement:
+                                            Thus, the whole object structure ends up in the <i>Assitant</i> object, with the following arrangement:
                                         </p></br>
                                         <figure>
                                             <pre>
@@ -585,18 +585,17 @@ Assitant
                                         <h4>Execute Algobots Processes</h4>
 
                                         <p>
-                                            Once the object structure is constructed function _initializeUserBot()_ passes the Assistant object to the _UserBot.js_ module in the t-bot and function _startUserBot()_ executes it. **This makes the Assistant object the one and only direct interface of AACloud with t-bots.**
+                                            Once the object structure is constructed function <i>initializeUserBot()</i> passes the Assistant object to the <i>UserBot.js</i> module in the t-bot and function <i>startUserBot()</i> executes it. <strong>This makes the Assistant object the one and only direct interface of AACloud with t-bots.</strong>
                                         </p></br>
 
                                         <h4>Save Context & Schedule Next Execution</h4>
 
                                         <p>
-                                            Once the t-bot finishes its execution, function _saveContext()_ saves the context and function _loopControl(nextWaitTime)_ sets the wait time for the next execution according to configuration values.
-                                        </p>
+                                            Once the t-bot finishes its execution, function <i>saveContext()</i> saves the context and function <i>loopControl(nextWaitTime)</i> sets the wait time for the next execution according to configuration values.
+                                        </p></br>
 
                                         <h3>How T-Bots Use the Assistant Object</h3>
-                                        </p></br>
-                                        <p>
+                                        https://aacorporatesitedevelop.azurewebsites.net/index.shtml
                                             The overall strategy when working with trading algobots can be summarized in the following bullet points:
                                         </p></br>
                                         <ul>
@@ -655,56 +654,77 @@ sendMessage: sendMessage
                                     <div class="col-sm-10 margin_top_small">
 
                                         <h2>Exchange API Key</h2>
-
-                                        The AAPlatform places orders on exchanges through the use of the exchanges' APIs. You will need to create an API Key and configure your bot to use it.
+                                        <p>
+                                            The AAPlatform places orders on exchanges through the use of the exchanges' APIs. You will need to create an API Key and configure your bot to use it.
+                                        </p></br>
 
                                         <h3>Creating the API Key</h3>
 
-                                        This is how you create an API Key in Poloniex:
+                                        <p>
+                                            This is how you create an API Key in Poloniex:
+                                        </p></br>
+                                        <p>
+                                            Go to the tools menu and select <i>API KEYS</i>...
+                                        </p></br>
 
-                                        Go to the tools menu and select _API KEYS_...
+                                        <img src="img/documentation/Poloniex-API-01.png" width="100%">
 
-                                        ![Poloniex](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Poloniex-API-01.png)
 
-                                        If you have never used the API before, chances are it is disabled at the exchange. So before actually creating an API Key you will need to enable them...
+                                        <p>
+                                            If you have never used the API before, chances are it is disabled at the exchange. So before actually creating an API Key you will need to enable them...
+                                        </p></br>
 
-                                        ![Poloniex](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Poloniex-API-02.png)
+                                        <img src="img/documentation/Poloniex-API-02.png" width="100%">
 
-                                        You will need to follow the validation process involving checking your email and confirming your choice. Once that is taken care of, go back to the tools menu and click _API KEY_ again. You should now see a screen offering to create a new key...
+                                        <p>
+                                            You will need to follow the validation process involving checking your email and confirming your choice. Once that is taken care of, go back to the tools menu and click <i>API KEY</i> again. You should now see a screen offering to create a new key...
+                                        </p></br>
+                                        <img src="img/documentation/Poloniex-API-03.png" width="100%">
 
-                                        ![Poloniex](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Poloniex-API-03.png)
+                                        <p>
+                                            Once you create your key, the system will present it as follows...
+                                        </p></br>
+                                        <img src="img/documentation/Poloniex-API-04.png" width="100%">
 
-                                        Once you create your key, the system will present it as follows...
-
-                                        ![Poloniex](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/Poloniex-API-04.png)
-
-                                        **Make sure you DO NOT enable withdrawals nor IP access restrictions**.
+                                        <p>
+                                            <strong>Make sure you DO NOT enable withdrawals nor IP access restrictions.</strong>
+                                        </p></br>
 
                                         <h3>Creating an API Key File</h3>
 
-                                        Next, you will use the information in the API Key to a create a _.json_ file with the following structure using your own Key and Secret information:
+                                        <p>
+                                            Next, you will use the information in the API Key to a create a <i>.json</i> file with the following structure using your own Key and Secret information:
+                                        </p></br>
+                                        <figure>
+                                            <pre>
+                                            <code class="language-markup">
+{ "Key" : "6HS4YUEB-865UY9W4-KGHEHHJ-GH72ETG1", "Secret" : "1a3529851a05439asdasdw63426378ggd65701ac4a5d53c4859aa3511a8aa65acbd7e713bba755d0b1591ebe3a7618a71393ef4d3d11310628e1db"}
+                                            </code>
+                                            </pre>
+                                        </figure></br>
 
-                                        ```
-                                        { "Key" : "6HS4YUEB-865UY9W4-KGHEHHJ-GH72ETG1", "Secret" : "1a3529851a05439asdasdw63426378ggd65701ac4a5d53c4859aa3511a8aa65acbd7e713bba755d0b1591ebe3a7618a71393ef4d3d11310628e1db"}
-                                        ```
-
-                                        Create a folder named _API-Keys_ at the same level of the platform's repository (out of the folder AACloud) and save the file using the following naming convention:
-
-                                        "**AA**" + **BotName** + "**.**" + **ExchangeName** + "**.json**"
-
-                                        e.g.: AAMariam.Poloniex.json
-
-                                        ```
-                                        .
-                                        ├── AACloud                             <h2>
-                                            You cloned this from git repository
-                                            └── API-Keys                            <h2>
-                                                Create this dir at same level as AACloud
-                                                └── AAYourAlgobot.Poloniex.json   <h2>
-                                                    Place your Poloniex API Key file here
-                                                    ```
-
-                                                    **NOTE: Make sure the folder and file doesn't accidentally end up in GitHub! Your API KEYs should be kept secret!**
+                                        <p>
+                                            Create a folder named <i>API-Keys</i> at the same level of the platform's repository (out of the folder AACloud) and save the file using the following naming convention:
+                                        </p></br>
+                                        <p>
+                                            "<strong>AA</strong>" + <strong>BotName</strong> + "<strong>.</strong>" + <strong>ExchangeName</strong> + "<strong>.json</strong>"
+                                        </p></br>
+                                        <p>
+                                            e.g.: AAMariam.Poloniex.json
+                                        </p></br>
+                                        <figure>
+                                            <pre>
+                                            <code class="language-markup">
+.
+├── AACloud                                 # You cloned this from git repository
+    └── API-Keys                            # Create this dir at same level as AACloud
+        └── AAYourAlgobot.Poloniex.json     # Place your Poloniex API Key file here
+                                         </code>
+                                            </pre>
+                                        </figure></br>
+                                        <p>
+                                            <strong>NOTE: Make sure the folder and file doesn't accidentally end up in GitHub! Your API KEYs should be kept secret!</strong>
+                                        </p></br>
 
 
                                     </div>
