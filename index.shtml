@@ -63,26 +63,28 @@
             <div class="row">
                 <div class="col-sm-12">
                     <h5 class="sc_title text-center">Our Offer</h5>
-                    <h2 class="sc_title sc_title_underline text-center">Get your own crypto trading algobot up and running in 60 seconds, for free!</h2>
+                    <h2 class="sc_title sc_title_underline text-center">Get your own crypto trading algobot up and running in 60 seconds</br><span class="red_text">for free!</span></h2>
                     <div>
                         <div class="col-sm-6 sc_content">
                             <h3 class="sc_title margin_bottom_micro">Use the Advanced Algos IDE to develop algobots on the browser</h3>
+                            <p><img src="img/captures/IDE01-Code.png" width="100%" alt="IDE Code"</p>
                             <p class="sc_content">
                                 <ul>
-                                    <li>The world's only specialized IDE for visually debugging, testing and training algobots right on the browser, currently in alpha version.</li></br>
-                                    <li>Debug visually on the charts and also in the code.</li></br>
-                                    <li>Change algobots code with the browser's developer tools.</li></br>
-                                    <li>No arbitrary barriers imposed on your creativity. You may code anything JavaScript allows you to.</li>
+                                    <li><p class="sc_content">The world's only specialized IDE for visually debugging, testing and training algobots right on the browser, currently in alpha version.</p></li>
+                                    <li><p class="sc_content">Debug visually on the charts and also in the code.</p></li>
+                                    <li><p class="sc_content">Change algobots code with the browser's developer tools.</p></li>
+                                    <li><p class="sc_content">No arbitrary barriers imposed on your creativity. You may code anything JavaScript allows you to.</p></li>
                                 </ul>
                             </p>
                         </div>
                         <div class="col-sm-6 sc_content">
                             <h3 class="sc_title margin_bottom_micro">Start with a fork of a competition-winning algobot</h3>
+                            <p><img src="img/illustrations/how-algo-fork-flat.svg" width="100%" alt="IDE Code"</p>
                             <p class="sc_content">
                                 <ul>
-                                    <li>Rapid-evolution through Algobot participation in trading competitions.</li></br>
-                                    <li>Algobot optimization and efficiency developed by the combined force of community collaboration and the constant iterative improvements gained through ongoing cycles of competition.</li></br>
-                                    <li>Public access and verification of algobot evolutionary track record.</li>
+                                    <li><p class="sc_content">Rapid-evolution through Algobot participation in trading competitions.</p></li>
+                                    <li><p class="sc_content">Algobot optimization and efficiency developed by the combined force of community collaboration and the constant iterative improvements gained through ongoing cycles of competition.</p></li>
+                                    <li><p class="sc_content">Public access and verification of algobot evolutionary track record.</p></li>
                                 </ul>
                             </p>
                         </div>
