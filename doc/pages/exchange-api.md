@@ -1,5 +1,3 @@
-**[<< Previous: Trading Algobots](./1-TradingAlgobots.md)**
-
 # Exchange API Key
 
 The AAPlatform places orders on exchanges through the use of the exchanges' APIs. You will need to create an API Key and configure your bot to use it.
@@ -48,13 +46,3 @@ e.g.: AAMariam.Poloniex.json
 ```
 
 **NOTE: Make sure the folder and file doesn't accidentally end up in GitHub! Your API KEYs should be kept secret!**
-
-<hr />
-
-**[Next: Starting Out Your Own Algobot >>](./2-YourOwnAlgobot.md)**
-
-[Terms of Service](./Terms.md)  &bull;  [Disclaimer](./Disclaimer.md)
-
-<hr />
-
-**Table of Contents:** [Introduction](../README.md) | [Getting Started](../GettingStarted.md) | [About The Competition](../TheCompetition.md) | [The AAPlatform](../AAPlatform.md) | [About Algobots](../Algobots.md) | [Setting Up Your Development Environment](./0-Setup.md) | [Trading Algobots](./1-TradingAlgobots.md) | [Exchange API](./1b-Exchange-API.md) | [Starting Out Your Own Algobot](./2-YourOwnAlgobot.md) | [Launching Your Algobot](./3-LaunchingYourAlgobot.md) | [Watching Algobots in Action](../Algobots-in-action.md) 
