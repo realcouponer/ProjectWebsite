@@ -16,7 +16,7 @@
     <div id="box_wrapper" class="side_menu_page">
         <!--#include file="includes/header.shtml" -->
         <!--#include file="includes/side-menu.shtml" -->
-        <section id="about_section" class="light_section margin_top_none" style="margin-top: -30px">
+        <section id="about_section" class="light_section margin_top_none" style="margin-top: -100px">
             <div class="container">
 
                 <div class="col-sm-10">
@@ -29,7 +29,7 @@
                     <ul>
                         <li><p>A verified account with Poloniex. If you don't have one, <a href="https://poloniex.com/signup" target="_blank" rel="nofollow">get it here</a>. Make sure you go through the verification process so that you can trade freely.</p></li>
 
-                        <li><p>An API Key to access your account programmatically. If you don't have an API key, follow the <a href="documentation-exchange-api-key">instructions</a> to get one. </p></li>
+                        <li><p>An API Key to access your account programmatically. If you don't have an API key, follow the <a href="documentation-exchange-api-key.shtml">instructions</a> to get one. </p></li>
 
                         <li><p>A modern Internet browser like Chrome, Edge, Firefox or Safari.</p></li>
                     </ul>
