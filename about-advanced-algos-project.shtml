@@ -9,118 +9,123 @@
 
 </head>
 <body>
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
 
-    <!--#include file="includes/header.shtml" -->
+    <div id="box_wrapper">
 
-    <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <div class="flexslider">
-                        <ul class="slides text-center">
-                            <li>
-                                <img src="img/photos/vision.jpg" alt="Vision">
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+        <!--#include file="includes/header.shtml" -->
 
-
-    <section id="about_section" class="light_section">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12 text-center">
-                    <h2 class="sc_title sc_title_underline">The Advanced Algos Project is shaped around a <span class="red_text">vision</span> in which crypto trading is no longer the domain of an elite</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-6">
-                    <h3>Trading bots outperform humans in crypto trading just like a strong chess engine beats the chess world champion</h3>
-                    <p>The abilities to perform calculations crunch data and analyze complex situations in seconds give algorithms a clear edge over humans. Moreover, algorithms work 24/7/365 and leave the emotional factor out of the equation. It is indisputable that –in the near future—virtually all profitable crypto trading will be done by bots.</p>
-                    </br>
-                    <p>Closed source bots hit traditional markets decades ago, owned –mostly—by companies that protect their intellectual property and keep profits for themselves. However, there is only so much private corporations can do: their limited resources and their inability to attract the best talents are a critical hindrance.</p>
-                    </br>
-                    <p>Successful open source projects develop worldwide communities and –many times—are able to attract the best minds on earth. Permissionless innovation dynamics have proven to be a powerful catalyst for the development of many industries and trading bots will be no exception.</p>
-                    </br>
-                    <p><b>Now, let’s do some guessing... Who do you think is best suited to conquer the most market share in the crypto trading space?</b></p>
-                </div>
-                <div class="col-sm-6">
-                    <ul>
-                        <li><p>A corporation with a number of programmers and scientists on the payroll working eight-hours shifts?</p></li>
-                        </br>
-                        <li><p>A crypto startup with a closed source platform totally missing the point of permissionless innovation and the new sharing economy?</p></li>
-                        </br>
-                        <li><p>A worldwide community of developers, traders, analysts, scientists, entrepreneurs and crypto holders...</p></li>
-                        <ul>
-                            </br>
-                            <li><p>working together towards a common goal,</p></li>
-                            </br>
-                            <li><p>collaborating by polishing and improving each other's algobots,</p></li>
-                            </br>
-                            <li><p>competing to conquer top spots on trading competitions with substantial monetary prizes,</p></li>
-                            </br>
-                            <li><p>fine-tuning and tweaking winning algobots in a never-ending evolutionary process,</p></li>
-                            </br>
-                            <li><p>building reputation and a public track record for their algobots to gain crypto holders' subscriptions</p></li>
-                        </ul>
-                        </br>
-                        <p>... all within an ecosystem in which open source and permissionless innovation constitute key drivers for rapid evolution?</p>
-
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="history_section" class="grey_section fullwidth no_padding_container no_margin_col">
-        <div class="container">
-            <div class="row autoHeight columnsWrap">
-                <div class="col-md-6">
-                    </br></br>
-                    <img src="img/illustrations/basics-evolve.svg" alt="Rapid Evolution">
-                </div>
-                <div class="col-md-6 col-sm-12 text-left">
-                    <div class="history_content margin_bottom_small">
-                        <h5 class="sc_title margin_top_big">Fork &#8669; Tune &#8669; Compete &#8669; Evolve</h5>
-                        <h2 class="sc_title">The Project's Mission</h2>
-                        <p>
-                            <ul>
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider">
+                            <ul class="slides text-center">
                                 <li>
-                        <p>
-                            Develop a platform for easy algobots' creation and operation.
-                        </p></li>
-                        <li>
-                            <p>
-                                Bootstrap and incentivize a multi-talent community developing algobots.
-                            </p>
-                        </li>
-                        <li>
-                            <p>
-                                Provide a sustainable business model catering to all crypto holders.
-                            </p>
-                        </li>
-                        <li>
-                            <p>
-                                Encourage permissionless innovation and gamified competition to drive algobots’ rapid-evolution.
-                            </p>
-                        </li>
-                        </ul>
-                        </p>
-
-                        <!--<span class="sc_button sc_button_style_border_1 sc_button_size_big margin_bottom_mini margin_top_mini squareButton border_1 big">
-                            <a href="#">Read the Project Overview</a>
-                        </span>-->
+                                    <img src="img/photos/vision.jpg" alt="Vision">
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <!--#include file="includes/footer.shtml" -->
-    <!--#include file="includes/preloader.shtml" -->
+
+        <section id="about_section" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title sc_title_underline">The Advanced Algos Project is shaped around a <span class="red_text">vision</span> in which crypto trading is no longer the domain of an elite</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h3>Trading bots outperform humans in crypto trading just like a strong chess engine beats the chess world champion</h3>
+                        <p>The abilities to perform calculations crunch data and analyze complex situations in seconds give algorithms a clear edge over humans. Moreover, algorithms work 24/7/365 and leave the emotional factor out of the equation. It is indisputable that –in the near future—virtually all profitable crypto trading will be done by bots.</p>
+                        </br>
+                        <p>Closed source bots hit traditional markets decades ago, owned –mostly—by companies that protect their intellectual property and keep profits for themselves. However, there is only so much private corporations can do: their limited resources and their inability to attract the best talents are a critical hindrance.</p>
+                        </br>
+                        <p>Successful open source projects develop worldwide communities and –many times—are able to attract the best minds on earth. Permissionless innovation dynamics have proven to be a powerful catalyst for the development of many industries and trading bots will be no exception.</p>
+                        </br>
+                        <p><b>Now, let’s do some guessing... Who do you think is best suited to conquer the most market share in the crypto trading space?</b></p>
+                    </div>
+                    <div class="col-sm-6">
+                        <ul>
+                            <li><p>A corporation with a number of programmers and scientists on the payroll working eight-hours shifts?</p></li>
+                            </br>
+                            <li><p>A crypto startup with a closed source platform totally missing the point of permissionless innovation and the new sharing economy?</p></li>
+                            </br>
+                            <li><p>A worldwide community of developers, traders, analysts, scientists, entrepreneurs and crypto holders...</p></li>
+                            <ul>
+                                </br>
+                                <li><p>working together towards a common goal,</p></li>
+                                </br>
+                                <li><p>collaborating by polishing and improving each other's algobots,</p></li>
+                                </br>
+                                <li><p>competing to conquer top spots on trading competitions with substantial monetary prizes,</p></li>
+                                </br>
+                                <li><p>fine-tuning and tweaking winning algobots in a never-ending evolutionary process,</p></li>
+                                </br>
+                                <li><p>building reputation and a public track record for their algobots to gain crypto holders' subscriptions</p></li>
+                            </ul>
+                            </br>
+                            <p>... all within an ecosystem in which open source and permissionless innovation constitute key drivers for rapid evolution?</p>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="history_section" class="grey_section fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row autoHeight columnsWrap">
+                    <div class="col-md-6">
+                        </br></br>
+                        <img src="img/illustrations/basics-evolve.svg" alt="Rapid Evolution">
+                    </div>
+                    <div class="col-md-6 col-sm-12 text-left">
+                        <div class="history_content margin_bottom_small">
+                            <h5 class="sc_title margin_top_big">Fork &#8669; Tune &#8669; Compete &#8669; Evolve</h5>
+                            <h2 class="sc_title">The Project's Mission</h2>
+                            <p>
+                                <ul>
+                                    <li>
+                            <p>
+                                Develop a platform for easy algobots' creation and operation.
+                            </p></li>
+                            <li>
+                                <p>
+                                    Bootstrap and incentivize a multi-talent community developing algobots.
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    Provide a sustainable business model catering to all crypto holders.
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    Encourage permissionless innovation and gamified competition to drive algobots’ rapid-evolution.
+                                </p>
+                            </li>
+                            </ul>
+                            </p>
+
+                            <!--<span class="sc_button sc_button_style_border_1 sc_button_size_big margin_bottom_mini margin_top_mini squareButton border_1 big">
+                                <a href="#">Read the Project Overview</a>
+                            </span>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader.shtml" -->
 
 </body>
 </html>

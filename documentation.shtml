@@ -11,8 +11,7 @@
 <body>
 
     <!--#include file="includes/header.shtml" -->
-
-
+    <!--#include file="includes/side-menu.shtml" -->
     <section class="light_section">
         <div class="container">
             <div class="row">
@@ -20,10 +19,10 @@
                     <div class="sc_tabs sc_tabs_style_1 inited">
                         <ul class="nav nav-tabs sc_tabs_titles" role="tablist" id="tabs_sliders">
                             <li class="tab_names active"><a class="theme_button" href="#tab1" role="tab" data-toggle="tab">INTRO</a></li>
-                            <li class="tab_names"><a class="theme_button" href="#tab2" role="tab" data-toggle="tab">AAPLATFORM</a></li>
+                            <li class="tab_names"><a class="theme_button" href="documentation.shtml">AAPLATFORM</a></li>
                             <li class="tab_names"><a class="theme_button" href="#tab3" role="tab" data-toggle="tab">ALGOBOTS</a></li>
                             <li class="tab_names"><a class="theme_button" href="#tab4" role="tab" data-toggle="tab">T-BOTS</a></li>
-                            <li class="tab_names"><a class="theme_button" href="#tab6" role="tab" data-toggle="tab">TEST</a></li>
+                            <li class="tab_names"><a class="theme_button" href="#tab6" role="tab" data-toggle="tab">API KEYS</a></li>
                         </ul>
                         <!-- Tab panes -->
                         <div class="tab-content">
@@ -35,31 +34,31 @@
                                         <h2>Welcome to the Algobots Competition Platform!</h2>
 
                                         <p>
-                                            Join us for a dive into the world of algorithmic cryptocurrency trading to collaborate and compete with a community of developers and traders joining forces to enable the rapid-evolution of open-source cryptocurrency algobots.
-                                            
+                                            Join us <a class="theme_button" href="#tab6" role="tab" data-toggle="tab">for a dive</a> into the world of algorithmic cryptocurrency trading to collaborate and compete with a community of developers and traders joining forces to enable the rapid-evolution of open-source cryptocurrency algobots.
+
                                             In this series of pages you will find all the information you need to:
-                                            
+
                                             <ul>
                                                 <li>
                                         <p>
                                             understand why we are joining forces and what our collective mission is,
-                                            
+
                                             </li>
                                         </p>
                                         <li>
                                             <p>
                                                 get acquainted with the Advanced Algos infrastructure that facilitates the creation of trading bots,
-                                                
+
                                         </li>
                                         <li>
                                             <p>
                                                 get you started in creating your own algobots, and
-                                                
+
                                         </li>
                                         <li>
                                             <p>
                                                 participate in our algorithmic trading competitions with prizes in metallic to be distributed among all participants.
-                                                
+
                                         </li>
                                         </ul>
                                         <p>
@@ -133,9 +132,9 @@
                                         <p>
 
                                             In a nut shell, we are bootstrapping a community that collaborates to create the most advanced, accessible and easy-to-use crypto trading algorithms. We compete to push ourselves and adopt open-source development practices and permissionless innovation principles to collaborate and drive the rapid-evolution of algobots.
-                                            
+
                                             Advanced Algos Ltd focuses on refining the infrastructure and developing the platform that will eventually allow end-users to hire our collective trading intelligence by subscribing to our trading algobots. The Community develops the actual algobots, has fun and win prizes competing with each other, and collects the profits resulting from each other's real-life crypto trading with our own t-bots.
-                                            
+
                                             Together, we are creating a new business in the new sharing economy. A business with fairness and transparency as core values, in which all parties benefit. And –at the same time– a business with a profound social mission: to bring the opportunity of economic progress to all people.
                                         </p>
 
@@ -143,12 +142,13 @@
                                         <p>
 
                                             There are three GitHub Organizations you need to be familiar with:
-                                            </p>
-                                            <ul>
-                                                <li>
-                                        <p>
-                                            <a href="https://github.com/AdvancedAlgos"><strong>AdvancedAlgos</strong></a>: Features repositories with the AAPlatform code including the bits that run in the cloud (AACloud) and in the web browser, along with a few other platform-related configurations and documentation.
-                                           </p> </li>
+                                        </p>
+                                        <ul>
+                                            <li>
+                                                <p>
+                                                    <a href="https://github.com/AdvancedAlgos"><strong>AdvancedAlgos</strong></a>: Features repositories with the AAPlatform code including the bits that run in the cloud (AACloud) and in the web browser, along with a few other platform-related configurations and documentation.
+                                                </p>
+                                            </li>
                                             <li>
                                                 <p>
                                                     <a href="https://github.com/AAMasters"><strong>AAMasters</strong></a>: Its a showcase GitHub organization similar to the one each Algobot Team needs to create for themselves. It features several examples of bots, each in their corresponding repository.
@@ -157,8 +157,9 @@
                                             <li>
                                                 <p>
                                                     <a href="https://github.com/AAArena"><strong>AAArena</strong></a>: Its another showcase GitHub organization featuring the AA Application hosting the trading algobot competition you are about to enter.
-                                                </p></li>
-                                            </ul>
+                                                </p>
+                                            </li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -727,216 +728,38 @@ sendMessage: sendMessage
                                 <div class="row">
                                     <div class="col-sm-10 margin_top_small">
 
-                                        <p><strong><a href="TheCompetition.md">&lt;&lt; Previous: About The Competition</a></strong></p>
-
-                                        <h1 id="theaaplatform">The AAPlatform</h1>
-
-                                        <h2 id="leadingprinciples">Leading Principles</h2>
-
-                                        <p>We live in a world crammed with bots working behind the scenes whose intellectual property and profits are held close by their companies and developers. Advanced Algos and the surrounding community envision a <em>World of Tomorrow</em> brimming with the greater wealth cultivated by permissionless knowledge and accessible resources. Thus, it is our mission to create a self-sustaining open-source algobot development and access platform –making algobots accessible and easy-to-use for the everyday person.</p>
-
-                                        <h2 id="relevantgithuborganizations">Relevant GitHub Organizations</h2>
-
-                                        <p>There are three GitHub Organizations you need to be familiar with:</p>
-
-                                        <ul>
-                                            <li><p><a href="https://github.com/AdvancedAlgos">AdvancedAlgos</a>: Features repositories with the AAPlatform code including the bits that run in the cloud (AACloud) and in the web browser, along with a few other platform-related configurations and documentation.</p></li>
-
-                                            <li><p><a href="https://github.com/AAMasters">AAMasters</a>: Its a showcase GitHub organization similar to the one each Algobot Team needs to create for themselves. It features several examples of bots, each in their corresponding repository.</p></li>
-
-                                            <li><p><a href="https://github.com/AAArena">AAArena</a>: Its another showcase GitHub organization featuring the AA Application hosting the trading algobot competition you are about to enter.</p></li>
-                                        </ul>
-
-                                        <h2 id="aacloud">AACloud</h2>
-
-                                        <p>AACloud is the part of the platform that interacts with algobots and puts them to run in the cloud.</p>
-
-                                        <h3 id="runjs">Run.js</h3>
-
-                                        <p>This is where everything starts:</p>
-
-                                        <ul>
-                                            <li><p>Run.js makes a number of global definitions (global variables,  constants and parameters),</p></li>
-
-                                            <li><p>loads all relevant configuration files (starting from AACloud's <em>this.config.json</em> where each algobot process to be run is listed),</p></li>
-
-                                            <li><p>and eventually calls the <em>Main Loop</em> module corresponding to the type of algobot it is running.</p></li>
-                                        </ul>
-
-                                        <h3 id="mainloopmodules">Main Loop Modules</h3>
-
-                                        <p>The platform's architecture is designed so that algobots are run as self-contained entities, that is, when algobots finish their execution they are unloaded from memory and put to rest until the following scheduled execution starts.</p>
-
-                                        <p>Each type of algobot (extractor, indicator and trading) has a specific workflow, thus each of them are handled from separate Main Loop modules. However, all Main Loop modules share a similar structure:</p>
-
-                                        <ul>
-                                            <li><p>They first set up a structure of nested objects to be passed on to algobots;</p></li>
-
-                                            <li><p>objects are initialized, exposing a number of public functions that algobots can consume to perform their business operations;</p></li>
-
-                                            <li><p>the corresponding algobots processes are executed and objects are passed on;</p></li>
-
-                                            <li><p>once algobots finish their run, the Main Loop stores the <em>Context</em>;</p></li>
-
-                                            <li><p>and finally, sets the time for the next execution.</p></li>
-                                        </ul>
-
-                                        <hr />
-
-                                        <p><strong><a href="./Algobots.md">Next: About Algobots</a></strong></p>
-
-                                        <p><a href="./Terms.md">Terms of Service</a>  &bull;  <a href="./Disclaimer.md">Disclaimer</a></p>
-
-                                        <hr />
-
-                                        <p><strong>Table of Contents:</strong> <a href="./README.md">Introduction</a> | <a href="./GettingStarted.md">Getting Started</a> | <a href="./TheCompetition.md">About The Competition</a> | <a href="./AAPlatform.md">The AAPlatform</a> | <a href="./Algobots.md">About Algobots</a> | <a href="./developing/0-Setup.md">Setting Up Your Development Environment</a> | <a href="./developing/1-TradingAlgobots.md">Trading Algobots</a> | <a href="./developing/1b-Exchange-API.md">Exchange API</a> | <a href="./developing/2-YourOwnAlgobot.md">Starting Out Your Own Algobot</a> | <a href="./developing/3-LaunchingYourAlgobot.md">Launching Your Algobot</a> | <a href="./Algobots-in-action.md">Watching Algobots in Action</a></p>
+                                        <!--#include file="includes/exchange-api.shtml" -->
 
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="tab-pane fade" id="tab6">
+                            <div class="tab-pane fade" id="tab7">
                                 <div class="row">
                                     <div class="col-sm-10 margin_top_small">
 
-                                        <h2>Watching Algobots in Action</h2>
-
-                                        Now that you have a working version of your t-bot and have set it to perform some back testing or live trades, you can use the AAWeb app to visualize your algobot's actions on a candlestick chart. Being able to visually review your t-bot's trades is an essential part of the optimization process as it may help you fine-tune your t-bot's decision-making.
-
-                                        The AAWeb app is available both in the [development](http://aawebdevelop.azurewebsites.net/) and [production](http://aawebproduction.azurewebsites.net/) environments.
-
-                                        > **Known Issue**: At this point in time, AAWeb is being tested in Chrome only. While it should load on other browsers, some functions may not work as expected.
-
-                                        <h3>AAWeb Overview</h3>
-
-                                        AAWeb is an HTML canvas featuring three overlaid _visual spaces_ working simultaneously:
-
-                                        * **Charts Timeline**: It is a timeline in which algobots' products are displayed in a graphical representation created by plotters.
-
-                                        * **Floating Notifications**: It is a layer of information displayed on top the timeline, typically containing t-bots' related information such as t-bots' runtime position and messages.
-
-                                        * **Control & Information Panels**: There are two types of panels. One set of panels is built in the AAWeb and show certain control elements to dictate what exactly is shown on the timeline (time control features and a list of algobots products, for instance). A second type of panels is created by plotters to display additional information for certain products.
-
-                                        ![AAWeb Overview](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/AAWeb-01.png)
-
-                                        **References**:
-
-                                        _Charts Timeline_:
-
-                                        1. This is the Charts Timeline. Notice the background watermark indicating this is the USDT-BTC market.
-
-                                        2. The right margin features the Price Scale, in this case denominated in USDT.
-
-                                        3. The left margin features a Percent Scale that is used in Algobots Competitions to indicate ROI.
-
-                                        4. This is the candlestick chart visually showing Olivia's products, generated by [Plotters-Candles-Volumes](https://github.com/AAMasters/Plotters-Candles-Volumes).
-
-                                        _Floating Notifications_:
-
-                                        5. This is a message left by a t-bot, commenting on the nature of the operation being performed. The message is linked to a specific point in time.
-
-                                        6. This is an icon indicating the last execution of a certain t-bot.
-
-                                        _Control & Information Panels_:
-
-                                        7. This is the Algobots Products Panel featuring products of algobots registered on the [AAPlatform ecosystem.json]( https://github.com/AdvancedAlgos/AAPlatform/blob/master/ecosystem.json) configuration file.
-
-                                        8. This is the Time Control Panel, featuring controls for navigating the candles in either direction.
-
-                                        9. This is the Current Candle Panel providing additional information about the candle filled in yellow in the candlestick chart. This panel is too generated by the [Plotters-Candles-Volumes](https://github.com/AAMasters/Plotters-Candles-Volumes) used by Olivia to help visualize her products.
-
-                                        10. This is the Current Volume Panel, which works pretty much like the Current Candle Panel.
-
-                                        <h3>Navigating Through the Charts Timeline</h3>
-
-                                        With your mouse:
-
-                                        * Zoom in and out by turning the wheel forwards and blackguards respectively. Notice how the time scale is automatically adjusted for different levels of zoom. The timescale is represented by the actual candles and the time value of each candle is indicated in the Time Control Panel.
-
-                                        * Click and drag to pan across the timeline.
-
-                                        <img align="right" src="https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/AAWeb-small-time-control-panel.png">
-
-                                        By default, the timeline is paused. The buttons in the Time Control Panel allow you to walk through the timeline in different ways:
-
-                                        * The buttons immediately on either side of the pause button scroll the timeline horizontally in increments of one candlestick, either left or rightwards.
-
-                                        * The play buttons play the timeline forwards or backwards continuously.
-
-                                        <img align="right" src="https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/AAWeb-small-algobots-products-panels-short.png">
-
-                                        * The remaining buttons fast forwards and backwards respectively.
-
-                                        * The text displayed above the control buttons indicate datetime and timescale of the current candle.
-
-                                        <h3>Algobots Products Panel</h3>
-
-                                        Use the Algobots Products Panel to turn ON and OFF layers –including candlesticks, volumes, indicators and studies– by clicking on the radio buttons on the right. A green light means the layer is showing in the charts. A yellow light means the layer is being calculated and made available to dependent layers. A red light means the layer is not calculated, thus not showing.
-
-                                        To scroll the panel simply place your mouse pointer on top of it and turn the scroll wheel.
-
-                                        <h3>T-Bots in Action</h3>
-
-                                        <img align="right" src="https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/AAWeb-small-sell-order.png">
-
-                                        When either of the trading products is _on_ in the Algobots Products Panel, the [Plotters-Trading]( https://github.com/AAMasters/Plotters-Trading) associated with t-bots renders a number of visual clues in the timeline to indicate various t-bot actions. Notice the small triangles two candles after the current candle in solid yellow:
-
-                                        * A triangle pointing downwards represents a _sell order_.
-
-                                        * When the triangle is transparent with a red outline, it represents the moment in time and price point in which the order was placed.
-
-                                        * When the triangle is solid red, it represents the moment in time and price point in which the order was filled.
-
-                                        * Similarly, a triangle pointing upwards with a green outline means a _buy order_ was placed and the solid green triangle indicates that the order was filled.
-
-                                        > Notice that outlined and solid triangles may overlap if the zoom level does not allow rendering each triangle in separate candles. In that case, it means that the order was placed and filled during the period of time represented by the candle.
-
-                                        <h3>Action in a Competition Setting</h3>
-
-                                        Competition related events are –too– rendered over the timeline. A thin red vertical line marks the start of the competition and a checkered vertical banner marks the end of the competition.
-
-                                        ![ Action in a Competition Setting](https://github.com/AdvancedAlgos/Documentation/blob/master/Media/Dev-Teams-Getting-Sarted-Guide/AAWeb-02-competition.png)
-
-                                        T-Bots keep showing their trades on the candlestick charts, as usual. In addition, a new area of the timeline gains relevance: the intersection of the red vertical line with the 0% horizontal mark of the ROI scale in the left margin. This is exactly where the competition starts.
-
-                                        Trading algobots start out the competition at the 0% mark and their ROI is tracked with every single execution (every one minute) and rendered in the timeline accordingly.
-
-                                        In other words, the competition can be followed in real time simply by watching the timeline.
-
-                                        > **Note**: Bear in mind that the information plotted in the timeline is refreshed every one minute.
-
-
-                                        <h4>
-                                            Support
-
-                                            [Join the Advanced Algos Telegram Channel](https://t.me/advancedalgos)
-
-                                            <h4>
-                                                Feedback
-
-                                                We hope your participation is fun and educational and we'd love to make it better. Please submit any issues you experience during the competition in the [issues section](https://github.com/AAArena/First-Closed-Doors-Competition/issues) of this repository. Please also submit **any** suggestions or other feedback you might have to enhance future experiences via email to feedback at advancedalgos dot org.
 
 
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="tab-pane fade" id="tab6">
+                            <div class="tab-pane fade" id="tab8">
                                 <div class="row">
                                     <div class="col-sm-10 margin_top_small">
 
-                                        <h2>Basic Definitions</h2>
-                                        <h3>Infrastructure</h3>
+
+
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="tab-pane fade" id="tab6">
+                            <div class="tab-pane fade" id="tab9">
                                 <div class="row">
                                     <div class="col-sm-10 margin_top_small">
 
-                                        <h2>Basic Definitions</h2>
-                                        <h3>Infrastructure</h3>
+
+
                                     </div>
                                 </div>
                             </div>

@@ -76,7 +76,9 @@ p {
 }
 
 img {
-  max-width: 100%; }
+    max-width: 100%;
+ }
+
 
 a {
     text-decoration: none;
@@ -1005,7 +1007,7 @@ header.menu_center .topWrap .search.searchOpen { width: 100%;}
     text-align: center;
     margin: -10px 0 0 0;
 }
-.sidemenu_wrap .sidemenu_close { width: 30px; height: 30px; line-height:30px; font-size:12px; text-align:center; position: absolute; top: 35px; right: 0; cursor: pointer; color: #ffffff; }
+.sidemenu_wrap .sidemenu_close { width: 30px; height: 30px; line-height:30px; font-size:20px; text-align:center; position: absolute; top: 35px; right: 0; cursor: pointer; color: #ffffff; }
 
 .menuTranform { width: 250px; margin: 0 0 0 -300px; position: relative; z-index: 201; 
     -webkit-transition: all 0.4s ease-out;
@@ -6353,3 +6355,19 @@ a.revlink{
 
 
 /* ========================= */
+
+/* Custom CSS*/
+
+div.polaroid {
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 35px;
+    margin-top: 35px;
+}
+
+em {
+    font-variant-caps: all-small-caps;
+    font-style:normal;
+    font-weight: 600;
+}
