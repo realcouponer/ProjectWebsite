@@ -6359,7 +6359,7 @@ a.revlink{
 /* Custom CSS*/
 
 div.polaroid {
-    width: 100%;
+
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 35px;
@@ -6370,4 +6370,9 @@ em {
     font-variant-caps: all-small-caps;
     font-style:normal;
     font-weight: 600;
+}
+
+code {
+    margin-bottom: 35px;
+    margin-top: 35px;
 }

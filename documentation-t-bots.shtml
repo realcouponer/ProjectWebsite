@@ -1,0 +1,196 @@
+﻿<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Quick Start Guide</title>
+    <meta name="description" content="Get started in the Algobots Competition Platform">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="side_menu_page">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/side-menu.shtml" -->
+        <section id="about_section" class="light_section margin_top_none" style="margin-top: -100px">
+            <div class="container">
+
+                <div class="col-sm-10">
+                    <h1 id="tradingalgobots">Trading Algobots</h1>
+
+                    <p>At this early stage, the AAPlatform and the trading algobot templates solve several of the main issues around algorithmic trading:</p>
+
+                    <ul>
+                        <li><p>Infrastructure to run bots in the cloud;</p></li>
+
+                        <li><p>Crucial historical and live trades data;</p></li>
+
+                        <li><p>Connection with exchanges, placement and handling of orders.</p></li>
+                    </ul>
+
+                    <p>This leaves Algobot Teams free to focus in the creative side of things: coming up with and implementing a trading strategy.</p>
+
+                    <p>There are four AACloud modules particularly significant to trading algobots:</p>
+
+                    <ul>
+                        <li><p><em>Data Dependencies</em> &amp; <em>Status Dependencies</em>: Your trading algobot's config file contains two declarations of dependencies: data and status dependencies. Dependencies exist because t-bots use other algobot's datasets, or require certain data to be on a certain state. The dependencies modules load declared dependencies and pass them on to the bot through the Assistant module.</p></li>
+
+                        <li><p><em>Context</em>: In terms of context, trading algobots require the latest status report, the history of what was done on previous runs and the execution context tracking balances, trades, positions and so on. Context is saved in files as outputs of trading algobots. The context module reads the last status report, gets the date of the last execution, fetches the corresponding context file and serves it to the Assistant module.</p></li>
+
+                        <li><p><em>Assistant</em>: The Assistant module processes information available from other modules and serves a digest version to the trading algobot. The Assistant module also acts as an interface with the exchange, as it offers methods for placing, closing and moving orders.</p></li>
+                    </ul>
+
+                    <p>Let's review how AACloud interacts with trading algobots...</p>
+
+                    <h2 id="tradingbotprocessmainloopjs">Trading Bot Process Main Loop.js</h2>
+
+                    <p>As explained elsewhere, Main Loop modules have a common structure that can be summarized in the following actions:</p>
+
+                    <ul>
+                        <li><p>Set up objects</p></li>
+
+                        <li><p>Initialize objects exposing public functions</p></li>
+
+                        <li><p>Execute algobots processes</p></li>
+
+                        <li><p>Save context</p></li>
+
+                        <li><p>Schedule next execution</p></li>
+                    </ul>
+
+                    <p>Let's take a closer look at how all this is done in the case of trading algobots...</p>
+
+                    <h3 id="setupinitializeobjects">Set Up &amp; Initialize Objects</h3>
+
+                    <p>It all starts with <em>function loop()</em> defining the modules that will become available to the rest of the infrastructure and to algobots themselves:</p>
+
+<pre><code class="JavaScript language-JavaScript">...
+const UTILITIES = require(ROOT_DIR + 'Utilities');
+const BLOB_STORAGE = require(ROOT_DIR + 'Blob Storage');
+const DEBUG_MODULE = require(ROOT_DIR + 'Debug Log');
+const POLONIEX_CLIENT_MODULE = require(ROOT_DIR + 'Poloniex API Client');
+const EXCHANGE_API = require(ROOT_DIR + 'ExchangeAPI');
+const CONTEXT = require(ROOT_DIR + 'Context');
+const ASSISTANT = require(ROOT_DIR + 'Assistant');
+const STATUS_REPORT = require(ROOT_DIR + 'Status Report');
+const DATA_SET = require(ROOT_DIR + 'Data Set');
+const STATUS_DEPENDENCIES = require(ROOT_DIR + 'Status Dependencies');
+const DATA_DEPENDENCIES = require(ROOT_DIR + 'Data Dependencies');
+...
+</code></pre>
+
+                    <p>Each of these modules in AACloud work as an object. In each module a <em>new</em> function (e.g. <em>newContext</em> in the Context module) constructs <em>thisObject</em> –the main object of the module– defining properties and functions. These are the public functions which algobots can execute. Once the object is constructed and certain low-level operations are performed, <em>thisObject</em> is returned as a result of the <em>new</em> function.</p>
+
+                    <p>
+                        The way in which the Trading Bot Process Main Loop sets up and initializes the nested objects structure is by calling each module, one after the other, passing on objects while initializing them, which are nested as each of the modules construct their own objects returning them to the Main Loop.
+                        This is how it actually works:
+                    </p>
+
+                    <p>Status Dependencies are initialized first...</p>
+
+<pre><code class="JavaScript language-JavaScript">function initializeStatusDependencies() {
+   if (FULL_LOG === true) { logger.write("[INFO] run -&gt; loop -&gt; initializeStatusDependencies -&gt;  Entering function."); }
+   statusDependencies = STATUS_DEPENDENCIES.newStatusDependencies(bot, DEBUG_MODULE, STATUS_REPORT, BLOB_STORAGE, UTILITIES);
+   statusDependencies.initialize(processConfig.statusDependencies, undefined, undefined, onInizialized);
+...
+</code></pre>
+
+                    <p>Then it's the turn of Data Dependencies...</p>
+
+<pre><code class="JavaScript language-JavaScript">function initializeDataDependencies() {
+   if (FULL_LOG === true) { logger.write("[INFO] run -&gt; loop -&gt; initializeDataDependencies -&gt;  Entering function."); }
+   dataDependencies = DATA_DEPENDENCIES.newDataDependencies(bot, DEBUG_MODULE, DATA_SET, BLOB_STORAGE, UTILITIES);
+   dataDependencies.initialize(processConfig.dataDependencies, onInizialized);
+...
+</code></pre>
+
+                    <p>Now Context is initialized with a reference to Status Dependencies...</p>
+
+<pre><code class="JavaScript language-JavaScript">function initializeContext() {
+   if (FULL_LOG === true) { logger.write("[INFO] run -&gt; loop -&gt; initializeContext -&gt;  Entering function."); }
+   context = CONTEXT.newContext(bot, DEBUG_MODULE, BLOB_STORAGE, UTILITIES, STATUS_REPORT);
+   context.initialize(statusDependencies, onInizialized);
+...
+</code></pre>
+
+                    <p>Exchange API follows...</p>
+
+<pre><code class="JavaScript language-JavaScript">function initializeExchangeAPI() {
+   if (FULL_LOG === true) { logger.write("[INFO] run -&gt; loop -&gt; initializeExchangeAPI -&gt;  Entering function."); }
+   exchangeAPI = EXCHANGE_API.newExchangeAPI(bot, DEBUG_MODULE, POLONIEX_CLIENT_MODULE);
+   exchangeAPI.initialize(onInizialized);
+...
+</code></pre>
+
+                    <p>Finally, Assitant is initialized with references to Context, Exchange API and Data Dependencies...</p>
+
+<pre><code class="JavaScript language-JavaScript">function initializeAssistant() {
+   if (FULL_LOG === true) { logger.write("[INFO] run -&gt; loop -&gt; initializeAssistant -&gt;  Entering function."); }
+   assistant = ASSISTANT.newAssistant(bot, DEBUG_MODULE, UTILITIES);
+   assistant.initialize(context, exchangeAPI, dataDependencies, onInizialized);
+...
+</code></pre>
+
+                    <p>Thus, the whole object structure ends up in the <em>Assitant</em> object, with the following arrangement:</p>
+
+<pre><code>Assitant
+    ├── Context
+    │      └── Status Dependencies
+    ├── Exchange API
+    └── Data Dependencies
+</code></pre>
+
+                    <h3 id="executealgobotsprocesses">Execute Algobots Processes</h3>
+
+                    <p>Once the object structure is constructed function <em>initializeUserBot()</em> passes the Assistant object to the <em>UserBot.js</em> module in the t-bot and function <em>startUserBot()</em> executes it. <strong>This makes the Assistant object the one and only direct interface of AACloud with t-bots.</strong></p>
+
+                    <h3 id="savecontextschedulenextexecution">Save Context &amp; Schedule Next Execution</h3>
+
+                    <p>Once the t-bot finishes its execution, function <em>saveContext()</em> saves the context and function <em>loopControl(nextWaitTime)</em> sets the wait time for the next execution according to configuration values.</p>
+
+                    <h2 id="howtbotsusetheassistantobject">How T-Bots Use the Assistant Object</h2>
+
+                    <p>The overall strategy when working with trading algobots can be summarized in the following bullet points:</p>
+
+                    <ul>
+                        <li><p>Bots are executed every one minute.</p></li>
+
+                        <li><p>Each time the bot runs, it first needs to understand the context of the current execution. T-Bots get the context info from the Assitant object. The Assistant keeps track of orders placed at the exchange, keeps track of balances, profit and every other variable related to the operations that the t-bot may have performed in previous runs. All of that information is available for the t-bot to consume every time it is executed. Bear in mind that each time the t-bot places or moves an order, it doesn't wait for any sort of confirmation of the result of the opreation. That means that when it runs the next time it needs to syncronize with the current state of affairs in the exchange, as the order may have filled or not, may have filled partially or may have failed for some unexpected reason.</p></li>
+
+                        <li><p>After evaluating the context and syncronizing with the exchange, the t-bot embarks in the calculations required by its trading strategy. At this point in time, there are very few indicators offering processed information. As <a href="../Algobots.md#indicator-algobots-aka-i-bots">explained earlier</a>, we encourage you to respect the proposed incumbencies architectecture and put the Technical Analysis logic in <strong>indicator algobots</strong>. Almost all Technical Analysis indicators are calculated from trades and volume data. Their formulas are in the pubic domain and even code is readily available if you search around. You are free to use open source code within your bot's code.</p></li>
+
+                        <li><p>Once calculations are performed, the bot decides what to do, and uses the Assitant to place orders on the exchange.</p></li>
+                    </ul>
+
+                    <p>These are the functions the Assistant offers:</p>
+
+<pre><code class="JavaScript language-JavaScript">    const MODULE_NAME = "Assistant";
+
+    let thisObject = {
+        dataDependencies: undefined,
+        initialize: initialize,
+        putPosition: putPosition,
+        movePosition: movePosition,
+        getPositions: getPositions,
+        getBalance: getBalance,
+        getAvailableBalance: getAvailableBalance,
+        getInvestment: getInvestment,
+        getProfits: getProfits,
+        getMarketRate: getMarketRate,
+        sendMessage: sendMessage
+    };
+</code></pre>
+                </div>
+
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>

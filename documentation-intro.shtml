@@ -1,0 +1,168 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>The Advanced Algos Project</title>
+    <meta name="description" content="An introduction to the ">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="side_menu_page">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/side-menu.shtml" -->
+        <section id="about_section" class="light_section margin_top_none" style="margin-top: -100px">
+            <div class="container">
+
+                <div class="col-sm-10">
+
+
+                    <h1>Welcome to the Algobots Competition Platform!</h1>
+
+                    <p>
+                        Join us for a dive into the world of algorithmic cryptocurrency trading to collaborate and compete with a community of developers and traders joining forces to enable the rapid-evolution of open-source cryptocurrency algobots.
+
+                        In this series of pages you will find all the information you need to:
+
+                        <ul>
+                            <li>
+                    <p>
+                        understand why we are joining forces and what our collective mission is,
+
+                        </li>
+                    </p>
+                    <li>
+                        <p>
+                            get acquainted with the Advanced Algos infrastructure that facilitates the creation of trading bots,
+
+                    </li>
+                    <li>
+                        <p>
+                            get you started in creating your own algobots, and
+
+                    </li>
+                    <li>
+                        <p>
+                            participate in our algorithmic trading competitions with prizes in metallic to be distributed among all participants.
+
+                    </li>
+                    </ul>
+                    <p>
+                        Let's get things rolling!
+                    </p>
+
+                    <h2>Basic Definitions</h2>
+                    <h3>Infrastructure</h3>
+
+                    <p>
+                        <ul>
+                            <li>
+                    <p>
+                        <strong>Algobots</strong>: Open-source algorithms destined to become autonomous agents with an autonomous financial life once the AAPlatform along with the Algobots Ecosystem are launched.
+                        </li>
+                        <li>
+                    <p>
+                        <strong>AAPlatform</strong>: AKA <i>the platform</i>, it is the IT system on top of which everything runs.
+                        </li>
+                        <li>
+                    <p>
+                        <strong>AACloud</strong>: The part of the system that runs algobots in the cloud.
+                        </li>
+                        <li>
+                    <p>
+                        <strong>AAWeb</strong>: The part of the system that shows algobots' activities in a visual environment.
+                        </li>
+                        <li>
+                    <p>
+                        <strong>Algobots Arena</strong>: The scenario in which competitions take place.
+                        </li>
+                        </ul>
+                    </p>
+                    <h3>
+                        Stakeholders
+                    </h3>
+                    <p>
+                        <ul>
+                            <li>
+                    <p>
+                        <strong>Advanced Algos Ltd.</strong>: The start up behind the creation of the AAPlatform and the people running this show until the Algobots Community takes over.
+                        </li>
+                        <li>
+                    <p>
+                        <strong>Algobots Community</strong>: The emerging community of developers and traders that share our vision and help push it forwards by creating algobots.
+                        </li>
+                        <li>
+                    <p>
+                        <strong>Algobot Team</strong>: That would be you, along with anyone else that wishes to help you out in this quest. Algobot Teams are subsets of the major Algobots Community.
+                        </li>
+                        </ul>
+                    </p>
+                    <h3>
+                        Ecosystem
+                    </h3>
+                    <p>
+                        <ul>
+                            <li>
+                    <p>
+                        <strong><span class="red_text">ALGO</span> Ecosystem</strong>: Its the body of economic relationships established by stakeholders in the network by which each actor consumes services from other actors using ALGO as the medium of exchange.
+                        </li>
+                        <li>
+                    <p>
+                        <span class="red_text">ALGO</span>: Its the platform's native token designed as the medium of payment to access and use the network.
+                        </li>
+                        </ul>
+                    </p>
+                    <h2>
+                        Still Wondering What We Are Doing Here?
+                    </h2>
+                    <p>
+
+                        In a nut shell, we are bootstrapping a community that collaborates to create the most advanced, accessible and easy-to-use crypto trading algorithms. We compete to push ourselves and adopt open-source development practices and permissionless innovation principles to collaborate and drive the rapid-evolution of algobots.
+
+                        Advanced Algos Ltd focuses on refining the infrastructure and developing the platform that will eventually allow end-users to hire our collective trading intelligence by subscribing to our trading algobots. The Community develops the actual algobots, has fun and win prizes competing with each other, and collects the profits resulting from each other's real-life crypto trading with our own t-bots.
+
+                        Together, we are creating a new business in the new sharing economy. A business with fairness and transparency as core values, in which all parties benefit. And &ndash;at the same time&mdash;a business with a profound social mission: to bring the opportunity of economic progress to all people.
+                    </p>
+
+                    <h2>Relevant GitHub Organizations</h2>
+                    <p>
+
+                        There are three GitHub Organizations you need to be familiar with:
+                    </p>
+                    <ul>
+                        <li>
+                            <p>
+                                <a href="https://github.com/AdvancedAlgos"><strong>AdvancedAlgos</strong></a>: Features repositories with the AAPlatform code including the bits that run in the cloud (AACloud) and in the web browser, along with a few other platform-related configurations and documentation.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="https://github.com/AAMasters"><strong>AAMasters</strong></a>: Its a showcase GitHub organization similar to the one each Algobot Team needs to create for themselves. It features several examples of bots, each in their corresponding repository.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="https://github.com/AAArena"><strong>AAArena</strong></a>: Its another showcase GitHub organization featuring the AA Application hosting the trading algobot competition you are about to enter.
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+
+
+
+
+            </div>
+
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>

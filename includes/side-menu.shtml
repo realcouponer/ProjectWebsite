@@ -14,206 +14,28 @@
 
                         <nav role="navigation" class="sidemenu_area">
                             <ul id="sidemenu" class="">
-                                <li class="current-menu-item">
+                                <li>
                                     <a href="documentation-quick-start.shtml">Quick Start</a>
                                     <ul class="sub-menu">
                                         <li>
-                                            <a href="documentation-exchange-api-key.shtml">Exchange API Key</a>
+                                            <a href="documentation-poloniex-api-key.shtml">Poloniex API Key</a>
                                         </li>
                                     </ul>
                                 </li>
-                                <!--
-    <li class="">
-        <a href="#">Features</a>
-        <ul class="sub-menu">
-            <li>
-                <a href="about-us.html">About Us</a>
-            </li>
-            <li>
-                <a href="our-team.html">Our team</a>
-            </li>
-            <li>
-                <a href="price-table.html">Price Table</a>
-            </li>
-            <li>
-                <a href="faqs.html">FAQ’s</a>
-            </li>
-            <li>
-                <a href="services.html">Services</a>
-            </li>
-            <li>
-                <a href="contacts.html">Contacts</a>
-            </li>
-            <li>
-                <a href="not-existing-page.html">Page 404</a>
-            </li>
-            <li>
-                <a href="typography.html">Typography</a>
-            </li>
-            <li>
-                <a href="shortcodes.html">Shortcodes</a>
-            </li>
-            <li>
-                <a href="support.html">Support</a>
-            </li>
-        </ul>
-    </li>
-    <li class="">
-        <a href="#">Shop</a>
-    </li>
-    <li class="">
-        <a href="#">Blog</a>
-        <ul class="sub-menu">
-            <li class="">
-                <a href="#">Classic Style</a>
-                <ul class="sub-menu">
-                    <li>
-                        <a href="classic-style-large.html">Classic Style Large</a>
-                    </li>
-                    <li>
-                        <a href="classic-style-small.html">Classic Style Small</a>
-                    </li>
-                    <li>
-                        <a href="classic-1-columns.html">1 Column</a>
-                    </li>
-                    <li>
-                        <a href="classic-2-columns.html">2 Columns</a>
-                    </li>
-                    <li>
-                        <a href="classic-3-columns.html">3 Columns</a>
-                    </li>
-                    <li>
-                        <a href="classic-4-columns.html">4 Columns</a>
-                    </li>
-                    <li>
-                        <a href="classic-2-columns-sidebar.html">2 Columns + sidebar</a>
-                    </li>
-                    <li>
-                        <a href="classic-3-columns-sidebar.html">3 Columns + sidebar</a>
-                    </li>
-                </ul>
-            </li>
-            <li class="">
-                <a href="#">Masonry Style</a>
-                <ul class="sub-menu">
-                    <li>
-                        <a href="masonry-2-columns.html">2 Columns</a>
-                    </li>
-                    <li>
-                        <a href="masonry-3-columns.html">3 Columns</a>
-                    </li>
-                    <li>
-                        <a href="masonry-4-columns.html">4 Columns</a>
-                    </li>
-                    <li>
-                        <a href="masonry-2-columns-sidebar.html">2 Columns + sidebar</a>
-                    </li>
-                    <li>
-                        <a href="masonry-3-columns-sidebar.html">3 Columns + sidebar</a>
-                    </li>
-                </ul>
-            </li>
-            <li class="">
-                <a href="#">Blog Post</a>
-                <ul class="sub-menu">
-                    <li>
-                        <a href="new-post-with-image.html">Standard Post</a>
-                    </li>
-                    <li>
-                        <a href="standard-post-with-sidebar.html">Standard Post with Sidebar</a>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li class="">
-        <a href="#">Portfolio</a>
-        <ul class="sub-menu">
-            <li class="">
-                <a href="#">Grid Style</a>
-                <ul class="sub-menu">
-                    <li>
-                        <a href="portfolio-2-columns.html">2 Columns</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-3-columns.html">3 Columns</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-4-columns.html">4 Columns</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-2-columns-fullscreen.html">2 Columns fullscreen</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-3-columns-fullscreen.html">3 Columns fullscreen</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-4-columns-fullscreen.html">4 Columns fullscreen</a>
-                    </li>
-                </ul>
-            </li>
-            <li class="">
-                <a href="#">Masonry Style</a>
-                <ul class="sub-menu">
-                    <li>
-                        <a href="portfolio-masonry-2-columns.html">2 Columns</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-masonry-3-columns.html">3 Columns</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-masonry-4-columns.html">4 Columns</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-masonry-2-columns-sidebar.html">2 Columns + sidebar</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-masonry-3-columns-sidebar.html">3 Columns + sidebar</a>
-                    </li>
-                </ul>
-            </li>
-            <li class="">
-                <a href="#">Classic Style</a>
-                <ul class="sub-menu">
-                    <li>
-                        <a href="portfolio-classic-1-columns.html">1 Column</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-classic-2-columns.html">2 Columns</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-classic-3-columns.html">3 Columns</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-classic-4-columns.html">4 Columns</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-classic-1-columns-sidebar.html">1 Column + sidebar</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-classic-2-columns-sidebar.html">2 Columns + sidebar</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-classic-3-columns-sidebar.html">3 Columns + sidebar</a>
-                    </li>
-                </ul>
-            </li>
-            <li class="">
-                <a href="grid-alternative.html">Grid Alternative</a>
-            </li>
-            <li class="">
-                <a href="#">Portfolio Post</a>
-                <ul class="sub-menu">
-                    <li>
-                        <a href="portfolio-post-standart.html">Standard</a>
-                    </li>
-                    <li>
-                        <a href="portfolio-post-fullscreen.html">Fullscreen</a>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </li>-->
+                                <li>
+                                    <a href="documentation-intro.shtml">Introduction</a>
+                                </li>
+                                <li>
+                                    <a href="documentation-aaplatform.shtml">AA Platform</a>
+                                </li>
+                                <li>
+                                    <a href="documentation-algobots.shtml">Algobots</a>
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a href="documentation-t-bots.shtml">T-Bots</a>
+                                        </li>
+                                    </ul>
+                                </li>
                             </ul>
                         </nav>
                         <div class="sidemenu_close">x</div>
