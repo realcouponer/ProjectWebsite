@@ -22,7 +22,7 @@
                 <div class="col-sm-10">
                     <h1 id="aboutalgobots">About Algobots</h1>
 
-                    <p>Algobots are open source projects in Github, programed in JavaScript. AACloud calls algobots and puts them to run in specific time intervals. They consume services from the platform and data from other algobots, especially from indicator algobots, and at the same time, produce an output that is stored in the cloud (to be consumed by other algobots).</p>
+                    <p>Algobots are open source software programmed in JavaScript. AACloud calls algobots and puts them to run in specific time intervals. They consume services from the platform and data from other algobots, especially from indicator algobots, and at the same time, produce an output that is stored in the cloud (to be consumed by other algobots).</p>
 
                     <h3 id="typesofalgobots">Types of Algobots</h3>
 
