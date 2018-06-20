@@ -2,7 +2,7 @@
 
 <head>
     <title>Poloniex API Key</title>
-    <meta name="description" content="Learn how to get your API key to use in the Algobots Competition Platform">
+    <meta name="description" content="Learn how to get your API key to use in the Algobots Competition Platform by Advanced Algos">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -21,7 +21,7 @@
 
                 <div class="col-sm-10">
                     <h1 id="exchangeapikey">Poloniex API Key</h1>
-                    <p>The AAPlatform places orders on exchanges through the use of the exchanges' APIs. You will need to create an API Key and configure your bot to use it.</p>
+                    <p>The AAPlatform places orders on exchanges through the use of the exchanges' APIs. You will need to create an API Key and send it for us to configure the access to the exchange from the Cloud.</p>
                     <h2 id="creatingtheapikey">Creating the API Key</h2>
                     <p>This is how you create an API Key in Poloniex:</p>
                     <p>Go to the tools menu and select <em>API KEYS</em>...</p>

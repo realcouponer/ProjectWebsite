@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Quick Start Guide</title>
-    <meta name="description" content="Get started in the Algobots Competition Platform">
+    <title>The AA Platform</title>
+    <meta name="description" content="Overview of the Algobots Competition Platform by Advanced Algos">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -22,9 +22,7 @@
                 <div class="col-sm-10">
                     <h1 id="theaaplatform">The AAPlatform</h1>
 
-                    <h2 id="leadingprinciples">Leading Principles</h2>
-
-                    <p>We live in a world crammed with bots working behind the scenes whose intellectual property and profits are held close by their companies and developers. Advanced Algos and the surrounding community envision a <em>World of Tomorrow</em> brimming with the greater wealth cultivated by permissionless knowledge and accessible resources. Thus, it is our mission to create a self-sustaining open-source algobot development and access platform&mdash;making algobots accessible and easy-to-use for the everyday person.</p>
+                    <p>The AAPlatform is the system created to support the creation, optimization and competition of algobots.</p>
 
                     <h2 id="aacloud">AACloud</h2>
 
@@ -59,6 +57,8 @@
 
                         <li><p>and finally, sets the time for the next execution.</p></li>
                     </ul>
+
+                    <p><strong>Reviewing the <a href="documentation-algobots.shtml">workings of algobots</a> will further clarify the way the AAPlatform functions.</strong></p>
                 </div>
 
             </div>

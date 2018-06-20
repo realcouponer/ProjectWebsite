@@ -1,8 +1,8 @@
 ﻿<!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Quick Start Guide</title>
-    <meta name="description" content="Get started in the Algobots Competition Platform">
+    <title>Trading Algobots Explained</title>
+    <meta name="description" content="An introduction to T-Bots, the autonomous agents trading at the Algobots Competition Platform by Advanced Algos">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
