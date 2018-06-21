@@ -1,0 +1,643 @@
+﻿<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Advanced Algos Terms of Service</title>
+    <meta name="description" content="By using our website and services you are agreeing to enter a legal contract with us. Learn about the implications.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper">
+        <!--#include file="includes/header.shtml" -->
+
+        <section id="about_section" class="light_section margin_top_none">
+            <div class="container">
+
+                <div class="col-sm-10">
+
+                    <h1 id="advancedalgostermsofservice">Advanced Algos Terms of Service</h1>
+
+                    <p>Thank you for using Advanced Algos! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using Advanced Algos. Because it is such an important contract between us and our users, we have tried to make it as clear as possible.</p>
+
+                    <h2 id="adefinitions">A. Definitions</h2>
+
+                    <blockquote><strong>Short version:</strong> We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.</blockquote>
+
+                    <ol>
+                        <li><p>The "Agreement" refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the "Terms of Service" or the "Terms") and all other operating rules, policies (including the <a href="legal-privacy-statement.shtml">Advanced Algos Privacy Statement</a> and procedures that we may publish from time to time on the Website.</p></li>
+
+                        <li><p>The "Service" refers to the applications, software, products, and services provided by Advanced Algos.</p></li>
+
+                        <li><p>The "Website" refers to Advanced Algos' website located at <a href="https://advancedalgos.net/">advancedalgos.net</a>, and all content, services, and products provided by Advanced Algos at or through the Website. It also refers to Advanced Algos-owned subdomains of advancedalgos.net. Occasionally, websites owned by Advanced Algos may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.</p></li>
+
+                        <li><p>"The User," "You," and "Your" refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the Account; or that directs the use of the Account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government Accounts.</p></li>
+
+                        <li><p>"Advanced Algos," "We," and "Us" refer to Advanced Algos, Ltd., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.</p></li>
+
+                        <li><p>"Content" refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. "User-Generated Content" is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.</p></li>
+
+                        <li><p>An "Account" represents your legal relationship with Advanced Algos. A "User Account" represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on Advanced Algos. "Teams" are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A User Account can be a member of any number of Teams.</p></li>
+                    </ol>
+
+                    <h2 id="baccountterms">B. Account Terms</h2>
+
+                    <blockquote><strong>Short version:</strong> User Accounts and Teams have different administrative controls; a human must create your Account; you must be 13 or over; you must provide a valid email address; and you may not have more than one Account. You alone are responsible for your Account and anything that happens while you are signed in to or using your Account. You are responsible for keeping your Account secure.</blockquote>
+
+                    <h3 id="1accountcontrols">1. Account Controls</h3>
+
+                    <ul>
+                        <li><p><p>Users. Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.</p></p></li>
+
+                        <li><p><p>Teams. The "owner" of a Team that was created under these Terms has ultimate administrative control over that Team and the Content within it. Within the Service, an owner can manage User access to the Team’s data and projects. A Team may have multiple owners, but there must be at least one User Account designated as an owner of a Team. If you are the owner of a Team under these Terms, we consider you responsible for the actions that are performed on or through that Team.</p></p></li>
+                    </ul>
+
+                    <h3 id="2requiredinformation">2. Required Information</h3>
+
+                    <p>You must provide a valid email address in order to complete the signup process. Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity).</p>
+
+                    <h3 id="3accountrequirements">3. Account Requirements</h3>
+
+                    <p>We have a few simple rules for User Accounts on Advanced Algos' Service.</p>
+
+                    <ul>
+                        <li><p>You must be a human to create an Account. Accounts registered by "bots" or other automated methods are not permitted. We do permit machine accounts:  </p></li>
+
+                        <li><p>One person or legal entity may maintain no more than one Account.</p></li>
+
+                        <li><p>You must be age 13 or older. While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with European Union law. Advanced Algos does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will terminate that User’s Account immediately. If you are a resident of a country outside the European Union, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.</p></li>
+
+                        <li><p>Your login may only be used by one person — i.e., a single login may not be shared by multiple people. </p></li>
+                    </ul>
+
+                    <h3 id="4useraccountsecurity">4. User Account Security</h3>
+
+                    <p>You are responsible for keeping your Account secure while you use our Service. </p>
+
+                    <ul>
+                        <li><p>You are responsible for all content posted and activity that occurs under your Account (even when content is posted by others who have Accounts under your Account).</p></li>
+
+                        <li><p>You are responsible for maintaining the security of your Account and password. Advanced Algos cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.</p></li>
+
+                        <li><p>You will promptly notify Advanced Algos if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.</p></li>
+                    </ul>
+
+                    <h3 id="5additionalterms">5. Additional Terms</h3>
+
+                    <p>In some situations, third parties' terms may apply to your use of Advanced Algos. For example, you may be a member of a team on Advanced Algos with its own terms or license agreements; you may download an application that integrates with Advanced Algos; or you may use Advanced Algos to authenticate to another service. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.</p>
+
+                    <h2 id="cacceptableuse">C. Acceptable Use</h2>
+
+                    <blockquote><strong>Short version:</strong> Advanced Algos hosts a wide variety of collaborative algobots from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.</blockquote>
+
+                    <h3 id="1compliancewithlawsandregulations">1. Compliance with Laws and Regulations</h3>
+
+                    <p>Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.</p>
+
+                    <h3 id="2contentrestrictions">2. Content Restrictions</h3>
+
+                    <p>You agree that you will not under any circumstances upload, post, host, or transmit any content that:</p>
+
+                    <ul>
+                        <li><p>is unlawful or promotes unlawful activities;</p></li>
+
+                        <li><p>is or contains sexually obscene content;</p></li>
+
+                        <li><p>is libelous, defamatory, or fraudulent;</p></li>
+
+                        <li><p>is discriminatory or abusive toward any individual or group;</p></li>
+
+                        <li><p>contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system); or</p></li>
+
+                        <li><p>infringes on any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other rights.</p></li>
+                    </ul>
+
+                    <h3 id="3conductrestrictions">3. Conduct Restrictions</h3>
+
+                    <p>While using Advanced Algos, you agree that you will not under any circumstances:</p>
+
+                    <ul>
+                        <li><p>harass, abuse, threaten, or incite violence towards any individual or group, including Advanced Algos employees, officers, and agents, or other Advanced Algos Users;</p></li>
+
+                        <li><p>use our servers for any form of excessive automated bulk activity (for example, spamming), or relay any other form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;</p></li>
+
+                        <li><p>attempt to disrupt or tamper with Advanced Algos' servers in ways that could harm our Website or Service, to place undue burden on Advanced Algos' servers through automated means, or to access Advanced Algos' Service in ways that exceed your authorization (other than those authorized by the Advanced Algos Bug Bounty program);</p></li>
+
+                        <li><p>impersonate any person or entity, including any of our employees or representatives, including through false association with Advanced Algos, or by fraudulently misrepresenting your identity or site's purpose; or</p></li>
+
+                        <li><p>violate the privacy of any third party, such as by posting another person's personal information without consent.</p></li>
+                    </ul>
+
+                    <h3 id="4servicesusagelimits">4. Services Usage Limits</h3>
+
+                    <p>You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without Advanced Algos' express written permission.</p>
+
+                    <h3 id="5scraping">5. Scraping</h3>
+
+                    <p>Scraping refers to extracting data from our Website via an automated process, such as a bot or webcrawler. It does not refer to the collection of information through Advanced Algos' API. Please see Section G for our API Terms. You may scrape the website for the following reasons:</p>
+
+                    <ul>
+                        <li><p>Researchers may scrape public, non-personal information from Advanced Algos for research purposes, only if any publications resulting from that research are open access.</p></li>
+
+                        <li><p>Archivists may scrape Advanced Algos for public data for archival purposes.</p></li>
+                    </ul>
+
+                    <p>You may not scrape Advanced Algos for spamming purposes, including for the purposes of selling Advanced Algos users' personal information, such as to recruiters, headhunters, and job boards.</p>
+
+                    <p>All use of Advanced Algos data gathered through scraping must comply with the <a href="legal-privacy-statement.shtml">Advanced Algos Privacy Statement</a>.</p>
+
+                    <h3 id="6privacy">6. Privacy</h3>
+
+                    <p>Misuse of Advanced Algos Users' Personal Information is prohibited.</p>
+
+                    <p>Any person, entity, or service collecting data from Advanced Algos must comply with the <a href="legal-privacy-statement.shtml">Advanced Algos Privacy Statement</a>, particularly in regards to the collection of our Users' Personal Information (as defined in the Advanced Algos Privacy Statement). If you collect any Advanced Algos User's Personal Information from Advanced Algos, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from Advanced Algos, and you will respond promptly to complaints, removal requests, and "do not contact" requests from Advanced Algos or Advanced Algos Users.</p>
+
+                    <h3 id="7excessivebandwidthuse">7. Excessive Bandwidth Use</h3>
+
+                    <p>If we determine your bandwidth usage to be significantly excessive in relation to other Advanced Algos customers, we reserve the right to suspend your Account or throttle your file hosting until you can reduce your bandwidth consumption.</p>
+
+                    <h3 id="8userprotection">8. User Protection</h3>
+
+                    <p>You agree not to engage in activity that significantly harms our Users. We will resolve disputes in favor of protecting our Users as a whole.</p>
+
+                    <h2 id="dusergeneratedcontent">D. User-Generated Content</h2>
+
+                    <blockquote><strong>Short version:</strong> You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.</blockquote>
+
+                    <h3 id="1responsibilityforusergeneratedcontent">1. Responsibility for User-Generated Content</h3>
+
+                    <p>You may create or upload User-Generated Content while using the Service. You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the Service, regardless of the form of that Content. We are not responsible for any public display or misuse of your User-Generated Content.</p>
+
+                    <h3 id="2advancedalgosmayremovecontent">2. Advanced Algos May Remove Content</h3>
+
+                    <p>We do not pre-screen User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any Advanced Algos terms or policies.</p>
+
+                    <h3 id="3ownershipofcontentrighttopostandlicensegrants">3. Ownership of Content, Right to Post, and License Grants</h3>
+
+                    <p>You retain ownership of and responsibility for Your Content. If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you have the right to post; and that you will fully comply with any third party licenses relating to Content you post.</p>
+
+                    <p>Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other Advanced Algos Users — certain legal permissions, listed in Sections D.4 — D.7. These license grants apply to Your Content. If you upload Content that already comes with a license granting Advanced Algos the permissions we need to run our Service, no additional license is required. You understand that you will not receive any payment for any of the rights granted in Sections D.4 — D.7. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.</p>
+
+                    <h3 id="4licensegranttous">4. License Grant to Us</h3>
+
+                    <p>We need the legal right to do things like host Your Content, publish it, and share it. You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service. This includes the right to do things like copy it to our database and make backups; show it to you and other users; parse it into a search index or otherwise analyze it on our servers; share it with other users; and perform it, in case Your Content is something like music or video.</p>
+
+                    <p>This license does not grant Advanced Algos the right to sell Your Content or otherwise distribute or use it outside of our provision of the Service.</p>
+
+                    <h3 id="5licensegranttootherusers">5. License Grant to Other Users</h3>
+
+                    <p>Any User-Generated Content you post publicly, including issues, comments, and contributions to other Users' algobots, may be viewed by others. You agree to allow others to view and "fork" your algobots (this means that others may make their own copies of Content from your algobots).</p>
+
+                    <p>You grant each User of Advanced Algos a nonexclusive, worldwide license to use, display, and perform Your Content through the Advanced Algos Service and to reproduce Your Content solely on Advanced Algos as permitted through Advanced Algos' functionality (for example, through forking and cloning). If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other Advanced Algos Users.</p>
+
+                    <h3 id="6contributionsunderalgobotlicense">6. Contributions Under Algobot License</h3>
+
+                    <p>Whenever you make a contribution to an algobot containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms.</p>
+
+                    <p>Isn't this just how it works already? Yep. This is widely accepted as the norm in the open-source community; it's commonly referred to by the shorthand "inbound=outbound". We're just making it explicit.</p>
+
+                    <h3 id="7moralrights">7. Moral Rights</h3>
+
+                    <p>You retain all moral rights to Your Content that you upload, publish, or submit to any part of the Service, including the rights of integrity and attribution. However, you waive these rights and agree not to assert them against us, to enable us to reasonably exercise the rights granted in Section D.4, but not otherwise.</p>
+
+                    <p>To the extent this agreement is not enforceable by applicable law, you grant Advanced Algos the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.</p>
+
+                    <h2 id="ecopyrightinfringementanddmcapolicy">E. Copyright Infringement and DMCA Policy</h2>
+
+                    <p>If you believe that content on our website violates your copyright, please contact us. If you are a copyright owner and you believe that content on Advanced Algos violates your rights, please contact us. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.</p>
+
+                    <p>We will terminate the Accounts of repeat infringers of this policy.</p>
+
+                    <h2 id="fintellectualpropertynotice">F. Intellectual Property Notice</h2>
+
+                    <blockquote><strong>Short version:</strong> We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.</blockquote>
+
+                    <h3 id="1advancedalgosrightstocontent">1. Advanced Algos' Rights to Content</h3>
+
+                    <p>Advanced Algos and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © Advanced Algos, Ltd. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from Advanced Algos.</p>
+
+                    <h3 id="2advancedalgostrademarksandlogos">2. Advanced Algos Trademarks and Logos</h3>
+
+                    <p>If you’d like to use Advanced Algos' trademarks, you must follow all of our trademark guidelines, including those on our logos page.</p>
+
+                    <h2 id="gapiterms">G. API Terms</h2>
+
+                    <blockquote><strong>Short version:</strong> You agree to these Terms of Service, plus this Section G, when using any of Advanced Algos' APIs (Application Provider Interface), including use of the API through a third party product that accesses Advanced Algos.</blockquote>
+
+                    <h3 id="noabuseoroveruseoftheapi">No Abuse or Overuse of the API</h3>
+
+                    <p>Abuse or excessively frequent requests to Advanced Algos via the API may result in the temporary or permanent suspension of your Account's access to the API. Advanced Algos, in our sole discretion, will determine abuse or excessive usage of the API. We will make a reasonable attempt to warn you via email prior to suspension.</p>
+
+                    <p>You may not share API tokens to exceed Advanced Algos' rate limitations.</p>
+
+                    <p>You may not use the API to download data or Content from Advanced Algos for spamming purposes, including for the purposes of selling Advanced Algos users' personal information, such as to recruiters, headhunters, and job boards.</p>
+
+                    <p>All use of the Advanced Algos API is subject to these Terms of Service and the <a href="legal-privacy-statement.shtml">Advanced Algos Privacy Statement</a>.</p>
+
+                    <p>Advanced Algos may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of Advanced Algos' Service.</p>
+
+                    <h2 id="hthirdpartyapplications">H. Third Party Applications</h2>
+
+                    <blockquote><strong>Short version:</strong> You need to follow certain rules if you create an application for other Users, and there are additional Terms that cover the Marketplace.</blockquote>
+
+                    <h3 id="1creatingapplications">1. Creating Applications</h3>
+
+                    <p>If you create a third-party application or other developer product that collects User Personal Information or User-Generated Content and integrates with the Service through Advanced Algos' API, OAuth mechanism, or otherwise ("Developer Product"), and make it available for other Users, then you must comply with the following requirements:</p>
+
+                    <ul>
+                        <li><p>You must comply with this Agreement and the Advanced Algos Privacy Statement.</p></li>
+
+                        <li><p>Except as otherwise permitted, such as by law or by a license, you must limit your usage of the User Personal Information or User-Generated Content you collect to that purpose for which the User has authorized its collection. </p></li>
+
+                        <li><p>You must take all reasonable security measures appropriate to the risks, such as against accidental or unlawful destruction, or accidental loss, alteration, unauthorized disclosure or access, presented by processing the User Personal Information or User-Generated Content.</p></li>
+
+                        <li><p>You must not hold yourself out as collecting any User Personal Information or User-Generated Content on Advanced Algos' behalf, and provide sufficient notice of your privacy practices to the User, such as by posting a privacy policy.</p></li>
+
+                        <li><p>You must provide Users with a method of deleting any User Personal Information or User-Generated Content you have collected through Advanced Algos after it is no longer needed for the limited and specified purposes for which the User authorized its collection, except where retention is required by law or otherwise permitted, such as through a license.</p></li>
+                    </ul>
+
+                    <h3 id="2usingthirdpartyapplications">2. Using Third-Party Applications</h3>
+
+                    <p>You may grant a Developer Product authorization to use, access, and disclose the contents of your profile, including your algobots. Some Developer Products are available through the Advanced Algos Marketplace. Some Developer Products can be used for performing automated tasks, and often times multiple Users may direct the actions of a Developer Product. However, if you purchase and/or set up a Developer Product on your Account, or you are an owner of an Account with an integrated Developer Product, then you will be responsible for the Developer Product's actions that are performed on or through your Account. Please see our <a href="legal-privacy-statement.shtml">Privacy Statement</a> for more information about how we share data with Developer Products. </p>
+
+                    <p><strong>Advanced Algos makes no warranties of any kind in relation to Developer Products and is not liable for disclosures to third parties that you authorize to access Your Content. Your use of any third-party applications is at your sole risk.</strong></p>
+
+                    <p>If you buy Developer Products through Advanced Algos Marketplace, the Advanced Algos Marketplace Terms of Service controls your purchase. This Agreement, as well as the [Advanced Algos Marketplace Terms of Service, will govern your use of Advanced Algos Marketplace. </p>
+
+                    <h2 id="icancellationandtermination">I. Cancellation and Termination</h2>
+
+                    <blockquote><strong>Short version:</strong> You may close your Account at any time. If you do, we'll treat your information responsibly.</blockquote>
+
+                    <h3 id="1accountcancellation">1. Account Cancellation</h3>
+
+                    <p>It is your responsibility to properly cancel your Account with Advanced Algos. You can cancel your Account at any time by going into your User Profile. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel Accounts in response to an email or phone request.</p>
+
+                    <h3 id="2uponcancellation">2. Upon Cancellation</h3>
+
+                    <p>We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile within 90 days of cancellation or termination (though some information may remain in encrypted backups). This information can not be recovered once your Account is cancelled.</p>
+
+                    <p>We will not delete Content that you have contributed to other Users' Content or that other Users have forked.</p>
+
+                    <p>Upon request, we will make a reasonable effort to provide an Account owner with a copy of your lawful, non-infringing Account contents after Account cancellation, termination, or downgrade. You must make this request within 90 days of cancellation, termination, or downgrade.</p>
+
+                    <h3 id="3advancedalgosmayterminate">3. Advanced Algos May Terminate</h3>
+
+                    <p>Advanced Algos has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. Advanced Algos reserves the right to refuse service to anyone for any reason at any time.</p>
+
+                    <h3 id="4survival">4. Survival</h3>
+
+                    <p>All provisions of this Agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.</p>
+
+                    <h2 id="jcommunicationswithadvancedalgos">J. Communications with Advanced Algos</h2>
+
+                    <blockquote><strong>Short version:</strong> We use email and other electronic means to stay in touch with our users.</blockquote>
+
+                    <h3 id="1electroniccommunicationrequired">1. Electronic Communication Required</h3>
+
+                    <p>For contractual purposes, you (1) consent to receive communications from us in an electronic form via the email address you have submitted or via the Service; and (2) agree that all Terms of Service, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that those communications would satisfy if they were on paper. This section does not affect your non-waivable rights.</p>
+
+                    <h3 id="2legalnoticetoadvancedalgosmustbeinwriting">2. Legal Notice to Advanced Algos Must Be in Writing</h3>
+
+                    <p>Communications made through email or Advanced Algos Support's messaging system will not constitute legal notice to Advanced Algos or any of its officers, employees, agents or representatives in any situation where notice to Advanced Algos is required by contract or any law or regulation. Legal notice to Advanced Algos must be in writing and served on Advanced Algos' legal address.</p>
+
+                    <h3 id="3nophonesupport">3. No Phone Support</h3>
+
+                    <p>Advanced Algos only offers support via email, in-Service communications, and electronic messages. We do not offer telephone support.</p>
+
+                    <h2 id="kdisclaimerofwarranties">K. Disclaimer of Warranties</h2>
+
+                    <blockquote><strong>Short version:</strong> We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.</blockquote>
+
+                    <p>Advanced Algos provides the Website and the Service "as is" and "as available," without warranty of any kind. Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.</p>
+
+                    <p>Advanced Algos does not warrant that the Service will meet your requirements; that the Service will be uninterrupted, timely, secure, or error-free; that the information provided through the Service is accurate, reliable or correct; that any defects or errors will be corrected; that the Service will be available at any particular time or location; or that the Service is free of viruses or other harmful components. You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, software, content or other material obtained from the Service.</p>
+
+                    <h2 id="llimitationofliability">L. Limitation of Liability</h2>
+
+                    <blockquote><strong>Short version:</strong> We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.</blockquote>
+
+                    <p>You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from</p>
+
+                    <ul>
+                        <li><p>the use, disclosure, or display of your User-Generated Content;</p></li>
+
+                        <li><p>your use or inability to use the Service;</p></li>
+
+                        <li><p>any modification, price change, suspension or discontinuance of the Service;</p></li>
+
+                        <li><p>the Service generally or the software or systems that make the Service available;</p></li>
+
+                        <li><p>unauthorized access to or alterations of your transmissions or data;</p></li>
+
+                        <li><p>statements or conduct of any third party on the Service;</p></li>
+
+                        <li><p>any other user interactions that you input or receive through your use of the Service; or</p></li>
+
+                        <li><p>any other matter relating to the Service.</p></li>
+                    </ul>
+
+                    <p>Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.</p>
+
+                    <h2 id="mreleaseandindemnification">M. Release and Indemnification</h2>
+
+                    <blockquote><strong>Short version:</strong> You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.</blockquote>
+
+                    <p>If you have a dispute with one or more Users, you agree to release Advanced Algos from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.</p>
+
+                    <p>You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that Advanced Algos (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Advanced Algos of all liability); and (3) provides to you all reasonable assistance, at your expense.</p>
+
+                    <h2 id="nchangestotheseterms">N. Changes to These Terms</h2>
+
+                    <blockquote><strong>Short version:</strong> We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.</blockquote>
+
+                    <p>We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. </p>
+
+                    <p>We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.</p>
+
+                    <h2 id="smiscellaneous">S. Miscellaneous</h2>
+
+                    <h3 id="1governinglaw">1. Governing Law</h3>
+
+                    <p>Except to the extent applicable law provides otherwise, this Agreement between you and Advanced Algos and any access to or use of the Website or the Service are governed by the laws of Malta, without regard to conflict of law provisions. You and Advanced Algos agree to submit to the exclusive jurisdiction and venue of the courts located in Malta.</p>
+
+                    <h3 id="2nonassignability">2. Non-Assignability</h3>
+
+                    <p>Advanced Algos may assign or delegate these Terms of Service and/or the <a href="legal-privacy-statement.shtml">Advanced Algos Privacy Statement</a>, in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.</p>
+
+                    <h3 id="3sectiongeadingsandsummaries">3. Section Geadings and Summaries</h3>
+
+                    <p>Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions. These section titles and brief summaries are not legally binding.</p>
+
+                    <h3 id="4severabilitynowaiverandsurvival">4. Severability, No Waiver, and Survival</h3>
+
+                    <p>If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of Advanced Algos to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.</p>
+
+                    <h3 id="5amendmentscompleteagreement">5. Amendments; Complete Agreement</h3>
+
+                    <p>This Agreement may only be modified by a written amendment signed by an authorized representative of Advanced Algos, or by the posting by Advanced Algos of a revised version in accordance with Section N. Changes to These Term). These Terms of Service, together with the Advanced Algos Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and Advanced Algos relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.</p>
+
+                    <p> </p>
+
+                    <h1 id="expressagreementtoopensourceallworks">Express Agreement to Open Source All Works</h1>
+
+                    <blockquote>By forking, cloning and / or modifying algobots and any piece of software available at the Advanced Algos Platform you expressly agree to publish the resulting work under the GNU AFFERO GENERAL PUBLIC LICENSE. Publication is done automatically by the platform on your behalf, to which you expressly grant permission.</blockquote>
+
+                    <h2 id="gnuafferogeneralpubliclicense">GNU AFFERO GENERAL PUBLIC LICENSE</h2>
+
+                    <p>Version 3, 19 November 2007</p>
+
+                    <p>
+                        Copyright (C) 2007 Free Software Foundation, Inc. <a href="http://fsf.org/" rel="nofollow">http://fsf.org/</a>
+                        Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.
+                    </p>
+
+                    <h3 id="preamble">Preamble</h3>
+
+                    <p>The GNU Affero General Public License is a free, copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the community in the case of network server software.</p>
+
+                    <p>The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, our General Public Licenses are intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.</p>
+
+                    <p>When we speak of free software, we are referring to freedom, not price.  Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for them if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things.</p>
+
+                    <p>Developers that use our General Public Licenses protect your rights with two steps: (1) assert copyright on the software, and (2) offer you this License which gives you legal permission to copy, distribute and/or modify the software.</p>
+
+                    <p>A secondary benefit of defending all users' freedom is that improvements made in alternate versions of the program, if they receive widespread use, become available for other developers to incorporate.  Many developers of free software are heartened and encouraged by the resulting cooperation.  However, in the case of software used on network servers, this result may fail to come about. The GNU General Public License permits making a modified version and letting the public access it on a server without ever releasing its source code to the public.</p>
+
+                    <p>The GNU Affero General Public License is designed specifically to ensure that, in such cases, the modified source code becomes available to the community.  It requires the operator of a network server to provide the source code of the modified version running there to the users of that server.  Therefore, public use of a modified version, on a publicly accessible server, gives the public access to the source code of the modified version.</p>
+
+                    <p>An older license, called the Affero General Public License and published by Affero, was designed to accomplish similar goals.  This is a different license, not a version of the Affero GPL, but Affero has released a new version of the Affero GPL which permits relicensing under this license.</p>
+
+                    <p>The precise terms and conditions for copying, distribution and modification follow.</p>
+
+                    <h3 id="termsandconditions">TERMS AND CONDITIONS</h3>
+
+                    <h4 id="0definitions">0. Definitions.</h4>
+
+                    <p>"This License" refers to version 3 of the GNU Affero General Public License.</p>
+
+                    <p>"Copyright" also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.</p>
+
+                    <p>"The Program" refers to any copyrightable work licensed under this License.  Each licensee is addressed as "you".  "Licensees" and "recipients" may be individuals or organizations.</p>
+
+                    <p>To "modify" a work means to copy from or adapt all or part of the work in a fashion requiring copyright permission, other than the making of an exact copy.  The resulting work is called a "modified version" of the earlier work or a work "based on" the earlier work.</p>
+
+                    <p>A "covered work" means either the unmodified Program or a work based on the Program.</p>
+
+                    <p>To "propagate" a work means to do anything with it that, without permission, would make you directly or secondarily liable for infringement under applicable copyright law, except executing it on a computer or modifying a private copy.  Propagation includes copying, distribution (with or without modification), making available to the public, and in some countries other activities as well.</p>
+
+                    <p>To "convey" a work means any kind of propagation that enables other parties to make or receive copies.  Mere interaction with a user through a computer network, with no transfer of a copy, is not conveying.</p>
+
+                    <p>An interactive user interface displays "Appropriate Legal Notices" to the extent that it includes a convenient and prominently visible feature that (1) displays an appropriate copyright notice, and (2) tells the user that there is no warranty for the work (except to the extent that warranties are provided), that licensees may convey the work under this License, and how to view a copy of this License.  If the interface presents a list of user commands or options, such as a menu, a prominent item in the list meets this criterion.</p>
+
+                    <h4 id="1sourcecode">1. Source Code.</h4>
+
+                    <p>The "source code" for a work means the preferred form of the work for making modifications to it.  "Object code" means any non-source form of a work.</p>
+
+                    <p>A "Standard Interface" means an interface that either is an official standard defined by a recognized standards body, or, in the case of interfaces specified for a particular programming language, one that is widely used among developers working in that language.</p>
+
+                    <p>The "System Libraries" of an executable work include anything, other than the work as a whole, that (a) is included in the normal form of packaging a Major Component, but which is not part of that Major Component, and (b) serves only to enable use of the work with that Major Component, or to implement a Standard Interface for which an implementation is available to the public in source code form.  A "Major Component", in this context, means a major essential component (kernel, window system, and so on) of the specific operating system (if any) on which the executable work runs, or a compiler used to produce the work, or an object code interpreter used to run it.</p>
+
+                    <p>The "Corresponding Source" for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities.  However, it does not include the work's System Libraries, or general-purpose tools or generally available free programs which are used unmodified in performing those activities but which are not part of the work.  For example, Corresponding Source includes interface definition files associated with source files for the work, and the source code for shared libraries and dynamically linked subprograms that the work is specifically designed to require, such as by intimate data communication or control flow between those subprograms and other parts of the work.</p>
+
+                    <p>The Corresponding Source need not include anything that users can regenerate automatically from other parts of the Corresponding Source.</p>
+
+                    <p>The Corresponding Source for a work in source code form is that same work.</p>
+
+                    <h4 id="2basicpermissions">2. Basic Permissions.</h4>
+
+                    <p>All rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met.  This License explicitly affirms your unlimited permission to run the unmodified Program.  The output from running a covered work is covered by this License only if the output, given its content, constitutes a covered work.  This License acknowledges your rights of fair use or other equivalent, as provided by copyright law.</p>
+
+                    <p>You may make, run and propagate covered works that you do not convey, without conditions so long as your license otherwise remains in force.  You may convey covered works to others for the sole purpose of having them make modifications exclusively for you, or provide you with facilities for running those works, provided that you comply with the terms of this License in conveying all material for which you do not control copyright.  Those thus making or running the covered works for you must do so exclusively on your behalf, under your direction and control, on terms that prohibit them from making any copies of your copyrighted material outside their relationship with you.</p>
+
+                    <p>Conveying under any other circumstances is permitted solely under the conditions stated below.  Sublicensing is not allowed; section 10 makes it unnecessary.</p>
+
+                    <h4 id="3protectinguserslegalrightsfromanticircumventionlaw">3. Protecting Users' Legal Rights From Anti-Circumvention Law.</h4>
+
+                    <p>No covered work shall be deemed part of an effective technological measure under any applicable law fulfilling obligations under article 11 of the WIPO copyright treaty adopted on 20 December 1996, or similar laws prohibiting or restricting circumvention of such measures.</p>
+
+                    <p>When you convey a covered work, you waive any legal power to forbid circumvention of technological measures to the extent such circumvention is effected by exercising rights under this License with respect to the covered work, and you disclaim any intention to limit operation or modification of the work as a means of enforcing, against the work's users, your or third parties' legal rights to forbid circumvention of technological measures.</p>
+
+                    <h4 id="4conveyingverbatimcopies">4. Conveying Verbatim Copies.</h4>
+
+                    <p>You may convey verbatim copies of the Program's source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice; keep intact all notices stating that this License and any non-permissive terms added in accord with section 7 apply to the code;keep intact all notices of the absence of any warranty; and give all recipients a copy of this License along with the Program.</p>
+
+                    <p>You may charge any price or no price for each copy that you convey, and you may offer support or warranty protection for a fee.</p>
+
+                    <h4 id="5conveyingmodifiedsourceversions">5. Conveying Modified Source Versions.</h4>
+
+                    <p>You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code under the terms of section 4, provided that you also meet all of these conditions:</p>
+
+                    <p>a) The work must carry prominent notices stating that you modified it, and giving a relevant date.</p>
+
+                    <p>b) The work must carry prominent notices stating that it is released under this License and any conditions added under section 7.  This requirement modifies the requirement in section 4 to "keep intact all notices".</p>
+
+                    <p>c) You must license the entire work, as a whole, under this License to anyone who comes into possession of a copy.  This License will therefore apply, along with any applicable section 7 additional terms, to the whole of the work, and all its parts, regardless of how they are packaged.  This License gives no permission to license the work in any other way, but it does not invalidate such permission if you have separately received it.</p>
+
+                    <p>d) If the work has interactive user interfaces, each must display Appropriate Legal Notices; however, if the Program has interactive interfaces that do not display Appropriate Legal Notices, your work need not make them do so.</p>
+
+                    <p>A compilation of a covered work with other separate and independent works, which are not by their nature extensions of the covered work, and which are not combined with it such as to form a larger program, in or on a volume of a storage or distribution medium, is called an "aggregate" if the compilation and its resulting copyright are not used to limit the access or legal rights of the compilation's users beyond what the individual works permit.  Inclusion of a covered work in an aggregate does not cause this License to apply to the other parts of the aggregate.</p>
+
+                    <h4 id="6conveyingnonsourceforms">6. Conveying Non-Source Forms.</h4>
+
+                    <p>You may convey a covered work in object code form under the terms of sections 4 and 5, provided that you also convey the machine-readable Corresponding Source under the terms of this License, in one of these ways:</p>
+
+                    <p>a) Convey the object code in, or embodied in, a physical product  (including a physical distribution medium), accompanied by the Corresponding Source fixed on a durable physical medium customarily used for software interchange.</p>
+
+                    <p>b) Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by a written offer, valid for at least three years and valid for as long as you offer spare parts or customer support for that product model, to give anyone who possesses the object code either (1) a copy of the Corresponding Source for all the software in the product that is covered by this License, on a durable physical medium customarily used for software interchange, for a price no more than your reasonable cost of physically performing this conveying of source, or (2) access to copy the Corresponding Source from a network server at no charge.</p>
+
+                    <p>c) Convey individual copies of the object code with a copy of the written offer to provide the Corresponding Source.  This alternative is allowed only occasionally and noncommercially, and only if you received the object code with such an offer, in accord with subsection 6b.</p>
+
+                    <p>d) Convey the object code by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Corresponding Source in the same way through the same place at no further charge.  You need not require recipients to copy the Corresponding Source along with the object code.  If the place to copy the object code is a network server, the Corresponding Source may be on a different server (operated by you or a third party) that supports equivalent copying facilities, provided you maintain clear directions next to the object code saying where to find the Corresponding Source.  Regardless of what server hosts the Corresponding Source, you remain obligated to ensure that it is available for as long as needed to satisfy these requirements.</p>
+
+                    <p>e) Convey the object code using peer-to-peer transmission, provided you inform other peers where the object code and Corresponding Source of the work are being offered to the general public at no charge under subsection 6d.</p>
+
+                    <p>A separable portion of the object code, whose source code is excluded from the Corresponding Source as a System Library, need not be included in conveying the object code work.</p>
+
+                    <p>A "User Product" is either (1) a "consumer product", which means any tangible personal property which is normally used for personal, family, or household purposes, or (2) anything designed or sold for incorporation into a dwelling.  In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage.  For a particular product received by a particular user, "normally used" refers to a typical or common use of that class of product, regardless of the status of the particular user or of the way in which the particular user actually uses, or expects or is expected to use, the product.  A product is a consumer product regardless of whether the product has substantial commercial, industrial or non-consumer uses, unless such uses represent the only significant mode of use of the product.</p>
+
+                    <p>"Installation Information" for a User Product means any methods, procedures, authorization keys, or other information required to install and execute modified versions of a covered work in that User Product from a modified version of its Corresponding Source.  The information must suffice to ensure that the continued functioning of the modified object code is in no case prevented or interfered with solely because modification has been made.</p>
+
+                    <p>If you convey an object code work under this section in, or with, or specifically for use in, a User Product, and the conveying occurs as part of a transaction in which the right of possession and use of the User Product is transferred to the recipient in perpetuity or for a fixed term (regardless of how the transaction is characterized), the Corresponding Source conveyed under this section must be accompanied by the Installation Information.  But this requirement does not apply if neither you nor any third party retains the ability to install modified object code on the User Product (for example, the work has been installed in ROM).</p>
+
+                    <p>The requirement to provide Installation Information does not include a requirement to continue to provide support service, warranty, or updates for a work that has been modified or installed by the recipient, or for the User Product in which it has been modified or installed.  Access to a network may be denied when the modification itself materially and adversely affects the operation of the network or violates the rules and protocols for communication across the network.</p>
+
+                    <p>Corresponding Source conveyed, and Installation Information provided, in accord with this section must be in a format that is publicly documented (and with an implementation available to the public in source code form), and must require no special password or key for unpacking, reading or copying.</p>
+
+                    <h4 id="7additionalterms">7. Additional Terms.</h4>
+
+                    <p>"Additional permissions" are terms that supplement the terms of this License by making exceptions from one or more of its conditions. Additional permissions that are applicable to the entire Program shall be treated as though they were included in this License, to the extent that they are valid under applicable law.  If additional permissions apply only to part of the Program, that part may be used separately under those permissions, but the entire Program remains governed by this License without regard to the additional permissions.</p>
+
+                    <p>When you convey a copy of a covered work, you may at your option remove any additional permissions from that copy, or from any part of it.  (Additional permissions may be written to require their own removal in certain cases when you modify the work.)  You may place additional permissions on material, added by you to a covered work, for which you have or can give appropriate copyright permission.</p>
+
+                    <p>Notwithstanding any other provision of this License, for material you add to a covered work, you may (if authorized by the copyright holders of that material) supplement the terms of this License with terms:</p>
+
+                    <p>a) Disclaiming warranty or limiting liability differently from the terms of sections 15 and 16 of this License; or</p>
+
+                    <p>b) Requiring preservation of specified reasonable legal notices or author attributions in that material or in the Appropriate Legal Notices displayed by works containing it; or</p>
+
+                    <p>c) Prohibiting misrepresentation of the origin of that material, or requiring that modified versions of such material be marked in reasonable ways as different from the original version; or</p>
+
+                    <p>d) Limiting the use for publicity purposes of names of licensors or authors of the material; or</p>
+
+                    <p>e) Declining to grant rights under trademark law for use of some trade names, trademarks, or service marks; or</p>
+
+                    <p>f) Requiring indemnification of licensors and authors of that material by anyone who conveys the material (or modified versions of it) with contractual assumptions of liability to the recipient, for any liability that these contractual assumptions directly impose on those licensors and authors.</p>
+
+                    <p>All other non-permissive additional terms are considered "further restrictions" within the meaning of section 10.  If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is a further restriction, you may remove that term.  If a license document contains a further restriction but permits relicensing or conveying under this License, you may add to a covered work material governed by the terms of that license document, provided that the further restriction does not survive such relicensing or conveying.</p>
+
+                    <p>If you add terms to a covered work in accord with this section, you must place, in the relevant source files, a statement of the additional terms that apply to those files, or a notice indicating where to find the applicable terms.</p>
+
+                    <p>Additional terms, permissive or non-permissive, may be stated in the form of a separately written license, or stated as exceptions; the above requirements apply either way.</p>
+
+                    <h4 id="8termination">8. Termination.</h4>
+
+                    <p>You may not propagate or modify a covered work except as expressly provided under this License.  Any attempt otherwise to propagate or modify it is void, and will automatically terminate your rights under this License (including any patent licenses granted under the third paragraph of section 11).</p>
+
+                    <p>However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.</p>
+
+                    <p>Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.</p>
+
+                    <p>Termination of your rights under this section does not terminate the licenses of parties who have received copies or rights from you under this License.  If your rights have been terminated and not permanently reinstated, you do not qualify to receive new licenses for the same material under section 10.</p>
+
+                    <h4 id="9acceptancenotrequiredforhavingcopies">9. Acceptance Not Required for Having Copies.</h4>
+
+                    <p>You are not required to accept this License in order to receive or run a copy of the Program.  Ancillary propagation of a covered work occurring solely as a consequence of using peer-to-peer transmission to receive a copy likewise does not require acceptance.  However, nothing other than this License grants you permission to propagate or modify any covered work.  These actions infringe copyright if you do not accept this License.  Therefore, by modifying or propagating a covered work, you indicate your acceptance of this License to do so.</p>
+
+                    <h4 id="10automaticlicensingofdownstreamrecipients">10. Automatic Licensing of Downstream Recipients.</h4>
+
+                    <p>Each time you convey a covered work, the recipient automatically receives a license from the original licensors, to run, modify and propagate that work, subject to this License.  You are not responsible for enforcing compliance by third parties with this License.</p>
+
+                    <p>An "entity transaction" is a transaction transferring control of a team, or substantially all assets of one, or subdividing a team, or merging organizations.  If propagation of a covered work results from an entity transaction, each party to that transaction who receives a copy of the work also receives whatever licenses to the work the party's predecessor in interest had or could give under the previous paragraph, plus a right to possession of the Corresponding Source of the work from the predecessor in interest, if the predecessor has it or can get it with reasonable efforts.</p>
+
+                    <p>You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License.  For example, you may not impose a license fee, royalty, or other charge for exercise of rights granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit) alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Program or any portion of it.</p>
+
+                    <h4 id="11patents">11. Patents.</h4>
+
+                    <p>A "contributor" is a copyright holder who authorizes use under this License of the Program or a work on which the Program is based.  The work thus licensed is called the contributor's "contributor version".</p>
+
+                    <p>A contributor's "essential patent claims" are all patent claims owned or controlled by the contributor, whether already acquired or hereafter acquired, that would be infringed by some manner, permitted by this License, of making, using, or selling its contributor version, but do not include claims that would be infringed only as a consequence of further modification of the contributor version.  For purposes of this definition, "control" includes the right to grant patent sublicenses in a manner consistent with the requirements of this License.</p>
+
+                    <p>Each contributor grants you a non-exclusive, worldwide, royalty-free patent license under the contributor's essential patent claims, to make, use, sell, offer for sale, import and otherwise run, modify and propagate the contents of its contributor version.</p>
+
+                    <p>In the following three paragraphs, a "patent license" is any express agreement or commitment, however denominated, not to enforce a patent (such as an express permission to practice a patent or covenant not to sue for patent infringement).  To "grant" such a patent license to a party means to make such an agreement or commitment not to enforce a patent against the party.</p>
+
+                    <p>If you convey a covered work, knowingly relying on a patent license, and the Corresponding Source of the work is not available for anyone to copy, free of charge and under the terms of this License, through a publicly available network server or other readily accessible means, then you must either (1) cause the Corresponding Source to be so available, or (2) arrange to deprive yourself of the benefit of the patent license for this particular work, or (3) arrange, in a manner consistent with the requirements of this License, to extend the patent license to downstream recipients.  "Knowingly relying" means you have actual knowledge that, but for the patent license, your conveying the covered work in a country, or your recipient's use of the covered work in a country, would infringe one or more identifiable patents in that country that you have reason to believe are valid.</p>
+
+                    <p>If, pursuant to or in connection with a single transaction or arrangement, you convey, or propagate by procuring conveyance of, a covered work, and grant a patent license to some of the parties receiving the covered work authorizing them to use, propagate, modify or convey a specific copy of the covered work, then the patent license you grant is automatically extended to all recipients of the covered work and works based on it.</p>
+
+                    <p>A patent license is "discriminatory" if it does not include within the scope of its coverage, prohibits the exercise of, or is conditioned on the non-exercise of one or more of the rights that are specifically granted under this License.  You may not convey a covered work if you are a party to an arrangement with a third party that is in the business of distributing software, under which you make payment to the third party based on the extent of your activity of conveying the work, and under which the third party grants, to any of the parties who would receive the covered work from you, a discriminatory patent license (a) in connection with copies of the covered work conveyed by you (or copies made from those copies), or (b) primarily for and in connection with specific products or compilations that contain the covered work, unless you entered into that arrangement, or that patent license was granted, prior to 28 March 2007.</p>
+
+                    <p>Nothing in this License shall be construed as excluding or limiting any implied license or other defenses to infringement that may otherwise be available to you under applicable patent law.</p>
+
+                    <h4 id="12nosurrenderofothersfreedom">12. No Surrender of Others' Freedom.</h4>
+
+                    <p>If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License.  If you cannot convey a covered work so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not convey it at all.  For example, if you agree to terms that obligate you to collect a royalty for further conveying from those to whom you convey the Program, the only way you could satisfy both those terms and this License would be to refrain entirely from conveying the Program.</p>
+
+                    <h4 id="13remotenetworkinteractionusewiththegnugeneralpubliclicense">13. Remote Network Interaction; Use with the GNU General Public License.</h4>
+
+                    <p>Notwithstanding any other provision of this License, if you modify the Program, your modified version must prominently offer all users interacting with it remotely through a computer network (if your version supports such interaction) an opportunity to receive the Corresponding Source of your version by providing access to the Corresponding Source from a network server at no charge, through some standard or customary means of facilitating copying of software.  This Corresponding Source shall include the Corresponding Source for any work covered by version 3 of the GNU General Public License that is incorporated pursuant to the following paragraph.</p>
+
+                    <p>Notwithstanding any other provision of this License, you have permission to link or combine any covered work with a work licensed under version 3 of the GNU General Public License into a single combined work, and to convey the resulting work.  The terms of this License will continue to apply to the part which is the covered work, but the work with which it is combined will remain governed by version 3 of the GNU General Public License.</p>
+
+                    <h4 id="14revisedversionsofthislicense">14. Revised Versions of this License.</h4>
+
+                    <p>The Free Software Foundation may publish revised and/or new versions of the GNU Affero General Public License from time to time.  Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.</p>
+
+                    <p>Each version is given a distinguishing version number.  If the Program specifies that a certain numbered version of the GNU Affero General Public License "or any later version" applies to it, you have the option of following the terms and conditions either of that numbered version or of any later version published by the Free Software Foundation.  If the Program does not specify a version number of the GNU Affero General Public License, you may choose any version ever published by the Free Software Foundation.</p>
+
+                    <p>If the Program specifies that a proxy can decide which future versions of the GNU Affero General Public License can be used, that proxy's public statement of acceptance of a version permanently authorizes you to choose that version for the Program.</p>
+
+                    <p>Later license versions may give you additional or different permissions.  However, no additional obligations are imposed on any author or copyright holder as a result of your choosing to follow a later version.</p>
+
+                    <h4 id="15disclaimerofwarranty">15. Disclaimer of Warranty.</h4>
+
+                    <p>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</p>
+
+                    <h4 id="16limitationofliability">16. Limitation of Liability.</h4>
+
+                    <p>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
+
+                    <h4 id="17interpretationofsections15and16">17. Interpretation of Sections 15 and 16.</h4>
+
+                    <p>If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.</p>
+
+                    <p>END OF TERMS AND CONDITIONS</p>
+
+                    <p>How to Apply These Terms to Your New Programs</p>
+
+                    <p>If you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.</p>
+
+                    <p>To do so, attach the following notices to the program.  It is safest to attach them to the start of each source file to most effectively state the exclusion of warranty; and each file should have at least the "copyright" line and a pointer to where the full notice is found.</p>
+
+                    <p>
+                        <one line to give the program's name and a brief idea of what it does.>
+                            Copyright (C) <year>  <name of author>
+                    </p>
+
+                    <p>This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.</p>
+
+                    <p>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.</p>
+
+                    <p>You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <a href="http://www.gnu.org/licenses/" rel="nofollow">http://www.gnu.org/licenses/</a>.</p>
+
+                    <p>Also add information on how to contact you by electronic and paper mail.</p>
+
+                    <p>If your software can interact with users remotely through a computer network, you should also make sure that it provides a way for users to get its source.  For example, if your program is a web application, its interface could display a "Source" link that leads users to an archive of the code.  There are many ways you could offer source, and different solutions will be better for different programs; see section 13 for the specific requirements.</p>
+
+                    <p>You should also get your employer (if you work as a programmer) or school, if any, to sign a "copyright disclaimer" for the program, if necessary. For more information on this, and how to apply and follow the GNU AGPL, see <a href="http://www.gnu.org/licenses/" rel="nofollow">http://www.gnu.org/licenses/</a>.</p>
+
+                </div>
+
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>

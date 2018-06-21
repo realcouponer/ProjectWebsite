@@ -1,0 +1,53 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>About Advanced Algos Ltd.</title>
+    <meta name="description" content="The role of the startup in the Advanced Algos Project">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="side_menu_page">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/side-menu.shtml" -->
+        <section id="about_section" class="light_section margin_top_none" style="margin-top: -100px">
+            <div class="container">
+
+                <div class="col-sm-10">
+                    <h1 id="exchangeapikey">Exchange API Key</h1>
+                    <p>The AAPlatform places orders on exchanges through the use of the exchanges' APIs. You will need to create an API Key and configure your bot to use it.</p>
+                    <h2 id="creatingtheapikey">Creating the API Key</h2>
+                    <p>This is how you create an API Key in Poloniex:</p>
+                    <p>Go to the tools menu and select <em>API KEYS</em>...</p>
+                    <div class="polaroid">
+                        <img src="img/doc/Poloniex-API-01.png" alt="Poloniex" style="width:100%">
+                    </div>
+                    <p>If you have never used the API before, chances are it is disabled at the exchange. So before actually creating an API Key you will need to enable them...</p>
+                    <div class="polaroid">
+                        <img src="img/doc/Poloniex-API-02.png" alt="Poloniex" style="width:100%">
+                    </div>
+                    <p>You will need to follow the validation process involving checking your email and confirming your choice. Once that is taken care of, go back to the tools menu and click <em>API KEY</em> again. You should now see a screen offering to create a new key...</p>
+                    <div class="polaroid">
+                        <img src="img/doc/Poloniex-API-03.png" alt="Poloniex" style="width:100%">
+                    </div>
+                    <p>Once you create your key, the system will present it as follows...</p>
+                    <div class="polaroid">
+                        <img src="img/doc/Poloniex-API-04.png" alt="Poloniex" style="width:100%">
+                    </div>
+                    <p><strong>Make sure you DO NOT enable withdrawals nor IP access restrictions</strong>.</p>
+                </div>
+
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>
