@@ -1,0 +1,52 @@
+﻿
+    <div class="sidemenu_wrap swpLeftPos">
+        <div class="sidemenu_button fa fa-navicon"></div>
+        <div class="menuTranform">
+            <div class="sc_scroll scroll-container inited sidemenu_scroll" id="sidemenu_scroll">
+                <div class="sc_scroll_wrapper">
+                    <div class="sc_scroll_slide margin_top_big">
+
+                        <div class="logo with_text">
+                            <a href="documentation-quick-start.shtml">
+                                <span class="logo_text">Documentation</span>
+                            </a>
+                        </div>
+
+                        <nav role="navigation" class="sidemenu_area">
+                            <ul id="sidemenu" class="">
+                                <li>
+                                    <a href="documentation-quick-start.shtml">Quick Start</a>
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a href="documentation-poloniex-api-key.shtml">Poloniex API Key</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="documentation-interface.shtml">Interface</a>
+                                </li>
+                                <li>
+                                    <a href="documentation-introduction.shtml">Introduction</a>
+                                </li>
+                                <li>
+                                    <a href="documentation-aaplatform.shtml">AA Platform</a>
+                                </li>
+                                <li>
+                                    <a href="documentation-algobots.shtml">Algobots</a>
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a href="documentation-t-bots.shtml">T-Bots</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </nav>
+                        <div class="sidemenu_close">x</div>
+                    </div>
+                </div>
+                <div id="sidemenu_scroll_bar" class="">
+                    <div class="swiper-scrollbar-drag"></div>
+                </div>
+            </div>
+        </div>
+    </div>
