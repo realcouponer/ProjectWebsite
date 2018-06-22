@@ -1,0 +1,125 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Quick Start Guide</title>
+    <meta name="description" content="Get started in the Algobots Competition Platform by Advanced Algos">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="side_menu_page">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/side-menu.shtml" -->
+        <section id="about_section" class="light_section margin_top_none" style="margin-top: -100px">
+            <div class="container">
+
+                <div class="col-sm-10">
+                    <h1 id="quickstartguide">Quick Start Guide</h1>
+
+                    <p>Welcome to the Algobots Competition Platform! This guide will take you on the express lane to trading with your algobot live in 60 seconds. Once you are up and running, use the menu on the left to access the rest of the documentation that will help you make the most out of your algobot and the platform.</p>
+
+                    <h2 id="requirements">Requirements</h2>
+
+                    <ul>
+                        <li><p>A verified account with Poloniex. If you don't have one, <a href="https://poloniex.com/signup" target="_blank" rel="nofollow">get it here</a>. Make sure you go through the verification process so that you can trade freely.</p></li>
+
+                        <li><p>An API Key to access your account programmatically. If you don't have an API key, follow the <a href="documentation-poloniex-api-key.shtml">instructions</a> to get one. </p></li>
+
+                        <li><p>A modern Internet browser like Chrome, Edge, Firefox or Safari.</p></li>
+                    </ul>
+
+                    <h2 id="getyourtokentoaccesstheplatform">Get Your Token to Access the Platform</h2>
+
+                    <p>You will need to come up with a name for your Team (other people may want to join your team later on, so pick a cool name), a name for your Algobot and your own UserName. Send those to us and you will get a URL to access the platform in return.</p>
+
+                    <h2 id="accesstheplatform">Access the Platform</h2>
+
+                    <p>Access the platform by navigating to the URL we sent you. Once the platform finishes loading, you will see something like this:</p>
+
+                    <div class="polaroid">
+                        <img src="img/doc/AAWeb-01-First-Screen.png" alt="Algobots Competition Platform">
+                    </div>
+
+                    <p>Notice the elements marked in <span class="red_text">red numbers</span> on the top bar:</p>
+
+                    <ol style="list-style-type:decimal;">
+                        <li>
+                            <p>
+                                Your user name.
+                            </p>
+                        </li>
+
+                        <li>
+                            <p>
+                                Your team's name.
+                            </p>
+                        </li>
+
+                        <li>
+                            <p>
+                                Your algobot's name.
+                            </p>
+                        </li>
+
+                        <li>
+                            <p>
+                                Your algobot's main process name (algobots may have more than one process).
+                            </p>
+                        </li>
+
+                        <li>
+                            <p>
+                                The running mode: Backtest / Live / Competition (click to cycle through all options).
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                The <em>Play</em> button.
+                            </p>
+                        </li>
+                    </ol>
+
+                    <h2 id="accessyouralgobotscode">Access Your Algobot's Code</h2>
+
+                    <p>Set the running mode to <em>Backtest</em> and click the <em>Play</em> button on the top right corner of the screen. Then hit <kbd>F12</kbd> in your keyboard to open your browser's <em>Developer Tools</em> and select the <em>Source</em> tab.</p>
+
+                    <p>You will find the source code of your algobot in the <em>User.Bot.js</em> file under the <em>Bots / AAYourTeam / members / YourUserName / AAYourAlgobot-Trading-Process > Trading-Process</em> folder.</p>
+
+                    <div class="polaroid">
+                        <img src="img/doc/AAWeb-02-Dev-Tools-Source-Code.png" alt="Algobots Competition Platform">
+                    </div>
+
+                    <h2 id="editthesourcecode">Edit the Source Code</h2>
+
+                    <p>Try editing the source code by including a simple comment line and hit <kbd>Ctrl+S</kbd> / <kbd>Cmd+S</kbd> to save the changes.</p>
+
+                    <h2 id="tradelive">Trade Live</h2>
+
+                    <p>In order to trade live you will need to send us your API Key for us to configure the access to the exchange from the Cloud. Once the configuration is done, cycle to <em>Live</em> mode and click <em>Play</em>.</p>
+
+                    <p>You may login to the exchange and check the <em>My Open Orders</em> and <em>My Trading History &amp; Analysis</em> pages to find the orders placed by your algobot.</p>
+
+                    <h2 id="thatsit">That's it!</h2>
+
+                    <p>Now that you are up and running, keep exploring this documentation to learn more about the platform and your algobot so that you can get the most out of them. We recommend starting with the <a href="documentation-intro.shtml">Intro page</a>!</p>
+
+                    <h2 id="joinourtelegramchannel">Support</h2>
+
+                    <p>Join the <a href="https://t.me/advancedalgos" rel="nofollow">Advanced Algos Telegram Channel</a> through which we offer technical support and answer questions.</p>
+
+                </div>
+
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>
