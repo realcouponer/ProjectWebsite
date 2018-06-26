@@ -48,8 +48,8 @@
                                     <img src="img/illustrations/slider03.svg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
                                         <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp text-center">
-                                                <h3><span style="letter-spacing: 5px;">Visually debug,</span></br>backtest, code and</br><span style="letter-spacing: 15px;">TRADE LIVE</span></br><span style="letter-spacing: 5px; font-weight: 700; color:#F4E409">on the browser</span></h3>
+                                            <div data-animation="fadeInUp">
+                                                <h3><span style="letter-spacing: 0.16em;">Visually debug,</span></br><span style="letter-spacing: 0.05em;">backtest, code and</span></br><span style="letter-spacing: 0.4em;">TRADE LIVE</span></br><span style="letter-spacing: 0.17em; font-weight: 700; color:#F4E409">on the browser</span></h3>
                                             </div>
                                         </div>
                                     </div>
@@ -75,9 +75,9 @@
                                 </div>
                                 <div class="sc_title_underline"></div>
                                 <ul>
-                                    <li><p class="sc_content">Debug visually on the charts and also in the code.</p></li>
-                                    <li><p class="sc_content">Change algobots code with the browser's developer tools.</p></li>
-                                    <li><p class="sc_content">No arbitrary barriers imposed on your creativity. You may code anything JavaScript allows you to, within the bounds of appropriate behavior.</p></li>
+                                    <li><p>Debug visually on the charts and also in the code.</p></li>
+                                    <li><p>Change algobots code with the browser's developer tools.</p></li>
+                                    <li><p>No arbitrary barriers imposed on your creativity. You may code anything JavaScript allows you to, within the bounds of appropriate behavior.</p></li>
                                 </ul>
                             </div>
                             <div class="col-sm-4 sc_content">
@@ -87,8 +87,8 @@
                                 </div>
                                 <div class="sc_title_underline"></div>
                                 <ul>
-                                    <li><p class="sc_content">Algobot optimization and efficiency developed by the combined force of community collaboration and the constant iterative improvements gained through ongoing cycles of competition.</p></li>
-                                    <li><p class="sc_content">Public access and verification of algobot evolutionary track record.</p></li>
+                                    <li><p>Algobot optimization and efficiency developed by the combined force of community collaboration and the constant iterative improvements gained through ongoing cycles of competition.</p></li>
+                                    <li><p>Public access and verification of algobot evolutionary track record.</p></li>
                                 </ul>
                             </div>
                             <div class="col-sm-4 sc_content">
@@ -98,9 +98,9 @@
                                 </div>
                                 <div class="sc_title_underline"></div>
                                 <ul>
-                                    <li><p class="sc_content">Start trading live right off the bat!</p></li>
-                                    <li><p class="sc_content">Backtest and improve your algobot by fine-tuning or incorporating new logic.</p></li>
-                                    <li><p class="sc_content">Take your bot to the Arena and test it's prowess against other algobots</p></li>
+                                    <li><p>Start trading live right off the bat!</p></li>
+                                    <li><p>Backtest and improve your algobot by fine-tuning or incorporating new logic.</p></li>
+                                    <li><p>Take your bot to the Arena and test it's prowess against other algobots</p></li>
                                 </ul>
 
                             </div>
