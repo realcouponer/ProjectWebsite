@@ -31,7 +31,7 @@
 
                         <li><p>An API Key to access your account programmatically. If you don't have an API key, follow the <a href="documentation-poloniex-api-key.shtml">instructions</a> to get one. </p></li>
 
-                        <li><p>A modern Internet browser like Chrome, Edge, Firefox or Safari.</p></li>
+                        <li><p>A modern Internet browser like Chrome (Version 67.0.3396.87 or later), Edge, Firefox or Safari.</p></li>
                     </ul>
 
                     <h2 id="getyourtokentoaccesstheplatform">Get Your Token to Access the Platform</h2>
