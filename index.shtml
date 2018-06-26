@@ -29,6 +29,16 @@
                                     <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp text-center">
+                                                <h3><span style="letter-spacing: 0.11em;">Get your own</span></br><span style="font-weight: 700; letter-spacing: 0.05em;">crypto-trading</span></br> <span style="letter-spacing: 0.4em;">ALGOBOT</span></br><span style="letter-spacing: 0.05em; font-weight: 700; color:#f4e409">in 60 seconds</span></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <img src="img/illustrations/slider01.svg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp text-center">
                                                 <h3><span style="letter-spacing: 4px;">Get your own</span></br><span style="font-weight: 700; letter-spacing: 1px;">crypto-trading</span></br><span style="letter-spacing: 18px;">ALGOBOT</span></br><span style="letter-spacing: 2px; font-weight: 700; color:#f4e409">in 60 seconds</span></h3>
                                             </div>
                                         </div>
