@@ -28,8 +28,8 @@
                                     <img src="img/illustrations/slider01.svg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
                                         <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp">
-                                                <h3>Get your own</br>crypto-trading</br>algobot in</br>60 seconds</h3>
+                                            <div data-animation="fadeInUp text-center">
+                                                <h3>Get your own</br><strong>crypto-trading</strong></br><span style="letter-spacing: 2px;">ALGOBOT</span></br><strong>in 60 seconds</strong></h3>
                                             </div>
                                         </div>
                                     </div>

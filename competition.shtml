@@ -43,16 +43,16 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-10">
+                    <div class="col-sm-6">
 
                         <p>The Algobots Arena is the host of our first competition of cryptocurrency-trading bots, or what we call <em>algobots</em>. The foundation of the Arena is powered by the <em>AAPlatform</em> &mdash;a system developed by Advanced Algos Ltd. that dramatically simplifies the creation and operation of algobots.</p>
 
                         <p>At this point, the AAPlatform is in the alpha-stage with a large portion of functionality still under development. However, hosting early-stage competitions helps bootstrapping the community and integrate early feedback from both developers and traders.</p>
-
+                    </div>
+                    <div class="col-sm-6">
                         <p>In the near future, the AAPlatform is set to implement a business enabling end-users access to subscriptions for algobots to trade on their behalf. Subscription fees will cover the costs of the infrastructure and pay Teams fees for their work creating algobots. Subscriptions and fees will be paid in ALGO, the AAPlatform's native token.</p>
 
                         <p>Participating in early competitions not only offers you the chance to have fun and win prizes, but makes you a part of the Community and puts you in the vanguard of the project, as an early adopter and pioneer.</p>
-
                     </div>
                 </div>
             </div>
@@ -67,10 +67,13 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-10">
+                    <div class="col-sm-12 text-center">
+                        <p>If you are not familiar with the AAPlatform and algobots in general,</br>visit the <a href="documentation-quick-start.shtml">Quick Start Guide</a> for a 60 seconds introduction into our world.</p>
 
-                        <p>If you are not familiar with the AAPlatform and algobots in general, visit the <a href="documentation-quick-start.shtml">Quick Start Guide</a> for a 60 seconds introduction into our world.</p>
 
+                        <span class="sc_button sc_button_style_border_1 sc_button_size_big margin_bottom_mini margin_top_mini squareButton border_1 big">
+                            <a href="documentation-quick-start.shtml">Get me started!</a>
+                        </span>
                     </div>
                 </div>
             </div>
