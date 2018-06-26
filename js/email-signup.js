@@ -9,7 +9,7 @@ jQuery( document ).ready(function($) {
         .done(function(success){
           console.log('success', success);
           $('#email-signup').trigger("reset");
-          $('.message').innerHTML("Please check your email for to confirm your address");
+          $('.message').innerHTML("Please check your inbox to confirm your email address. In cse you can not find the confirmation email, please check your trash or junk mail folder.");
           $('.message').fadeIn(1000);
         })
         .fail(function(xhr, status, errorThrown){
