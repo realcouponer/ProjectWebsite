@@ -101,7 +101,12 @@
 
                     <h2 id="editthesourcecode">Edit the Source Code</h2>
 
-                    <p>Try editing the source code by including a simple comment line and hit <kbd>Ctrl+S</kbd> / <kbd>Cmd+S</kbd> to save the changes.</p>
+                    <p>Try editing the source code by including a simple comment line and hit <kbd>Ctrl+S</kbd> / <kbd>Cmd+S</kbd> to save the changes. Seconds after you save, CloudVM should log the following events:</p>
+
+                    <pre><code class="Mardown language-Markdown">
+CloudVM -> Bot code changes detected.
+CloudVM -> Changes in code saved.
+                    </code></pre>
 
                     <h2 id="tradelive">Trade Live</h2>
 
@@ -111,7 +116,9 @@
 
                     <h2 id="thatsit">That's it!</h2>
 
-                    <p>Now that you are up and running, keep exploring this documentation to learn more about the platform and your algobot so that you can get the most out of them. We recommend starting with the <a href="documentation-intro.shtml">Intro page</a>!</p>
+                    <p>Before moving on, plese refresh the page ( <kbd>F5</kbd> ) so that the rest of the interface updates with your algobot's current configuration.</p>
+
+                    <p>Now that you are up and running, keep exploring this documentation to learn more about the platform and your algobot so that you can get the most out of them. We recommend starting with the <a href="documentation-interface.shtml">Interface page</a>!</p>
 
                     <h2 id="joinourtelegramchannel">Support</h2>
 
