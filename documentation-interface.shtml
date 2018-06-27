@@ -94,6 +94,15 @@ if (FULL_LOG === true) { logger.write(MODULE_NAME, "[INFO] run -> loop -> Plot B
 
                             <li><p>This is the <em>Running Mode</em> control. Click it and you will cycle through the three available running options: Backtest, Live and Competition. Select which mode you wish to run your algobot in and click Play.</p></li>
 
+                            <li><p>This is the <em>Delete Button</em>. Click it to delete Backtest, Live or Competition history (depending on what mode you are running) and start over with fresh data. Before you click the delete button, you should first turn the corresponding layer <em>off</em>. For instance, if you wish to delete Backtest data, do the following:</p></li>
+
+                            <ul>
+                                <li>Cycle the running mode to <em>Backtest</em>.</li>
+                                <li>Turn the Backtest History layer <em>on</em> in the Algobots Products Pannel.</li>
+                                <li>Click the delete button.</li>
+                                <li>Once you are running the bot in Backtest mode again, you may switch the Backtest History layer back <em>on</em>.</li>
+                            </ul>
+
                             <h4>User Information</h4>
 
                             <li><p>This is your <em>UserName</em>.</p></li>
@@ -184,29 +193,6 @@ if (FULL_LOG === true) { logger.write(MODULE_NAME, "[INFO] run -> loop -> Plot B
                     </div>
                 </div>
 
-                <div class="row">
-                    <div class="col-sm-10">
-                        <h2 id="actioninacompetitionsetting">Action in a Competition Setting</h2>
-
-                        <p>Competition related events are &ndash;too&ndash; rendered over the timeline. A thin red vertical line marks the start of the competition and a checkered vertical banner marks the end of the competition.</p>
-
-                        <div class="polaroid">
-                            <img src="img/doc/Interface-04-competition.png" alt="Algobots Competition Platform">
-                        </div>
-
-                        <p>T-Bots keep showing their trades on the charts, as usual. In addition, a new area of the timeline gains relevance: the intersection of the red vertical line with the 0% horizontal mark of the ROI scale in the left margin. This is exactly where the competition starts.</p>
-
-                        <p>Trading algobots start out the competition at the 0% mark and their ROI is tracked with every single execution (every one minute) and rendered in the timeline accordingly.</p>
-
-                        <p>In other words, the competition can be followed in real time simply by watching the timeline.</p>
-
-                        <blockquote>
-                            <p>Bear in mind that the information plotted in the timeline is refreshed at the interval specified by the time period being displayed; that is, one-minute candles refresh every one minute, while tow-hours condles refresh every two hours.</p>
-                        </blockquote>
-
-                    </div>
-
-                </div>
             </div>
 </section>
 
