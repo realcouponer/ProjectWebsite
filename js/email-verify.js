@@ -1,22 +1,24 @@
 jQuery( document ).ready(function($) {
-   var p={};
-   var token = '';
-   location.search.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(s,k,v){token = p['token']})
-   console.log('token: ', token);
+  var param = document.URL.match(/token=([a-zA-Z0-9.]+)/)
+  var token = (param[1] != null || param[1] != undefined) ? param[1] : '';
 
    if(token !== ''){
      $.ajax({
-       type: "POST",
-       url: "http://aa-sendgrid-signup.azurewebsites.net/api/emailverify",
-       data: { "token": token }
-     })
-     .done(function(success){
-       console.log('success', success);
-       $('#verify-message').innerHTML("Thank you! Your email address has been verified.");
-     })
-     .fail(function(xhr, status, errorThrown){
-       console.log('error', xhr, status, errorThrown);
-       $('#verify-message').innerHTML("We're sorry, there's been an error - " + status + ": " + errorThrown);
+       type: "GET",
+       url: "https://aa-sendgrid-signup.azurewebsites.net/api/signup/" + token + '?callback=?',
+       dataType: 'jsonp',
+       success: function (response, status) {
+         $('#verify-message').html("Thank you! Your email address has been verified.");
+        },
+        error: function (xOptions, textStatus) {
+          if (textStatus === 'parsererror' && xOptions.status >= 200 && xOptions.status <= 300){
+            $('#verify-message').html("Thank you! Your email address has been verified.");
+            $('#verify-loader').toggle("slow");
+          } else {
+            $('#verify-message').html("We're sorry, there's been an error - " + textStatus + ": " + xOptions);
+            $('#verify-loader').toggle("slow");
+          }
+        }
      });
    }
 });
