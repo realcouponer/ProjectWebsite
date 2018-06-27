@@ -94,6 +94,8 @@ if (FULL_LOG === true) { logger.write(MODULE_NAME, "[INFO] run -> loop -> Plot B
 
                             <li><p>This is the <em>Running Mode</em> control. Click it and you will cycle through the three available running options: Backtest, Live and Competition. Select which mode you wish to run your algobot in and click Play.</p></li>
 
+                            <li><p>This is the <em>Delete Button</em>. Click it to delete Backtest, Live and Competition history (depending on what mode you are running) and start over with fresh data.</p></li>
+
                             <h4>User Information</h4>
 
                             <li><p>This is your <em>UserName</em>.</p></li>
