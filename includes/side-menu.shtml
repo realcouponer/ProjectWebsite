@@ -20,13 +20,13 @@
                                         <li>
                                             <a href="documentation-poloniex-api-key.shtml">Poloniex API Key</a>
                                         </li>
-                                        <li>
-                                            <a href="documentation-interface.shtml">Interface</a>
-                                        </li>
-                                        <li>
-                                            <a href="documentation-competition.shtml">Competition</a>
-                                        </li>
                                     </ul>
+                                </li>
+                                <li>
+                                    <a href="documentation-interface.shtml">Interface</a>
+                                </li>
+                                <li>
+                                    <a href="documentation-competition.shtml">Competition</a>
                                 </li>
                                 <li>
                                     <a href="documentation-introduction.shtml">Introduction</a>
