@@ -7,6 +7,7 @@ jQuery( document ).ready(function($) {
         $.ajax({
             type: "GET",
             url: "https://aa-sendgrid-signup.azurewebsites.net/api/sendverify/" + email + '?callback=?',
+            crossDomain: true,
             dataType: 'jsonp',
           success: function (response, status) {
             //console.log('success', response, status);
