@@ -1,4 +1,4 @@
-<footer id="footer" class="dark_section footerStyleDark" style="margin-top: -20px">
+﻿<footer id="footer" class="dark_section footerStyleDark" style="margin-top: -20px">
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-sm-6">
@@ -8,29 +8,27 @@
                     </a>
                 </div>
                 <div class="logo_descr">
-                    <p><strong>Advanced Algos Ltd.</strong></br>Ground Floor, Palace Court, Church Street, St. Julians STJ3049, Malta</p>
+                    <p><strong>Advanced Algos Ltd.</strong></br>Ground Floor, Palace Court, Church Street, St.&nbsp;STJ3049, Malta</p>
                     <p><a href="legal-privacy-statement.shtml">Privacy Statement</a> | <a href="legal-terms-of-service.shtml">Terms of Service</a></p>
-
                 </div>
             </div>
 
-            <div class="col-md-2 col-sm-6">
+            <div class="col-md-2 col-sm-6"></div>
 
-            </div>
-            <div class="col-md-6 col-sm-6" style="margin-top:10px;">
+            <div class="col-md-6 col-sm-6" style="margin-top:15px;">
+
                 <!--#include file="email-signup.shtml" -->
-                <div class="socPage widgetWrap margin_top_mini">
+                <p>Meet us on Social Networks:</p>
+                <div class="socPage widgetWrap">
                     <ul>
                         <li><a class="fab fa-telegram-plane" target="_blank" href="https://t.me/advancedalgos" title="Join us on Telgram"></a></li>
                         <li><a class="fab fa-twitter" target="_blank" href="https://twitter.com/advancedalgos" title="Follow us on Twitter"></a></li>
                         <li><a class="fab fa-facebook-f" target="_blank" href="https://www.facebook.com/Advanced-Algos-173249670001615/" title="Meet us on Facebook"></a></li>
                     </ul>
                 </div>
-            </div>
-<<<<<<< HEAD
 
-=======
->>>>>>> 18df05bbfc597f0f088cf1ec35b79e935a49935e
+            </div>
+
         </div>
     </div>
 </footer>
