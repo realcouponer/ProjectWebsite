@@ -3903,16 +3903,18 @@ label.required:after{ color:#e3493c; content:'*'; display:block; float:left; mar
 .socPage ul > li {
     color: #acb4b6;
 }
-.socPage ul li {
-    list-style: none;
-    display: inline-block;
-    min-height: 25px;
-    font-size: 14px;
-    line-height: 25px;
-    font-weight: 100;
-    position: relative;
-}
+    .socPage ul li {
+        margin: 0 20px 0 0;
+        list-style: none;
+        display: inline-block;
+        min-height: 25px;
+        font-size: 30px;
+        line-height: 25px;
+        font-weight: 100;
+        position: relative;
+    }
 .author .socPage ul li a,
+/*
 .socPage ul li a {
     width: 40px;
     height: 40px;
@@ -3925,9 +3927,10 @@ label.required:after{ color:#e3493c; content:'*'; display:block; float:left; mar
     padding: 0;
     text-align: center;
 }
+*/
 
 .author .socPage ul li a {
-  background-color: #e0e2e4;
+    background-color: #e0e2e4;
 }
 
 

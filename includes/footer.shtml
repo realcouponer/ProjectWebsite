@@ -2,34 +2,32 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-sm-6">
-                <div class="logo" style="width: 90%">
+                <div class="logo">
                     <a href="index.shtml">
                         <img src="img/logos/advanced-algos/aa-logo-dark.svg" alt="Advanced Algos Ltd. Logo">
                     </a>
                 </div>
-                <div class="logo_descr" style="width: 90%">
+                <div class="logo_descr">
                     <p><strong>Advanced Algos Ltd.</strong></br>Ground Floor, Palace Court, Church Street, St. Julians STJ3049, Malta</p>
                     <p><a href="legal-privacy-statement.shtml">Privacy Statement</a> | <a href="legal-terms-of-service.shtml">Terms of Service</a></p>
 
                 </div>
             </div>
-<<<<<<< HEAD
+
             <div class="col-md-2 col-sm-6">
 
             </div>
-            <div class="col-md-6 col-sm-6">
+            <div class="col-md-6 col-sm-6" style="margin-top:10px;">
                 <!--#include file="email-signup.shtml" -->
-                <div class="logo_socials socPage widgetWrap margin_top_mini">
+                <div class="socPage widgetWrap margin_top_mini">
                     <ul>
-                        <li><a class="socialico-twitter" target="_blank" href="#"></a></li>
-                        <li><a class="socialico-facebook" target="_blank" href="#"></a></li>
-                        <li><a class="socialico-vimeo" target="_blank" href="#"></a></li>
+                        <li><a class="fab fa-telegram-plane" target="_blank" href="https://t.me/advancedalgos" title="Join us on Telgram"></a></li>
+                        <li><a class="fab fa-twitter" target="_blank" href="https://twitter.com/advancedalgos" title="Follow us on Twitter"></a></li>
+                        <li><a class="fab fa-facebook-f" target="_blank" href="https://www.facebook.com/Advanced-Algos-173249670001615/" title="Meet us on Facebook"></a></li>
                     </ul>
                 </div>
             </div>
-=======
 
->>>>>>> 983adb37200d444fd0a824c9ece38b6897f7ddab
         </div>
     </div>
 </footer>
