@@ -21,6 +21,7 @@ jQuery( document ).ready(function($) {
        crossDomain: true,
        success: function (response, status) {
          $('#verify-message').html("Thank you! Your email address has been verified.");
+         $('#verify-loader').toggle("slow");
         },
         error: function (xhr, status, text) {
           console.log(xhr, status, text);
