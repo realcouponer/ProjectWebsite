@@ -1,4 +1,4 @@
-﻿<footer id="footer" class="dark_section footerStyleDark" style="margin-top: -20px">
+<footer id="footer" class="dark_section footerStyleDark" style="margin-top: -20px">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-6">
@@ -11,7 +11,12 @@
                     <p><strong>Advanced Algos Ltd.</strong></br>Ground Floor, Palace Court, Church Street, St. Julians STJ3049, Malta</p>
                 </div>
             </div>
+            <div class="col-md-3 col-sm-6">
 
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <!--#include file="email-signup.shtml" -->
+            </div>
         </div>
     </div>
 </footer>
