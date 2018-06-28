@@ -40,7 +40,7 @@
                         <h1 class="sc_title sc_title_underline">Contac Us</h1>
                         <div class="sc_content">
                             We'd love to hear from you...<br>
-                            Send us your comments or questions and will respond as soon as possible.
+                            Send us your comments or questions and we will respond as soon as possible.
                         </div>
                         <div class="sc_contact_form sc_contact_form_contact contact_form_1">
                             <form class="contact_1" method="post" action="include/#">
