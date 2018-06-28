@@ -1,6 +1,6 @@
 jQuery( document ).ready(function($) {
   var param = document.URL.match(/token=([a-zA-Z0-9.]+)/)
-  var token = (param[1] != null || param[1] != undefined) ? param[1] : '';
+  var token = (param !== null && param.lenght > 0 && param[1] !== null || param[1] !== undefined) ? param[1] : '';
 
    if(token !== ''){
      $.ajax({

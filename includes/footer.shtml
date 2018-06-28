@@ -1,7 +1,7 @@
-﻿<footer id="footer" class="dark_section footerStyleDark" style="margin-top: -20px">
+<footer id="footer" class="dark_section footerStyleDark" style="margin-top: -20px">
     <div class="container">
         <div class="row">
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <div class="logo">
                     <a href="index.shtml">
                         <img src="img/logos/advanced-algos/aa-logo-dark.svg" alt="Advanced Algos Ltd. Logo">
@@ -9,6 +9,22 @@
                 </div>
                 <div class="logo_descr">
                     <p><strong>Advanced Algos Ltd.</strong></br>Ground Floor, Palace Court, Church Street, St. Julians STJ3049, Malta</p>
+                    <p><a href="legal-privacy-statement.shtml">Privacy Statement</a> | <a href="legal-terms-of-service.shtml">Terms of Service</a></p>
+
+                </div>
+            </div>
+
+            <div class="col-md-2 col-sm-6">
+
+            </div>
+            <div class="col-md-6 col-sm-6" style="margin-top:10px;">
+                <!--#include file="email-signup.shtml" -->
+                <div class="socPage widgetWrap margin_top_mini">
+                    <ul>
+                        <li><a class="fab fa-telegram-plane" target="_blank" href="https://t.me/advancedalgos" title="Join us on Telgram"></a></li>
+                        <li><a class="fab fa-twitter" target="_blank" href="https://twitter.com/advancedalgos" title="Follow us on Twitter"></a></li>
+                        <li><a class="fab fa-facebook-f" target="_blank" href="https://www.facebook.com/Advanced-Algos-173249670001615/" title="Meet us on Facebook"></a></li>
+                    </ul>
                 </div>
             </div>
 
@@ -20,7 +36,6 @@
     <div class="container">
         <div class="row copy">
             <div class="col-sm-6 margin_bottom_micro">
-                <p><a href="legal-privacy-statement.shtml">Privacy Statement</a> | <a href="legal-terms-of-service.shtml">Terms of Service</a></p>
 
                 <p>&copy; Advanced Algos Ltd. <!--#config timefmt="%Y" --> <!--#echo var="DATE_LOCAL" --> All Rights Reserved</p>
             </div>
