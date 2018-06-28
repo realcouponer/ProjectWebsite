@@ -1,21 +1,31 @@
 <footer id="footer" class="dark_section footerStyleDark" style="margin-top: -20px">
     <div class="container">
         <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="logo">
+            <div class="col-md-4 col-sm-6">
+                <div class="logo" style="width: 90%">
                     <a href="index.shtml">
                         <img src="img/logos/advanced-algos/aa-logo-dark.svg" alt="Advanced Algos Ltd. Logo">
                     </a>
                 </div>
-                <div class="logo_descr">
+                <div class="logo_descr" style="width: 90%">
                     <p><strong>Advanced Algos Ltd.</strong></br>Ground Floor, Palace Court, Church Street, St. Julians STJ3049, Malta</p>
+                    <p><a href="legal-privacy-statement.shtml">Privacy Statement</a> | <a href="legal-terms-of-service.shtml">Terms of Service</a></p>
+
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
+
+            <div class="col-md-2 col-sm-6">
 
             </div>
             <div class="col-md-6 col-sm-6">
                 <!--#include file="email-signup.shtml" -->
+                <div class="logo_socials socPage widgetWrap margin_top_mini">
+                    <ul>
+                        <li><a class="socialico-twitter" target="_blank" href="#"></a></li>
+                        <li><a class="socialico-facebook" target="_blank" href="#"></a></li>
+                        <li><a class="socialico-vimeo" target="_blank" href="#"></a></li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
@@ -25,7 +35,6 @@
     <div class="container">
         <div class="row copy">
             <div class="col-sm-6 margin_bottom_micro">
-                <p><a href="legal-privacy-statement.shtml">Privacy Statement</a> | <a href="legal-terms-of-service.shtml">Terms of Service</a></p>
 
                 <p>&copy; Advanced Algos Ltd. <!--#config timefmt="%Y" --> <!--#echo var="DATE_LOCAL" --> All Rights Reserved</p>
             </div>
