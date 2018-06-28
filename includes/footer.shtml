@@ -1,4 +1,4 @@
-﻿<footer id="footer" class="dark_section footerStyleDark" style="margin-top: -20px">
+<footer id="footer" class="dark_section footerStyleDark" style="margin-top: -20px">
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-sm-6">
@@ -13,7 +13,7 @@
 
                 </div>
             </div>
-<<<<<<< HEAD
+
             <div class="col-md-2 col-sm-6">
 
             </div>
@@ -27,9 +27,6 @@
                     </ul>
                 </div>
             </div>
-=======
-
->>>>>>> 983adb37200d444fd0a824c9ece38b6897f7ddab
         </div>
     </div>
 </footer>
