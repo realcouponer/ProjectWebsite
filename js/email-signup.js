@@ -1,5 +1,4 @@
 jQuery( document ).ready(function($) {
-  console.log( $("#signup_email").val() );
     $("#email-signup").on('submit', function(e) {
         e.preventDefault();
         $("#email-submit").prop('disabled', true);
@@ -13,7 +12,7 @@ jQuery( document ).ready(function($) {
             //console.log('success', response, status);
             $('#email-signup').trigger("reset");
             $('.message').html("Please check your inbox to confirm your email address. In case you can not find the confirmation email, please check your trash or junk mail folder.");
-            $('.message').fadeIn(1000);
+            $('.message').fadeIn(1000).delay(5000).fadeOut(1000);
             $('.message').addClass("text-success");
             $("#email-submit").prop('disabled', false);
             $("#email-submit span").toggle();
@@ -22,14 +21,14 @@ jQuery( document ).ready(function($) {
              if (textStatus === 'parsererror' && xOptions.status >= 200 && xOptions.status <= 300){
                $('#email-signup').trigger("reset");
                $('.message').html("Please check your inbox to confirm your email address. In case you can not find the confirmation email, please check your trash or junk mail folder.");
-               $('.message').fadeIn(1000);
+               $('.message').fadeIn(1000).delay(5000).fadeOut(1000);
                $('.message').addClass("text-success");
                $("#email-submit").prop('disabled', false);
                $("#email-submit span").toggle();
              } else {
                $('#email-signup').trigger("reset");
                $('.message').html("Error: " + textStatus + ": " + xOptions.statusText);
-               $('.message').fadeIn(1000);
+               $('.message').fadeIn(1000).delay(5000).fadeOut(1000);
                $('.message').addClass("text-danger");
                $("#email-submit").prop('disabled', false);
                $("#email-submit span").toggle();
