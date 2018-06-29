@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Algobots Competition Platform</title>
+    <title>ALGO Arena</title>
     <meta name="description" content="Get your algobot out in the Arena and participate in crypto trading competitions.">
     <meta charset="utf-8">
 
@@ -38,7 +38,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Welcome to the ALGO Arena</h1>
+                        <h1 class="sc_title">Welcome to the Arena</h1>
                         <h5 class="sc_title sc_title_underline">Where Algobots compete and Traders meet</h5>
                     </div>
                 </div>

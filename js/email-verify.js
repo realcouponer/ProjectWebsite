@@ -1,22 +1,36 @@
 jQuery( document ).ready(function($) {
-   var p={};
-   var token = '';
-   location.search.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(s,k,v){token = p['token']})
-   console.log('token: ', token);
+  var regex = /email-verification.shtml/i;
+  var staticURL = regex.test(document.URL);
+  var param = document.URL.match(/token=([a-zA-Z0-9\.\-_]+)/)
+  var token = '';
+
+  if (staticURL && param !== null){
+    token = (param.length > 0 && param[1] !== null && param[1] !== undefined) ? param[1] : '';
+  } else{
+    $('#verify-loader').toggle("slow");
+    $('#verify-message').html("Nothing to verify. Please re-click your confirmation link or try signing up again");
+    $('#resend_email_section').toggle("slow");
+  }
 
    if(token !== ''){
      $.ajax({
-       type: "POST",
-       url: "http://aa-sendgrid-signup.azurewebsites.net/api/emailverify",
-       data: { "token": token }
-     })
-     .done(function(success){
-       console.log('success', success);
-       $('#verify-message').innerHTML("Thank you! Your email address has been verified.");
-     })
-     .fail(function(xhr, status, errorThrown){
-       console.log('error', xhr, status, errorThrown);
-       $('#verify-message').innerHTML("We're sorry, there's been an error - " + status + ": " + errorThrown);
+       type: "GET",
+       url: "https://aa-sendgrid-signup.azurewebsites.net/api/signup/" + token + '?callback=?',
+       crossDomain: true,
+       dataType: 'jsonp',
+       success: function (response, status) {
+         $('#verify-message').html("Thank you! Your email address has been verified.");
+         $('#verify-loader').toggle("slow");
+        },
+        error: function (xhr, status) {
+          if (text === 'parsererror' && status >= 200 && status <= 300){
+            $('#verify-message').html("Thank you! Your email address has been verified.");
+            $('#verify-loader').toggle("slow");
+          } else {
+            $('#verify-message').html("We're sorry, there's been an error - " + status + ": " + xhr.responseText);
+            $('#verify-loader').toggle("slow");
+          }
+        }
      });
    }
 });
