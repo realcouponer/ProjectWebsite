@@ -41,7 +41,8 @@
                         <!--#include file="includes/email-signup.shtml" -->
 
                         <div class="sc_content">
-                            <p>Learn more about our <a href="legal-privacy-statement.shtml">Privacy Statement</a>.</p>
+                            
+                            <p>We will never share your email address with anyone. Learn more about our <a href="legal-privacy-statement.shtml" target="_blank">Privacy Statement</a>.</p>
                         </div>
 
                     </div>
