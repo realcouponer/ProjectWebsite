@@ -26,7 +26,6 @@
                             <li class="menu-item-type-custom">
                                 <a href="documentation-quick-start.shtml">DOCUMENTATION</a>
                             </li>
-
                             <!--<li class="menu-item-type-custom menu-item-has-children">
         <a href="about-advanced-algos-ltd.shtml">ABOUT</a>
         <ul class="sub-menu">
@@ -38,7 +37,9 @@
             </li>
         </ul>
     </li>-->
-
+                            <li class="menu-item-type-custom">
+                                <a href="contacts.shtml">CONTACT US</a>
+                            </li>
                         </ul>
                     </nav>
                 </div>
