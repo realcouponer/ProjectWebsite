@@ -94,14 +94,20 @@ if (FULL_LOG === true) { logger.write(MODULE_NAME, "[INFO] run -> loop -> Plot B
 
                             <li><p>This is the <em>Running Mode</em> control. Click it and you will cycle through the three available running options: Backtest, Live and Competition. Select which mode you wish to run your algobot in and click Play.</p></li>
 
-                            <li><p>This is the <em>Delete Button</em>. Click it to delete Backtest, Live or Competition history (depending on what mode you are running) and start over with fresh data. Before you click the delete button, you should first turn the corresponding layer <em>off</em>. For instance, if you wish to delete Backtest data, do the following:</p></li>
+                            <li><p>These are the <em>Delete Button</em> (green) and the <em>Scale Button</em> (blue):</p></li>
 
                             <ul>
-                                <li>Cycle the running mode to <em>Backtest</em>.</li>
-                                <li>Turn the Backtest History layer <em>on</em> in the Algobots Products Pannel.</li>
-                                <li>Click the delete button.</li>
-                                <li>Once you are running the bot in Backtest mode again, you may switch the Backtest History layer back <em>on</em>.</li>
+                                <li><p>Click the <em>Delete Button</em> to delete Backtest, Live or Competition history (depending on what mode you are running) and start over with fresh data. Before you click the delete button, you should first turn the corresponding layer <em>off</em>. For instance, if you wish to delete Backtest data, do the following:</p></li>
+                                <ul>
+                                    <li>Cycle the running mode to <em>Backtest</em>.</li>
+                                    <li>Turn the Backtest History layer <em>on</em> in the Algobots Products Pannel.</li>
+                                    <li>Click the delete button.</li>
+                                    <li>Once you are running the bot in Backtest mode again, you may switch the Backtest History layer back <em>on</em>.</li>
+                                </ul>
+                                <li><p>Place the mouse pointer on top of the <em>Scale Button</em> and turn the mouse wheel to adjust the Price Scale</p></li>
                             </ul>
+
+
 
                             <h4>User Information</h4>
 
