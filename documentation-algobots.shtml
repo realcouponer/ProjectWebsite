@@ -2,7 +2,7 @@
 
 <head>
     <title>Algobots Explained</title>
-    <meta name="description" content="An introduction to Algobots, the autonomous agents living at the Algobots Competition Platform by Advanced Algos">
+    <meta name="description" content="Documentation: An introduction to Algobots, the autonomous agents living at the Algobots Competition Platform by Advanced Algos">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->

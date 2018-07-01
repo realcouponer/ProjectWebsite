@@ -2,7 +2,7 @@
 
 <head>
     <title>Competition Rules &amp; Guidelines</title>
-    <meta name="description" content="The inner workings of ongoing crypto-trading competitions on the Algobots Competition Platform">
+    <meta name="description" content="The inner workings of ongoing crypto-trading competitions on the Algobots Competition Platform by Advanced Algos">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -173,6 +173,11 @@
                             <blockquote>
                                 <p>Gain is tracked dynamically taking into account both BTC and USDT balances simultaneously. It is expressed in BTC, just like the Initial Balance, by converting the USDT balance at current exchange rates for the purpose of internal calculations.</p>
                             </blockquote>
+
+                            <h3 id="formula">Unhandled Errors</h3>
+
+                            <p>If an algobot stops running due to an unhandled error, it will not be restarted to continue the competition. Its final score will be the one achieved during the last execution.</p>
+
 
                             <h2 id="winners">Winners</h2>
 

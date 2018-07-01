@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Web Interface Overview</title>
-    <meta name="description" content="Documentation: Web Interface of the Algobots Competition Platform">
+    <title>Competition Interface Overview</title>
+    <meta name="description" content="Documentation: Interface of the Competition Mode of the Algobots Competition Platform by Advanced Algos">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -40,7 +40,7 @@
                         </div>
 
                         <blockquote>
-                            <p>Bear in mind that the information plotted in the timeline is refreshed at the interval specified by the time period being displayed; that is, one-minute candles refresh every one minute, while tow-hours condles refresh every two hours.</p>
+                            <p>Bear in mind that trading algobots are executed in one-minute intervals and the information plotted in the timeline is refreshed every one minute as well.</p>
                         </blockquote>
 
                     </div>
