@@ -3,15 +3,21 @@ jQuery( document ).ready(function($) {
         e.preventDefault();
         $(".contact_form_submit").prop('disabled', true);
         $(".contact_form_submit span").toggle();
-        var email = urlencode($("#contact_form_email").val());
-        var name = urlencode($("#contact_form_name").val());
-        var message = urlencode($("#contact_form_message").val());
-        var dev = 'true';
+        var email = encodeURI($("#contact_form_email").val());
+        var name = encodeURI($("#contact_form_name").val());
+        var message = $("#contact_form_message").val();
+        console.log(message);
+        var changePeriod = message.replace(/\./g, '[PERIOD]');
+        var changeSlash = changePeriod.replace(/\//g, '[FORWARDSLASH]');
+        message = encodeURI(changeSlash);
+        console.log(message);
+        var recaptcha = encodeURI($("#g-recaptcha-response").val());
+        var dev = 'false';
 
-        var url = if (dev !== 'true') ? 'https://aa-sendgrid-signup.azurewebsites.net/api/sendcontact/' : 'http://localhost:4000/api/sendcontact/';
+        var url = 'https://aa-sendgrid-signup.azurewebsites.net/api/sendcontact/';
         $.ajax({
             type: "GET",
-            url: url + email + '/' + name + '/' + message + '/' + dev,
+            url: url + email + '/' + name + '/' + message + '/' + recaptcha + '/' + dev,
             crossDomain: true,
             dataType: 'jsonp',
           success: function (response, status) {
