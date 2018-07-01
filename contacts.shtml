@@ -60,7 +60,7 @@
                                         <textarea id="contact_form_message" class="textAreaSize" name="message" placeholder="Message"></textarea>
                                     </div>
                                 </div>
-
+                                <div class="message" style="margin-top:1em; font-size:1.4em;display:none;"></div>
                                 <div class="sc_contact_form_button">
 
                                     <div class="squareButton big">
@@ -68,7 +68,7 @@
                                         <button type="submit" name="contact_submit" class="contact_form_submit"><span class="glyphicon glyphicon-refresh animate-spin" style="display:none;"></span> SEND THE MESSAGE</button>
                                     </div>
                                 </div>
-                                <div class="message" style="margin-top:1em; font-size:1.4em;display:none;"></div>
+
                             </form>
                         </div>
                         </br></br>
