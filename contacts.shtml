@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Competition Rules &amp; Guidelines</title>
-    <meta name="description" content="The inner workings of ongoing crypto-trading competitions on the Algobots Competition Platform">
+    <title>Contact Us</title>
+    <meta name="description" content="Contact Advanced Algos Ltd. We'd love to hear from you!">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -43,7 +43,7 @@
                             Send us your comments or questions and we will respond as soon as possible.
                         </div>
                         <div class="sc_contact_form sc_contact_form_contact contact_form_1">
-                            <form class="contact_1" method="post" action="include/#">
+                            <form class="contact_1" method="post" action="includes/#">
                                 <div class="columnsWrap">
                                     <div class="quote_form">
                                         <label class="required" for="contact_form_username">Name</label>

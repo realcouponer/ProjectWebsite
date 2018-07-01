@@ -23,17 +23,21 @@
                     <div class="col-sm-10">
                         <h1 id="actioninacompetitionsetting">Action in a Competition Setting</h1>
 
-                        <p>Competition related events are &ndash;too&ndash; rendered over the timeline. A thin red vertical line marks the start of the competition and a checkered vertical banner marks the end of the competition.</p>
+                        <p>Competition related events are&ndash;too&mdash;rendered over the timeline. A thin red vertical line (<span class="red_text">1</span>) marks the start of the competition and a checkered vertical banner (<span class="red_text">2</span>) marks the end of the competition.</p>
 
                         <div class="polaroid">
-                            <img src="img/doc/Interface-04-competition.png" alt="Algobots Competition Platform">
+                            <img src="img/doc/Interface-05-competition.png" alt="Algobots Competition Platform">
                         </div>
 
-                        <p>T-Bots keep showing their trades on the charts, as usual. In addition, a new area of the timeline gains relevance: the intersection of the red vertical line with the 0% horizontal mark of the ROI scale in the left margin. This is exactly where the competition starts.</p>
+                        <p>T-Bots keep showing their trades on the charts, as usual. In addition, a new area of the timeline gains relevance: the intersection of the red vertical line with the 0% horizontal mark of the ROI scale in the left margin (<span class="red_text">3</span>). This is exactly where the competition starts.</p>
 
-                        <p>Trading algobots start out the competition at the 0% mark and their ROI is tracked with every single execution (every one minute) and rendered in the timeline accordingly.</p>
+                        <p>Trading algobots start out the competition at the 0% mark and their ROI is tracked with every single execution (every one minute) and rendered in the timeline accordingly (<span class="red_text">4</span>).</p>
 
-                        <p>In other words, the competition can be followed in real time simply by watching the timeline.</p>
+                        <p>In other words, the competition can be followed in real time simply by watching the timeline, as shown in the folloowing close-up screen:</p>
+
+                        <div class="polaroid">
+                            <img src="img/doc/Interface-06-competition.png" alt="Algobots Competition Platform">
+                        </div>
 
                         <blockquote>
                             <p>Bear in mind that the information plotted in the timeline is refreshed at the interval specified by the time period being displayed; that is, one-minute candles refresh every one minute, while tow-hours condles refresh every two hours.</p>
