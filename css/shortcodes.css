@@ -3807,7 +3807,7 @@ blockquote.sc_quote_style_2 { color: #303036; border-left: 2px solid; }
 .commentsForm .message, .comment-respond .message, .sc_contact_form .message { clear:both; padding: 0 0 5px 0; }
 .sc_contact_form .message { overflow: hidden; }
 .commentsForm input, .comment-respond input, .sc_contact_form input { width:100%; }
-.comment-respond textarea, .sc_contact_form textarea { width: 100%; overflow: hidden; word-wrap: break-word; resize: none; height: 55px; box-sizing: border-box; -moz-box-sizing: border-box; }
+.comment-respond textarea, .sc_contact_form textarea { width: 100%; overflow: hidden; word-wrap: break-word; resize: none; height: 155px; box-sizing: border-box; -moz-box-sizing: border-box; }
 .commentsForm textarea { min-height: 100px; }
 .commentsForm .enterBlock, .comment-respond .enterBlock { padding:20px 0 30px 0; }
 .commentsForm .enterBlock .squareButton, .comment-respond .enterBlock .squareButton { float:left; }
