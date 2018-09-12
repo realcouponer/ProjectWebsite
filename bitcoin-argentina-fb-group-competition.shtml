@@ -1,0 +1,358 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Competition Rules &amp; Guidelines</title>
+    <meta name="description" content="The inner workings of ongoing crypto-trading competitions on the Algobots Competition Platform by Advanced Algos">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper">
+
+        <!--#include file="includes/header.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/competition-guidelines.jpg" alt="Competition">
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section id="rules_section" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Bitcoin Argentina FB Group Competition</h1>
+                        <h5 class="sc_title sc_title_underline">1st Algorithmic-trading competition celebrating the 40 thousand members mark!</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-10">
+                        <div style="width: 95%; margin: 0 auto;">
+                            <h2>How it Works</h2>
+                            <ul>
+                                <li><p>We will provide you with a functioning algobot for you to start with. </p></li>
+                                <li><p>You will get to know it and try to improve it during three weeks,  testing and refining it while watching it perform against other algobots in the sandbox. </p></li>
+                                <li><p>24 hours before the comp starts, you will submit your algobot so that we set it up to run in the cloud for the official competition. </p></li>
+                                <li><p>During the comp, you will cheer and brag about how cool your algobot is, while hoping it beats the rest to win some juicy crypto prizes!</p></li>
+                            </ul>
+                            <h2 id="preliminarydatestobeconfirmedsoon">Preliminary Dates</h2>
+
+                            <p>The competition starts on Monday October 15th 2018 at 00:00:00.000 GMT and ends on Sunday July 21st at 23:59:59.999 GMT. <strong>Dates to be confirmed soon.</strong></p>
+
+                            <h2 id="algobotteamregistration">Registration</h2>
+
+                            <p>To get started, join <a href="https://t.me/aaespanol" rel="nofollow" target="_blank">AA en Espa&ntilde;ol</a> (the Advanced Algos Telegram Group for Spanish-speakers) and declare what your preferred <i>User Name</i>, <i>Team Name</i> and <i>Bot Name</i> are.</p>
+                            <p>Template intro message for your convenience:</p>
+                            <blockquote>
+                                <p>Hola! Mis datos de inscripci&oacute;n:</p>
+                                <p>
+                                    User Name: </br>
+                                    Team Name: </br>
+                                    Bot Name:
+                                </p>
+                            </blockquote>
+                            <p>Example:</p>
+                            <blockquote>
+                                <p>Hola! Mis datos de inscripci&oacute;n:</p>
+                                <p>
+                                    User Name: Leonidas</br>
+                                    Team Name: Spartans</br>
+                                    Bot Name: King
+                                </p>
+                            </blockquote>
+
+                            <p><strong>This is actually a good time to do just that, so go ahead, copy the message template, <a href="https://t.me/aaespanol" rel="nofollow" target="_blank">get in the group</a>, come up with some cool names and get rolling!</strong></p>
+
+                            <p>An admin will get back to you with your private URL to access the platform. In the meantime, please keep reading so that you learn how to get yourself ready...</p>
+
+                            <h2 id="requirements">Requirements</h2>
+
+                            <h3 id="poloniexaccount">Poloniex Account</h3>
+
+                            <p>Make sure you have an account with <a href="https://poloniex.com/" rel="nofollow" target="_blank">Poloniex</a>. If you don't, go ahead and open one ASAP, as there may be a waiting period. You will need to verify your account in order to be able to trade freely.</p>
+
+                            <h2 id="aboutalgobots">About Algobots</h2>
+
+                            <p>You are allowed to compete with one algobot. In order to guarantee transparency, registered algobots are not allowed to connect to the exchange directly; algobots should connect to the exchange only through the AACloud <em>Assistant</em> (check the documentation to learn more about <a href="documentation-t-bots.shtml">how trading algobots work</a>). AACloud tracks algbots activity and makes the information available for everyone to audit.</p>
+
+                            <p><strong>Once an algobot is released in the competition it cannot be modified.</strong></p>
+
+                            <h3 id="algbotslicense">Algbots License</h3>
+
+                            <p>Existing algobots offered as templates or starting points for other teams to fork are released under the GNU Affero General Public License (AGPL) to guarantee:</p>
+
+                            <ul>
+                                <li><p>the freedom to use the software for any purpose,</p></li>
+
+                                <li><p>the freedom to change the software to suit your needs,</p></li>
+
+                                <li><p>the freedom to share the software with your friends and neighbors, and</p></li>
+
+                                <li><p>the freedom to share the changes you make.</p></li>
+                            </ul>
+                            <p><em>(Extract from <a href="https://www.gnu.org/licenses/quick-guide-gplv3.html" rel="nofollow" target="_blank">The Foundations of the GPL</a>)</em></p>
+
+
+                            <p>It is a policy of Advanced Algos Ltd. to require all algobots running on the AAPlatform to be released under the same license. The AAPlatform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml">Terms of Service</a>, which you need to agree to in order to participate in our competitions.</p>
+
+                            <h2 id="markets">Markets</h2>
+
+                            <p>The competition takes place in the <strong>USDT-BTC market in Poloniex</strong>.</p>
+
+                            <p>For the time being, the platform serves both historic and live trades data. Trades are performed at Team's accounts at the exchange, thus having an account with Poloniex is a requirement for participating.</p>
+
+                            <p>For the time being, we will only be using Poloniex and the USDT-BTC market to do our trading. We will expand the horizon in upcoming competitions.</p>
+
+                            <h2 id="capital">Capital</h2>
+
+                            <p>Each Team trades with their own funds within their own accounts at the exchange. Teams are fully responsible for the trading they do.</p>
+
+                            <p>Each algobot is allowed to trade up to 0.001 BTC Initial Capital (roughly equivalent to USD 10). This is in order to minimize risk at this first few pre-alpha competitions.</p>
+
+                            <blockquote>
+                                <p>In order to avoid unnecessary risk, we recommend withdrawing excess funds from the exchange or block them by placing an order at a price you know will not be filled.</p>
+                            </blockquote>
+
+                            <h3 id="partialprofitstrading">Partial Profits Trading</h3>
+
+                            <p>Algobots are allowed to trade with partial profits. This is the only way in which they can legally trade with more than the Initial Capital specified above. Thus, the limit is 0.001 BTC + Partial Profits. The platform serves available balances that your algobot can check in order to make sure the limit is not exceeded.</p>
+
+                            <blockquote>
+                                <p>Algobots attempting to trade more than the allowed limit generate an exception that needs to be handled.</p>
+                            </blockquote>
+
+                            <h3 id="fees">Fees</h3>
+
+                            <p>Participating in the competition and running your algobots on the AAPlatform is free of charge at this point in time.</p>
+
+                            <p>For your information, Poloniex charges the following fees for every order filled:</p>
+
+                            <div class="sc_table sc_table_style_1 sc_table_size_medium sc_table_align_center">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>Maker</th>
+                                            <th>Taker</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>0.10%</td>
+                                            <td>0.20%</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <p>Poloniex fees are explained <a href="https://poloniex.com/fees/" rel="nofollow" target="_blank">here</a>.</p>
+
+                            <p>The competition does take fees into consideration while calculating the ranking and competition results. For that reason, fees are factored in the available balance served by the platform.</p>
+
+                            <h2 id="ranking">Ranking</h2>
+
+                            <p>The ranking is determined by a very simple performance metric: <a href="https://www.investopedia.com/terms/r/returnoninvestment.asp" rel="nofollow" target="_blank">Return on Investment (ROI)</a>.</p>
+
+                            <h3 id="formula">Formula</h3>
+
+                            <p><strong>ROI</strong> = (Gain from Investment - Cost of Investment) / Cost of Investment (expressed as a percentage)</p>
+
+                            <h3 id="definitions">Definitions</h3>
+
+                            <ul>
+                                <li><p><strong>Cost of Investment</strong> = Initial BTC Balance = 0.001 BTC. For the purpose of this competition, this is a constant, meaning that if you use less than 0.001 BTC to do your trading, we will still use 0.001 BTC as the value for this constant.</p></li>
+                            </ul>
+
+                            <blockquote>
+                                <p>It doesn't matter how much BTC you actually have in the exchange. The platform keeps track of your trades and available balances during the competition.</p>
+                            </blockquote>
+
+                            <ul>
+                                <li><p><strong>Gain from Investment</strong> (or Losses, expressed as negative Gains) = Final BTC Balance</p></li>
+                            </ul>
+
+                            <blockquote>
+                                <p>Gain is tracked dynamically taking into account both BTC and USDT balances simultaneously. It is expressed in BTC, just like the Initial Balance, by converting the USDT balance at current exchange rates for the purpose of internal calculations.</p>
+                            </blockquote>
+
+                            <h3 id="formula">Unhandled Errors</h3>
+
+                            <p>If an algobot stops running due to an unhandled error, it will not be restarted to continue the competition. Its final score will be the one achieved during the last execution.</p>
+
+
+                            <h2 id="winners">Winners</h2>
+
+                            <p>The result of the competition is determined by the position of each algobot in the ranking by the end of the competition.</p>
+
+                            <h3 id="_example_"><em>Example</em></h3>
+
+                            <p><strong>Algobot A</strong> ends up with 0.0015 BTC</p>
+
+                            <p>Algobot A ROI = (0.0015 - 0.001) / 0.001 * 100% = 50%</p>
+
+                            <p><strong>Algobot B</strong> ends up with 0.0005 BTC</p>
+
+                            <p>Algobot B ROI = (0.00075 - 0.001) / 0.001 * 100% = -25%</p>
+
+                            <p><strong>Algobot C</strong> ends up with 0.001 BTC</p>
+
+                            <p>Algobot B ROI = (0.001 - 0.001) / 0.001 * 100% = 0%</p>
+
+                            <h3 id="_example_"><em>Final Ranking</em></h3>
+
+                            <div class="sc_table sc_table_style_1 sc_table_size_medium sc_table_align_center">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>Position</th>
+                                            <th>Algobot</th>
+                                            <th>ROI</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1st</td>
+                                            <td>A</td>
+                                            <td>50 %</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2nd</td>
+                                            <td>C</td>
+                                            <td>0 %</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3rd</td>
+                                            <td>B</td>
+                                            <td>-25 %</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <h2 id="prizes">Prizes</h2>
+
+                            <p>The competition distributes 200,000 ALGO (worth USD 6,000) as prize money for the top 5 performers and 1,000 ALGO to each participant not making the top 5. <strong>In addition, 1 BTC goes to the absolut winner (1st.), sponsored by Advanced Algos Ltd.</strong></p>
+
+                            <p>The prize money is awarded as follows:</p>
+
+                            <div class="sc_table sc_table_style_1 sc_table_size_medium sc_table_align_center">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>
+                                                <p>Position</p>
+                                            </th>
+                                            <th>
+                                                <p>BTC Prize</p>
+                                            </th>
+                                            <th>
+                                                <p>ALGO Prize</p>
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <p>1st</p>
+                                            </td>
+                                            <td>
+                                                <p>1</p>
+                                            </td>
+                                            <td>
+                                                <p>100,000</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>2nd</p>
+                                            </td>
+                                            <td>
+                                                <p>0</p>
+                                            </td>
+                                            <td>
+                                                <p>50,000</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>3rd</p>
+                                            </td>
+                                            <td>
+                                                <p>0</p>
+                                            </td>
+                                            <td>
+                                                <p>25,000</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>4th</p>
+                                            </td>
+                                            <td>
+                                                <p>0</p>
+                                            </td>
+                                            <td>
+                                                <p>15,000</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>5th</p>
+                                            </td>
+                                            <td>
+                                                <p>0</p>
+                                            </td>
+                                            <td>
+                                                <p>10,000</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>6th and on...</p>
+                                            </td>
+                                            <td>
+                                                <p>0</p>
+                                            </td>
+                                            <td>
+                                                <p>1,000</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <h2 id="TermsOfService">Terms of Service</h2>
+
+                            <p>All of Advanced Algos services, including this competition, are governed by our <a href="legal-terms-of-service.shtml">Terms of Service</a>&mdash;a legally binding contract between you and Advanced Algos Ltd. with which you agree if you decide to participate. </p>
+
+                            <h2>Getting Started</h2>
+
+                            <p>Check the <a href="documentation-quick-start.shtml">Quick Start Guide</a> and the rest of the documentation to get you rolling with your first algobot. We are fully aware that existing documentation is not complete, so feel free to drop any questions over Telegram.</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>

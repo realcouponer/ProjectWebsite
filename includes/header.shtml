@@ -13,14 +13,22 @@
                                 <a href="index.shtml">HOME</a>
                             </li>
                             <li class="menu-item-type-custom">
-                                <a href="competition.shtml">COMPETITION</a>
+                                <a href="competition.shtml">COMPETITIONS</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item-type-custom">
                                         <a href="competition.shtml" class="sf-with-ul">The <span class="red_text">ALGO</span> Arena</a>
                                     </li>
-                                    <li class="menu-item-type-custom">
-                                        <a href="competition-guidelines.shtml" class="sf-with-ul">Rules &amp; Guidelines</a>
+                                    <li class="menu-item-type-custom menu-item-has-children">
+                                        <a href="#">Upcoming Events</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item-type-custom">
+                                                <a href="bitcoin-argentina-fb-group-competition.shtml" class="sf-with-ul">Bitcoin Argentina</a>
+                                            </li>
+                                        </ul>
                                     </li>
+                                    <!--<li class="menu-item-type-custom">
+                                        <a href="competition-guidelines.shtml" class="sf-with-ul">Rules &amp; Guidelines</a>
+                                    </li>-->
                                 </ul>
                             </li>
                             <li class="menu-item-type-custom">
@@ -40,7 +48,7 @@
                             <li class="menu-item-type-custom">
                                 <a href="contacts.shtml">CONTACT US</a>
                             </li>-->
-                        </ul>
+                                </ul>
                     </nav>
                 </div>
             </div>
