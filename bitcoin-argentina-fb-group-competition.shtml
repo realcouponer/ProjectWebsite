@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Competition Rules &amp; Guidelines</title>
-    <meta name="description" content="The inner workings of ongoing crypto-trading competitions on the Algobots Competition Platform by Advanced Algos">
+    <title>Bitcoin Argentina Competition Rules &amp; Guidelines</title>
+    <meta name="description" content="Bitcoin Argentina FB Group Algorithmic-trading competition celebrating the forty thousand members mark.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -24,7 +24,7 @@
                         <div class="flexslider">
                             <ul class="slides text-center">
                                 <li>
-                                    <img src="img/photos/competition-guidelines.jpg" alt="Competition">
+                                    <img src="img/photos/bitcoin-argentina.jpg" alt="Bitcoin Argentina FB Group Algorithmic-trading competition">
                                 </li>
                             </ul>
                         </div>
@@ -47,10 +47,10 @@
                         <div style="width: 95%; margin: 0 auto;">
                             <h2>How it Works</h2>
                             <ul>
-                                <li><p>We will provide you with a functioning algobot for you to start with. </p></li>
-                                <li><p>You will get to know it and try to improve it during three weeks,  testing and refining it while watching it perform against other algobots in the sandbox. </p></li>
-                                <li><p>24 hours before the comp starts, you will submit your algobot so that we set it up to run in the cloud for the official competition. </p></li>
-                                <li><p>During the comp, you will cheer and brag about how cool your algobot is, while hoping it beats the rest to win some juicy crypto prizes!</p></li>
+                                <li><p>We provide you with <strong>a functioning algobot</strong> for you to start with. </p></li>
+                                <li><p>You will get to know it and try to <strong>improve it during three weeks</strong>,  testing and refining it while watching it perform against other algobots in the sandbox. </p></li>
+                                <li><p>24 hours before the comp starts, you will <strong>submit your algobot</strong> so that we set it up to run in the cloud for the official competition. </p></li>
+                                <li><p>During the comp, you will <strong>cheer and brag</strong> about how cool your algobot is, while hoping it beats the rest to <strong>win juicy crypto prizes</strong>!</p></li>
                             </ul>
                             <h2 id="preliminarydatestobeconfirmedsoon">Preliminary Dates</h2>
 
@@ -82,9 +82,7 @@
 
                             <p>An admin will get back to you with your private URL to access the platform. In the meantime, please keep reading so that you learn how to get yourself ready...</p>
 
-                            <h2 id="requirements">Requirements</h2>
-
-                            <h3 id="poloniexaccount">Poloniex Account</h3>
+                            <h2 id="poloniexaccount">Poloniex Account</h2>
 
                             <p>Make sure you have an account with <a href="https://poloniex.com/" rel="nofollow" target="_blank">Poloniex</a>. If you don't, go ahead and open one ASAP, as there may be a waiting period. You will need to verify your account in order to be able to trade freely.</p>
 
@@ -120,7 +118,7 @@
 
                             <p>For the time being, we will only be using Poloniex and the USDT-BTC market to do our trading. We will expand the horizon in upcoming competitions.</p>
 
-                            <h2 id="capital">Capital</h2>
+                            <h2 id="TradingCapital">Trading Capital</h2>
 
                             <p>Each Team trades with their own funds within their own accounts at the exchange. Teams are fully responsible for the trading they do.</p>
 
@@ -200,21 +198,21 @@
 
                             <p>The result of the competition is determined by the position of each algobot in the ranking by the end of the competition.</p>
 
-                            <h3 id="_example_"><em>Example</em></h3>
+                            <h3 id="_example_">Example</h3>
 
-                            <p><strong>Algobot A</strong> ends up with 0.0015 BTC</p>
+                            <p><strong>Algobot A ends up with 0.0015 BTC</strong></p>
 
-                            <p>Algobot A ROI = (0.0015 - 0.001) / 0.001 * 100% = 50%</p>
+                            <p>Algobot A ROI = (0.0015 - 0.001) / 0.001 * 100% = <strong>50%</strong></p>
 
-                            <p><strong>Algobot B</strong> ends up with 0.0005 BTC</p>
+                            <p><strong>Algobot B ends up with 0.0005 BTC</strong></p>
 
-                            <p>Algobot B ROI = (0.00075 - 0.001) / 0.001 * 100% = -25%</p>
+                            <p>Algobot B ROI = (0.00075 - 0.001) / 0.001 * 100% = <strong>-25%</strong></p>
 
-                            <p><strong>Algobot C</strong> ends up with 0.001 BTC</p>
+                            <p><strong>Algobot C ends up with 0.001 BTC</strong></p>
 
-                            <p>Algobot B ROI = (0.001 - 0.001) / 0.001 * 100% = 0%</p>
+                            <p>Algobot B ROI = (0.001 - 0.001) / 0.001 * 100% = <strong>0%</strong></p>
 
-                            <h3 id="_example_"><em>Final Ranking</em></h3>
+                            <h3 id="_example_">Final Ranking</h3>
 
                             <div class="sc_table sc_table_style_1 sc_table_size_medium sc_table_align_center">
                                 <table>
@@ -247,7 +245,8 @@
 
                             <h2 id="prizes">Prizes</h2>
 
-                            <p>The competition distributes 200,000 ALGO (worth USD 6,000) as prize money for the top 5 performers and 1,000 ALGO to each participant not making the top 5. <strong>In addition, 1 BTC goes to the absolut winner (1st.), sponsored by Advanced Algos Ltd.</strong></p>
+                            <p>The competition distributes 200,000 ALGO (worth USD 6,000) as prize money for the top 5 performers and 1,000 ALGO to each participant not making the top 5.</p>
+                            <p><strong>In addition, 1 BTC goes to the absolut winner (1st.), sponsored by Advanced Algos Ltd.</strong></p>
 
                             <p>The prize money is awarded as follows:</p>
 
@@ -336,10 +335,17 @@
                                     </tbody>
                                 </table>
                             </div>
+                            <h2 id="NoRestrictions">No Restrictions</h2>
+
+                            <p>Because Advanced Algos has an open arms policy encouraging developers to join the company's development team and because the Advanced Algos Community is open for all people, we deliberately allow and urge everyone &ndash;including team and community members&mdash;to participate in all competitions. </p>
 
                             <h2 id="TermsOfService">Terms of Service</h2>
 
                             <p>All of Advanced Algos services, including this competition, are governed by our <a href="legal-terms-of-service.shtml">Terms of Service</a>&mdash;a legally binding contract between you and Advanced Algos Ltd. with which you agree if you decide to participate. </p>
+
+                            <h2 id="TermsOfService">Pre-Alpha Disclaimer</h2>
+
+                            <p>Bear in mind the platform is in a pre-alpha stage. As developers, you should expect eventual errors that may cause inconveniences. Participating in pre-alpha competitions is a way to support the Advanced Algos project... we very much appreciate your help!</p>
 
                             <h2>Getting Started</h2>
 
