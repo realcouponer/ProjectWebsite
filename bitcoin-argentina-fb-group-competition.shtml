@@ -122,7 +122,7 @@
 
                             <p>Each Team trades with their own funds within their own accounts at the exchange. Teams are fully responsible for the trading they do.</p>
 
-                            <p>Each algobot is allowed to trade up to 0.001 BTC Initial Capital (roughly equivalent to USD 10). This is in order to minimize risk at this first few pre-alpha competitions.</p>
+                            <p>Each algobot is allowed to trade up to 0.001 BTC Initial Capital (roughly equivalent to USD 6-10). This is in order to minimize risk at this first few pre-alpha competitions.</p>
 
                             <blockquote>
                                 <p>In order to avoid unnecessary risk, we recommend withdrawing excess funds from the exchange or block them by placing an order at a price you know will not be filled.</p>
@@ -246,7 +246,7 @@
                             <h2 id="prizes">Prizes</h2>
 
                             <p>The competition distributes 200,000 ALGO (worth USD 6,000) as prize money for the top 5 performers and 1,000 ALGO to each participant not making the top 5.</p>
-                            <p><strong>In addition, 1 BTC goes to the absolut winner (1st.), sponsored by Advanced Algos Ltd.</strong></p>
+                            <p><strong>In addition, 1 BTC goes to the absolut winner (1st), sponsored by Advanced Algos Ltd.</strong></p>
 
                             <p>The prize money is awarded as follows:</p>
 
