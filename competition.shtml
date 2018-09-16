@@ -56,27 +56,6 @@
             </div>
         </section>
 
-        <section id="started_section" class="darkgrey_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Getting Started</h1>
-
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <div style="width: 70%; margin: 0 auto;">
-                            <p>If you are not familiar with the AAPlatform and algobots in general, visit the <a href="documentation-quick-start.shtml">Quick Start Guide</a> for a 60 seconds introduction into our world. Once you have your own algobot and have managed to improve it a bit then get back here to test it out in the Arena.</p>
-                            <span class="sc_button sc_button_style_border_1 sc_button_size_big margin_bottom_mini margin_top_mini squareButton border_1 big">
-                                <a href="documentation-competition.shtml">I'm ready to test it!</a>
-                            </span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
         <!--#include file="includes/footer.shtml" -->
         <!--#include file="includes/preloader.shtml" -->
 
