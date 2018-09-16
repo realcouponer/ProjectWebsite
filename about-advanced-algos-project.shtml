@@ -73,7 +73,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>We are very much aware that you may think that "open source" and "trading bot" don't go well in the same sentence.</p>
+                        <p>We are very much aware that you may think that <i>open source</i> and <i>trading bot</i> don't go well in the same sentence.</p>
 
                         <p>However, it is the very fact that open source trading bots are counterintuitive that the niche we are aiming to conquer has remained untapped for so long.</p>
 
@@ -84,7 +84,7 @@
                     <div class="col-sm-6">
                         <p><strong>Who in their right mind would want to open source their profitable bot?</strong></p>
 
-                        <p>The project doesn't expect anyone to bring in a profitable bot for others to fork. Instead, bots are built from scratch within the ecosystem. In the beginning, bots were quite stupid. The catch is that trading bots in our platform evolve faster and should eventually surpass the intelligence of all other bots.</p>
+                        <p>The project doesn't expect anyone to bring in a profitable bot for others to fork. Instead, bots are built within the ecosystem. In the beginning, bots were quite stupid. The catch is that trading bots in our platform evolve faster and should eventually surpass the intelligence of all other bots.</p>
 
                         <p><strong>A strategy used by too many people loses its edge fast!</strong></p>
 
