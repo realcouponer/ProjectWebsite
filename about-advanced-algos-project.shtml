@@ -94,6 +94,33 @@
             </div>
         </section>
 
+        <section id="developers_section" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Join Us!</h1>
+                        <h5 class="sc_title sc_title_underline">Come together, solve a problem</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p><strong>What can I do to improve or protect my purchasing power and make my money work for me? </strong></p>
+
+                        <p>These are the questions we ask from the wise desire of being stewards to our wealth. Yet, the answers are a source of frustration and pain as the means of time, knowledge and accessibility tend to be out of our reach.</p>
+
+                    </div>
+                    <div class="col-sm-6">
+                        <p>This is a significant problem we all share. When we think we are missing out or neglecting our responsibilities, we build up negative feelings about ourselves, which may end up affecting our state of mind and overall quality of life (less joy, more worries).</p>
+
+                        <p>If you would like to help us solve this problem, come and join the AA Community.</p>
+                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                            <a href="https://t.me/advancedalgoscommunity" rel="nofollow" class="">Join Community</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
 
         <!--#include file="includes/footer.shtml" -->
         <!--#include file="includes/preloader.shtml" -->
