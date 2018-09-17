@@ -27,7 +27,7 @@
                     <h2 id="requirements">Requirements</h2>
 
                     <ul>
-                        <li><p>A verified account with Poloniex. If you don't have one, <a href="https://poloniex.com/signup" target="_blank" rel="nofollow">get it here</a>. Make sure you go through the verification process so that you can trade freely.</p></li>
+                        <li><p>A verified account with Poloniex. If you don't have one, <a href="https://poloniex.com/signup" target="_blank" rel="nofollow" target="_blank">get it here</a>. Make sure you go through the verification process so that you can trade freely.</p></li>
 
                         <li><p>An API Key to access your account programmatically. If you don't have an API key, follow the <a href="documentation-poloniex-api-key.shtml">instructions</a> to get one. </p></li>
 
@@ -116,13 +116,13 @@ CloudVM -> Changes in code saved.
 
                     <h2 id="thatsit">That's it!</h2>
 
-                    <p>Before moving on, plese refresh the page ( <kbd>F5</kbd> ) so that the rest of the interface updates with your algobot's current configuration.</p>
+                    <p>Before moving on, please refresh the page ( <kbd>F5</kbd> ) so that the rest of the interface updates with your algobot's current configuration.</p>
 
                     <p>Now that you are up and running, keep exploring this documentation to learn more about the platform and your algobot so that you can get the most out of them. We recommend starting with the <a href="documentation-interface.shtml">Interface page</a>!</p>
 
                     <h2 id="joinourtelegramchannel">Support</h2>
 
-                    <p>Join the <a href="https://t.me/advancedalgos" rel="nofollow">Advanced Algos Telegram Channel</a> through which we offer technical support and answer questions.</p>
+                    <p>Join the <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Advanced Algos Telegram Group</a> through which we offer technical support and answer questions.</p>
 
                 </div>
 
