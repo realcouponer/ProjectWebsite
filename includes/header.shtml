@@ -12,34 +12,40 @@
                             <li class="menu-item-type-custom">
                                 <a href="index.shtml">HOME</a>
                             </li>
-                            <li class="menu-item-type-custom">
-                                <a href="competition.shtml">COMPETITION</a>
+                            <li class="menu-item-type-custom menu-item-has-children">
+                                <a href="competition.shtml">COMPETITIONS</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item-type-custom">
                                         <a href="competition.shtml" class="sf-with-ul">The <span class="red_text">ALGO</span> Arena</a>
                                     </li>
-                                    <li class="menu-item-type-custom">
-                                        <a href="competition-guidelines.shtml" class="sf-with-ul">Rules &amp; Guidelines</a>
-                                    </li>
+                                    <!--<li class="menu-item-type-custom menu-item-has-children">
+                                        <a href="#">Current Events</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item-type-custom">
+                                                <a href="competition-bitcoin-argentina-fb-group.shtml" class="sf-with-ul">Bitcoin Argentina</a>
+                                            </li>
+                                        </ul>
+                                    </li>-->
                                 </ul>
                             </li>
                             <li class="menu-item-type-custom">
                                 <a href="documentation-quick-start.shtml">DOCUMENTATION</a>
                             </li>
-                            <!--<li class="menu-item-type-custom menu-item-has-children">
-        <a href="about-advanced-algos-ltd.shtml">ABOUT</a>
-        <ul class="sub-menu">
-            <li class="menu-item-type-custom">
-                <a href="about-advanced-algos-ltd.shtml" class="sf-with-ul">The Startup</a>
-            </li>
-            <li class="menu-item-type-custom">
-                <a href="about-advanced-algos-project.shtml" class="sf-with-ul">The Project</a>
-            </li>
-        </ul>
-    </li>
-                            <li class="menu-item-type-custom">
-                                <a href="contacts.shtml">CONTACT US</a>
-                            </li>-->
+                            <li class="menu-item-type-custom menu-item-has-children">
+                                <a href="#">ABOUT</a>
+                                <ul class="sub-menu">
+                                    <li class="menu-item-type-custom">
+                                        <a href="about-advanced-algos-project.shtml" class="sf-with-ul">The Project</a>
+                                    </li>
+                                    <li class="menu-item-type-custom">
+                                        <a href="about-advanced-algos-ltd.shtml" class="sf-with-ul">The Startup</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <!--
+                       <li class="menu-item-type-custom">
+                           <a href="contacts.shtml">CONTACT US</a>
+                       </li>-->
                         </ul>
                     </nav>
                 </div>

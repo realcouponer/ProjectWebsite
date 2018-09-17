@@ -33,40 +33,23 @@
             </div>
         </section>
 
-
-        <section id="about_section" class="light_section">
+        <section id="arguments_section" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">Advanced Algos Ltd. is the startup <span class="red_text">leading</span> the project while granting the Algobots Community a major role in the business</h2>
+                        <h2 class="sc_title sc_title_underline">Advanced Algos Ltd. is the startup <span class="red_text">leading</span> the project</h2>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-4">
-                        <h3>Our Role</h3>
-                        <p>The role of our startup in the Advanced Algos Project is that of a facilitator, <span class="red_text">empowering</span> and <span class="red_text">incentivizing</span> the Algobots Community.</p>
-                        <br />
-                        <p>Our mission is to set up the infrastructure that enables the work of the Algobots Community. As such, our startup is tasked with developing the AAPlatform, the system that provides the infrastructure for running algobots in the cloud and serves a number of web tools to empower Algobot Teams –squads of developers, traders and crypto holders creating algobots and taking part in trading competitions.</p>
+                    <div class="col-sm-6">
+                        <p>The AA Project is led by Advanced Algos Ltd., a startup company based in Malta. </p>
+
+                        <p>The company develops, maintains and operates the AA Platform, and incentivizes the development and maintenance of the wider AA System by the AA Community. It issues and administers ALGO tokens according to the economic plan designed to enable the ecosystem.</p>
                     </div>
-                    <div class="col-sm-4">
-                        <h3>Empowering</h3>
-                        <p>We empower the Algobots Community by...</p>
-                        </br>
-                        <ul>
-                            <li><p>providing all of these tools for free in the Development Environment, which allows real trading while running algobots in users' browsers;</p></li>
-                            </br>
-                            <li><p>granting permissionless access to: existing algobots, hosting trading competitions and creating applications on top of the AAPlatform.</p></li>
-                        </ul>
-                    </div>
-                    <div class="col-sm-4">
-                        <h3>Incentivizing</h3>
-                        <p>We incentivize the Algobots Community by...</p>
-                        </br>
-                        <ul>
-                            <li><p>providing a comprehensive and sustainable business model through which Algobot Teams can effectively monetize their efforts by allowing users to subscribe to their trading algobots for a fee;</p></li>
-                            </br>
-                            <li><p>reserving 25% of ALGO –the project's native token—for the community, to be distributed in competition prizes.</p></li>
-                        </ul>
+                    <div class="col-sm-6">
+                        <p>The company is also tasked with handling the relationships with cloud service providers and converting ALGO into fiat currency to pay expenses. It also acts as an arbitrator within the ecosystem, in the quest to address needs from all stakeholders.</p>
+
+                        <p>In addition, Advanced Algos Ltd. assumes the role of competition host in order to incentivize rapid-evolution, in particular during the early stages.</p>
                     </div>
                 </div>
             </div>

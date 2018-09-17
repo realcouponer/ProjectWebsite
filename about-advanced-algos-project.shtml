@@ -38,91 +38,89 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">The Advanced Algos Project is shaped around a <span class="red_text">vision</span> in which crypto trading is no longer the domain of an elite</h2>
+                        <h2 class="sc_title sc_title_underline">We are on a <span class="red_text">mission</span> to put people’s crypto assets to work</h2>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <h3>Trading bots outperform humans in crypto trading just like a strong chess engine beats the chess world champion</h3>
-                        <p>The abilities to perform calculations crunch data and analyze complex situations in seconds give algorithms a clear edge over humans. Moreover, algorithms work 24/7/365 and leave the emotional factor out of the equation. It is indisputable that –in the near future—virtually all profitable crypto trading will be done by bots.</p>
-                        </br>
-                        <p>Closed source bots hit traditional markets decades ago, owned –mostly—by companies that protect their intellectual property and keep profits for themselves. However, there is only so much private corporations can do: their limited resources and their inability to attract the best talents are a critical hindrance.</p>
-                        </br>
-                        <p>Successful open source projects develop worldwide communities and –many times—are able to attract the best minds on earth. Permissionless innovation dynamics have proven to be a powerful catalyst for the development of many industries and trading bots will be no exception.</p>
-                        </br>
-                        <p><b>Now, let’s do some guessing... Who do you think is best suited to conquer the most market share in the crypto trading space?</b></p>
+                        <p>Advanced Algos is building a platform to assist the creation of a particular kind of crypto trading bots: <strong>open source autonomous agents with a financial life enabled by a crypto token called <span class="red_text">ALGO</span></strong>&mdash;meaning they are alive as long as they earn enough ALGO to pay for their own costs of living, otherwise they die.</p>
+
+                        <p>Bots are organized in sets of nested networks &ndash;each of the networks populated by small trading entities implementing a single trading strategy&mdash;capable of self-organizing, self-adapting, learning and evolving (by supporting successful individuals and letting those who fail die).</p>
+
+                        <p>These trading bots acquire ALGO and reputation by competing with each other in different kinds of competitions: event-based, regional, national, worldwide, leagues, championships and so on.</p>
+
+                        <p><strong>Competition-winning bots become the seed for the new generation, as they are forked, improved and brought back to the arena for a new round by a worldwide community of developers, traders and analysts.</strong></p>
                     </div>
                     <div class="col-sm-6">
-                        <ul>
-                            <li><p>A corporation with a number of programmers and scientists on the payroll working eight-hours shifts?</p></li>
-                            </br>
-                            <li><p>A crypto startup with a closed source platform totally missing the point of permissionless innovation and the new sharing economy?</p></li>
-                            </br>
-                            <li><p>A worldwide community of developers, traders, analysts, scientists, entrepreneurs and crypto holders...</p></li>
-                            <ul>
-                                </br>
-                                <li><p>working together towards a common goal,</p></li>
-                                </br>
-                                <li><p>collaborating by polishing and improving each other's algobots,</p></li>
-                                </br>
-                                <li><p>competing to conquer top spots on trading competitions with substantial monetary prizes,</p></li>
-                                </br>
-                                <li><p>fine-tuning and tweaking winning algobots in a never-ending evolutionary process,</p></li>
-                                </br>
-                                <li><p>building reputation and a public track record for their algobots to gain crypto holders' subscriptions</p></li>
-                            </ul>
-                            </br>
-                            <p>... all within an ecosystem in which open source and permissionless innovation constitute key drivers for rapid evolution?</p>
+                        <p>The platform keeps a public, transparent and auditable record of every step ever taken by each trading bot with enough information to prove its reputation.</p>
 
-                        </ul>
+                        <p>It allows crypto holders to choose from the most reputable champions and subscribe to have them trade on their behalf for a fee collected in ALGO, which help bots to stay alive and thrive.</p>
+
+                        <p>We expect this setup to turn into the fastest-evolving hub of crypto-trading bots, to the point that &ndash;sooner or later&mdash;Advanced Algos champions should outperform the bots of other open source projects and even those of the corporate world (investment banks, funds, strategy factories and so on).</p>
+
+                        <p>By bringing transparent and proven automated trading services to all crypto holders, our project is expected to have a positive impact in the volumes traded in crypto, as well as in the adoption of crypto itself.</p>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="history_section" class="grey_section fullwidth no_padding_container no_margin_col">
+        <section id="arguments_section" class="light_section">
             <div class="container">
-                <div class="row autoHeight columnsWrap">
-                    <div class="col-md-6">
-                        </br></br>
-                        <img src="img/illustrations/basics-evolve.svg" alt="Rapid Evolution">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title sc_title_underline">Breaking the mold... <span class="red_text">Open Source</span> and <span class="red_text">Trading Bot</span> in the same sentence!</h2>
                     </div>
-                    <div class="col-md-6 col-sm-12 text-left">
-                        <div class="history_content margin_bottom_small">
-                            <h5 class="sc_title margin_top_big">Fork &#8669; Tune &#8669; Compete &#8669; Evolve</h5>
-                            <h2 class="sc_title">The Project's Mission</h2>
-                            <p>
-                                <ul>
-                                    <li>
-                            <p>
-                                Develop a platform for easy algobots' creation and operation.
-                            </p></li>
-                            <li>
-                                <p>
-                                    Bootstrap and incentivize a multi-talent community developing algobots.
-                                </p>
-                            </li>
-                            <li>
-                                <p>
-                                    Provide a sustainable business model catering to all crypto holders.
-                                </p>
-                            </li>
-                            <li>
-                                <p>
-                                    Encourage permissionless innovation and gamified competition to drive algobots’ rapid-evolution.
-                                </p>
-                            </li>
-                            </ul>
-                            </p>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>We are very much aware that you may think that <i>open source</i> and <i>trading bot</i> don't go well in the same sentence.</p>
 
-                            <!--<span class="sc_button sc_button_style_border_1 sc_button_size_big margin_bottom_mini margin_top_mini squareButton border_1 big">
-                                <a href="#">Read the Project Overview</a>
-                            </span>-->
-                        </div>
+                        <p>However, it is the very fact that open source trading bots are counterintuitive that the niche we are aiming to conquer has remained untapped for so long.</p>
+
+                        <p>The challenge behind a project trying to combine open source and trading bots is designing, incentivizing and enabling the proper set of dynamics that will keep all stakeholders interested, committed and active, thus creating value. </p>
+
+                        <p>We've heard two arguments repeat over and over...</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p><strong>Who in their right mind would want to open source their profitable bot?</strong></p>
+
+                        <p>The project doesn't expect anyone to bring in a profitable bot for others to fork. Instead, bots are built within the ecosystem. In the beginning, bots were quite stupid. The catch is that trading bots in our platform evolve faster and should eventually surpass the intelligence of all other bots.</p>
+
+                        <p><strong>A strategy used by too many people loses its edge fast!</strong></p>
+
+                        <p>Indeed. In fact, all strategies are born with a death certificate, as they all have a limited life expectancy. Our answer is still the same: the dynamics generated in our ecosystem ensure the rapid-evolution of strategies too. In our view, this may even be an advantage as it is a factor encouraging relentless development.</p>
                     </div>
                 </div>
             </div>
         </section>
+
+        <section id="developers_section" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Join Us!</h1>
+                        <h5 class="sc_title sc_title_underline">Come together, solve a problem</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p><strong>What can I do to improve or protect my purchasing power and make my money work for me? </strong></p>
+
+                        <p>These are the questions we ask from the wise desire of being stewards to our wealth. Yet, the answers are a source of frustration and pain as the means of time, knowledge and accessibility tend to be out of our reach.</p>
+
+                    </div>
+                    <div class="col-sm-6">
+                        <p>This is a significant problem we all share. When we think we are missing out or neglecting our responsibilities, we build up negative feelings about ourselves, which may end up affecting our state of mind and overall quality of life (less joy, more worries).</p>
+
+                        <p>If you would like to help us solve this problem, come and join the AA Community.</p>
+                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                            <a href="https://t.me/advancedalgoscommunity" rel="nofollow" class="">Join Community</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
 
         <!--#include file="includes/footer.shtml" -->
         <!--#include file="includes/preloader.shtml" -->
