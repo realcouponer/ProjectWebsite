@@ -22,12 +22,12 @@
                 <div class="col-sm-10">
                     <h1 id="quickstartguide">Quick Start Guide</h1>
 
-                    <p>Welcome to the Algobots Competition Platform! This guide will take you on the express lane to trading with your algobot live in 60 seconds. Once you are up and running, use the menu on the left to access the rest of the documentation that will help you make the most out of your algobot and the platform.</p>
+                    <p>Welcome to the Algobots Competition Platform! This guide will take you on the express lane to trading with your <a href="documentation-algobots.shtml">algobot</a>. Once you are up and running, use the menu on the left to access the rest of the documentation which should help you make the most out of your algobot and the platform.</p>
 
                     <h2 id="requirements">Requirements</h2>
 
                     <ul>
-                        <li><p>A verified account with Poloniex. If you don't have one, <a href="https://poloniex.com/signup" target="_blank" rel="nofollow" target="_blank">get it here</a>. Make sure you go through the verification process so that you can trade freely.</p></li>
+                        <li><p>A verified account with Poloniex. If you don't have one, <a href="https://poloniex.com/signup" target="_blank" rel="nofollow" target="_blank">get it here</a>. Make sure you go through the verification process so that you can trade freely. We recommend either creating a new account to use specifically with Advanced Algos, or at least make sure you have very little money in it&mdash;just enough to play around and participate in competitions (0.002 BTC is more than enough).</p></li>
 
                         <li><p>An API Key to access your account programmatically. If you don't have an API key, follow the <a href="documentation-poloniex-api-key.shtml">instructions</a> to get one. </p></li>
 
@@ -44,7 +44,7 @@
 
                     <h2 id="accesstheplatform">Access the Platform</h2>
 
-                    <p>Access the platform by navigating to the URL we sent you. Once the platform finishes loading, you will see something like this:</p>
+                    <p>Access the platform by navigating to the URL we sent you. Please be patient... it may take up to two minutes to load completely (you should see the progress on-screen). Once the platform finishes loading, you will see something like this:</p>
 
                     <div class="polaroid">
                         <img src="img/doc/AAWeb-01-First-Screen.png" alt="Algobots Competition Platform">
@@ -91,7 +91,7 @@
 
                     <h2 id="accessyouralgobotscode">Access Your Algobot's Code</h2>
 
-                    <p>Set the running mode to <em>Backtest</em> and click the <em>Play</em> button on the top right corner of the screen. Then hit <kbd>F12</kbd> in your keyboard to open your browser's <em>Developer Tools</em> and select the <em>Source</em> tab.</p>
+                    <p>Set the running mode to <em>Backtest</em> and click the <em>Play</em> button on the top right corner of the screen. Then hit <kbd>F12</kbd> in your keyboard to open Chrome's <em>Developer Tools</em> and select the <em>Source</em> tab.</p>
 
                     <p>You will find the source code of your algobot in the <em>User.Bot.js</em> file under the <em>Bots / AAYourTeam / members / YourUserName / AAYourAlgobot-Trading-Process > Trading-Process</em> folder.</p>
 
@@ -108,15 +108,19 @@ CloudVM -> Bot code changes detected.
 CloudVM -> Changes in code saved.
                     </code></pre>
 
-                    <h2 id="tradelive">Trade Live</h2>
+                    <p>(find the logs at Chrome's <em>Console</em>)</p>
+                    <!--
+        <h2 id="tradelive">Trade Live</h2>
 
-                    <p>In order to trade live you will need to send us your API Key for us to configure the access to the exchange from the Cloud. Once the configuration is done, cycle to <em>Live</em> mode and click <em>Play</em>.</p>
+        <p>In order to trade live you will need to send us your API Key for us to configure the access to the exchange from the Cloud. Once the configuration is done, cycle to <em>Live</em> mode and click <em>Play</em>.</p>
 
-                    <p>You may login to the exchange and check the <em>My Open Orders</em> and <em>My Trading History &amp; Analysis</em> pages to find the orders placed by your algobot.</p>
-
+        <p>You may login to the exchange and check the <em>My Open Orders</em> and <em>My Trading History &amp; Analysis</em> pages to find the orders placed by your algobot.</p>
+    -->
                     <h2 id="thatsit">That's it!</h2>
 
                     <p>Before moving on, please refresh the page ( <kbd>F5</kbd> ) so that the rest of the interface updates with your algobot's current configuration.</p>
+
+                    <p>With this set up, you are ready to run you algobot in backtest mode. Trading live is currently only available on a competition setting. You should get a basic understanding of how your algobot and the platform work and join our <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Advanced Algos Telegram Group</a> to learn more about competitions.</p>
 
                     <p>Now that you are up and running, keep exploring this documentation to learn more about the platform and your algobot so that you can get the most out of them. We recommend starting with the <a href="documentation-interface.shtml">Interface page</a>!</p>
 
