@@ -18,14 +18,14 @@
                                     <li class="menu-item-type-custom">
                                         <a href="competition.shtml" class="sf-with-ul">The <span class="red_text">ALGO</span> Arena</a>
                                     </li>
-                                    <!--<li class="menu-item-type-custom menu-item-has-children">
+                                    <li class="menu-item-type-custom menu-item-has-children">
                                         <a href="#">Current Events</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item-type-custom">
                                                 <a href="competition-bitcoin-argentina-fb-group.shtml" class="sf-with-ul">Bitcoin Argentina</a>
                                             </li>
                                         </ul>
-                                    </li>-->
+                                    </li>
                                 </ul>
                             </li>
                             <li class="menu-item-type-custom">
