@@ -335,6 +335,13 @@
                                     </tbody>
                                 </table>
                             </div>
+
+                            <h3 id="Ties">Ties</h3>
+
+                            <p>In the event of a tie, the prize is divided between the tied players: the prizes for the tied spots are added together, and the total is then awarded to the tied players in equal parts.</p>
+                            
+                                <p>For example, there is a three-way tie for first place. The 1st place is awarded one BTC, thus, one third of a BTC is awarded to each of the tied participants. In addition, a total of 175,000 ALGO is reserved for 1st, 2nd and 3rd place, thus, each participant tied in the 1st place gets 58,300.33 ALGO.</p>
+                            
                             <h2 id="NoRestrictions">No Restrictions</h2>
 
                             <p>Because Advanced Algos has an open arms policy encouraging developers to join the company's development team and because the Advanced Algos Community is open for all people, we deliberately allow and urge everyone &ndash;including team and community members&mdash;to participate in all competitions. </p>
