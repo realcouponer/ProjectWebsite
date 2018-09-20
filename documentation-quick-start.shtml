@@ -22,7 +22,7 @@
                 <div class="col-sm-12">
                     <h1 id="quickstartguide">Quick Start Guide</h1>
 
-                    <p>Welcome to the Algobots Competition Platform! This guide will take you on the express lane to trading with your <a href="documentation-algobots.shtml">algobot</a>. Once you are up and running, use the menu on the left to access the rest of the documentation which should help you make the most out of your algobot and the platform.</p>
+                    <p>Welcome to the Algobots Competition Platform! This guide will take you on the express lane to trading with your <a href="documentation-algorithms.shtml">algobot</a>. Once you are up and running, use the menu on the left to access the rest of the documentation which should help you make the most out of your algobot and the platform.</p>
 
                     <h2 id="requirements">Requirements</h2>
 

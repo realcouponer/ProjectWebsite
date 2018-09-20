@@ -31,7 +31,7 @@
                         <p>The web app is an HTML canvas featuring three overlaid <em>visual spaces</em> working simultaneously:</p>
 
                         <ul>
-                            <li><p><strong>Charts timeline</strong>: It is a timeline in which <a href="documentation-algobots.shtml#howalgobotswork">bots' products</a> are displayed in a graphical representation created by <a href="documentation-algobots.shtml#aboutplotters">plotters</a>.</p></li>
+                            <li><p><strong>Charts timeline</strong>: It is a timeline in which <a href="documentation-algorithms.shtml#howalgorithmswork">bots' products</a> are displayed in a graphical representation created by <a href="documentation-algorithms.shtml#aboutplotters">plotters</a>.</p></li>
                             </a>
                             <li><p><strong>Floating notifications</strong>: It is a layer of information displayed on top of the timeline, typically containing t-bots' related information such as t-bots' runtime position and messages.</p></li>
 
@@ -84,8 +84,8 @@
                                 <p>In order for chart breakpoints to actually pause execution at the specific point in time in which it was placed, you first need to place a breakpoint in the following line of the <em>User.Bot.js</em> code:</p>
 
 <pre><code class="JavaScript language-JavaScript">
-if (FULL_LOG === true) { 
-    logger.write(MODULE_NAME, "[INFO] run -> loop -> Plot Breakpoint Hit."); // Place breakpoint in this line
+if (global.AT_BREAKPOINT === true) {
+      if (FULL_LOG === true) { logger.write(MODULE_NAME, "[INFO] run -> loop -> Plot Breakpoint Hit."); } // Place breakpoint in this line
 }
 </code></pre>
 
