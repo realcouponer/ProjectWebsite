@@ -19,7 +19,7 @@
         <section id="about_section" class="light_section margin_top_none" style="margin-top: -100px">
             <div class="container">
 
-                <div class="col-sm-10">
+                <div class="col-sm-12">
                     <h1 id="aboutalgobots">About Algorithms</h1>
 
                     <p>Algorithms or simply <em>bots</em> are open source software programmed in JavaScript and running as autonomous agents. AA Cloud calls algorithms and puts them to run in specific time intervals. They consume services from the platform and data from other bots, especially from indicators, and at the same time, produce an output that is stored in the cloud (to be consumed by other bots).</p>
