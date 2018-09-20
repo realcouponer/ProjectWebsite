@@ -19,9 +19,9 @@
         <section id="about_section" class="light_section margin_top_none" style="margin-top: -100px">
             <div class="container">
 
-                <div class="col-sm-10">
+                <div class="col-sm-12">
                     <h1 id="exchangeapikey">Poloniex API Key</h1>
-                    <p>The AAPlatform places orders on exchanges through the use of the exchanges' APIs. You will need to create an API Key and send it for us to configure the access to the exchange from the Cloud.</p>
+                    <p>The AAPlatform places orders on exchanges through the use of the exchanges' APIs. In order to compete in the <strong><span class="red_text">ALGO</span> Arena</strong>, you will need to create an API Key to configure the access to the exchange from the Cloud.</p>
                     <h2 id="creatingtheapikey">Creating the API Key</h2>
                     <p>This is how you create an API Key in Poloniex:</p>
                     <p>Go to the tools menu and select <em>API KEYS</em>...</p>
