@@ -20,7 +20,7 @@
         <section id="about_section" class="light_section margin_top_none" style="margin-top: -100px">
             <div class="container">
 
-                <div class="col-sm-10">
+                <div class="col-sm-12">
                     <h1 id="theaaplatform">The AAPlatform</h1>
 
                     <p>The AAPlatform is the system created to support the creation, optimization and competition of algobots.</p>
@@ -45,21 +45,21 @@
 
                     <p>The platform's architecture is designed so that algobots are run as self-contained entities, that is, when algobots finish their execution they are unloaded from memory and put to rest until the following scheduled execution starts.</p>
 
-                    <p>Each type of algobot (extractor, indicator and trading) has a specific workflow, thus each of them are handled from separate Main Loop modules. However, all Main Loop modules share a similar structure:</p>
+                    <p>Each type of algorithm (extractor, indicator and trading) has a specific workflow, thus each of them are handled from separate Main Loop modules. However, all Main Loop modules share a similar structure:</p>
 
                     <ul>
-                        <li><p>They first set up a structure of nested objects to be passed on to algobots;</p></li>
+                        <li><p>They first set up a structure of nested objects to be passed on to algorithms;</p></li>
 
-                        <li><p>objects are initialized, exposing a number of public functions that algobots can consume to perform their business operations;</p></li>
+                        <li><p>objects are initialized, exposing a number of public functions that algorithms can consume to perform their business operations;</p></li>
 
-                        <li><p>the corresponding algobots processes are executed and objects are passed on;</p></li>
+                        <li><p>the corresponding algorithm's processes are executed and objects are passed on;</p></li>
 
-                        <li><p>once algobots finish their run, the Main Loop stores the <em>Context</em>;</p></li>
+                        <li><p>once algorithms finish their run, the Main Loop stores the <em>context</em>;</p></li>
 
                         <li><p>and finally, sets the time for the next execution.</p></li>
                     </ul>
 
-                    <p><strong>Reviewing the <a href="documentation-algobots.shtml">workings of algobots</a> will further clarify the way the AAPlatform functions.</strong></p>
+                    <p><strong>Reviewing the <a href="documentation-algorithms.shtml">workings of algorithms</a> will further clarify the way the AAPlatform functions.</strong></p>
                 </div>
 
             </div>

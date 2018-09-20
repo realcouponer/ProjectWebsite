@@ -24,9 +24,11 @@
                                 </li>
                                 <li>
                                     <a href="documentation-interface.shtml">Interface</a>
-                                </li>
-                                <li>
-                                    <a href="documentation-competition.shtml">Competition</a>
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a href="documentation-competition.shtml">Competition</a>
+                                        </li>
+                                    </ul>
                                 </li>
                                 <li>
                                     <a href="documentation-definitions.shtml">Definitions</a>
@@ -35,7 +37,7 @@
                                     <a href="documentation-aaplatform.shtml">AA Platform</a>
                                 </li>
                                 <li>
-                                    <a href="documentation-algobots.shtml">Algobots</a>
+                                    <a href="documentation-algorithms.shtml">Algorithms</a>
                                     <ul class="sub-menu">
                                         <li>
                                             <a href="documentation-t-bots.shtml">T-Bots</a>
