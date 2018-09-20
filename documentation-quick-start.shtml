@@ -105,18 +105,12 @@ CloudVM -> Changes in code saved.
                     </code></pre>
 
                     <p>(find the logs at Chrome's <em>Console</em>)</p>
-                    <!--
-        <h2 id="tradelive">Trade Live</h2>
 
-        <p>In order to trade live you will need to send us your API Key for us to configure the access to the exchange from the Cloud. Once the configuration is done, cycle to <em>Live</em> mode and click <em>Play</em>.</p>
-
-        <p>You may login to the exchange and check the <em>My Open Orders</em> and <em>My Trading History &amp; Analysis</em> pages to find the orders placed by your algobot.</p>
-    -->
                     <h2 id="thatsit">That's it!</h2>
 
                     <p>Before moving on, please refresh the page ( <kbd>F5</kbd> ) so that the rest of the interface updates with your algobot's current configuration.</p>
 
-                    <p>With this set up, you are ready to run you algobot in backtest mode. Trading live is currently only available in a competition setting. You should get a basic understanding of how your algobot and the platform work and join our <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Advanced Algos Telegram Group</a> to learn more about competitions.</p>
+                    <p>With this set up, you are ready to run you algobot in backtest mode. Trading live is currently only available in a <a href="documentation-competition.shtml">competition setting</a>. You should get a basic understanding of how your algobot and the platform work and join our <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Advanced Algos Telegram Group</a> to learn more about competitions.</p>
 
                     <p>Now that you are up and running, keep exploring this documentation to learn more about the platform and your algobot so that you can get the most out of them. We recommend starting with the <a href="documentation-interface.shtml">Interface page</a>!</p>
                     
