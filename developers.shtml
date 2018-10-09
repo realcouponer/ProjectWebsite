@@ -27,11 +27,21 @@
                         <div class="flexslider">
                             <ul class="slides text-center">
                                 <li>
+                                    <img src="img/illustrations/slider03.svg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp">
+                                                <h3><span style="letter-spacing: 0.39em;">We build</span></br><span style="letter-spacing: 0.11em;">open source</span></br><span style="font-weight: 700;">crypto-trading</span></br><span style="letter-spacing: 0.22em; font-weight: 700; color:#f4e409">ALGOBOTS</span></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
                                     <img src="img/illustrations/slider01.svg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp">
-                                                <h3><span style="letter-spacing: 0.11em;">Get your own</span></br><span style="font-weight: 700; letter-spacing: 0.05em;">crypto-trading</span></br> <span style="letter-spacing: 0.45em;">ALGOBOT</span></br><span style="letter-spacing: 0.07em; font-weight: 700; color:#f4e409">in 60 seconds</span></h3>
+                                                <h3><span style="letter-spacing: 0.05em;">Compete for</span></br><span style="font-weight: 700; color:#F4E409">crypto prizes</span></br><span style="letter-spacing: 0.25em;">and have</span></br><span style="font-weight: 700; letter-spacing: 0.12em;">lots of fun</span></h3>
                                             </div>
                                         </div>
                                     </div>
@@ -41,17 +51,7 @@
                                     <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp">
-                                                <h3><span style="letter-spacing: 0.16em;">Start with a</span></br><span style="letter-spacing: 0.41em;">fork of a</span></br><span style="letter-spacing: 0.05em; font-weight: 700; color:#F4E409">comp-winning</span></br><span style="letter-spacing: 0.41em;">ALGOBOT</span></h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <img src="img/illustrations/slider03.svg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
-                                        <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp">
-                                                <h3><span style="letter-spacing: 0.16em;">Visually debug,</span></br><span style="letter-spacing: 0.05em;">backtest, code and</span></br><span style="letter-spacing: 0.4em;">TRADE LIVE</span></br><span style="letter-spacing: 0.17em; font-weight: 700; color:#F4E409">on the browser</span></h3>
+                                                <h3><span style="letter-spacing: 0.65em;">FORKING</span></br><span style="font-weight: 700; letter-spacing: 0.6em;">WINNERS</span></br><span style="letter-spacing: 0.04em; font-weight: 700; color:#F4E409">who get smarter</span></br><span style="letter-spacing: 0em;">for the next round</span></h3>
                                             </div>
                                         </div>
                                     </div>
@@ -68,9 +68,9 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="text-center">
-                            <h5 class="sc_title text-center">What We Offer</h5>
-                            <div style="width: 70%; margin: 0 auto;">
-                                <h2 class="sc_title sc_title_underline text-center">Get your own crypto-trading algobot up and running in 60 seconds</br><span class="red_text">for free!</span></h2>
+                            <h5 class="sc_title text-center">Evolving Collective Trading Intelligence</h5>
+                            <div style="width: 80%; margin: 0 auto;">
+                                <p class="sc_title sc_title_underline text-center sc_content">Advanced Algos is a technology project featuring a platform that enables the creation of open source trading bots participating in trading competitions. The community forks winners, improves them and brings them back to the arena for the next round, kick starting a relentless evolutionary process.</span></p>
                             </div>
                         </div>
                         <div>
@@ -87,7 +87,7 @@
                                 </ul>
                             </div>
                             <div class="col-sm-4 sc_content">
-                                <h3 class="margin_bottom_micro text-center sc_title_underline" ">Start with a fork of a competition-winning algobot</h3>
+                                <h3 class="margin_bottom_micro text-center sc_title_underline" ">Start with a fork of the last competition winner algobot</h3>
                                 <div style="margin-bottom:50px;">
                                     <img src="img/illustrations/how-algo-fork-flat.svg" alt="Algobots Competition Platform">
                                 </div>
@@ -98,15 +98,15 @@
                                 </ul>
                             </div>
                             <div class="col-sm-4 sc_content">
-                                <h3 class="margin_bottom_micro text-center sc_title_underline">Trade for yourself and take part in trading competitions</h3>
+                                <h3 class="margin_bottom_micro text-center sc_title_underline">Take part in trading comps and earn prizes in crypto</h3>
                                 <div class="polaroid">
                                     <img src="img/captures/thumbs/IDE02-Competition.png" alt="Algobots Competition Platform">
                                 </div>
                                 <div class="sc_title_underline"></div>
                                 <ul>
-                                    <li><p>Start trading live right off the bat!</p></li>
-                                    <li><p>Backtest and improve your algobot by fine-tuning or incorporating new logic.</p></li>
                                     <li><p>Take your bot to the Arena and test it's prowess against other algobots.</p></li>
+                                    <li><p>Playing field is leveled after each round so that no one is left behind.</p></li>
+                                    <li><p>Found a Team and get help from friends and coleagues.</p></li>
                                 </ul>
 
                             </div>
@@ -116,12 +116,26 @@
             </div>
         </section>
 
-        <section id="what_we_do" class="grey_section">
+        <section id="developers_section" class="darkgrey_section">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-12">
-                        <h5 class="sc_title text-center">What We Do</h5>
-                        <h2 class="sc_title text-center">The world's only specialized IDE for visually debugging, testing, training and competing with algobots right on the browser —now in alpha version</h2>
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Join Us!</h1>
+                        <h5 class="sc_title sc_title_underline">Opportunity for Developers</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+
+                        <p>Advanced Algos is a project with a revolutionary approach to the field of crypto-trading.</p>
+                        <p>In order to produce profitable trading algorithms starting from scratch, we enable and put in motion certain dynamics that are expected to produce an environment in which <strong>our trading algorithms evolve at much faster rates</strong> than those of potential competitors. This means that, even if we start with pretty stupid specimens, our bots should outperform all other trading bots sooner or later.</p>
+                    </div>
+                    <div class="col-sm-6">
+
+                        <p>The project and the technology around it is currently under development. If you are a talented developer willing to participate in an open source crypto-project in exchange for project tokens, we are happy to invite you to join the community on Telegram and introduce yourself.</p>
+                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                            <a href="https://t.me/advancedalgoscommunity" rel="nofollow" class="">Join Community</a>
+                        </span>
                     </div>
                 </div>
             </div>
@@ -148,33 +162,7 @@
                     </div>
                 </div>
             </div>
-        </section>
-
-
-    <section id="get_started_section" class="grey_section">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <h5 class="sc_title text-center">Learn More About</h5>
-                    <h2 class="sc_title sc_title_underline text-center">The Advanced Algos Project</h2>
-                    <div>
-                        <div class="col-sm-6 sc_content">
-                            <p class="sc_content">NEW VISION PENDING. Advanced Algos is an open source technology project lead by Advanced Algos Ltd. and supported by an incipient community of developers and crypto traders known as the Algobots Community. Together we are building something quite amazing: <b>an ecosystem of open source, highly-accessible, rapidly-evolving and easy-to-use trading algobots</b> that –for the time being—developers can have up and running in –literally—one minute.</p>
-                        </div>
-                        <div class="col-sm-6 sc_content">
-                            <p class="sc_content">Long term plans involve offering that kind of accessibility and usability to virtually everyone, be it developers, traders and ordinary crypto holders alike.</p>
-                            </br>
-                            <p class="text-center">
-                                <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big" style="line-height:80px">
-                                    <a href="about-advanced-algos-project.shtml">Learn More</a>
-                                </span> &nbsp;
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>        -->
+        </section>-->
         <!--#include file="includes/footer.shtml" -->
         <!--#include file="includes/preloader.shtml" -->
 

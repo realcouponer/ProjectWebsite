@@ -16,6 +16,8 @@
     <div id="box_wrapper">
 
         <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-white-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
 
         <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
             <div class="container">
@@ -41,7 +43,7 @@
                         <!--#include file="includes/email-signup.shtml" -->
 
                         <div class="sc_content">
-                            
+
                             <p>We will never share your email address with anyone. Learn more about our <a href="legal-privacy-statement.shtml" target="_blank">Privacy Statement</a>.</p>
                         </div>
 
