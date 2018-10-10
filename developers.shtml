@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Advanced Algos</title>
-    <meta name="description" content="Open source crypto-trading algobots competition platform">
+    <title>Advanced Algos for Developers</title>
+    <meta name="description" content="An open source crypto-trading bots competition platform featuring periodical comps after which winners are forked to level the playing field.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -63,55 +63,91 @@
             </div>
         </section>
 
-        <section id="what_we_offer" class="light_section">
+        <section id="developers_what" class="light_section">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-12">
-                        <div class="text-center">
-                            <h5 class="sc_title text-center">Evolving Collective Trading Intelligence</h5>
-                            <div style="width: 80%; margin: 0 auto;">
-                                <p class="sc_title sc_title_underline text-center sc_content">Advanced Algos is a technology project featuring a platform that enables the creation of open source trading bots participating in trading competitions. The community forks winners, improves them and brings them back to the arena for the next round, kick starting a relentless evolutionary process.</span></p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="col-sm-4 sc_content">
-                                <h3 class="margin_bottom_micro text-center sc_title_underline">Use our IDE to develop algobots on the browser</h3>
-                                <div class="polaroid">
-                                    <img src="img/captures/thumbs/IDE01-Code.png" alt="Algobots Competition Platform">
-                                </div>
-                                <div class="sc_title_underline"></div>
-                                <ul>
-                                    <li><p>Debug visually on the charts and also in the code.</p></li>
-                                    <li><p>Change algobots code with the browser's developer tools.</p></li>
-                                    <li><p>No arbitrary barriers imposed on your creativity. You may code anything JavaScript allows you to.</p></li>
-                                </ul>
-                            </div>
-                            <div class="col-sm-4 sc_content">
-                                <h3 class="margin_bottom_micro text-center sc_title_underline" ">Start with a fork of the last competition winner algobot</h3>
-                                <div style="margin-bottom:50px;">
-                                    <img src="img/illustrations/how-algo-fork-flat.svg" alt="Algobots Competition Platform">
-                                </div>
-                                <div class="sc_title_underline"></div>
-                                <ul>
-                                    <li><p>Algobot optimization and efficiency developed by the combined force of community collaboration and the constant iterative improvements gained through ongoing cycles of competition.</p></li>
-                                    <li><p>Public access and verification of algobot evolutionary track record.</p></li>
-                                </ul>
-                            </div>
-                            <div class="col-sm-4 sc_content">
-                                <h3 class="margin_bottom_micro text-center sc_title_underline">Take part in trading comps and earn prizes in crypto</h3>
-                                <div class="polaroid">
-                                    <img src="img/captures/thumbs/IDE02-Competition.png" alt="Algobots Competition Platform">
-                                </div>
-                                <div class="sc_title_underline"></div>
-                                <ul>
-                                    <li><p>Take your bot to the Arena and test it's prowess against other algobots.</p></li>
-                                    <li><p>Playing field is leveled after each round so that no one is left behind.</p></li>
-                                    <li><p>Found a Team and get help from friends and coleagues.</p></li>
-                                </ul>
-
-                            </div>
-                        </div>
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Advanced Algos for Developers</h1>
+                        <h5 class="sc_title sc_title_underline">TRAIN >> COMPETE >> REPEAT</h5>
                     </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+
+                        <h3>1. <span style="font-weight: 700; color:#e3493c">Train</span> an Algobot</h3>
+
+                        <img src="img/illustrations/basics-evolve.svg" alt="Train!" height="120px" />
+
+                        <p>Emabark on a 3-weeks mission to take an existing specimen and <strong>make it smarter</strong>. Fine tune, optimize, or fully rewrite it... it's your call!</p>
+
+                    </div>
+                    <div class="col-sm-4">
+
+                        <h3>2. <span style="font-weight: 700; color:#e3493c">Compete</span> for Prize Money</h3>
+
+                        <img src="img/illustrations/basics-compete.svg" alt="Compete!" />
+
+                        <p>During the fourth week, your bot will compete with the rest while the crowd cheers. If it wins the race, you <strong>hit the jackpot worth $10,000!</strong></p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3>3. <span style="font-weight: 700; color:#e3493c">Fork Winners</span> and Start Over</h3>
+
+                        <img src="img/illustrations/basics-fork.svg" alt="Fork winners!" />
+
+                        <p>Once the comp is over, <strong>fork any of the winners</strong> and start over again. You have 3 more weeks to prove your worth until the next comp round!</p>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="documentation-quick-start.shtml">Get Me Started!</a>
+                    </span>
+                </div>
+            </div>
+        </section>
+
+        <section id="developers_how" class="grey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Your Tools</h1>
+                        <h5 class="sc_title sc_title_underline">IDE + EXISTING BOTS + COMPETITIONS</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+
+                        <h3 style="color:white;">1. <span style="font-weight: 700; color:#F4E409">IDE</span> to Work on the Browser</h3>
+
+                        <div class="polaroid">
+                            <img src="img/captures/thumbs/IDE01-Code.png" alt="Algobots Competition Platform">
+                        </div>
+
+                        <p>Our IDE allows you to change algobots code with the browser's developer tools and see the results right away. You will be able to debug visually on the charts and also in the code.</p>
+
+                    </div>
+                    <div class="col-sm-4">
+
+                        <h3 style="color:white;">2. <span style="font-weight: 700; color:#F4E409">Champion Bots</span> to Start With</h3>
+
+                        <div class="polaroid">
+                            <img src="img/illustrations/how-algo-fork-flat.svg" alt="Algobots Competition Platform">
+                        </div>
+                        <p>You may fork any bot, including winners of previous competitions to start out on a level playing field. It's all about coming up with small improvements and optimizations.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3 style="color:white;">3. <span style="font-weight: 700; color:#F4E409">Competitions</span> Platform</h3>
+
+                        <div class="polaroid">
+                            <img src="img/captures/thumbs/IDE02-Competition.png" alt="Algobots Competition Platform">
+                        </div>
+
+                        <p>The platform features integrated competition functionality to test bot's performance against each other and to compete in official events with prize money for winners.</p>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="documentation-quick-start.shtml">Get Me Started!</a>
+                    </span>
                 </div>
             </div>
         </section>
@@ -120,49 +156,31 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Join Us!</h1>
-                        <h5 class="sc_title sc_title_underline">Opportunity for Developers</h5>
+                        <h1 class="sc_title">Join Us In Building Advanced Algos</h1>
+                        <h5 class="sc_title sc_title_underline">Further Opportunities for Developers</h5>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-6">
+                    <div class="col-sm-4">
 
-                        <p>Advanced Algos is a project with a revolutionary approach to the field of crypto-trading.</p>
-                        <p>In order to produce profitable trading algorithms starting from scratch, we enable and put in motion certain dynamics that are expected to produce an environment in which <strong>our trading algorithms evolve at much faster rates</strong> than those of potential competitors. This means that, even if we start with pretty stupid specimens, our bots should outperform all other trading bots sooner or later.</p>
+                        <h4 style="color:white;">Are you a talented developer looking for a smart crypto project to contribute to at an early stage?</h4>
+                        <p>There is both empirical and scientific evidence that show how groups can be empowered to unprecedented levels when provided with the precise set of information technology tools and organized in specific ways. </p>
                     </div>
-                    <div class="col-sm-6">
-
-                        <p>The project and the technology around it is currently under development. If you are a talented developer willing to participate in an open source crypto-project in exchange for project tokens, we are happy to invite you to join the community on Telegram and introduce yourself.</p>
+                    <div class="col-sm-4">
+                        <p>The Advanced Algos project is about enabling, incentivizing and building such a community of people while designing people's and machines' interactions in ways that are proven to increase the collective intelligence of the group in order to maximize the odds of success. </p>
+                        <p>It's about creating and nurturing an open supermind that can eventually outperform the corporate entities currently dominating the markets.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>The technology required to support these dynamics is currently under development by multiple teams, in a collaborative setting. If you are a talented developer willing to participate in an open source crypto-project, we are happy to invite you to <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank"><strong>join the community on Telegram</strong></a> and introduce yourself.</p>
                         <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                            <a href="https://t.me/advancedalgoscommunity" rel="nofollow" class="">Join Community</a>
+                            <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Join the Community</a>
                         </span>
                     </div>
                 </div>
             </div>
         </section>
 
-        <!--
-        <section id="get_started_section" class="yellow_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <h5 class="sc_title text-center">Ready, set, go!</h5>
-                        <h2 class="sc_title sc_title_underline text-center">Let's Get You Started!</h2>
-                        <div>
-                            <div class="col-sm-12 sc_content text-center">
-                                <p>
-                                    <strong>Try it out and start trading right away...</strong> </br>No tricky set ups, no payments.
-                                    </p>
 
-                                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                        <a href="#" class="">Get me started!</a>
-                                    </span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>-->
         <!--#include file="includes/footer.shtml" -->
         <!--#include file="includes/preloader.shtml" -->
 
