@@ -378,7 +378,8 @@ footer > .container > .row > [class*="col-"] {
 
 /**grey section*/
 .grey_section {
-    background-color: #EAE2DE;
+    background-color: #65656b;
+    color: #fff;
 }
 
 .grey_section + .grey_section {
@@ -394,6 +395,10 @@ border-top: none;
 .darkgrey_section .sc_title {
   color: #fff;
 }
+
+    .grey_section .sc_title {
+        color: #fff;
+    }
 
 
 .darkgrey_section + .darkgrey_section {
@@ -4045,8 +4050,8 @@ body .mfp-bg { background-color: rgba(0, 0, 0, 0.7) !important; }
 
 /*=Title==================================================================================================================================================================*/
 .sc_title { padding: 0 0 10px 0; }
-.sc_title_underline { overflow: hidden; padding-bottom:10px; }
-.sc_title_underline:after { content:''; display:block; margin:30px auto 10px; background-color: rgba(142, 144, 146, 0.2) !important; height:1px; width:105px; }
+.sc_title_underline { overflow: hidden; padding-bottom:5px; }
+.sc_title_underline:after { content:''; display:block; margin:30px auto 5px; background-color: rgba(142, 144, 146, 0.2) !important; height:1px; width:105px; }
 .sc_title_align_left.sc_title_underline:after { margin:30px 0; background-color: rgba(142, 144, 146, 0.2) !important; height:1px; width:105px; }
 .sc_title_align_right.sc_title_underline:after { width: 100%; }
 .sc_title_icon { display:block; width: 70px; height: 70px; margin: 0 auto; overflow:hidden; vertical-align: middle; }

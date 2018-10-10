@@ -1,0 +1,188 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Advanced Algos for Developers</title>
+    <meta name="description" content="An open source crypto-trading bots competition platform featuring periodical comps after which winners are forked to level the playing field.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper">
+
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-white-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/illustrations/slider03.svg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp">
+                                                <h3><span style="letter-spacing: 0.39em;">We build</span></br><span style="letter-spacing: 0.11em;">open source</span></br><span style="font-weight: 700;">crypto-trading</span></br><span style="letter-spacing: 0.22em; font-weight: 700; color:#f4e409">ALGOBOTS</span></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <img src="img/illustrations/slider01.svg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp">
+                                                <h3><span style="letter-spacing: 0.05em;">Compete for</span></br><span style="font-weight: 700; color:#F4E409">crypto prizes</span></br><span style="letter-spacing: 0.25em;">and have</span></br><span style="font-weight: 700; letter-spacing: 0.12em;">lots of fun</span></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <img src="img/illustrations/slider02.svg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp">
+                                                <h3><span style="letter-spacing: 0.65em;">FORKING</span></br><span style="font-weight: 700; letter-spacing: 0.6em;">WINNERS</span></br><span style="letter-spacing: 0.04em; font-weight: 700; color:#F4E409">who get smarter</span></br><span style="letter-spacing: 0em;">for the next round</span></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="developers_what" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Advanced Algos for Developers</h1>
+                        <h5 class="sc_title sc_title_underline">TRAIN >> COMPETE >> REPEAT</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+
+                        <h3>1. <span style="font-weight: 700; color:#e3493c">Train</span> an Algobot</h3>
+
+                        <img src="img/illustrations/basics-evolve.svg" alt="Train!" height="120px" />
+
+                        <p>Emabark on a 3-weeks mission to take an existing specimen and <strong>make it smarter</strong>. Fine tune, optimize, or fully rewrite it... it's your call!</p>
+
+                    </div>
+                    <div class="col-sm-4">
+
+                        <h3>2. <span style="font-weight: 700; color:#e3493c">Compete</span> for Prize Money</h3>
+
+                        <img src="img/illustrations/basics-compete.svg" alt="Compete!" />
+
+                        <p>During the fourth week, your bot will compete with the rest while the crowd cheers. If it wins the race, you <strong>hit the jackpot worth $10,000!</strong></p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3>3. <span style="font-weight: 700; color:#e3493c">Fork Winners</span> and Start Over</h3>
+
+                        <img src="img/illustrations/basics-fork.svg" alt="Fork winners!" />
+
+                        <p>Once the comp is over, <strong>fork any of the winners</strong> and start over again. You have 3 more weeks to prove your worth until the next comp round!</p>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="documentation-quick-start.shtml">Get Me Started!</a>
+                    </span>
+                </div>
+            </div>
+        </section>
+
+        <section id="developers_how" class="grey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Your Tools</h1>
+                        <h5 class="sc_title sc_title_underline">IDE + EXISTING BOTS + COMPETITIONS</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+
+                        <h3 style="color:white;">1. <span style="font-weight: 700; color:#F4E409">IDE</span> to Work on the Browser</h3>
+
+                        <div class="polaroid">
+                            <img src="img/captures/thumbs/IDE01-Code.png" alt="Algobots Competition Platform">
+                        </div>
+
+                        <p>Our IDE allows you to change algobots code with the browser's developer tools and see the results right away. You will be able to debug visually on the charts and also in the code.</p>
+
+                    </div>
+                    <div class="col-sm-4">
+
+                        <h3 style="color:white;">2. <span style="font-weight: 700; color:#F4E409">Champion Bots</span> to Start With</h3>
+
+                        <div class="polaroid">
+                            <img src="img/illustrations/how-algo-fork-flat.svg" alt="Algobots Competition Platform">
+                        </div>
+                        <p>You may fork any bot, including winners of previous competitions to start out on a level playing field. It's all about coming up with small improvements and optimizations.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3 style="color:white;">3. <span style="font-weight: 700; color:#F4E409">Competitions</span> Platform</h3>
+
+                        <div class="polaroid">
+                            <img src="img/captures/thumbs/IDE02-Competition.png" alt="Algobots Competition Platform">
+                        </div>
+
+                        <p>The platform features integrated competition functionality to test bot's performance against each other and to compete in official events with prize money for winners.</p>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="documentation-quick-start.shtml">Get Me Started!</a>
+                    </span>
+                </div>
+            </div>
+        </section>
+
+        <section id="developers_section" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Join Us In Building Advanced Algos</h1>
+                        <h5 class="sc_title sc_title_underline">Further Opportunities for Developers</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+
+                        <h4 style="color:white;">Are you a talented developer looking for a smart crypto project to contribute to at an early stage?</h4>
+                        <p>There is both empirical and scientific evidence that show how groups can be empowered to unprecedented levels when provided with the precise set of information technology tools and organized in specific ways. </p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>The Advanced Algos project is about enabling, incentivizing and building such a community of people while designing people's and machines' interactions in ways that are proven to increase the collective intelligence of the group in order to maximize the odds of success. </p>
+                        <p>It's about creating and nurturing an open supermind that can eventually outperform the corporate entities currently dominating the markets.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>The technology required to support these dynamics is currently under development by multiple teams, in a collaborative setting. If you are a talented developer willing to participate in an open source crypto-project, we are happy to invite you to <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank"><strong>join the community on Telegram</strong></a> and introduce yourself.</p>
+                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                            <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Join the Community</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>

@@ -17,6 +17,8 @@
     <div id="box_wrapper">
 
         <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-white-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
 
         <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
             <div class="container">
@@ -68,7 +70,7 @@
                         <div class="text-center">
                             <h5 class="sc_title text-center">What We Offer</h5>
                             <div style="width: 70%; margin: 0 auto;">
-                            <h2 class="sc_title sc_title_underline text-center">Get your own crypto-trading algobot up and running in 60 seconds</br><span class="red_text">for free!</span></h2>
+                                <h2 class="sc_title sc_title_underline text-center">Get your own crypto-trading algobot up and running in 60 seconds</br><span class="red_text">for free!</span></h2>
                             </div>
                         </div>
                         <div>
@@ -85,7 +87,7 @@
                                 </ul>
                             </div>
                             <div class="col-sm-4 sc_content">
-                                <h3 class="margin_bottom_micro text-center sc_title_underline"">Start with a fork of a competition-winning algobot</h3>
+                                <h3 class="margin_bottom_micro text-center sc_title_underline" ">Start with a fork of a competition-winning algobot</h3>
                                 <div style="margin-bottom:50px;">
                                     <img src="img/illustrations/how-algo-fork-flat.svg" alt="Algobots Competition Platform">
                                 </div>

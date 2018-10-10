@@ -16,6 +16,8 @@
     <div id="box_wrapper">
 
         <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-white-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
 
         <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
             <div class="container">
@@ -58,29 +60,12 @@
 
                             <h2 id="algobotteamregistration">Registration</h2>
 
-                            <p>To get started, join <a href="https://t.me/aaespanol" rel="nofollow" target="_blank">AA en Espa&ntilde;ol</a> (the Advanced Algos Telegram Group for Spanish-speakers) and declare what your preferred <i>User Name</i>, <i>Team Name</i> and <i>Bot Name</i> are.</p>
-                            <p>Template intro message for your convenience:</p>
-                            <blockquote>
-                                <p>Hola! Mis datos de inscripci&oacute;n:</p>
-                                <p>
-                                    Team Name: </br>
-                                    User Name: </br>
-                                    Bot Name:
-                                </p>
-                            </blockquote>
-                            <p>Example:</p>
-                            <blockquote>
-                                <p>Hola! Mis datos de inscripci&oacute;n:</p>
-                                <p>
-                                    Team Name: Spartans</br>
-                                    User Name: Leonidas</br>
-                                    Bot Name: King
-                                </p>
-                            </blockquote>
+                            <p>Follow the <a href="documentation-quick-start.shtml" target="_blank">Quick Start Guide</a> to register and get started with your first bot.</p>
 
-                            <p><strong>This is actually a good time to do just that, so go ahead, copy the message template, <a href="https://t.me/aaespanol" rel="nofollow" target="_blank">get in the group</a>, come up with some cool names and submit them! Also, please include an image for your team profile and another one for your bot.</strong></p>
+                            <p>This is actually a good time to do just that, so go ahead and register! But still, make sure you go through the rest of the guidelines later, so that you are familiar with the details and rules.</p>
 
-                            <p>An admin will get back to you with your private URL to access the platform. In the meantime, please keep reading so that you learn how to get yourself ready...</p>
+                            <p><strong>For support and to interact live with the rest of participants, join <a href="https://t.me/aaespanol" rel="nofollow" target="_blank">AA en Espa&ntilde;ol</a> (the Advanced Algos Telegram Group for Spanish-speakers). Feel free to introduce yourself and let the rest know the name of your bot.</strong></p>
+
 
                             <h2 id="poloniexaccount">Poloniex Account</h2>
 
@@ -246,7 +231,7 @@
                             <h2 id="prizes">Prizes</h2>
 
                             <p>The competition distributes 200,000 ALGO (worth USD 6,000) as prize money for the top 5 performers and 1,000 ALGO to each participant not making the top 5.</p>
-                            <p><strong>In addition, 1 BTC goes to the absolut winner (1st), sponsored by Advanced Algos Ltd.</strong></p>
+                            <p><strong>In addition, USD 5,000 (five thousand dollars) go to the absolut winner (1st), sponsored by Advanced Algos Ltd. (payable in BTC at the rate of the competition's closing time).</strong></p>
 
                             <p>The prize money is awarded as follows:</p>
 
@@ -258,7 +243,7 @@
                                                 <p>Position</p>
                                             </th>
                                             <th>
-                                                <p>BTC Prize</p>
+                                                <p>USD Prize</p>
                                             </th>
                                             <th>
                                                 <p>ALGO Prize</p>
@@ -271,7 +256,7 @@
                                                 <p>1st</p>
                                             </td>
                                             <td>
-                                                <p>1</p>
+                                                <p>5,000</p>
                                             </td>
                                             <td>
                                                 <p>100,000</p>
@@ -282,7 +267,7 @@
                                                 <p>2nd</p>
                                             </td>
                                             <td>
-                                                <p>0</p>
+                                                <p>-</p>
                                             </td>
                                             <td>
                                                 <p>50,000</p>
@@ -293,7 +278,7 @@
                                                 <p>3rd</p>
                                             </td>
                                             <td>
-                                                <p>0</p>
+                                                <p>-</p>
                                             </td>
                                             <td>
                                                 <p>25,000</p>
@@ -304,7 +289,7 @@
                                                 <p>4th</p>
                                             </td>
                                             <td>
-                                                <p>0</p>
+                                                <p>-</p>
                                             </td>
                                             <td>
                                                 <p>15,000</p>
@@ -315,7 +300,7 @@
                                                 <p>5th</p>
                                             </td>
                                             <td>
-                                                <p>0</p>
+                                                <p>-</p>
                                             </td>
                                             <td>
                                                 <p>10,000</p>
@@ -326,7 +311,7 @@
                                                 <p>6th and on...</p>
                                             </td>
                                             <td>
-                                                <p>0</p>
+                                                <p>-</p>
                                             </td>
                                             <td>
                                                 <p>1,000</p>
@@ -339,9 +324,9 @@
                             <h3 id="Ties">Ties</h3>
 
                             <p>In the event of a tie, the prize is divided between the tied players: the prizes for the tied spots are added together, and the total is then awarded to the tied players in equal parts.</p>
-                            
-                                <p>For example, there is a three-way tie for first place. The 1st place is awarded one BTC, thus, one third of a BTC is awarded to each of the tied participants. In addition, a total of 175,000 ALGO is reserved for 1st, 2nd and 3rd place, thus, each participant tied in the 1st place gets 58,300.33 ALGO.</p>
-                            
+
+                            <p>For example, there is a three-way tie for first place. The 1st place is awarded USD 5,000 (no USD prize is awarded to 2nd and 3rd, so nothing to add here) thus, USD 1,666.66 is awarded to each of the tied participants. In addition, a total of 175,000 ALGO is reserved for 1st, 2nd and 3rd place, thus, each participant tied in the 1st place gets 58,300.33 ALGO.</p>
+
                             <h2 id="NoRestrictions">No Restrictions</h2>
 
                             <p>Because Advanced Algos has an open arms policy encouraging developers to join the company's development team and because the Advanced Algos Community is open for all people, we deliberately allow and urge everyone &ndash;including team and community members&mdash;to participate in all competitions. </p>
@@ -353,10 +338,6 @@
                             <h2 id="TermsOfService">Pre-Alpha Disclaimer</h2>
 
                             <p>Bear in mind the platform is in a pre-alpha stage. As developers, you should expect eventual errors that may cause inconveniences. Participating in pre-alpha competitions is a way to support the Advanced Algos project... we very much appreciate your help!</p>
-
-                            <h2>Getting Started</h2>
-
-                            <p>Check the <a href="documentation-quick-start.shtml">Quick Start Guide</a> and the rest of the documentation to get you rolling with your first algobot. We are fully aware that existing documentation is not complete, so feel free to drop any questions over Telegram.</p>
 
                         </div>
                     </div>

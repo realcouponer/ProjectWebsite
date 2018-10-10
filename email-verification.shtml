@@ -11,23 +11,25 @@
 <body>
 
     <!--#include file="includes/header.shtml" -->
+    <!--#include file="includes/header-logo-white-bg.shtml" -->
+    <!--#include file="includes/header2.shtml" -->
 
     <section id="verify_section" class="light_section">
-      <div class="container">
-        <div class="row">
-            <div class="col-sm-12 text-center">
-                <h2 id="verify-message" class="sc_title sc_title_underline">Verification in process...</h2>
-                <div id="verify-loader" class="preloader_image"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h2 id="verify-message" class="sc_title sc_title_underline">Verification in process...</h2>
+                    <div id="verify-loader" class="preloader_image"></div>
+                </div>
+            </div>
+            <div id="resend_email_section" class="row justify-content-sm-center" style="display:none;">
+                <div class="col-sm-auto text-center">
+                    <blockquote>
+                        <!--#include file="includes/email-signup.shtml" -->
+                    </blockquote>
+                </div>
             </div>
         </div>
-        <div id="resend_email_section" class="row justify-content-sm-center" style="display:none;">
-          <div class="col-sm-auto text-center">
-            <blockquote>
-            <!--#include file="includes/email-signup.shtml" -->
-            </blockquote>
-          </div>
-        </div>
-      </div>
     </section>
 
     <!--#include file="includes/footer.shtml" -->
