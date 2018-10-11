@@ -2,7 +2,7 @@
 
 <head>
     <title>Advanced Algos for Developers</title>
-    <meta name="description" content="An open source crypto-trading bots competition platform featuring periodical comps after which winners are forked to level the playing field.">
+    <meta name="description" content="An open source crypto-trading bots competition platform featuring regular comps after which winners are forked to level the playing field.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->

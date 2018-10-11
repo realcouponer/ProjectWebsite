@@ -2,7 +2,7 @@
 
 <head>
     <title>Advanced Algos</title>
-    <meta name="description" content="Open source crypto-trading algobots competition platform">
+    <meta name="description" content="A supermind in the quest to produce a superalgo through iterative competition cycles fostering rapid evolution of algorithms.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -26,18 +26,18 @@
                         <div class="flexslider slider_height_max">
                             <ul class="slides text-center">
                                 <li>
-                                    <img src="img/photos/markets.jpg" alt="">
+                                    <img src="img/photos/supermind.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
-                                                    <div style="width:80%;">
-                                                        <h3>Welcome to Advanced Algos</h3>
+                                                    <div style="width:85%;">
+                                                        <h3>Supermind</h3>
                                                         <h4 style="color:white;">
-                                                            <br />Join a group of multi-specialty professionals and aficionados coming together to &ndash;collectively&mdash;trade in crypto-markets.
+                                                            <br />We are a group of people working alongside with machines to &ndash;collectively&mdash; create superalgos.
                                                         </h4>
                                                         <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Join Us</a>
+                                                            <a href="#supermind">Learn More</a>
                                                         </span>
                                                     </div>
 
@@ -47,18 +47,18 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="img/photos/supermind.jpg" alt="">
+                                    <img src="img/photos/markets.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
-                                                    <div style="width:80%;">
-                                                        <h3>Our Goal</h3>
+                                                    <div style="width:85%;">
+                                                        <h3>Superalgo</h3>
                                                         <h4 style="color:white;">
-                                                            <br />To outperform every other trading entity by harnessing your intelligence along with that of millions more into a massive supermind.
+                                                            <br />A superior trading intelligence able to outperform every other participant in electronic markets.
                                                         </h4>
                                                         <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Join the Supermind</a>
+                                                            <a href="#superalgo">Learn More</a>
                                                         </span>
                                                     </div>
 
@@ -73,13 +73,13 @@
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
-                                                    <div style="width:80%;">
-                                                        <h3>Get Started</h3>
+                                                    <div style="width:85%;">
+                                                        <h3>Evolution</h3>
                                                         <h4 style="color:white;">
-                                                            <br />Plug in your brain and feel the power. You will trade, compete and have fun, all while your contributions earn you a piece of the pie.
+                                                            <br />The mechanism that allows to train superalgos along all foreseeable trading strategies.
                                                         </h4>
                                                         <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Join the Community</a>
+                                                            <a href="#evolution">Learn More</a>
                                                         </span>
                                                     </div>
                                                 </div>
@@ -94,144 +94,121 @@
             </div>
         </section>
 
-        <section id="developers_mission" class="light_section">
+        <section id="supermind" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Developer Mission</h1>
-                        <h5 class="sc_title sc_title_underline">TRAIN >> COMPETE >> REPEAT</h5>
+                        <h1 class="sc_title">Supermind</h1>
+                        <h5 class="sc_title sc_title_underline">An Intelligent Collective</h5>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-4">
-
-                        <h3>1. <span style="font-weight: 700; color:#e3493c">Train</span> an Algobot</h3>
-
-                        <img src="img/illustrations/basics-evolve.svg" alt="Train!" height="120px" />
-
-                        <p>Emabark on a 3-weeks mission to take an existing specimen and <strong>make it smarter</strong>. Fine tune, optimize, or fully rewrite it... it's your call!</p>
-
+                        <p>A supermind is <i>a group of individuals acting together in ways that seem intelligent</i>, as defined by Prof. Thomas W. Malone in his book <i>Superminds: The Surprising Power of People and Computers Thinking Together</i>.</p>
+                        <p>Prof. Malone and his colleagues at the MIT Center for Collective Intelligence found that groups&ndash;like humans&mdash;have a measurable <i>collective intelligence</i> and identified specific factors correlated to it.</p>
                     </div>
                     <div class="col-sm-4">
-
-                        <h3>2. <span style="font-weight: 700; color:#e3493c">Compete</span> for Prize Money</h3>
-
-                        <img src="img/illustrations/basics-compete.svg" alt="Compete!" />
-
-                        <p>During the fourth week, your bot will compete with the rest while the crowd cheers. If it wins the race, you <strong>hit the jackpot worth $10,000!</strong></p>
+                        <p>Our goal as a supermind is to create a <i>superalgo</i> in the shortest time possible, for which Advanced Algos needs to maximize it's collective intelligence&mdash;among other things.</p>
+                        <p>To expand our capabilities, we invite researchers in the fields of Collective Intelligence, Artificial Intelligence, Computer Science, Game Theory, Social Studies, Psychology and others to participate in the project at different levels. </p>
                     </div>
                     <div class="col-sm-4">
-                        <h3>3. <span style="font-weight: 700; color:#e3493c">Fork Winners</span> and Start Over</h3>
-
-                        <img src="img/illustrations/basics-fork.svg" alt="Fork winners!" />
-
-                        <p>Once the comp is over, <strong>fork any of the winners</strong> and start over again. You have 3 more weeks to prove your worth until the next comp round!</p>
+                        <p>There are opportunities to conduct studies and experiments, whenever those interventions may be conducive to increasing the project's efficiency or the collective intelligence of the supermind.</p>
+                        <p>We also welcome professionals in the fields of law, governance, business, economy, communication, marketing, and other fields for which the project requires top resources to excel.</p>
                     </div>
                 </div>
                 <div class="text-center">
                     <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                        <a href="documentation-quick-start.shtml">Get Me Started!</a>
+                        <a href="contacts.shtml">Contact Us</a>
                     </span>
                 </div>
             </div>
         </section>
 
-        <section id="traders_analist_mission" class="dark_section">
+        <section id="superalgo" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Trader / Analyst Mission</h1>
-                        <h5 class="sc_title sc_title_underline">JOIN >> COMPETE >> EVOLVE</h5>
+                        <h1 class="sc_title">Superalgo</h1>
+                        <h5 class="sc_title sc_title_underline">A Superior Trading Intelligence</h5>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-4">
-                        <h3 style="color:white;">1. <span style="font-weight: 700; color:#F4E409">Join</span> a Team</h3>
-                        <img src="img/photos/basics-join.jpg" alt="Join!" />
-                        <p><strong>Developers need your insight!</strong> Please, <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank"><strong>join the community</strong></a> talk to people and join a team. Working in a team of people with complementary skillsets offers much better odds of beating the rest...</p>
+                        <p>A superalgo is not just a high-performance trading algorithm. It is a <i>trading intelligence</i> that knows about all possible trading strategies, remembers what worked and what didn't in different circumstances, and learns from that experience. When trading, a superalgo, uses any combination of all known strategies, dynamically switching or combining them as needed. </p>
                     </div>
                     <div class="col-sm-4">
-                        <h3 style="color:white;">2. <span style="font-weight: 700; color:#F4E409">Compete</span> for Prize Money</h3>
-                        <img src="img/photos/basics-compete.jpg" alt="Compete!" />
-                        <p>A good way to start is to try and <strong>fine-tune trades entry and exit points</strong> or implement additional rules to make the bot smarter for the next competition. If the team wins, you share the jackpot worth $10,000!</p>
+                        <p>In order to make a superalgo emerge in the shortest possible time, the project invites seasoned traders and related industry professionals to influence teams breeding trading bots.</p>
                     </div>
                     <div class="col-sm-4">
-                        <h3 style="color:white;">3. <span style="font-weight: 700; color:#F4E409">Evolve</span> the Strategy</h3>
-                        <img src="img/photos/basics-evolve.jpg" alt="Fork winners!" />
-                        <p>After each competition, you should help <strong>evolve the strategy and decision-making</strong> or maybe implement a different strategy altogether. You have 3 more weeks to take the team to the podium in the next comp!</p>
+                        <p>Computer Scientists and experts on Artificial Intelligence are also welcome to propose or implement different approaches for superalgos. </p>
                     </div>
                 </div>
                 <div class="text-center">
                     <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                        <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">I Want In!</a>
+                        <a href="contacts.shtml">Contact Us</a>
                     </span>
                 </div>
             </div>
         </section>
 
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
-                                <li>
-                                    <img src="img/photos/supermind-dark2.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
-                                        <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp" align="center">
-                                                <div>
-                                                    <div style="width:80%;">
-                                                        <h3>Our Vision</h3>
-                                                        <h5 style="color:white;">COLLABORATION THROUGH COMPETITION</h5>
-                                                        <h4 style="color:white;">
-                                                            <br />We envision a future in which everyone can successfully participate in the markets by coming together, working alongside with machines, to become a piece of an ever-evolving trading supermind capable of outperforming its competitors, for the benefit of its members.
-                                                        </h4>
-                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="about-advanced-algos-project.shtml">Learn More</a>
-                                                        </span>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-        <section id="developers_section" class="darkgrey_section">
+        <section id="evolution" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Join Us In Building Advanced Algos</h1>
-                        <h5 class="sc_title sc_title_underline">Further Opportunities for Developers</h5>
+                        <h1 class="sc_title">Evolution</h1>
+                        <h5 class="sc_title sc_title_underline">Iteration Through Competition Cycles</h5>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-4">
-
-                        <h4 style="color:white;">Are you a talented developer looking for a smart crypto project to contribute to at an early stage?</h4>
-                        <p>There is both empirical and scientific evidence that show how groups can be empowered to unprecedented levels when provided with the precise set of information technology tools and organized in specific ways. </p>
+                        <p>Advanced Algos enables and incentivizes teams of developers, traders and analysts, both professionals and amateurs alike, to come together in teams and train trading bots that compete on a wide array of algorithmic trading competitions. </p>
+                        <p>Every time a competition finishes, participants' source code is opened, resulting in the crowd forking winners, improving them and bringing the new generation back for the next round of competitions in the quest for fame, glory and hefty prizes. The expected outcome is a relentless evolution of trading algorithms and a systematic increase in collective performance through each competition cycle.</p>
                     </div>
                     <div class="col-sm-4">
-                        <p>The Advanced Algos project is about enabling, incentivizing and building such a community of people while designing people's and machines' interactions in ways that are proven to increase the collective intelligence of the group in order to maximize the odds of success. </p>
-                        <p>It's about creating and nurturing an open supermind that can eventually outperform the corporate entities currently dominating the markets.</p>
+                        <p>Part of the intelligence resulting from these ongoing evolution cycles might eventually be absorbed by the platform. After enough iterations, a wealth of strategies will have been explored and tested. Surviving evolutions of the original algorithms will construct the <i>collective memory</i> and experiences that feed and train superalgos. </p>
+                        <p>In order to maximize evolution speed and range, the project will incentivize teams by hosting many types of official competitions in various formats, measuring different metrics, expanding into local, regional, national, continental and world events.</p>
                     </div>
                     <div class="col-sm-4">
-                        <p>The technology required to support these dynamics is currently under development by multiple teams, in a collaborative setting. If you are a talented developer willing to participate in an open source crypto-project, we are happy to invite you to <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank"><strong>join the community on Telegram</strong></a> and introduce yourself.</p>
-                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                            <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Join the Community</a>
-                        </span>
+                        <p>In addition, it will open its technology for any organization to run unofficial competitions as well. This constellation of competitions are opportunities for teams, designed to enlarge the development taskforce while accelerating trading strategies evolution and testing the widest possible strategies space in the shortest period of time possible.</p>
                     </div>
+                </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="contacts.shtml">Contact Us</a>
+                    </span>
                 </div>
             </div>
         </section>
+
+        <section id="status" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Project Status</h1>
+                        <h5 class="sc_title sc_title_underline">Pre-Alpha Stage</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h3 style="color:white;">Modules</h3>
+                        <p>The project requires a significant computer system to function, which is currently under development by several teams distributed all over the world. A number of modules have been completed already, while a few are in development and others awaiting assignation.</p>
+                        <p><strong>If you are a talented developer or take part in a development team and wish to contribute one module to the project, you are welcome to do so. There is a bounty available for each module.</strong></p>
+                    </div>
+                                        <div class="col-sm-6">
+                        <h3 style="color:white;">Competitions</h3>
+                        <p>We are very close to launching the first ever algorithmic trading competition. If you wish to be among the first few pioneers, you are right on time to get in.</p>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Join the Community</a>
+                    </span>
+                </div>
+            </div>
+        </section>
+
+
+
 
         <!--#include file="includes/footer.shtml" -->
         <!--#include file="includes/preloader2.shtml" -->

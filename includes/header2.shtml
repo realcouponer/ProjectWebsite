@@ -2,9 +2,6 @@
                     <nav id="mainmenu_wrapper" class="menuTopWrap topMenuStyleLine">
                         <ul id="mainmenu" class="nav sf-menu inited ">
                             <li class="menu-item-type-custom">
-                                <a href="index.shtml">HOME</a>
-                            </li>
-                            <li class="menu-item-type-custom">
                                 <a href="developers.shtml">DEVELOPERS</a>
                             </li>
                             <li class="menu-item-type-custom menu-item-has-children">
@@ -37,10 +34,9 @@
                                     </li>
                                 </ul>
                             </li>
-                            <!--
-    <li class="menu-item-type-custom">
-        <a href="contacts.shtml">CONTACT US</a>
-    </li>-->
+                            <li class="menu-item-type-custom">
+                                <a href="contacts.shtml">CONTACT US</a>
+                            </li>
                         </ul>
                     </nav>
                 </div>

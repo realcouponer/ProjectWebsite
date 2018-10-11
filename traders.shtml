@@ -1,0 +1,104 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Advanced Algos for Developers</title>
+    <meta name="description" content="An open source crypto-trading bots competition platform featuring periodical comps after which winners are forked to level the playing field.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper">
+
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-white-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/illustrations/slider03.svg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp">
+                                                <h3><span style="letter-spacing: 0.39em;">We build</span></br><span style="letter-spacing: 0.11em;">open source</span></br><span style="font-weight: 700;">crypto-trading</span></br><span style="letter-spacing: 0.22em; font-weight: 700; color:#f4e409">ALGOBOTS</span></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <img src="img/illustrations/slider01.svg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp">
+                                                <h3><span style="letter-spacing: 0.05em;">Compete for</span></br><span style="font-weight: 700; color:#F4E409">crypto prizes</span></br><span style="letter-spacing: 0.25em;">and have</span></br><span style="font-weight: 700; letter-spacing: 0.12em;">lots of fun</span></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <img src="img/illustrations/slider02.svg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp">
+                                                <h3><span style="letter-spacing: 0.65em;">FORKING</span></br><span style="font-weight: 700; letter-spacing: 0.6em;">WINNERS</span></br><span style="letter-spacing: 0.04em; font-weight: 700; color:#F4E409">who get smarter</span></br><span style="letter-spacing: 0em;">for the next round</span></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="traders_analist_mission" class="dark_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Trader / Analyst Mission</h1>
+                        <h5 class="sc_title sc_title_underline">JOIN >> COMPETE >> EVOLVE</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <h3 style="color:white;">1. <span style="font-weight: 700; color:#F4E409">Join</span> a Team</h3>
+                        <img src="img/photos/basics-join.jpg" alt="Join!" />
+                        <p><strong>Developers need your insight!</strong> Please, <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank"><strong>join the community</strong></a> talk to people and join a team. Working in a team of people with complementary skillsets offers much better odds of beating the rest...</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3 style="color:white;">2. <span style="font-weight: 700; color:#F4E409">Compete</span> for Prize Money</h3>
+                        <img src="img/photos/basics-compete.jpg" alt="Compete!" />
+                        <p>A good way to start is to try and <strong>fine-tune trades entry and exit points</strong> or implement additional rules to make the bot smarter for the next competition. If the team wins, you share the jackpot worth $10,000!</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3 style="color:white;">3. <span style="font-weight: 700; color:#F4E409">Evolve</span> the Strategy</h3>
+                        <img src="img/photos/basics-evolve.jpg" alt="Fork winners!" />
+                        <p>After each competition, you should help <strong>evolve the strategy and decision-making</strong> or maybe implement a different strategy altogether. You have 3 more weeks to take the team to the podium in the next comp!</p>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">I Want In!</a>
+                    </span>
+                </div>
+            </div>
+        </section>
+
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>
