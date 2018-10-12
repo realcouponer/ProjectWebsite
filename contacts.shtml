@@ -13,20 +13,33 @@
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <div id="box_wrapper">
-
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
         <!--#include file="includes/header.shtml" -->
-        <!--#include file="includes/header-logo-white-bg.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
         <!--#include file="includes/header2.shtml" -->
 
         <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <div class="flexslider">
+                        <div class="flexslider slider_height_max">
                             <ul class="slides text-center">
                                 <li>
-                                    <img src="img/photos/contacts.jpg" alt="Competition">
+                                    <img src="img/photos/contacts.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="width:85%;">
+
+                                                        <h4 style="color:white;">
+                                                            <br />Your feedback, comments and questions are important to us.
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </li>
                             </ul>
                         </div>
@@ -39,11 +52,9 @@
             <div class="container">
                 <div class="row text-center">
                     <div class="col-sm-12">
-                        <h1 class="sc_title sc_title_underline">Share Your Thoughs</h1>
-                        <div class="sc_content">
-                            We'd love to hear from you...<br>
-                            Send us your comments or questions and we will respond as soon as possible.
-                        </div>
+                        <h1 class="sc_title">Share Your Thoughs</h1>
+                        <h5 class="sc_title sc_title_underline">We'd love to hear from you</h5>
+
                         <div class="sc_contact_form sc_contact_form_contact contact_form_1">
                             <form class="contact_1" method="post" action="includes/#">
                                 <div class="columnsWrap">
@@ -79,10 +90,10 @@
 
             </div>
     </div>
-        </section>
+    </section>
 
-        <!--#include file="includes/footer.shtml" -->
-        <!--#include file="includes/preloader.shtml" -->
+    <!--#include file="includes/footer.shtml" -->
+    <!--#include file="includes/preloader.shtml" -->
 
 </body>
 </html>
