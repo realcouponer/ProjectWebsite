@@ -14,44 +14,30 @@
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <div id="box_wrapper">
-
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
         <!--#include file="includes/header.shtml" -->
-        <!--#include file="includes/header-logo-white-bg.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
         <!--#include file="includes/header2.shtml" -->
 
         <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <div class="flexslider">
+                        <div class="flexslider slider_height_max">
                             <ul class="slides text-center">
                                 <li>
-                                    <img src="img/illustrations/slider03.svg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
+                                    <img src="img/photos/developers.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
                                         <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp">
-                                                <h3><span style="letter-spacing: 0.39em;">We build</span></br><span style="letter-spacing: 0.11em;">open source</span></br><span style="font-weight: 700;">crypto-trading</span></br><span style="letter-spacing: 0.22em; font-weight: 700; color:#f4e409">ALGOBOTS</span></h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <img src="img/illustrations/slider01.svg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
-                                        <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp">
-                                                <h3><span style="letter-spacing: 0.05em;">Compete for</span></br><span style="font-weight: 700; color:#F4E409">crypto prizes</span></br><span style="letter-spacing: 0.25em;">and have</span></br><span style="font-weight: 700; letter-spacing: 0.12em;">lots of fun</span></h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <img src="img/illustrations/slider02.svg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_left" style="margin-right:120px">
-                                        <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp">
-                                                <h3><span style="letter-spacing: 0.65em;">FORKING</span></br><span style="font-weight: 700; letter-spacing: 0.6em;">WINNERS</span></br><span style="letter-spacing: 0.04em; font-weight: 700; color:#F4E409">who get smarter</span></br><span style="letter-spacing: 0em;">for the next round</span></h3>
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="width:85%;">
+                                                        <h3></h3>
+                                                        <h4 style="color:white;">
+                                                            <br />Building the <i>superalgo</i> that will reorganize trading intelligence.
+                                                        </h4>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -67,7 +53,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Advanced Algos for Developers</h1>
+                        <h1 class="sc_title">Developers</h1>
                         <h5 class="sc_title sc_title_underline">TRAIN >> COMPETE >> REPEAT</h5>
                     </div>
                 </div>
@@ -105,7 +91,7 @@
             </div>
         </section>
 
-        <section id="developers_how" class="grey_section">
+        <section id="developers_how" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -152,7 +138,7 @@
             </div>
         </section>
 
-        <section id="developers_section" class="darkgrey_section">
+        <section id="developers_section" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -163,7 +149,7 @@
                 <div class="row">
                     <div class="col-sm-4">
 
-                        <h4 style="color:white;">Are you a talented developer looking for a smart crypto project to contribute to at an early stage?</h4>
+                        <h4>Are you a talented developer looking for a smart crypto project to contribute to at an early stage?</h4>
                         <p>There is both empirical and scientific evidence that show how groups can be empowered to unprecedented levels when provided with the precise set of information technology tools and organized in specific ways. </p>
                     </div>
                     <div class="col-sm-4">
@@ -182,7 +168,7 @@
 
 
         <!--#include file="includes/footer.shtml" -->
-        <!--#include file="includes/preloader.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
 
 </body>
 </html>
