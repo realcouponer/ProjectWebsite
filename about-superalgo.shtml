@@ -1,0 +1,122 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>The Advanced Algos Superalgo</title>
+    <meta name="description" content="Dynamically combining algorithms using a vast bank of trading experiences as the food for an AI learning processes.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/superalgo.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="width:85%;">
+                                                        <h4 style="color:white;">
+                                                            <br />Dynamically combining algorithms using a vast bank of trading experiences as the food for an AI learning processes.
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="second" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">The Superalgo</h1>
+                        <h5 class="sc_title sc_title_underline">A COLLECTIVE AI</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>A superalgo is an artificial intelligence that dynamically combines any number of algorithms within a pool, using a vast bank of trading experiences gathered from hundreds of thousands of live-trading runs and competition matches carefully recorded and catalogued within the supermind's collective memory as the food for its learning processes.</p>
+                        <p>The production of algorithms is driven by an open worldwide community of developers, traders and analysts collaborating by engaging in iterative competition cycles. Competitions measure the performance of individual strategies and different forms of algorithms, identifying and selecting promising traits for the community to breed and help evolve.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>The competition system is designed to explore the widest possible trading universe in order to produce a comprehensive bank of memories covering as many experiences as possible through an array of variables such as markets, market conditions, strategies, or technical implementations.</p>
+                        <p>Competition dynamics drive the evolution of three different kinds of algorithms, all of them existing as autonomous agents with a financial life of their own. These financial beings feature varying degrees of intricacy, resulting from the combination of simple algorithms into complex organisms:</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="third" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <h3>Algobots</h3>
+                        <p>An algobot is the basic structural and functional unit of algorithms running on the platform. They are coded to implement a single trading strategy. </p>
+                        <p>They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</p>
+                        <p>If an Algobot is not successful in its trading job and its performance drops below a pre-defined threshold, it dies.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3>Algonets</h3>
+                        <p>Algonets are organisms which dynamically deploy swarms of algobot clones, assigning each one a unique set of parameters within predefined ranges, allocating a percentage of working capital to each clone. They monitor algobots performance over time and decide which algobots to keep alive and which to let die depending on their performance.</p>
+                        <p>Each algonet is made out of algobot clones implementing the same trading strategy. The job of an algonet is to find the best possible structure of algobots to do the trading.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3>Advanced Algos</h3>
+                        <p>Advanced algos function as the brain of complex trading organisms, and their main activities are deploying algonet clones appropriate for the job according to the strategies each of them implement.</p>
+                        <p>They monitor the performance of algonets and eventually decide which ones to keep and which ones to let die.</p>
+                        <p>Thus, advanced algos use multiple strategies in the quest to adapt to changing market conditions and other variables.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="fourth" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>The nesting of simple trading algos into more complex organisms is &ndash;in essence&mdash;an approach to learning algorithms which use live experiments to explore ranges of possible behaviors and dynamically select the most efficient ones  while discarding the less desirable. These learning mechanisms not only supply a live feedback loop to the organism doing the actual trading, but also stores valuable information to be recalled by the system at any point in time.</p>
+                        <p>It is this wealth of memories and real-life trading experiences that superalgos will harness. How exactly they are going to that is precisely the subject of the discussion we are opening for the specialized intelligence segment of the supermind to address.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>In that light, we invite researchers and computer scientists within the field of artificial intelligence to join the team and help design strategies to make the most out of the base layer of algorithms and trading experiences the community is developing.</p>
+                        <p>We also invite experts with a deep understanding of electronic markets, the capital investment space within the financial industry and algorithmic trading in general to join too, so as to help guide the IT efforts from the user and business case perspectives.</p>
+                        <p>We believe your input can be instrumental in our quest to reorganizing the existing intelligence in the trading space so that more people have more opportunities to participate.</p>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="contacts.shtml">Contact Us</a>
+                    </span>
+                </div>
+            </div>
+        </section>
+
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>

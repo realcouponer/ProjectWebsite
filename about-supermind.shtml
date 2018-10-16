@@ -26,7 +26,7 @@
                         <div class="flexslider slider_height_max">
                             <ul class="slides text-center">
                                 <li>
-                                    <img src="img/photos/connect.jpg" alt="">
+                                    <img src="img/photos/supermind2.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
@@ -99,7 +99,7 @@
                         <p>In order to tackle these and the rest of the challenges associated with our mission, Advanced Algos is currently setting up the foundations of what shall become the global supermind we envision.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>A this point in time, we foresee three kinds of intelligence operating simultaneously, each of which playing a role in the overall intelligence of the group, with specific functions, resources, goals and dynamics:</p>
+                        <p>At this point in time, we foresee three kinds of intelligence operating simultaneously, each of which playing a role in the overall intelligence of the group, with specific functions, resources, goals and dynamics:</p>
                     </div>
                 </div>
             </div>
@@ -126,12 +126,13 @@
                         <p><strong>We are inviting developers, traders and analysts to drive the evolutionary process of algorithms, through iterative competition cycles designed to explore the widest possible range of trading strategies and produce a vast library of documented trading experiences that will later feed the learning mechanisms of superalgos.</strong></p>
                     </div>
                 </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="contacts.shtml">Contact Us</a>
+                    </span>
+                </div>
             </div>
-            <div class="text-center">
-                <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                    <a href="contacts.shtml">Contact Us</a>
-                </span></br></br></br>
-</section>
+        </section>
 
 
 
