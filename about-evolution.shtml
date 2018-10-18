@@ -48,58 +48,71 @@
             </div>
         </section>
 
-        <section id="second" class="light_section">
+        <section id="algorithms" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Evolution</h1>
-                        <h5 class="sc_title sc_title_underline">Competition as a System</h5>
+                        <h1 class="sc_title sc_title_underline" ">Evolution of Algorithms</h1>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-4">
-                        <p>Evolution driven by competition is the mechanism Advanced Algos chooses to produce the largest exploration of the trading universe ever recorded, with the end goal of using the vast amount of data collected through hundreds of thousands of trading experiences to feed the learning engines of the ultimate superalgo.</p>
-                        <p>Competition as a system is a proven driver of evolution, with plenty of evidence found in the natural world, sports and business, to name a few settings. As an evolving species, our drive to compete is programmed in our DNA. </p>
+                    <div class="col-sm-6">
+                        <p>Developers, traders and analysts, both professionals and amateurs alike, get together forming multidisciplinary teams. Teams' goal is to train bots and have them compete in a wide array of algorithmic trading competitions, both for fun, but also to win prize money.</p>
+                        <p>Teams train bots for a period of time (weeks) until the next competition starts. During this time, they work in silos, in an attempt to develop new solutions or optimizations to the bot's code, decision making or strategy, that will put them in the path to winning the next comp.</p>
+                        <p>During a competition, the public can follow the event live and see how bots perform against each other. When the competitions finishes, prize money is allocated to the winners, but &ndash;most importantly&mdash;<strong>all participant's source code is opened.</strong></p>
                     </div>
-                    <div class="col-sm-4">
-                        <p>From the perspective of humans participating in the project, competition has multiple built-in incentives that resonate with different kinds of personalities. We compete for the ludic and entertainment value, for the challenge, for fame and glory, to feel honor and pride, to measure our skills, to feel we are a part of the community, to drive the project forwards, or simply, to win.</p>
-                        <p>However, from the perspective of algorithms running on the platform, their drive to compete is of an existential nature: they compete to evolve in order to survive and thrive, as failing means death and extinction.</p>
-                    </div>
-                    <div class="col-sm-4">
-                        <p>Understanding the inner workings of the Advanced Algos ecosystem is not mired in considerations of just business or technology, but the pivotal notion of financial life&mdash;where the participation in the ecosystem evolves autonomous agents into becoming living stakeholders known as financial beings.</p>
-                        <p>This transformation of financial life occurs within the environment of the Advanced Algos platform connecting the ALGO tokens to the autonomous agents as a form of energy essential to not just production, but the very center of their life sustainability.</p>
+                    <div class="col-sm-6">
+                        <p>This is a key feature of Advanced Algos competitions. By opening the code of participants, we effectively distribute newly acquired knowledge across the community. At the same time, we level the playing field upwards for the next competition round, so that: <i>a.</i> no team ever gets to dominate the scene; <i>b.</i> new entrants can start out with pretty good chances of being competitive or even winning; and <i>c.</i> the whole system starts out the new competition round being smarter.</p>
+                        <p>For the next training session, teams are likely to fork winners to start with a winning specimen, but they also study and adopt the traits and ideas that other participants performing well had implemented.</p>
+                        <p><strong>Repeating this pattern over and over produces a relentless evolution of trading algorithms and a systematic increase in collective performance through each competition cycle.</strong></p>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="second" class="light_section">
+        <section id="competitions" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h5 class="sc_title sc_title_underline">Evolution Mechanisms</h5>
+                        <h1 class="sc_title sc_title_underline" ">Evolution of Competitions</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <h3>Evolution of Algorithms</h3>
-                        <p>Developers, traders and analysts, both professionals and amateurs alike, get together forming multidisciplinary teams. Teams' goal is to train bots and have them compete in a wide array of algorithmic trading competitions, both for fun, but also to win prize money.</p>
-                        <p>Teams train bots for a period of time (weeks) until the next competition starts. During this time, they work in silos, in an attempt to develop new solutions or optimizations to the bot's code, decision making or strategy, that will put them in the path to winning the next comp.</p>
-                        <p>During a competition, the public can follow the event live and see how bots perform against each other. When the competitions finishes, prize money is allocated to the winners, but &ndash;most importantly&mdash;all participant's source code is opened.</p>
-                        <p>This is a key feature of Advanced Algos competitions. By opening the code of participants, we effectively distribute newly acquired knowledge across the community. At the same time, we level the playing field upwards for the next competition round, so that: <strong>a.</strong> no team ever gets to dominate the scene; <strong>b.</strong> new entrants can start out with pretty good chances of being competitive or even winning; and <strong>c.</strong> the whole system starts out the new competition round being smarter.</p>
-                        <p>For the next training session, teams are likely to fork winners to start with a winning specimen, but they also study and adopt the traits and ideas that other participants performing well had implemented.</p>
-                        <p>Repeating this pattern over and over produces a relentless evolution of trading algorithms and a systematic increase in collective performance through each competition cycle.</p>
+                        <p>We foresee an early community gathering around early stage competitions, seeking moments of fun, fame, glory and &ndash;also&mdash;prize money.</p>
+                        <p>These early stage competitions are quite simple. They are stand alone events with an <i>each against all format</i>. The metric measured is <i>ROI</i> (Return on Investment). However, with time and as the number of participants grow, competitions will diversify and grow in numbers.</p>
+                        <p>Different competition formats, with different rules and metrics constitute instruments for incentivizing evolution along specific lines. Put in other words, implementing competitions with specific set of rules and metrics can direct development to desired areas of the trading space.</p>
+                        <p>As competitions attract crowds from different parts of the globe, people will eventually organize into local hubs, setting the bases for strong local communities. </p>
+
                     </div>
                     <div class="col-sm-6">
-                        <h3>Evolution of Competitions</h3>
-                        <p>We foresee an early community gathering around early stage competitions, seeking moments of fun, fame, glory and &ndash;also&mdash;prize money.</p>
-                        <p>These early stage competitions are quite simple. They are stand alone events with an each against all format. The metric measured is ROI. However, with time and as the number of participants grow, competitions will diversify and grow in numbers.</p>
-                        <p>Different competition formats, with different rules and metrics constitute instrument for incentivizing evolution along specific lines. Put in other words, implementing competitions with specific set of rules and metrics can direct development to desired areas of the trading space.</p>
-                        <p>As competitions attract crowds from different parts of the globe, people will eventually organize into local hubs, setting the bases for strong local communities. Local communities will set the foundations for local competitions, which will eventually grow into regional and national events.</p>
+                        <p>Local communities will set the foundations for local competitions, which will eventually grow into regional and national events.</p>
                         <p>Larger crowds will attract sponsors, who will in turn enable heftier prizes, directly incentivizing teams to grow in size, specialize and professionalize.</p>
                         <p>Competitions will steadily grow into a worldwide phenomenon of national, continental and worldwide championships, acquiring newsworthiness and reaching the mainstream media.</p>
                         <p>Advanced Algos will organize official competitions, but, at the same time, it will open up the technology for anyone to organize their own comps. This mechanism adds a wide scope of diversification that allows the exploration of a larger universe.</p>
-                        <p>With this setup, we aim to grow our community to the order of millions.</p>
+                        <p><strong>With this setup, we aim to grow our community to the order of millions.</strong></p>
+                    </div>
+                </div>
+        </section>
+
+
+        <section id="system" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Evolution as a System</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p><strong>Evolution driven by competition is the mechanism Advanced Algos chooses to produce the largest exploration of the trading universe ever recorded, with the end goal of using the vast amount of data collected through hundreds of thousands of trading experiences to feed the learning engines of the ultimate superalgo.</strong></p>
+                        <p>Competition as a system is a proven driver of evolution, with plenty of evidence found in the natural world, sports and business, to name a few settings. As an evolving species, our drive to compete is programmed in our DNA. </p>
+                        <p>From the perspective of humans participating in the project, competition has multiple built-in incentives that resonate with different kinds of personalities. We compete for the ludic and entertainment value, for the challenge, for fame and glory, to feel honor and pride, to measure our skills, to feel we are a part of the community, to drive the project forwards, or simply, to win.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>However, from the perspective of algorithms running on the platform, their drive to compete is of an existential nature: they compete to evolve in order to survive and thrive, as failing means death and extinction.</p>
+                        <p>Understanding the inner workings of the Advanced Algos ecosystem is not mired in considerations of just business or technology, but the pivotal notion of financial life&mdash;where the participation in the ecosystem evolves autonomous agents into becoming living stakeholders known as financial beings.</p>
+                        <p>This transformation of financial life occurs within the environment of the Advanced Algos platform connecting the ALGO tokens to the autonomous agents as a form of energy essential to not just production, but the very center of their life sustainability.</p>
                     </div>
                 </div>
                 <div class="row text-center">
@@ -109,6 +122,7 @@
                 </div>
             </div>
         </section>
+
 
         <!--#include file="includes/footer.shtml" -->
         <!--#include file="includes/preloader2.shtml" -->

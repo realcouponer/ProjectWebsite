@@ -26,21 +26,20 @@
                         <div class="flexslider slider_height_max">
                             <ul class="slides text-center">
                                 <li>
-                                    <img src="img/photos/supermind.jpg" alt="">
+                                    <img src="img/photos/evolution.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h3>Supermind</h3>
+                                                        <h3>Evolution</h3>
                                                         <h4 style="color:white;">
-                                                            <br />We are a group of people working alongside with machines to collectively create superalgos.
+                                                            <br />A crowd breeds trading bots who compete to measure their prowess. Winners are forked, further improved, and put to compete again, evolving faster than any other trading algorithms.
                                                         </h4>
                                                         <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="#supermind">Learn More</a>
+                                                            <a href="#evolution">Learn More</a>
                                                         </span>
                                                     </div>
-
                                                 </div>
                                             </div>
                                         </div>
@@ -55,7 +54,7 @@
                                                     <div style="width:85%;">
                                                         <h3>Superalgo</h3>
                                                         <h4 style="color:white;">
-                                                            <br />A superior trading intelligence able to outperform every other participant in electronic markets.
+                                                            <br />The relentless evolution of the bots ecosystem inexorably leads to an artificial intelligence capable of learning from the accumulated experience, turning into a Superalgo that will outperform everyone at the markets.
                                                         </h4>
                                                         <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
                                                             <a href="#superalgo">Learn More</a>
@@ -68,20 +67,21 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="img/photos/evolution.jpg" alt="">
+                                    <img src="img/photos/supermind.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h3>Evolution</h3>
+                                                        <h3>Supermind</h3>
                                                         <h4 style="color:white;">
-                                                            <br />The mechanism that allows to train superalgos along all foreseeable trading strategies.
+                                                            <br />We are a group of people &ndash;expected to grow into millions&mdash;working alongside with machines to collectively create superalgos. An open community co-creating for the benefit of all participants.
                                                         </h4>
                                                         <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="#evolution">Learn More</a>
+                                                            <a href="#supermind">Learn More</a>
                                                         </span>
                                                     </div>
+
                                                 </div>
                                             </div>
                                         </div>
@@ -90,63 +90,6 @@
                             </ul>
                         </div>
                     </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="supermind" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Supermind</h1>
-                        <h5 class="sc_title sc_title_underline">An Intelligent Collective</h5>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-4">
-                        <p>A supermind is <i>a group of individuals acting together in ways that seem intelligent</i>, as defined by Prof. Thomas W. Malone in his book <i><a href="https://www.amazon.com/Superminds-Surprising-Computers-Thinking-Together-ebook/dp/B075CRYH51/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1539339542&sr=8-1" rel="nofollow" target="_blank">Superminds: The Surprising Power of People and Computers Thinking Together</i></a>.</p>
-                        <p>Prof. Malone and his colleagues at the MIT Center for Collective Intelligence found that groups&ndash;like humans&mdash;have a measurable <i>collective intelligence</i> and identified specific factors correlated to it.</p>
-                    </div>
-                    <div class="col-sm-4">
-                        <p>Advanced Algos needs to maximize it's collective intelligence in order to create a <i>superalgo</i> in the shortest time possible.</p>
-                        <p>To expand our capabilities, we invite researchers in the fields of Collective Intelligence, Artificial Intelligence, Computer Science, Game Theory, Social Studies, Psychology and others to participate in the project at different levels. </p>
-                    </div>
-                    <div class="col-sm-4">
-                        <p>There are opportunities to conduct studies and experiments, whenever those interventions may be conducive to increasing the project's efficiency or the collective intelligence of the supermind.</p>
-                        <p>We also welcome professionals in the fields of law, governance, business, economy, communication, marketing, and other fields for which the project requires top resources to excel.</p>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                        <a href="about-supermind.shtml">Learn More</a>
-                    </span>
-                </div>
-            </div>
-        </section>
-
-        <section id="superalgo" class="darkgrey_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Superalgo</h1>
-                        <h5 class="sc_title sc_title_underline">A Superior Trading Intelligence</h5>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-4">
-                        <p>A superalgo is not just a high-performance trading algorithm. It is a <i>trading intelligence</i> that knows about all possible trading strategies, remembers what worked and what didn't in different circumstances, and learns from that experience. When trading, a superalgo, uses any combination of all known strategies, dynamically switching or combining them as needed. </p>
-                    </div>
-                    <div class="col-sm-4">
-                        <p>In order to make a superalgo emerge in the shortest possible time, the project invites seasoned traders and related industry professionals to influence teams breeding trading bots.</p>
-                    </div>
-                    <div class="col-sm-4">
-                        <p>Computer Scientists and experts on Artificial Intelligence are also welcome to propose or implement different approaches for superalgos. </p>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                        <a href="about-superalgo.shtml">Learn More</a>
-                    </span>
                 </div>
             </div>
         </section>
@@ -181,6 +124,63 @@
             </div>
         </section>
 
+        <section id="superalgo" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Superalgo</h1>
+                        <h5 class="sc_title sc_title_underline">A Superior Trading Intelligence</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <p>A superalgo is not just a high-performance trading algorithm. It is a <i>trading intelligence</i> that knows about all possible trading strategies, remembers what worked and what didn't in different circumstances, and learns from that experience. When trading, a superalgo, uses any combination of all known strategies, dynamically switching or combining them as needed. </p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>In order to make a superalgo emerge in the shortest possible time, the project invites seasoned traders and related industry professionals to influence teams breeding trading bots.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>Computer Scientists and experts on Artificial Intelligence are also welcome to propose or implement different approaches for superalgos. </p>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="about-superalgo.shtml">Learn More</a>
+                    </span>
+                </div>
+            </div>
+        </section>
+
+        <section id="supermind" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Supermind</h1>
+                        <h5 class="sc_title sc_title_underline">An Intelligent Collective</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <p>A supermind is <i>a group of individuals acting together in ways that seem intelligent</i>, as defined by Prof. Thomas W. Malone in his book <i><a href="https://www.amazon.com/Superminds-Surprising-Computers-Thinking-Together-ebook/dp/B075CRYH51/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1539339542&sr=8-1" rel="nofollow" target="_blank">Superminds: The Surprising Power of People and Computers Thinking Together</i></a>.</p>
+                        <p>Prof. Malone and his colleagues at the MIT Center for Collective Intelligence found that groups&ndash;like humans&mdash;have a measurable <i>collective intelligence</i> and identified specific factors correlated to it.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>Advanced Algos aims to maximize it's collective intelligence in order to create a <i>superalgo</i> in the shortest time possible.</p>
+                        <p>To expand our capabilities, we invite researchers in the fields of Collective Intelligence, Artificial Intelligence, Computer Science, Game Theory, Social Studies, Psychology and others to participate in the project at different levels. </p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>There are opportunities to conduct studies and experiments, whenever those interventions may be conducive to increasing the project's efficiency or the collective intelligence of the supermind.</p>
+                        <p>We also welcome professionals in the fields of law, governance, business, economy, communication, marketing, and other fields for which the project requires top resources to excel.</p>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="about-supermind.shtml">Learn More</a>
+                    </span>
+                </div>
+            </div>
+        </section>
+
         <section id="status" class="darkgrey_section">
             <div class="container">
                 <div class="row">
@@ -195,14 +195,14 @@
                         <p>The project requires a significant computer system to function, which is currently under development by several teams distributed all over the world. A number of modules have been completed already, while a few are in development and others awaiting assignation.</p>
                         <p><strong>If you are a talented developer or take part in a development team and wish to contribute one module to the project, you are welcome to do so. There is a bounty available for each module.</strong></p>
                     </div>
-                                        <div class="col-sm-6">
+                    <div class="col-sm-6">
                         <h3 style="color:white;">Competitions</h3>
                         <p>We are very close to launching the first ever algorithmic trading competition. If you wish to be among the first few pioneers, you are right on time to get in.</p>
                     </div>
                 </div>
                 <div class="text-center">
                     <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                        <a href="contacts.shtml">Contact Us</a>
+                        <a href="developers-system-modules.shtml">Learn More</a>
                     </span>
                 </div>
             </div>
