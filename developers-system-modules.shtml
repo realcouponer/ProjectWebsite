@@ -1,0 +1,135 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Advanced Algos System Modules</title>
+    <meta name="description" content="Co-creating the environment for rapid-evolution of trading algorithms where financial beings' lives hinge on their ability to adapt, gain intelligence and compete.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/modules.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="width:85%;">
+                                                        <h4 style="color:white;">
+                                                            <br />Co-creating the environment for rapid-evolution of trading algorithms where financial beings' lives hinge on their ability to adapt, gain intelligence and compete.
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="intro" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">System Modules</h1>
+                        <h5 class="sc_title sc_title_underline">CO-CREATING THE ENVIRONMENT THAT ENABLES FINANCIAL LIFE</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <p>The Advanced Algos System is being co-created by a group of development teams distributed around the world. It is a collaborative effort by which teams come together and agree on the basic organizational matters that enable the collective to tackle the development and maintenance of a large and complex system.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>The system is subdivided in over 40 modules, thus, only a few teams contributing early on will be able to participate in this role. In order to achieve maximum resilience, teams develop a few modules each. <strong>We are an open project and you are welcome to join in and contribute the development of one module. </strong></p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>The project allocates 15% of the total supply of ALGO tokens to System Development. Each module is assigned a fraction of that percentage as a bounty. The precise allocation depends on the module's category, which is a function of the level of criticality, urgency and difficulty. There are five categories, each with a bounty, as shown below.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <div class="polaroid">
+                            <img src="img/charts/algo-budget-per-module.png" alt="ALGO Budget per Module">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="second" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <p>
+                            The project is in constant evolution, onboarding new teams, delivering modules and starting new ones. The following charts show the current state of development as of October 2018.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <div class="polaroid">
+                            <img src="img/charts/status-of-modules.png" alt="Status of Modules">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <div class="polaroid">
+                            <img src="img/charts/modules-by-team.png" alt="Modules by Team">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="third" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <p>Each of the modules are estimated to require roughly 1 to 2 months of development for one senior developer working on a full time basis or a similar time for a team of two developers working part time. Should your team count with more resources, it shouldn't be a problem to deliver the module much faster.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>Teams are autonomous and may freely decide how to organize their work internally. However, due to the fact that development starts from loose definitions and because teams are interdependent stakeholders within the ecosystem, we do require teams to work under an <a href="https://en.wikipedia.org/wiki/Agile_software_development" rel="nofollow" target="_blank">agile development</a> approach in which batches of functionality are delivered in 2-week-long sprints.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>Under such framework, teams interact with the project's core team and with other teams handling related modules to create definitions at the start of each sprint, and to evaluate results, assist integrations and coordinate testing at the end of each sprint.</p>
+                        <p>Get in touch! We'd love to have you on boad!</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="text-center">
+                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                            <a href="contacts.shtml">Contact Us</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>

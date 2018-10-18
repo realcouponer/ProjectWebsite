@@ -7,6 +7,9 @@
                             <li>
                                 <a href="developers.shtml">DEVELOPERS</a>
                                 <ul class="sub-menu">
+                                    <li>
+                                        <a href="developers-system-modules.shtml">System Modules</a>
+                                    </li>
                                     <li class="menu-item-has-children">
                                         <a href="documentation-quick-start.shtml">Documentation</a>
                                     </li>
@@ -32,13 +35,13 @@
                                 <a href="#">ABOUT</a>
                                 <ul class="sub-menu">
                                     <li>
-                                        <a href="about-supermind.shtml" class="sf-with-ul">The Supermind</a>
+                                        <a href="about-evolution.shtml" class="sf-with-ul">The Evolution</a>
                                     </li>
                                     <li>
                                         <a href="about-superalgo.shtml" class="sf-with-ul">The Superalgo</a>
                                     </li>
                                     <li>
-                                        <a href="about-evolution.shtml" class="sf-with-ul">The Evolution</a>
+                                        <a href="about-supermind.shtml" class="sf-with-ul">The Supermind</a>
                                     </li>
                                 </ul>
                             </li>
