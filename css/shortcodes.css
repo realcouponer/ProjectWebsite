@@ -407,7 +407,7 @@ border-top: none;
 
 /**dark section*/
 .dark_section {
-    background-color: #29292c;
+    background-color: #19191c; /*#29292c*/
     color: #fff;
 }
 .dark_section .sc_title {
@@ -5849,7 +5849,7 @@ input[type=text]::-ms-clear { display: none; }
 
 /*= side menu page ==================================================================================================================================================================*/
 
-.side_menu_page { margin-left: 50px; }
+.side_menu_page { margin-left: 50px; padding-top: 140px; }
 /*.side_menu_page .dropOpen ul { display: block !important; }*/
 /*.side_menu_page .dropOpen ul.sub-menu li ul.sub-menu { display: none !important; }*/
 /*.side_menu_page .dropOpen ul.sub-menu li.dropOpen ul.sub-menu { display: block !important; }*/
