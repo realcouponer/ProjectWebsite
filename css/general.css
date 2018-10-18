@@ -668,8 +668,9 @@ blockquote.sc_quote_style_2,
 #viewmore_link,
 .portfolioWrap .isotopePadding .portfolioInfo,
 .post .portfolBlock,
-.topWrap .topMenuStyleLine > ul > li ul
-{ background-color:#f5f7f9; }
+.topWrap .topMenuStyleLine > ul > li ul {
+    background-color:rgba(0, 0, 0, 0.6);
+}
 
 
 .squareButton.border > a:hover,

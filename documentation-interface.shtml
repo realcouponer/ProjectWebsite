@@ -9,16 +9,19 @@
 
 </head>
 <body>
+
     <!--[if lt IE 7]>
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <div id="box_wrapper" class="side_menu_page">
-        <!--#include file="includes/header.shtml" -->
-        <!--#include file="includes/header-logo-white-bg.shtml" -->
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1" style="background-color: #FFF;">
+
+        <!--#include file="includes/header-black-bg.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
         <!--#include file="includes/header2.shtml" -->
         <!--#include file="includes/side-menu.shtml" -->
-        <section id="about_section" class="light_section margin_top_none" style="margin-top: -100px">
+
+        <section id="about_section" class="light_section" style="margin-top: 100px">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">

@@ -555,7 +555,7 @@ header.menu_left .topWrap .topMenuStyleLine{ float: none; }
     line-height:39px; 
     text-transform:uppercase; 
     text-decoration:none; 
-    color: #acb4b6;  
+    color: #FFF;  
     z-index:88; 
     position: relative; 
     font-size: 12px; 
@@ -582,7 +582,7 @@ header.menu_left .topWrap .topMenuStyleLine{ float: none; }
   line-height: 20px;
   margin: 0;
   text-transform: none;
-  color: #5a6266;
+  color: #FFF; /* #5a6266 */
   font-size: 12px;
 }
 
@@ -1201,7 +1201,7 @@ header.menu_center .topWrap .search.searchOpen { width: 100%;}
 .responsive_menu header.menu_center .topWrap .wrap_menu .menuTopWrap { display: none;}
 
 /*margin*/
-.responsive_menu .menuTopWrap { background-color: #EAE2DE; clear: both; float: none !important; padding: 0; margin: 0 0 40px;}
+.responsive_menu .menuTopWrap { background-color: rgba(0, 0, 0, 0.7); clear: both; float: none !important; padding: 0; margin: 0 0 40px;}
 .responsive_menu .topWrap.styleFon .menuTopWrap { margin-bottom: 0; }
 .responsive_menu .topWrap.styleShadedGray .menuTopWrap { margin-bottom: 0; padding-bottom: 40px; }
 
