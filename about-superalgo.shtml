@@ -85,7 +85,7 @@
                     </div>
                     <div class="col-sm-4">
                         <h3>Advanced Algos</h3>
-                        <p>Advanced algos function as the brain of complex trading organisms, and their main activities are deploying algonet clones appropriate for the job according to the strategies each of them implement.</p>
+                        <p>Advanced algos function as higher order trading organisms, as their main activity is deploying algonet clones appropriate for the job, taking into account to the strategies each algonet implements.</p>
                         <p>They monitor the performance of algonets and eventually decide which ones to keep and which ones to let die.</p>
                         <p>Thus, advanced algos use multiple strategies in the quest to adapt to changing market conditions and other variables.</p>
                     </div>

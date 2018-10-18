@@ -4,13 +4,27 @@
                             <li>
                                 <a href="index.shtml">HOME</a>
                             </li>
-                            <li>
+                            <li class="menu-item-has-children">
+                                <a href="#">THE PROJECT</a>
+                                <ul class="sub-menu">
+                                    <li>
+                                        <a href="about-evolution.shtml" class="sf-with-ul">Evolution</a>
+                                    </li>
+                                    <li>
+                                        <a href="about-superalgo.shtml" class="sf-with-ul">Superalgos</a>
+                                    </li>
+                                    <li>
+                                        <a href="about-supermind.shtml" class="sf-with-ul">Supermind</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="menu-item-has-children">
                                 <a href="developers.shtml">DEVELOPERS</a>
                                 <ul class="sub-menu">
                                     <li>
                                         <a href="developers-system-modules.shtml">System Modules</a>
                                     </li>
-                                    <li class="menu-item-has-children">
+                                    <li>
                                         <a href="documentation-quick-start.shtml">Documentation</a>
                                     </li>
                                 </ul>
@@ -31,20 +45,7 @@
             </li>
         </ul>
     </li>-->
-                            <li class="menu-item-has-children">
-                                <a href="#">ABOUT</a>
-                                <ul class="sub-menu">
-                                    <li>
-                                        <a href="about-evolution.shtml" class="sf-with-ul">The Evolution</a>
-                                    </li>
-                                    <li>
-                                        <a href="about-superalgo.shtml" class="sf-with-ul">The Superalgo</a>
-                                    </li>
-                                    <li>
-                                        <a href="about-supermind.shtml" class="sf-with-ul">The Supermind</a>
-                                    </li>
-                                </ul>
-                            </li>
+
                             <li>
                                 <a href="contacts.shtml">CONTACT US</a>
                             </li>
