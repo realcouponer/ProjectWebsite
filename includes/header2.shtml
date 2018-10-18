@@ -19,10 +19,13 @@
                                 </ul>
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="developers.shtml">DEVELOPERS</a>
+                                <a href="#">DEVELOPERS</a>
                                 <ul class="sub-menu">
                                     <li>
                                         <a href="developers-system-modules.shtml">System Modules</a>
+                                    </li>
+                                    <li>
+                                        <a href="developers-breed-compete.shtml">Breed &amp; Compete</a>
                                     </li>
                                     <li>
                                         <a href="documentation-quick-start.shtml">Documentation</a>
