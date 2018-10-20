@@ -9,19 +9,22 @@
 
 </head>
 <body>
+
     <!--[if lt IE 7]>
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <div id="box_wrapper">
-        <!--#include file="includes/header.shtml" -->
-        <!--#include file="includes/header-logo-white-bg.shtml" -->
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1" style="background-color: #FFF;">
+
+        <!--#include file="includes/header-black-bg-no-sidemenu.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
         <!--#include file="includes/header2.shtml" -->
 
         <section id="about_section" class="light_section margin_top_none">
             <div class="container">
 
-                <div class="col-sm-10">
+                <div class="col-sm-10" style="margin-top: 170px;">
+
                     <h1 id="Advanced Algosprivacystatement">Advanced Algos Privacy Statement</h1>
 
                     <p>Thanks for entrusting Advanced Algos with your source code and your information. Holding onto your information is a serious responsibility, and we want you to know how we're handling it.</p>
