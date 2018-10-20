@@ -6429,12 +6429,12 @@ code {
 .tooltip-custom {
     position: relative;
     display: inline-block;
-    border-bottom: 1.5px dotted orange;
+    border-bottom: 1.5px dotted red;
 }
 
     .tooltip-custom .tooltiptext-custom {
         visibility: hidden;
-        background-color: rgba(0,0,0,0.7);
+        background-color: rgba(0,0,0,0.8);
         color: #fff;
         font-size:smaller;
         text-align: left;
@@ -6445,7 +6445,7 @@ code {
         position: absolute;
         z-index: 1;
         bottom: 125%;
-        left: 1%;
+        right: -50px;
         opacity: 0;
         transition: opacity 1s;
     }
@@ -6454,7 +6454,7 @@ code {
             content: "";
             position: absolute;
             top: 100%;
-            left: 18%;
+            right: 50px;
             margin-left: -5px;
             border-width: 5px;
             border-style: solid;
