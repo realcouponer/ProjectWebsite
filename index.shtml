@@ -34,7 +34,7 @@
                                                     <div style="width:85%;">
                                                         <h3>Evolution</h3>
                                                         <h4 style="color:white;">
-                                                            <br />A crowd breeds trading bots who compete to compare their performance. Winners are forked, further improved, and put to compete again, evolving faster than any other trading algorithms.
+                                                            <br />A crowd breeds trading bots that compete to compare their performance. It forks winners, re-trains and improves them, and puts them to compete again, unleashing a continuous rapid-evolution process.
                                                         </h4>
                                                         <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
                                                             <a href="#evolution">Learn More</a>
@@ -54,7 +54,7 @@
                                                     <div style="width:85%;">
                                                         <h3>Superalgo</h3>
                                                         <h4 style="color:white;">
-                                                            <br />The relentless evolution of the bots ecosystem inexorably leads to an artificial intelligence capable of learning from the accumulated experience, turning into a Superalgo that will outperform everyone at the markets.
+                                                            <br />In a rapidly-evolving bots ecosystem, an artificial intelligence capable of learning from other algorithm's experiences will eventually emerge: a superalgo able to outperform everyone at the markets.
                                                         </h4>
                                                         <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
                                                             <a href="#superalgo">Learn More</a>
@@ -75,7 +75,7 @@
                                                     <div style="width:85%;">
                                                         <h3>Supermind</h3>
                                                         <h4 style="color:white;">
-                                                            <br />We are a group of people &ndash;expected to grow into millions&mdash;working alongside with machines to collectively create superalgos. An open community co-creating for the benefit of all participants.
+                                                            <br />We are a collective of people working alongside with machines to co-create superalgos that trade the markets for the benefit of all participants.
                                                         </h4>
                                                         <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
                                                             <a href="#supermind">Learn More</a>
@@ -109,11 +109,12 @@
                     </div>
                     <div class="col-sm-4">
                         <p>The expected outcome is a relentless evolution of trading algorithms and a systematic increase in collective performance through each competition cycle.</p>
-                        <p>Part of the intelligence resulting from these ongoing evolution cycles might eventually be absorbed by the platform. After enough iterations, a wealth of strategies will have been explored and tested. Surviving evolutions of the original algorithms will construct the <i>collective memory</i> and experiences that feed and train superalgos. </p>
+                        <p>Part of the intelligence resulting from these ongoing evolution cycles might eventually be absorbed by the platform.</p>
+                        <p>After enough iterations, a wealth of strategies will have been explored and tested. Surviving evolutions of the original algorithms will construct the <i>collective memory</i> and experiences that feed and train superalgos. </p>
                     </div>
                     <div class="col-sm-4">
-                        <p>In order to maximize evolution speed and range, the project will incentivize teams by hosting many types of official competitions in various formats, measuring different metrics, expanding into local, regional, national, continental and world events.</p>
-                        <p>In addition, it will open its technology for any organization to run unofficial competitions as well. This constellation of competitions are opportunities for teams, designed to enlarge the development taskforce while accelerating trading strategies evolution and testing the widest possible strategies space in the shortest period of time possible.</p>
+                        <p>In order to maximize evolution speed and range, the project will incentivize teams by hosting many types of official competitions in various formats, measuring different metrics, expanding into local, regional, national, continental and world events. In addition, it will open its technology for any organization to run unofficial competitions as well.</p>
+                        <p>This constellation of competitions are opportunities for teams, designed to enlarge the development taskforce while accelerating trading strategies evolution and testing the widest possible strategies space in the shortest period of time possible.</p>
                     </div>
                 </div>
                 <div class="text-center">
