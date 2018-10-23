@@ -1,5 +1,5 @@
 
-    <header id="header" class="light_section" style="background-color: rgba(0, 0, 0, 0.78);">
+    <header id="header" class="light_section" style="background-color: rgba(0, 0, 0, 0.78); z-index: 0;">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 topWrap styleShaded">

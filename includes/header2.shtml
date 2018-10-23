@@ -33,25 +33,24 @@
                                 </ul>
                             </li>
                             <!--<li class="menu-item-has-children">
-        <a href="competition.shtml">COMPETITIONS</a>
-        <ul class="sub-menu">
-            <li>
-                <a href="competition.shtml" class="sf-with-ul">The <span class="red_text">ALGO</span> Arena</a>
-            </li>
-            <li class="menu-item-has-children">
-                <a href="#">Current Events</a>
-                <ul class="sub-menu">
-                    <li>
-                        <a href="competition-bitcoin-argentina-fb-group.shtml" class="sf-with-ul">Bitcoin Argentina</a>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </li>-->
-
+                                    <a href="#">COMPETITIONS</a>
+                                    <ul class="sub-menu">
+                                        <li>
+            <a href="competition.shtml" class="sf-with-ul">The <span class="red_text">ALGO</span> Arena</a>
+        </li>
+        <li class="menu-item-has-children">
+            <a href="#">Current Events</a>
+            <ul class="sub-menu">
                             <li>
-                                <a href="contacts.shtml">CONTACT US</a>
+                                <a href="competition-bitcoin-argentina-fb-group.shtml" class="sf-with-ul">Bitcoin Argentina</a>
                             </li>
+                            </ul>
+        </li>
+                        </ul>
+                        </li>-->
+                        <li>
+                            <a href="contacts.shtml">CONTACT US</a>
+                        </li>
                         </ul>
                     </nav>
                 </div>

@@ -27,64 +27,101 @@
                     <div class="col-sm-12">
                         <h1 id="watchingalgobotsinaction">Interface</h1>
 
-                        <p>Now that you have a working version of your t-bot (aka algobot or trading bot) and have set it to perform some backtesting, you can use the platform's web interface to visualize it's actions and debug the strategy over the charts. Being able to visually review your t-bot's trades is an essential part of the optimization process as it may help you fine-tune your t-bot's decision-making.</p>
+                        <p>
+                            Now that you have a working version of your <span class="tooltip-custom">t-bot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em>, <em>t-bot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-t-bots.shtml" target="_blank"><em>More about Algobots</em></a></span></span>
+                            and have set it to perform some backtesting, you can use the platform's web interface to visualize it's actions and debug the strategy over the charts. Being able to visually review your t-bot's trades is an essential part of the optimization process as it may help you fine-tune your t-bot's decision-making.
+                        </p>
 
-                        <p>The platform's web app is currently available in the <a href="http://develop.advancedalgos.net/">development environment</a>.</p>
+                        <p>Go on and check out the <a href="http://app.advancedalgos.net/" target="_blank">platform's web app</a>.</p>
 
                         <h2 id="aaweboverview">Overview</h2>
 
                         <p>The web app is an HTML canvas featuring three overlaid <em>visual spaces</em> working simultaneously:</p>
 
                         <ul>
-                            <li><p><strong>Charts timeline</strong>: It is a timeline in which <a href="documentation-algorithms.shtml#howalgorithmswork">bots' products</a> are displayed in a graphical representation created by <a href="documentation-algorithms.shtml#aboutplotters">plotters</a>.</p></li>
+                            <li>
+                                <p>
+                                    <strong>Charts timeline</strong>: It is a timeline in which <span class="tooltip-custom">indicators and sensors' products<span class="tooltiptext-custom" style="text-align: justify;">Indicators and sensors' mission is creating <em>products</em> that others can consume. To do this, they run <em>processes</em> which produce and store <em>datasets</em>.</br><a href="documentation-algorithms.shtml#howalgorithmswork" target="_blank"><em>More about Algorithm's Products</em></a></span></span>
+                                    along with trading bots actions are displayed in a graphical representation created by <span class="tooltip-custom">plotters<span class="tooltiptext-custom" style="text-align: justify;">Plotters are JavaScript programms that serve the purpose of featuring visual representations of datasets so that people can easily interpret the data in a graphical environment.</br><a href="documentation-algorithms.shtml#aboutplotters" target="_blank"><em>More about Plotters</em></a></span></span>.
+                                </p>
+                            </li>
                             </a>
                             <li><p><strong>Floating notifications</strong>: It is a layer of information displayed on top of the timeline, typically containing t-bots' related information such as t-bots' runtime position and messages.</p></li>
 
                             <li><p><strong>Control &amp; information panels</strong>: There are two types of panels. One set of panels is built in the web app and show certain control elements to dictate what exactly is shown on the timeline (list of bot products, for instance). A second type of panels is created by plotters to display additional information for certain products.</p></li>
                         </ul>
 
-                        <div class="algobotscompetitionplatform">
-                            <img src="img/doc/interface-01.png" alt="Algobots Competition Platform">
-                        </div>
+                        <h3>Menu</h3>
 
+                        <p>Use the menu on the top-right corner of the screen to navigate through different system modules:</p>
                         <ol>
 
-                            <h3>References</h3>
+                            <li><p><em>Users:</em> Handles your personal profile.</p></li>
 
-                            <h4>Charts Timeline</h4>
+                            <li><p><em>Teams:</em> Allows you to create and administer teams. It also allows you to find and join other teams.</p></li>
 
+                            <li><p><em>KeyVault:</em> Administers your exchanges' API keys.</p></li>
+
+                        </ol>
+
+
+                        <h3>Charts Timeline</h3>
+                        <ol>
 
                             <li><p>This is the <em>charts timeline</em>. Notice the background watermark indicating this is the USDT-BTC market.</p></li>
 
                             <li><p>The right margin features the <em>price scale</em>, in this case denominated in USDT.</p></li>
 
-                            <li><p>The left margin features a <em>percent scale</em> that is used in algobots competitions to indicate ROI.</p></li>
+                            <li><p>The left margin features a <em>percent scale</em> that is used in competitions to indicate Return on Investment (ROI).</p></li>
 
-                            <li><p>This is the <em>candlestick chart</em> visually showing Olivia's products, put in graphics by <a href="https://github.com/AAMasters/Plotters-Candles-Volumes" rel="nofollow" target="_blank">Plotters-Candles-Volumes</a> (Olivia is an indicator producing candlesticks and volumes data and Plotters-Candles-Volumes is a visualization bot).</p></li>
+                            <li><p>This is the <em>candlestick chart</em> visually showing <span class="tooltip-custom">Olivia's<span class="tooltiptext-custom" style="text-align: justify;">Olivia is an indicator producing candlesticks and volumes data.</br><a href="https://github.com/AAMasters/AAOlivia-Indicator-Bot" target="_blank"><em>Olivia's Repository</em></a></span></span></span> products, put in graphics by <span class="tooltip-custom">Plotters-Candles-Volumes<span class="tooltiptext-custom" style="text-align: justify;">Plotters-Candles-Volumes is a visualization bot.</br><a href="https://github.com/AAMasters/Plotters-Candles-Volumes" target="_blank"><em>Plotters-Candles-Volumes' Repository</em></a></span></span>.</p></li>
+
+                        </ol>
+
+                        <div class="polaroid">
+                            <a href="#">
+                                <img src="img/doc/interface-01-charts-timeline.png"
+                                     onmouseover="this.src='img/doc/interface-01-dim-charts-timeline.png'"
+                                     onmouseout="this.src='img/doc/interface-01-charts-timeline.png'"
+                                     border="0" alt="" />
+                            </a>
+                        </div>
 
 
-                            <h4>Floating Notifications</h4>
+                        <h3>Floating Notifications</h3>
 
+                        <ol>
 
                             <li><p>This is a <em>message</em> left by a t-bot, commenting on the nature of the operation being performed. The message is linked to a specific point in time.</p></li>
 
-                            <li><p>This is an icon indicating the <em>last execution</em> of a certain t-bot.</p></li>
+                            <li><p>These are icons indicate the <em>last execution</em> of certain t-bots, namely RocketFeller, Dumper Wolf and Nimbus2000. Notice how each of these icons show a different <em>execution mode</em>, namely live, backtest and competition repectively.</p></li>
 
+                        </ol>
 
-                            <h4>Control &amp; Information Panels</h4>
+                        <div class="polaroid">
+                            <a href="#">
+                                <img src="img/doc/interface-01b-floating-notifications.png"
+                                     onmouseover="this.src='img/doc/interface-01b-dim-floating-notifications.png'"
+                                     onmouseout="this.src='img/doc/interface-01b-floating-notifications.png'"
+                                     border="0" alt="" />
+                            </a>
+                        </div>
 
+                        <h3>Control &amp; Information Panels</h3>
+
+                        <ol>
 
                             <li><p>This is the <em>products panel</em> featuring products of bots registered on the platform.</p></li>
 
                             <li><p>This is the <em>time information panel</em>, featuring information regarding the date and time of the current candle, and time period or scale currently ploted in the timeline.</p></li>
 
-                            <li><p>This is the <em>current candle panel</em> providing additional information about the candle filled in yellow in the candlestick chart. This panel is too generated by the <a href="https://github.com/AAMasters/Plotters-Candles-Volumes" rel="nofollow" target="_blank">Plotters-Candles-Volumes</a> used by Olivia to help visualize her products.</p></li>
+                            <li><p>This is the <em>current candle panel</em> providing additional information about the candle filled in yellow in the candlestick chart. This panel is too generated by the Plotters-Candles-Volumes used by Olivia to help visualize her products.</p></li>
 
                             <li><p>This is the <em>current volume panel</em>, which works pretty much like the current candle panel.</p></li>
 
                             <li>
 
-                                <p>This horizontal space between the charts and the bottom bar is used to control <em>chart breakpoints</em>. Click on the space to place a breakpoint and click on a breakpoint to remove it. Chart breakpoints are used to visually debug the trading algobot's strategy, pausing execution when the related candle becomes active.</p>
+                                <p>This horizontal space between the charts and the bottom bar is used to control <em>chart breakpoints</em> when running on backtest mode. Click on the space to place a breakpoint and click on a breakpoint to remove it. Chart breakpoints are used to visually debug the trading strategy, pausing execution when the corresponding candle becomes active.</p>
 
                                 <p>In order for chart breakpoints to actually pause execution at the specific point in time in which it was placed, you first need to place a breakpoint in the following line of the <em>User.Bot.js</em> code:</p>
 
@@ -101,17 +138,30 @@ if (global.AT_BREAKPOINT === true) {
 
                             <li><p>This is the <em>running mode</em> control. Click it and you will cycle through the three available running options: backtest, live and competition. Select which mode you wish to run your algobot in and click play.</p></li>
 
-                            <li><p>These are the <em>delete button</em> (green) and the <em>scale button</em> (blue):</p></li>
+                            <li><p>These are the <em>scale button</em> and the <em>delete button</em>:</p></li>
 
                             <ul>
-                                <li><p>Click the <em>delete button</em> to delete backtest, live or competition history (depending on what mode you are running) and start over with fresh data. </p></li>
 
-                                <li><p>Place the mouse pointer on top of the <em>scale button</em> and turn the mouse wheel to adjust the price scale</p></li>
+                                <li><p>Place the pointer on top of the <em>scale button</em> and turn the mouse wheel to adjust the price scale. This button is only available when the zoom is at it's maximum level.</p></li>
+
+                                <li><p>Click the <em>delete button</em> to delete backtest, live or competition history data (depending on what mode you are running). You will start over with fresh data. </p></li>
+
                             </ul>
 
+                        </ol>
 
+                        <div class="polaroid">
+                            <a href="#">
+                                <img src="img/doc/interface-01c-controls.png"
+                                     onmouseover="this.src='img/doc/interface-01c-dim-controls.png'"
+                                     onmouseout="this.src='img/doc/interface-01c-controls.png'"
+                                     border="0" alt="" />
+                            </a>
+                        </div>
 
-                            <h4>User Information</h4>
+                        <h3>User Information</h3>
+
+                        <ol>
 
                             <li><p>This is your <em>username</em>.</p></li>
 
@@ -121,6 +171,15 @@ if (global.AT_BREAKPOINT === true) {
 
                             <li><p>This is the name of the active <em>process</em>. Click on it to cycle through all the processes your algobot may have.</p></li>
                         </ol>
+
+                        <div class="polaroid">
+                            <a href="#">
+                                <img src="img/doc/interface-01d-user.png"
+                                     onmouseover="this.src='img/doc/interface-01d-dim-user.png'"
+                                     onmouseout="this.src='img/doc/interface-01d-user.png'"
+                                     border="0" alt="" />
+                            </a>
+                        </div>
 
                         <h2 id="navigatingthroughthechartstimeline">Navigating the Charts Timeline</h2>
 
@@ -167,7 +226,7 @@ if (global.AT_BREAKPOINT === true) {
                 <div class="row">
                     <div class="col-sm-10">
 
-                        <p>When either of the trading products is <em>on</em> in the Products Panel, the <a href="https://github.com/AAMasters/Plotters-Trading" rel="nofollow" target="_blank">Plotters-Trading</a> associated with t-bots renders a number of visual clues in the timeline to indicate various t-bot actions. Notice the small triangles two candles after the current candle in solid yellow:</p>
+                        <p>When either of the trading products is <em>on</em> in the Products Panel, the <a href="https://github.com/AAMasters/Plotters-Trading" rel="nofollow" target="_blank">Plotters-Trading</a> associated with t-bots renders a number of visual clues in the timeline to indicate various t-bot actions. Notice the small triangles in the figure below:</p>
                     </div>
                 </div>
 

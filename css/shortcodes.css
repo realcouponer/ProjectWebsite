@@ -73,6 +73,7 @@ p {
     line-height: 25px;
     margin-bottom: 0.75em;
     margin-top: 0.75em;
+    text-align: justify;
 }
 
 img {
@@ -112,6 +113,12 @@ a img {
 iframe {
   border: none;
   max-width: 100%; }
+
+a[target='_blank']::after {
+    content: ' \29C9';
+    vertical-align: super;
+    font-size: x-small;
+}
 
 /*
 **styled lists
