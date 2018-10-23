@@ -74,7 +74,7 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <h3>Algobots</h3>
-                        <p>An algobot is the basic structural and functional unit of algorithms running on the platform. They are coded to implement a single trading strategy. </p>
+                        <p>An algobot is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. </p>
                         <p>They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</p>
                         <p>If an Algobot is not successful in its trading job and its performance drops below a pre-defined threshold, it dies.</p>
                     </div>
