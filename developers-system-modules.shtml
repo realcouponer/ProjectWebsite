@@ -64,7 +64,7 @@
                         <p>The system is subdivided in over 40 modules, thus, only a few teams contributing early on will be able to participate in this role. In order to achieve maximum resilience, teams develop a few modules each. <strong>We are an open project and you are welcome to join in and contribute the development of one module. </strong></p>
                     </div>
                     <div class="col-sm-4">
-                        <p>The project allocates 15% of the total supply of ALGO tokens to System Development. Each module is assigned a fraction of that percentage as a bounty. The precise allocation depends on the module's category, which is a function of the level of criticality, urgency and difficulty. There are five categories, each with a bounty, as shown below.</p>
+                        <p>The project allocates 15% of the total supply of ALGO tokens to System Development. Each module is assigned a fraction of that percentage as a development & maintenance budget. The precise allocation depends on the module's category, which is a function of the level of criticality, urgency and difficulty. There are five categories, each with a bounty, as shown below.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -103,8 +103,13 @@
             </div>
         </section>
 
-        <section id="third" class="light_section">
+        <section id="development" class="light_section">
             <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Development</h1>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-sm-4">
                         <p>Each of the modules are estimated to require roughly 1 to 2 months of development for one senior developer working on a full time basis or a similar time for a team of two developers working part time. Should your team count with more resources, it shouldn't be a problem to deliver the module much faster.</p>
@@ -114,14 +119,104 @@
                     </div>
                     <div class="col-sm-4">
                         <p>Under such framework, teams interact with the project's core team and with other teams handling related modules to create definitions at the start of each sprint, and to evaluate results, assist integrations and coordinate testing at the end of each sprint.</p>
-                        <p>Get in touch! We'd love to have you on boad!</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="maintenance" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Maintenance &amp; Improvements</h1>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="text-center">
-                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                            <a href="contacts.shtml">Contact Us</a>
-                        </span>
+                    <div class="col-sm-4">
+                        <p>Teams developing modules are also tasked with their maintenance, thus, teams who engage in developing system modules are expected to become long-term contributors. </p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>We foresee a period of time after development in which modules stabilize, while interdependent modules are developed, tested and integrated. </p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>Occasionally, new functionality may be required and the module under which scope the new requirement falls shall be updated accordingly by the team in charge of maintenance.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="compensation" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Compensation &amp; Entitlements</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <p>Each module has an assigned budget in ALGO, to cover development and maintenance. Developing a module is regarded as an initial investment a team makes to earn the entitlement to "mine" the assigned budget.</p>
+                        <p>Once a team delivers and integrates a module, it starts receiving ALGO from the budget. 50% of the budget is allocated during the first year, in equal monthly installments. The second year allocates 25% of ALGO in the budget. </p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>Each subsequent year allocates half of the remaining amount, until year ten which allocates the full remaining amount.</p>
+                        <p>In addition, once the service is launched at full scale, each module will collect fees from financial beings running on the system, which shall be allocated to teams maintaining each module.</p>
+                        <p>The token allocation system is designed to incentivize teams all along the deployment cycle of the business.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>On top of these compensations in ALGO, teams contributing to system development & maintenance are also granted:</p>
+                        <ul>
+                            <li><p>Acknowledgement as part of the System Development Team throughout official project's documents.</p></li>
+                            <li><p>A certain tier of reputation in the official reputation system positively affecting the findability of the financial beings your team may eventually produce.</p></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="covenants" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Covenants</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <p>If at any point in time an individual contributor wishes to step aside, or fails to deliver as per the expectations of the rest of System Development Teams, the project will help the person make a clean exit by delegating responsibilities into:</p>
+                        <ul>
+                            <li><p>other members of the same team;</p></li>
+                            <li><p>other teams.</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>In the first case, the team's relationship with the rest of the ecosystem remains the same and the team shall keep all of its responsibilities and entitlements through an internal change in management.</p>
+                        <p>In the second case, the departing team will keep all the ALGO it may have been allocated up to that point in time. </p>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>It will also maintain entitlements to being acknowledged as one of the contributors to the system as well as entitlements to the reputation it may have earned.</p>
+                        <p>However, the departing team will resign entitlements to future module fees and to minning whatever part of the budget that may be pending. </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="onboarding" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Onboarding Steps</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>If you are a talented developer and would like to contribute one module to the project, we would be happy to have you on board. </p>
+                        <p>Please follow these steps:</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <ol>
+                            <li><p>Study this website thoroughly to gain the best possible understanding of the project;</p></li>
+                            <li><p><a href="contacts.shtml"><strong>Contact us</strong></a> expressing your interest. Please include the Telegram handles of members of your team in your message. We will get in touch with you to start talks and get you started.</p></li>
+                        </ol>
                     </div>
                 </div>
             </div>
