@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /CODE_OF_CONDUCT.md
+Disallow: /CONTRIBUTING.md
+Disallow: /LICENSE
