@@ -1,0 +1,79 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Superalgos Platform</title>
+    <meta name="description" content="Enabling the evolutionary race towards the emergence of superalgos">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/superalgos-platform.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div>
+                                                        <h3>Superalgos Platform</h3>
+                                                        <h4 style="color:white;">
+                                                            <br />Enabling the evolutionary race towards the emergence of superalgos
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="intro" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Welcome to the Superalgos Platform!</h1>
+                        <h5 class="sc_title sc_title_underline">CO-CREATE >> COMPETE >> EVOLVE</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>Before you begin, please be aware <strong>this is a development environment in pre-alpha stage</strong>. The features available as of today are limited but already functional. However, you should expect occasional instability and errors.</p>
+                        <p>The Superalgos Platform is the place is which we meet to collaborate in the quest to make trading algorithms evolve. You will be able to register, create or join a team, fork a functional trading bot and eventually put it to compete with other people's forks.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Feel free to explore the menu in the top-right corner or visit the <a href="https://www.advancedalgos.net/documentation-quick-start.shtml" target="_blank">Quick Start Guide</a>. Reporting of bugs at the corresponding <a href="https://github.com/AdvancedAlgos" target="_blank" rel="nofollow">Advanced Algos Github repository</a> is highly appreciated.</p>
+                        <p>Get in touch with the rest of the community and get answers to your questions in our <a href="https://t.me/advancedalgoscommunity" target="_blank" rel="nofollow">Telegram Group</a>. Have fun!</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>
