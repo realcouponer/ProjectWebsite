@@ -59,7 +59,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>Before you begin, please be aware <strong>this is a development environment in pre-alpha stage</strong>. The features available as of today are limited but already functional. However, you should expect occasional instability and errors.</p>
+                        <p>Before you begin, please be aware <strong>this is a development environment in pre-alpha stage</strong>. The features available as of today are limited but already functional. However, you may encounter occasional instability and errors.</p>
                         <p>The Superalgos Platform is the place is which we meet to collaborate in the quest to make trading algorithms evolve. You will be able to register, create or join a team, fork a functional trading bot and eventually put it to compete with other people's forks.</p>
                     </div>
                     <div class="col-sm-6">
