@@ -8,7 +8,7 @@
                     </a>
                 </div>
                 <div class="logo_descr">
-                    <p><strong>Advanced Algos Ltd.</strong></br>Ground Floor, Palace Court, Church Street,<br />St. Julians&nbsp;STJ3049, Malta</p>
+                    <p><strong>Advanced Algos Ltd.</strong><br />Ground Floor, Palace Court, Church Street,<br />St. Julians&nbsp;STJ3049, Malta</p>
                     <p><a href="legal-privacy-statement.shtml">Privacy Statement</a> | <a href="legal-terms-of-service.shtml">Terms of Service</a></p>
                 </div>
             </div>
@@ -44,4 +44,4 @@
     </div>
 </section>
 
-</div><!-- eof #box_wrapper -->
+</div>
