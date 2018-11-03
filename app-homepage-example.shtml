@@ -3,10 +3,6 @@
 <head>
     <title>Superalgos Platform</title>
     <meta name="description" content="Enabling the evolutionary race towards the emergence of superalgos">
-    <meta charset="utf-8">
-
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
@@ -14,22 +10,16 @@
     <link rel="stylesheet" href="css/shortcodes-app.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
-    <script src='https://www.google.com/recaptcha/api.js'></script>
-    <!--[if lt IE 9]>
-        <script src="js/vendor/html5shiv.min.js"></script>
-        <script src="js/vendor/respond.min.js"></script>
-    <![endif]-->
+    <link rel="stylesheet" id="theme-skin-css" href="css/general.css">
+
 
 
 </head>
 <body>
-
-    <!--[if lt IE 7]>
-        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
-
     <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
-
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
         <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
             <div class="container">
                 <div class="row">
@@ -84,8 +74,6 @@
 
 
         <!--#include file="includes/footer.shtml" -->
-
-
         <!-- libraries -->
 
         <script src="js/vendor/jquery-1.11.1.min.js"></script>
