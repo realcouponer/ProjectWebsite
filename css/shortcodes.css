@@ -4,16 +4,17 @@
 html,
 body {
   position: relative;
-  font-size: 30px; }
+  font-size: 16px; }
 
 body {
     font-family: 'Saira';
     font-size: 16px;
     font-weight: 300;
     line-height: 25px;
-    background-color: #e3493c;
     color: #5a6266;
 }
+
+
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   margin: 0;
@@ -2351,6 +2352,10 @@ a:hover .menu_item_description { color: inherit; }
 
 .footerStyleDark .logo a {
   color: #fff; }
+
+.footerStyleDark {
+    margin-top: -42px;
+}
 
 .logo_descr
 
@@ -6403,6 +6408,20 @@ a.revlink{
 /* ========================= */
 
 /* Custom CSS*/
+
+.margintop15 {
+    margin-top: -15px;
+}
+
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 5px solid #e3493c;
+    margin: 1em 0;
+    padding: 0;
+}
 
 div.polaroid {
 
