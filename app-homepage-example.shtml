@@ -89,9 +89,6 @@
         <!-- custom scripts -->
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
-
-        <!-- <script src="custom_tools/js/custom_tools_init.js"></script> -->
-
         <script src="js/vendor/SmoothScroll.min.js"></script>
 
         <!-- custom scripts -->
@@ -99,7 +96,6 @@
         <script src="js/email-verify.js" type="text/javascript"></script>
         <script src="js/email-signup.js" type="text/javascript"></script>
         <script src="js/contact.js" type="text/javascript"></script>
-        <script src="js/flymenu.js"></script>
 
         <!-- libraries -->
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
@@ -115,7 +111,7 @@
         <script src='js/vendor/jquery.flexslider-min.js'></script>
 
         <!-- custom scripts -->
-
+        <script src="js/flymenu.js"></script>
         <script src="js/messages.js"></script>
         <script src="js/shortcodes_init.js"></script>
         <script src="js/utils.js"></script>
