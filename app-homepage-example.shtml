@@ -12,11 +12,6 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
     <link rel="stylesheet" id="theme-skin-css" href="css/general.css">
 
-
-
-
-
-
 </head>
 <body>
     <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
@@ -116,10 +111,6 @@
         <script src="js/shortcodes_init.js"></script>
         <script src="js/utils.js"></script>
         <script src="js/front.js"></script>
-
-
-
-
 
 </body>
 </html>
