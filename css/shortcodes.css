@@ -3315,22 +3315,7 @@ blockquote {
         text-transform: none;
         font-style: italic;
     }
-/*
-blockquote {
-    margin: 0 0 0 60px;
-    padding: 0;
-    font-size: 25px;
-    line-height: 37px;
-    font-weight: 300;
-    border-left: 0;
-    font-variant-caps: all-small-caps;
-}
 
-    blockquote p {
-        font-size: 25px;
-        line-height: 37px;
-    }
-    */
 
 
 blockquote cite {display:block; margin-top:10px; }
@@ -6274,20 +6259,13 @@ a.revlink{
 
 
 
-/* ======================================*/
-
-
-/* video page */
-
-.video_page .transparent_section .sc_title { color: #fff;}
-
-
-
-
-
 /* ========================= */
 
 /* Custom CSS*/
+
+.white-text {
+    color: #FFF;
+}
 
 .margintop15 {
     margin-top: -15px;
