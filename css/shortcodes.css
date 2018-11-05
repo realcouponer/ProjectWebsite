@@ -2432,26 +2432,11 @@ a:hover .menu_item_description { color: inherit; }
 .postLink,
 .portfolioWrap .isotopePadding,
 .userHeaderSection.global,
-.userFooterSection.global {
-    background-image:url(../img/background.jpg);
-    background-size: 100% 100%;
-    background-position: left top;
-}
+
 .userHeaderSection.global,
 .userFooterSection.global { background-size: 100% auto; }
 
-.userHeaderSection_bg_1 {
-    background-image: url(../img/background_1.jpg) !important;
-}
-.userHeaderSection_bg_2 {
-    background-image: url(../img/background_2.jpg) !important;
-}
-.userHeaderSection_bg_3 {
-    background-image: url(../img/background_3.jpg) !important;
-}
-.userHeaderSection_bg_4 {
-    background-image: url(../img/background_4.jpg) !important;
-}
+
 
 /* float */
 .floatleft {
@@ -3768,7 +3753,7 @@ blockquote.sc_quote_style_2 { color: #303036; border-left: 2px solid; }
              transition-delay: 0.15s;
     }
 
-.imgNav.bgimage { background-image:url(../img/Branding-Identity-MockUp-Vol8-full.jpg); }
+
 
 .imgNav .itemPrev:before,
 .imgNav .itemNext:before,
@@ -4899,7 +4884,7 @@ html[xmlns] .slides {display: block;}
 .sc_skills_arc .sc_skills_arc_canvas { min-width:100px; min-height:100px; float:left;}
 
 /*pie chart*/
-{ text-align: center; display: inline-block; }
+
 .sc_skills_item  { position: relative; color: #303036; margin: 0 25px;}
 
 body.fullscreen .sc_skills_item,
@@ -5097,7 +5082,7 @@ a.sc_icon.bg_icon.sc_icon_round:hover:after {
 
 /*= features section ==================================================================================================================================================================*/
 
-.sc_parallax .sc_parallax_content { background-image: url(../img/parallax_bg.jpg); }
+
 .sc_parallax .sc_title_underline:after {
   display: none; }
 .sc_parallax .features_container_left,
@@ -5445,19 +5430,10 @@ a.sc_icon.bg_icon.sc_icon_round:hover:after {
 .sc_things .container { padding-bottom: 0; }
 
 .sc_things [class*="col-"] { margin-bottom: 0 !important; margin-top: 0 !important; }
-.sc_things .things_image {
-  background-image: url(../img/responsive.png);
-  background-size: 100% auto;
-  background-repeat: no-repeat; }
+
 .sc_things .sc_column_item { margin-bottom: 33px; }
 
-.sc_things .things2_image {
-    background-image: url(../img/phones.jpg);
-    background-position: top center;
-    background-size: 100% auto;
-    background-repeat: no-repeat;
-    z-index: 2;
-} 
+
 .sc_things .things2_content{
     margin: 0 50px;
 }
@@ -5895,20 +5871,6 @@ input[type=text]::-ms-clear { display: none; }
 
 /*= store page ==================================================================================================================================================================*/
 
-.store_page .flexslider {
-  background-image: url(../img/fon_back.jpg);
-  background-size: cover;
-  background-position: 50% 0%;
-  background-repeat: no-repeat; }
-/*.store_page .flexslider .slide_description_wrapper {
-  position: initial !important;
-  width: 90%;
-  margin: 0 auto; }
-  */
-/*.store_page .flexslider .slides {
-  padding-bottom: 53px; }
-
-  */
 
 #mainslider [class*="slide_store_textblock_"] h3,
 #mainslider [class*="slide_store_textblock_"] h5,
@@ -6026,23 +5988,6 @@ input[type=text]::-ms-clear { display: none; }
 
 /*= prettyPhoto ==================================================================================================================================================================*/
 
-div.facebook .pp_expand{background:url(../img/prettyPhoto/facebook/sprite.png) -31px -26px no-repeat;cursor:pointer}
-div.facebook .pp_expand:hover{background:url(../img/prettyPhoto/facebook/sprite.png) -31px -47px no-repeat;cursor:pointer}
-div.facebook .pp_contract{background:url(../img/prettyPhoto/facebook/sprite.png) 0 -26px no-repeat;cursor:pointer}
-div.facebook .pp_contract:hover{background:url(../img/prettyPhoto/facebook/sprite.png) 0 -47px no-repeat;cursor:pointer}
-div.facebook .pp_close{width:22px;height:22px;background:url(../img/prettyPhoto/facebook/sprite.png) -1px -1px no-repeat;cursor:pointer;z-index:3000;}
-div.facebook .pp_description{margin:0 37px 0 0; }
-div.facebook .pp_loaderIcon{background:url(../img/prettyPhoto/facebook/loader.gif) center center no-repeat}
-div.facebook .pp_arrow_previous{display: none; }
-div.facebook .pp_arrow_previous.disabled{background-position:0 -96px;cursor:default}
-div.facebook .pp_arrow_next{display: none;}
-div.facebook .pp_arrow_next.disabled{display: none; background-position:-32px -96px;cursor:default}
-div.facebook .pp_nav{margin-top:0}
-div.facebook .pp_nav p{font-size:12px;padding:0 8px 0 0;}
-div.facebook .pp_nav .pp_play{display: none; background:url(../img/prettyPhoto/facebook/sprite.png) -1px -123px no-repeat;height:22px;width:22px}
-div.facebook .pp_nav .pp_pause{display: none; background:url(../img/prettyPhoto/facebook/sprite.png) -32px -123px no-repeat;height:22px;width:22px}
-div.facebook .pp_next:hover{background:url(../img/prettyPhoto/facebook/btnNext.png) center right no-repeat;cursor:pointer}
-div.facebook .pp_previous:hover{background:url(../img/prettyPhoto/facebook/btnPrevious.png) center left no-repeat;cursor:pointer}
 div.pp_pic_holder a:focus{outline:none}
 div.pp_overlay{background:#000;display:none;left:0;position:absolute;top:0;width:100%;z-index:9500}
 div.pp_pic_holder{display:none;position:absolute;width:100px;z-index:10000}
@@ -6067,10 +6012,7 @@ div.pp_pic_holder{display:none;position:absolute;width:100px;z-index:10000}
 .pp_gallery ul a{border:1px rgba(0,0,0,0.5) solid;display:block;float:left;height:auto;overflow:hidden}
 .pp_gallery ul a img{border:0}
 .pp_gallery li{display:block;float:left;margin:0 5px 0 0;padding:0}
-.pp_gallery li.default a{background:url(../img/prettyPhoto/facebook/default_thumbnail.gif) 0 0 no-repeat;display:block;height:33px;width:50px}
 .pp_gallery .pp_arrow_previous,.pp_gallery .pp_arrow_next{margin-top:7px!important}
-a.pp_next{background:url(../img/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:right;height:100%;text-indent:-10000px;width:49%; -webkit-transition: none; -moz-transition: none; -o-transition: none; -ms-transition: none; transition: none;}
-a.pp_previous{background:url(../img/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:left;height:100%;text-indent:-10000px;width:49%;-webkit-transition: none; -moz-transition: none; -o-transition: none; -ms-transition: none; transition: none;}
 a.pp_expand,a.pp_contract{cursor:pointer;display:none;height:20px;position:absolute;right:30px;text-indent:-10000px;top:10px;width:20px;z-index:20000}
 a.pp_close{position:absolute;right:6px;top:-16px;display:block;line-height:22px;text-indent:-10000px}
 .pp_loaderIcon{display:block;height:24px;left:50%;position:absolute;top:50%;width:24px;margin:-12px 0 0 -12px}
