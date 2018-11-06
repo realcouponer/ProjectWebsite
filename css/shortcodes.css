@@ -116,7 +116,7 @@ iframe {
   max-width: 100%; }
 
 a[target='_blank']::after {
-    content: ' \29C9';
+    content: '\29C9';
     vertical-align: super;
     font-size: x-small;
 }
@@ -3792,7 +3792,7 @@ textarea { padding:20px; resize:vertical; box-sizing: border-box;}
 textarea.textAreaSize{ max-height: 500px !important;}
 input[type="text"],
 input[type="password"],
-textarea { font-family: inherit; font-size: 14px; outline:none; color:#acb4b6; border: 1px solid #dcdfe0; margin: 0; }
+textarea { font-family: inherit; font-size: 14px; outline:none; color:#acb4b6; border: 0px solid #dcdfe0; margin: 0; }
 input[type="text"]:focus,
 input[type="password"]:focus,
 textarea:focus{ border-color:#bebebe; }
@@ -6263,13 +6263,22 @@ a.revlink{
 
 /* Custom CSS*/
 
+.display-none {
+    display: none;
+}
+
 .white-text {
     color: #FFF;
 }
 
-.margintop15 {
-    margin-top: -15px;
+.margintop-25 {
+    margin-top: -25px;
 }
+
+.margintop20 {
+    margin-top: 20px;
+}
+
 
 
 hr {

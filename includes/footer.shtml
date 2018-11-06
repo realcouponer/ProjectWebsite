@@ -1,10 +1,10 @@
 ﻿<footer id="footer" class="dark_section footerStyleDark"><hr />
     <div class="container">
-        <div class="row margintop-15">
+        <div class="row margintop-25">
             <div class="col-md-4 col-sm-4 ">
                 <div class="logo">
                     <a href="index.shtml">
-                        <img src="img/logos/advanced-algos/aa-logo-dark.svg" alt="Advanced Algos Ltd. Logo">
+                        <img src="img/logos/advanced-algos/aa-logo-dark.svg" alt="Advanced Algos Ltd. Logo" />
                     </a>
                 </div>
                 <div class="logo_descr">
@@ -37,8 +37,7 @@
     <div class="container">
         <div class="row copy">
             <div class="col-sm-6 margin_bottom_micro">
-
-                <p>&copy; Advanced Algos Ltd. <!--#config timefmt="%Y" --> <!--#echo var="DATE_LOCAL" --> All Rights Reserved</p>
+                <p>&copy; Advanced Algos Ltd. <!--#config timefmt="%Y" --> <!--#echo var="DATE_LOCAL" --> | All Rights Reserved</p>
             </div>
         </div>
     </div>
