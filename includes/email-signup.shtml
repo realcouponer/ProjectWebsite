@@ -1,10 +1,10 @@
 <div class="signup-form-container">
-    <h3 class="sc_title" style="margin-top:15px;">Stay in touch!</h3>
+    <h3 class="sc_title margintop20">Stay in touch!</h3>
     <p>Opt-in our mailing list to stay up to date with the Advanced Algos Project.</p>
      <form id="email-signup" action="#" class="form-inline">
-      <div class="message" style="display:none;">Thank you for your interest! We'll keep you informed</div>
+      <div class="message display-none">Thank you for your interest! We'll keep you informed</div>
       <div class="form-group">
-         <input class="btn btn-lg" name="email" id="signup_email" type="email" placeholder="Enter your email" required>
+         <input class="btn btn-lg" name="email" id="signup_email" type="email" placeholder="Enter your email" required />
          <button id="email-submit" class="btn btn-info btn-lg" type="submit"><span class="glyphicon glyphicon-refresh animate-spin" style="display:none;"></span> Submit</button>
       </div>
      </form>
