@@ -5,7 +5,7 @@
       <div class="message display-none">Thank you for your interest! We'll keep you informed</div>
       <div class="form-group">
          <input class="btn btn-lg" name="email" id="signup_email" type="email" placeholder="Enter your email" required />
-         <button id="email-submit" class="btn btn-info btn-lg" type="submit"><span class="glyphicon glyphicon-refresh animate-spin display-none"></span> Submit</button>
+         <button id="email-submit" class="btn btn-info btn-lg" type="submit"><span class="glyphicon glyphicon-refresh animate-spin" style="display:none;"></span> Submit</button>
       </div>
      </form>
 </div>

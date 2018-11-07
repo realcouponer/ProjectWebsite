@@ -4366,7 +4366,7 @@ table.calendar th, table.calendar td,
 #pageNavSlider table td, #pageNavSlider table th { border-width:0; }
 
 /*style light*/
-.sc_pricing_light .sc_pricing_columns ul { background: #EAE2DE; }
+.sc_pricing_light .sc_pricing_columns ul { background: #f8f8f8; }
 .sc_pricing_light .sc_pricing_columns:hover ul { background: #fff; }
 .sc_pricing_light .sc_price_item .sc_price_period { color:#acb4b6; }
 .sc_pricing_light .sc_price_item .sc_price_currency,
@@ -4382,17 +4382,22 @@ table.calendar th, table.calendar td,
 .sc_pricing_light .sc_pricing_columns .sc_pricing_title,
 .sc_pricing_light .sc_pricing_columns:hover ul.columnsAnimate li.sc_pricing_title,
 .sc_pricing_light .sc_pricing_columns ul li.sc_pricing_price
-{ background-color:#f0f2f4; }
+{ background-color:#e0e2e4; }
 .sc_pricing_light .sc_pricing_columns:hover ul.columnsAnimate .sc_pricing_title,
 .sc_pricing_light .sc_pricing_columns:hover ul.columnsAnimate li.sc_pricing_title,
 .sc_pricing_light .sc_pricing_columns:hover ul.columnsAnimate li.sc_pricing_price
-{ background-color:#f9f9f9; }
+{ background-color:#f9fbfd; }
 .sc_pricing_light .sc_pricing_columns:hover ul.columnsAnimate .sc_pricing_title { color: #e3493c; }
 .sc_pricing_light .sc_pricing_data > span { color: #303036; }
 
+.sc_pricing_light {
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
 /*style dark*/
 .sc_pricing_dark{
-    padding: 0;
+    padding: 5px;
     margin-bottom: 20px;
 }
 .sc_pricing_table > div {
@@ -4402,7 +4407,7 @@ table.calendar th, table.calendar td,
 }
 .sc_pricing_table .sc_pricing_columns ul {
   margin: 0;
-  padding: 0;
+  padding: 2px;
   width: 100%;
   position: relative;
   z-index: 1;
@@ -4445,11 +4450,19 @@ table.calendar th, table.calendar td,
 }
 
 .sc_price_item {
-  height: 50px;
+  height: 75px;
   width: auto;
   display: inline-block;
   position: relative;
   margin: 10px auto 10px auto;
+}
+
+.sc_price_item_long {
+    height: 150px;
+    width: auto;
+    display: inline-block;
+    position: relative;
+    margin: 10px auto 10px auto;
 }
 
 .sc_price_item .sc_price_currency {
@@ -4462,12 +4475,13 @@ table.calendar th, table.calendar td,
 .sc_pricing_dark .sc_price_item .sc_price_currency, .sc_pricing_dark .sc_price_item .sc_price_money, .sc_pricing_dark .sc_price_item .sc_price_penny, .sc_pricing_dark .sc_pricing_columns ul li.sc_pricing_title, .sc_pricing_dark .sc_pricing_data > span {
   color: #ffffff;
 }
+
 .sc_price_item .sc_price_money {
-  font-size: 55px;
-  height: 55px;
-  line-height: 55px;
-  font-weight: 100;
-  float: left;
+    font-size: 35px;
+    height: 55px;
+    line-height: 35px;
+    font-weight: 100;
+    float: left;
 }
 .sc_price_item .sc_price_info {
   height: 55px;
@@ -4497,7 +4511,7 @@ table.calendar th, table.calendar td,
 .sc_pricing_dark .sc_pricing_columns .sc_pricing_title,
 .sc_pricing_dark .sc_pricing_columns:hover ul.columnsAnimate li.sc_pricing_title,
 .sc_pricing_dark .sc_pricing_columns ul li.sc_pricing_price
-{ background-color:#181f27; }
+{ background-color:#171e26; }
 
 span.sc_button.sc_button_style_global{
     margin-top: 20px;
@@ -6263,6 +6277,19 @@ a.revlink{
 
 /* Custom CSS*/
 
+/* Custom Tables*/
+
+.red-header {
+    color: #FFF;
+    background-color: #e3493c;
+    text-justify: none;
+    text-align: center;
+    border-bottom: 3px solid #CCC;
+}
+
+
+
+
 .display-none {
     display: none;
 }
@@ -6297,13 +6324,7 @@ div.polaroid {
     margin-bottom: 35px;
     margin-top: 35px;
 }
-/*
-em {
-    font-variant-caps: all-small-caps;
-    font-style:normal;
-    font-weight: 600;
-}
-    */
+
 
 em {
     font-variant-caps: normal;

@@ -1,0 +1,596 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Contributing to the Advanced Algos Project</title>
+    <meta name="description" content="Contributing to the collective project that will reshape the trading space.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/swarm.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="width:85%;">
+                                                        <h4 style="color:white;">
+                                                            <br />Co-leading the swarm that will reshape the trading space.
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="co-leading" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Co-leading the Advanced Algos Project</h1>
+                        <h5 class="sc_title sc_title_underline">JOIN THE SUPERMIND!</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>Advanced Algos is a collective project, open for people to join and contribute. As a community, we aim to attract the best minds and spirits; people who share our vision and values; women and men willing to drive change and pursue the project's long-term goals.</p>
+                        <p><strong>At this early stage, people joining the project are those willing to undertake a leadership role: our work organization is founded on the distribution of responsibilities.</strong> </p>
+                        <p>As leaders, we are expected to assume full responsibility on our specific fields of work. This means our scope of work is doing whatever it takes for our area of responsibility to be developed to the level the project needs at each point in time. In fact, the extent of the work of leaders is dynamic. As the project evolves, new needs arise. </p>
+                        <p>Leaders are flexible and constantly adapt, welcoming new requirements, iterating on solutions and even redoing work as many times as may be necessary. Our mission is to evolve our work until it reaches the expected level of quality or efficiency.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>We work in <i>domains</i> (<i>e.g.</i> Marketing, Business, Software Development, etc) interacting with peers that collaborate in a horizontal and organic fashion. There are no formal supervisors or hard hierarchies. Instead, we all follow up with each other, coordinating intersecting issues, planning integration and setting up collective goals in order to align efforts.</p>
+                        <p>Decisions are made by consensus within each domain and with the larger community. Ultimately, each individual person's views, choices and decisions are influenced by their peers. After all, we aim to satisfy the needs of the project as perceived by the wider community. </p>
+                        <p>Leaders are open-minded people who welcome diversity of opinion. They are always willing to negotiate when confronted with diverging views, reach agreements quickly and resolve disputes amicably. </p>
+                        <p>Leaders may be individuals or teams of any number of people sharing one specific area of responsibility.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="positions" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Open Positions & Incentives</h1>
+                        <h5 class="sc_title sc_title_underline">WE VALUE YOUR CONTRIBUTION</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>Our work in the Advanced Algos Project is characterized as volunteer work. In order to incentivize contributions, the project reserves 10% of the total supply of ALGO tokens to be distributed among the leadership of the project.</p>
+                        <p>Areas of responsibility are categorized in numbers, from 1 to 5. The category number is a reflection of the perceived level of criticality, urgency or scope entailed in the particular area of responsibility. The higher the number, the more critical, urgent or the largest the scope the area of responsibility is recognized to have.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>In terms of incentives, the category number indicates the amount of ALGO tokens to be allocated to leaders undertaking a specific area of responsibility, expressed in millions (<i>i.e.</i> a category 5 area allocates 5 million tokens).</p>
+                        <p>Domains and specific areas of responsibility are dynamically identified and assigned by the community as the project advances. </p>
+                        <p>The table below shows the existing areas of responsibility grouped by domain. The ones with an <i>Apply!</i> button indicate the areas available for new leaders to undertake.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="marketing_domain" class="darkgrey_section">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-sm-12">
+                        <h2 class="sc_title margin_bottom_mini">Marketing</h2>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 5</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Marketing Direction</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Craft overall marketing strategies and tactics. Coordinate marketing areas of responsibility to monitor implementation and maintain consistency across the board.</li>
+                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.5% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 5</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Public &amp; Media Relations</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Lead PR Campaigns, managing relationships with the media and pursuing exposure opportunities.</li>
+                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.5% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 4</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">YouTube Tutorials Channel</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Produce video tutorials walking users through system's functionality, bot's programming, competitions and so on. Undertake responsibility over channel promotion.</li>
+                                    <li class="sc_pricing_data">4,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.4% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 4</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">System Documentation</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Craft system-wide technical documentation. Undertake responsibility over maintenance of documentation and maintain integrity across the system.</li>
+                                    <li class="sc_pricing_data">4,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.4% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 1</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Telegram Group</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Community management over the official Telegram Group. Undertake responsibility over people's engagement and group growth.</li>
+                                    <li class="sc_pricing_data">1,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.1% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul>
+                                    <li class="sc_pricing_data sc_pricing_title">Category 5</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Project Website</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Develop and maintain the website, undertaking responsibility over content (copy and visuals), SEO and technical development.</li>
+                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.5% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="margin_bottom_mini squareButton global big">
+                                            <a>Assigned</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="business_domain" class="light_section">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-sm-12">
+                        <h2 class="sc_title margin_bottom_mini">Business</h2>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 5</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Business Direction</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Craft overall business strategies. Undertake responsibility in business development, strategic partnerships and investors relations.</li>
+                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.5% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 1</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Business Plan</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Craft and maintain a business plan along the lifecycle of the project.</li>
+                                    <li class="sc_pricing_data">1,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.1% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 1</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Investment Deck</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Craft and maintain an investment deck along the lifecycle of the project.</li>
+                                    <li class="sc_pricing_data">1,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.1% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="ci_domain" class="darkgrey_section">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-sm-12">
+                        <h2 class="sc_title margin_bottom_mini">Collective Intelligence</h2>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 5</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Collective Intelligence Direction</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Craft overall strategies to maximize CI across the supermind. Devise studies and proposals to implement best practices.</li>
+                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.5% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="management_domain" class="light_section">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-sm-12">
+                        <h2 class="sc_title margin_bottom_mini">Management</h2>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul>
+                                    <li class="sc_pricing_data sc_pricing_title">Category 5</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">General Direction</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Enable, organize and coordinate works in all areas. Undertake responsibility in starting up development of unassigned areas.</li>
+                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.5% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="margin_bottom_mini squareButton global big">
+                                            <a>Assigned</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="incentives" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Incentives Distribution</h1>
+                        <h5 class="sc_title sc_title_underline">UNDERTAKING AN AREA OF RESPONSIBILITY</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>In order to be granted the assignment of an area of responsibility, leaders need to show the community that they are the right person or team for the job. To do that, they apply for a specific area and start working. After some time, they will have produced a body of work consisting of a usable first version of whatever their area of responsibility requires. Once the piece of work satisfies the community, the area of responsibility is granted and the new leader acquires entitlements to the corresponding incentives in the form of ALGO tokens.</p>
+                        <p>After leaders are confirmed in their area of responsibility, a smart contract starts delivering ALGO tokens from the corresponding pool to the leaders' ALGO wallet.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>The project expects leaders to honor their responsibilities for the long run and aims to align all stakeholders interests via a smart incentives scheme. In that light, ALGO tokens in the pool are delivered in monthly installments under the following rule: 50% of the remaining tokens in the pool are delivered each year. Put in other words, there is a halving event in the delivery rate at each year mark counting from the date the area of responsibility was assigned; <i>i.e.</i> 50% of the total amount of tokens in the pool are delivered during the first year, 25% during the second year, 12.5% during the third and so on, until the tenth year in which all remaining tokens are delivered&mdash;see the table below for clarity.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="distribution" class="darkgrey_section">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-sm-12">
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 5</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">5,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 2,500,000</li>
+                                    <li class="sc_pricing_data">Year 2: 1,250,000</li>
+                                    <li class="sc_pricing_data">Year 3: 625,000</li>
+                                    <li class="sc_pricing_data">Year 4: 312,500</li>
+                                    <li class="sc_pricing_data">Year 5: 156,250</li>
+                                    <li class="sc_pricing_data">Year 6: 78,125</li>
+                                    <li class="sc_pricing_data">Year 7: 39,063</li>
+                                    <li class="sc_pricing_data">Year 8: 19,531</li>
+                                    <li class="sc_pricing_data">Year 9: 9,766</li>
+                                    <li class="sc_pricing_data">Year 10: 9,766</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 4</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">4,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 2,000,000</li>
+                                    <li class="sc_pricing_data">Year 2: 1,000,000</li>
+                                    <li class="sc_pricing_data">Year 3: 500,000</li>
+                                    <li class="sc_pricing_data">Year 4: 250,000</li>
+                                    <li class="sc_pricing_data">Year 5: 125,000</li>
+                                    <li class="sc_pricing_data">Year 6: 62,500</li>
+                                    <li class="sc_pricing_data">Year 7: 31,250</li>
+                                    <li class="sc_pricing_data">Year 8: 15,625</li>
+                                    <li class="sc_pricing_data">Year 9: 7,813</li>
+                                    <li class="sc_pricing_data">Year 10: 7,813</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 3</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">3,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 1,500,000</li>
+                                    <li class="sc_pricing_data">Year 2: 750,000</li>
+                                    <li class="sc_pricing_data">Year 3: 375,000</li>
+                                    <li class="sc_pricing_data">Year 4: 187,500</li>
+                                    <li class="sc_pricing_data">Year 5: 93,750</li>
+                                    <li class="sc_pricing_data">Year 6: 46,875</li>
+                                    <li class="sc_pricing_data">Year 7: 23,438</li>
+                                    <li class="sc_pricing_data">Year 8: 11,719</li>
+                                    <li class="sc_pricing_data">Year 9: 5,859</li>
+                                    <li class="sc_pricing_data">Year 10: 5,859</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 2</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">2,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 1,000,000</li>
+                                    <li class="sc_pricing_data">Year 2: 500,000</li>
+                                    <li class="sc_pricing_data">Year 3: 250,000</li>
+                                    <li class="sc_pricing_data">Year 4: 125,000</li>
+                                    <li class="sc_pricing_data">Year 5: 62,500</li>
+                                    <li class="sc_pricing_data">Year 6: 31,250</li>
+                                    <li class="sc_pricing_data">Year 7: 15,625</li>
+                                    <li class="sc_pricing_data">Year 8: 7,813</li>
+                                    <li class="sc_pricing_data">Year 9: 3,906</li>
+                                    <li class="sc_pricing_data">Year 10: 3,906</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 1</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">1,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 500,000</li>
+                                    <li class="sc_pricing_data">Year 2: 250,000</li>
+                                    <li class="sc_pricing_data">Year 3: 125,000</li>
+                                    <li class="sc_pricing_data">Year 4: 62,500</li>
+                                    <li class="sc_pricing_data">Year 5: 31,250</li>
+                                    <li class="sc_pricing_data">Year 6: 15,625</li>
+                                    <li class="sc_pricing_data">Year 7: 7,813</li>
+                                    <li class="sc_pricing_data">Year 8: 3,906</li>
+                                    <li class="sc_pricing_data">Year 9: 1,953</li>
+                                    <li class="sc_pricing_data">Year 10: 1,953</li>
+                                </ul>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section id="maintenance" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Additional Incentives</h1>
+                        <h5 class="sc_title sc_title_underline">THINKING LONG TERM</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>In addition to the incentives in the pool of tokens corresponding to each area of responsibility, leaders are also entitled to a second form of incentives that shall become available once the service is launched to the general public: leaders will collect fees from all financial beings living in the platform.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>There are no precise definitions as of how fees will work at this point in time. The intent, however, is clear: to complement and extend incentives so that leaders keep up the good work for the long run.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="exit" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Exit</h1>
+                        <h5 class="sc_title sc_title_underline">THE WAY OUT</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>If at any point in time an individual leader wishes to step aside, or fails to deliver as per the expectations of the rest of the community, the project will help the person make a clean exit by delegating responsibilities into:</p>
+                        <ul>
+                            <li><p>other members of the same team;</p></li>
+                            <li><p>other teams.</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>In the first case, the team's relationship with the rest of the community remains the same and the team shall keep all of its responsibilities and entitlements through an internal change in management.</p>
+                        <p>In the second case, the departing team will keep all the ALGO it may have been allocated up to that point in time. However, it will resign entitlements to future token deliveries and to future fees collected from financial beings.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="example" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Example</h1>
+                        <h5 class="sc_title sc_title_underline">HOW IT ALL WORKS</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>Let's use an example to bring everything said so far down to earth.</p>
+                        <p>A team of three creatives wishes to take on the area of Youtube Tutorials Channel. They get in touch with the project, meet a few teams in the Marketing domain and also meet technical teams developing the system. They discuss views, priorities and agree on which tutorial to do first.</p>
+                        <p>The selected tutorial will constitute the body of work the new team will present to the community to prove they are the right team for the job.</p>
+                        <p>The team starts out by joining regular marketing meetings; they discuss their tutorial, expected format, look &amp; feel, communication strategy and so on. They also meet developers and get acquainted with the system architecture and gather the definitions they might need. They do their own homework, use the system, learn it, ask around and read any available documentation.</p>
+                        <p>While producing the tutorial, they stay in touch with other teams in Marketing as well as with developers, consulting on any issues that may arise and showcasing their progress to get early feedback. </p>
+                        <p>Eventually, the team wraps up the tutorial and presents a fully-working version to the community.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>By that time, a part of the community has become acquainted with the new team, having interacted frequently and followed their work closely. The constant revisions through regular meetings helped the new team stay on course, remain focused in priorities and producing the tutorial following agreed best practices.</p>
+                        <p>This initial piece of work along with the human interactions experienced along the way  are enough to show the community that the new team is a worthy acquisition. Without further due and through an express voting session, the new team is granted the corresponding area of responsibility, and 30 days later the team starts getting ALGO tokens in their ALGO wallet.</p>
+                        <p>The new team is now a key part of the community. It keeps producing tutorials, promoting the Tutorials Youtube Channel and integrating their material with the rest of the marketing mix. </p>
+                        <p>Along the way, the system evolves and some tutorials need adjustments or become obsolete. The team is fully responsible for staying on top of the system's progress in order to keep their material up to date.</p>
+                        <p>By the second year the team has got 75% of the tokens in their area's pool and are collecting fees from the moment the service launched to the public.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>
