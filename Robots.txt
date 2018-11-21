@@ -2,3 +2,6 @@ User-agent: *
 Disallow: /CODE_OF_CONDUCT.md
 Disallow: /CONTRIBUTING.md
 Disallow: /LICENSE
+Disallow: /pitch-deck-l01hfiwendjkhfekdife.shtml
+Disallow: /pitch-deck-j01hfiwendjkhfekdife.shtml
+Disallow: /pitch-deck-a01hfiwendjkhfekdife.shtml
