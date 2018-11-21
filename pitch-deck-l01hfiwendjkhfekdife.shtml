@@ -166,25 +166,9 @@
                                                 <div>
                                                     <div style="padding:10px; width: 90%;">
 
-                                                        <h3>ALGO Token</h3>
+                                                        <h3>ALGO Token Factsheet</h3>
                                                         <h4 style="color:white;"><br />The medium of exchange within the platform by which bots autonomously pay microfees for the services they consume and earn microfees for the services they offer.</h4>
 
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <img src="img/photos/algo-token.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
-                                        <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp" align="center">
-                                                <div>
-                                                    <div style="padding:10px;">
-
-                                                        <h3>ALGO Token Factsheet</h3>
                                                         <br />
                                                         <ul align="left">
                                                             <li style="color:white; margin: 10px 0; font-size: large;">
@@ -390,21 +374,21 @@
                                                         <h3>Questions?</h3>
                                                         <br />Questions?
                                                         <h4 style="color:white;">
-                                                            Luis Molina | +36 31 781 1162 <br/> Telegram: <a href="https://t.me/luis_fernando_molina" rel="nofollow" target="_blank">@luis_fernando_molina</a> | Email: <a href="mailto:luis@advancedalgos.net">luis@advancedalgos.net</a></p>
+                                                            Luis Molina | +36 31 781 1162 <br /> Telegram: <a href="https://t.me/luis_fernando_molina" rel="nofollow" target="_blank">@luis_fernando_molina</a> | Email: <a href="mailto:luis@advancedalgos.net">luis@advancedalgos.net</a></p>
                                                         </h4>
 
-                                                            <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                                <a href="index.shtml">Learn More</a>
-                                                            </span>&nbsp; &nbsp;
-                                                            <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                                <a href="https://app.advancedalgos.net">Join the Crowd</a>
-                                                            </span>
-</div>
+                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                            <a href="index.shtml">Learn More</a>
+                                                        </span>&nbsp; &nbsp;
+                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                            <a href="https://app.advancedalgos.net">Join the Crowd</a>
+                                                        </span>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </p>
+                                    </p>
 
                             </ul>
                         </div>
