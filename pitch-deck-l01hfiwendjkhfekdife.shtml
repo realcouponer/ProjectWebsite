@@ -28,7 +28,7 @@
 
                                 <li>
                                     <img src="img/photos/markets.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -46,7 +46,7 @@
 
                                 <li>
                                     <img src="img/photos/case-study.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -81,7 +81,7 @@
 
                                 <li>
                                     <img src="img/photos/case-study.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -113,7 +113,7 @@
 
                                 <li>
                                     <img src="img/photos/evolution3.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -132,7 +132,7 @@
 
                                 <li>
                                     <img src="img/photos/connect.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -161,7 +161,7 @@
 
                                 <li>
                                     <img src="img/photos/teams2.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -189,7 +189,7 @@
 
                                 <li>
                                     <img src="img/photos/algo-token.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -232,7 +232,7 @@
 
                                 <li>
                                     <img src="img/photos/compliance.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -272,7 +272,7 @@
 
                                 <li>
                                     <img src="img/photos/supermind-dark2.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -292,7 +292,7 @@
 
                                 <li>
                                     <img src="img/photos/business-plan-1.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -325,7 +325,7 @@
 
                                 <li>
                                     <img src="img/photos/business-plan-2.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -358,7 +358,7 @@
 
                                 <li>
                                     <img src="img/photos/business-plan-3.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -395,7 +395,7 @@
 
                                 <li>
                                     <img src="img/photos/contacts2.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
