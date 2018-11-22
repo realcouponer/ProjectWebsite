@@ -271,6 +271,26 @@
                                 </li>
 
                                 <li>
+                                    <img src="img/photos/supermind-dark2.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1300px;">
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center; margin-top: 10%;">Minimum Viable Product</p>
+                                                        <div class="polaroid">
+                                                            <iframe src="https://platform-dev.advancedalgos.net/" width="1300px;" height="500px"></iframe>
+                                                        </div>
+                                                        
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
                                     <img src="img/photos/business-plan-1.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
@@ -399,7 +419,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    </p>
+                                </li>
 
                             </ul>
                         </div>
