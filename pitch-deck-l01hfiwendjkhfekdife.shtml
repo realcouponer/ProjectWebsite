@@ -279,10 +279,8 @@
                                                     <div style="padding:10px; width: 1300px;">
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center; margin-top: 10%;">Minimum Viable Product</p>
                                                         <div class="polaroid">
-                                                            <iframe src="https://platform-dev.advancedalgos.net/" width="1300px;" height="500px"></iframe>
+                                                            <iframe src="https://platform-dev.advancedalgos.net/" width="1300px;" height="700px"></iframe>
                                                         </div>
-                                                        
-
                                                     </div>
                                                 </div>
                                             </div>
