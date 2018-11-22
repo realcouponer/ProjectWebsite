@@ -6412,6 +6412,15 @@ code {
             opacity: 1;
         }
 
+.pixel-overlay-pixel3x {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: url('../img/illustrations/pixel3x.png');
+}
+
 .pixel-overlay {
     position: absolute;
     width: 100%;
