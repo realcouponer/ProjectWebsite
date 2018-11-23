@@ -27,8 +27,8 @@
                             <ul class="slides text-center">
 
                                 <li>
-                                    <img src="img/photos/markets.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <img src="img/photos/markets-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -45,14 +45,14 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/case-study.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <img src="img/photos/case-study-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="padding:10px; width: 1000px;">
 
-                                                        <h3 style="margin-top: 17%;">TopCoder.com</h3>
+                                                        <h3 style="margin-top: 17%;">Top Coder</h3>
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Case Study</p>
 
                                                         <ul align="left">
@@ -80,8 +80,8 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/case-study.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <img src="img/photos/case-study-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -98,10 +98,10 @@
                                                                 Will organize a constellation of algorithmic trading competitions to grow a community of developers, traders and analysts.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Will take a cut on subscriptions sold to asset holders renting competition-winning bots to trade on their behalf.
+                                                                Will take a cut on subscriptions sold to asset holders renting community-built, competition-winning bots to trade on their behalf.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Projecting to amass 1 million developers / traders / analysts by 2030.
+                                                                Projecting to reach 1 million developers / traders / analysts by 2030.
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -112,8 +112,8 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/evolution3.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <img src="img/photos/evolution-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -121,7 +121,7 @@
 
                                                         <h3 style="margin-top: 17%;">Evolution</h3>
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Unique Selling Proposition</p>
-                                                        <p style="color:white; font-size: x-large; line-height: 40px;">By open sourcing bot’s source code after competitions end, the community forks the winners, improves them and puts the new generation to compete again, unleashing a relentless evolutionary process leading to the emergence of superalgos, capable of competing and eventually outperforming everyone at the markets.</p>
+                                                        <p style="color:white; font-size: x-large; line-height: 40px;">By open sourcing bot’s source code after competitions end, the community forks the winners, improves them and puts the new generation to compete again, unleashing a relentless evolutionary process leading to the emergence of superalgos, capable of outperforming everyone at the markets.</p>
 
                                                     </div>
                                                 </div>
@@ -131,8 +131,8 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/connect.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <img src="img/photos/connect-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -143,10 +143,10 @@
                                                         <img src="img/charts/superalgo-performance.svg" height="250" />
                                                         <ul align="left">
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                <strong>Amateur / open source:</strong> Current intelligence is low as well as improvement rate.
+                                                                <strong>Amateur / Open Source:</strong> Current intelligence is low as well as improvement rate.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                <strong>Institutional investors:</strong> High intelligence and linear improvement rate.
+                                                                <strong>Institutional Investors:</strong> High intelligence and linear improvement rate.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
                                                                 <strong>Advanced Algos:</strong> Starts with very low intelligence which increases exponentially.
@@ -160,8 +160,8 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/teams2.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <img src="img/photos/teams-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -171,10 +171,13 @@
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Utility Token</p>
                                                         <ul align="left">
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                The medium of exchange within the platform by which bots autonomously pay microfees for the services they consume and earn microfees for the services they offer.
+                                                                <strong>Definition:</strong> The medium of exchange within the platform by which bots autonomously pay microfees for the services they consume and earn microfees for the services they offer.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                An ERC-20 Token on Ethereum.
+                                                                <strong>Evolution:</strong> Trading bots modeled as <i>Financial Beings</i>, meaning that when they run out of ALGO tokens, they die.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Technology:</strong> An ERC-20 Token on Ethereum.
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -186,7 +189,7 @@
 
                                 <li>
                                     <img src="img/photos/algo-token.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -212,10 +215,10 @@
                                                                     5% Early Buyers (Friends & Family Round + Seed Rounds 1 to 4)
                                                                 </li>
                                                                 <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
-                                                                    4% Referrals & Incentives Programs
+                                                                    5% Referrals & Incentives Programs
                                                                 </li>
                                                                 <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
-                                                                    41% Funding Reserve; potential ICO.
+                                                                    40% Funding Reserve; potential ICO.
                                                                 </li>
 
                                                             </ul>
@@ -228,8 +231,8 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/compliance.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <img src="img/photos/compliance-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -268,14 +271,34 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/business-plan-1.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <img src="img/photos/supermind-dark2.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1300px;">
+
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center; margin-top: 10%;">Minimum Viable Product</p>
+
+                                                        <div class="polaroid">
+                                                            <iframe src="https://platform-dev.advancedalgos.net/" width="1300px;" height="700px"></iframe>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/business-plan-1-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="padding:10px; width: 1000px;">
 
-                                                        <h3 style="margin-top: 17%;">10-Year Business Plan</h3>
+                                                        <h3 style="margin-top: 17%;">Strategy</h3>
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Years 1 to 3</p>
 
                                                         <ul align="left">
@@ -301,14 +324,14 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/business-plan-2.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <img src="img/photos/business-plan-2-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="padding:10px; width: 1000px;">
 
-                                                        <h3 style="margin-top: 17%;">10-Year Business Plan</h3>
+                                                        <h3 style="margin-top: 17%;">Strategy</h3>
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Years 4 to 6</p>
 
                                                         <ul align="left">
@@ -319,7 +342,7 @@
                                                                 As competitions evolve from amateur to professional teams, bots performance takes off;
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Increase in performance attracts subscribers, willing to hire champions;
+                                                                Increasing performance attracts subscribers, willing to hire champions;
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
                                                                 Technology is opened so that anyone can run unofficial tournaments (<i>i.e.</i>: schools, universities, investment funds, etc.)
@@ -334,14 +357,14 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/business-plan-3.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <img src="img/photos/business-plan-3-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="padding:10px; width: 1000px;">
 
-                                                        <h3 style="margin-top: 17%;">10-Year Business Plan</h3>
+                                                        <h3 style="margin-top: 17%;">Strategy</h3>
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Years 7 to 10</p>
 
                                                         <ul align="left">
@@ -349,14 +372,14 @@
                                                                 By the time we reach 1 Million developers, traders and analysts, we expand out of the crypto markets and into the broader electronic markets to compete in the big leagues.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Once big league players notice our presence it will already be too late, because:
+                                                                Once big-league players notice our presence it will be too late, because:
                                                             </li>
                                                             <ul>
                                                                 <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
                                                                     Our one-million-members community runs on a zero-cost basis, incentivized by prizes paid by sponsors and the fees collected from renting their bots;
                                                                 </li>
                                                                 <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                    Our technology infrastructure costs is covered by running bots;
+                                                                    Our technology infrastructure costs are covered by running bots;
                                                                 </li>
                                                                 <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
                                                                     We dominate the algorithmic trading competitions space.
@@ -371,14 +394,14 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/contacts2.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center">
+                                    <img src="img/photos/contacts-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="padding:10px; width: 1000px;">
 
-                                                        <h3 style="margin-top: 100px;">Questions?</h3>
+                                                        <h3 style="margin-top: 17%;">Questions?</h3>
                                                         <br />Questions?
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">
                                                             Andreja Cobeljic | +41 79 432 9881 <br /> Telegram: <a href="https://t.me/Riseoflemur111" rel="nofollow" target="_blank">@Riseoflemur111</a> | Email: <a href="mailto:andreja.cobeljic@advancedalgos.net">andreja.cobeljic@advancedalgos.net</a>
