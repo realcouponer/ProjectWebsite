@@ -60,16 +60,13 @@
                                                                 Launched in 2001.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Organized coding and design competitions growing a community of developers, designers and data scientists.
+                                                                Organizes coding and design competitions growing a community of developers, designers and data scientists.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Sold IT services to corporate clients decomposing projects into modules, distributing the pieces for the community to build&mdash;while competing with each other.
+                                                                Sells IT services to corporate clients decomposing projects into modules, distributing the pieces for the community to build&mdash;while competing with each other.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Projects ended up being cheaper than average market rates.
-                                                            </li>
-                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                By 2018 the community amassed 1.2 Million developers / designers / data scientists.
+                                                                They currently have over 1.2 million developers, designers and data scientists in their community.
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -95,13 +92,13 @@
                                                                 Launching in 2019.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Will organize a constellation of algorithmic trading competitions to grow a community of developers, traders and analysts.
+                                                                Organizes a constellation of algorithmic trading competitions to grow a community of developers, traders and analysts.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Will take a cut on subscriptions sold to asset holders renting community-built, competition-winning bots to trade on their behalf.
+                                                                The community trains bots and puts them to compete for hefty prizes.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Projecting to reach 1 million developers / traders / analysts by 2030.
+                                                                Projecting to reach 1 million developers, traders and analysts by 2030.
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -160,24 +157,27 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/teams-original.jpg" alt="">
+                                    <img src="img/photos/events-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="padding:10px; width: 1000px;">
 
-                                                        <h3 style="margin-top: 17%;">ALGO</h3>
-                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Utility Token</p>
+                                                        <h3 style="margin-top: 17%;">Business Model</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Platform as a Service (PaaS)</p>
                                                         <ul align="left">
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                <strong>Definition:</strong> The medium of exchange within the platform by which bots autonomously pay microfees for the services they consume and earn microfees for the services they offer.
+                                                                Advanced Algos runs an economic ecosystem in which different stakeholders collaborate to generate value, greater than the sum of its parts.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                <strong>Evolution:</strong> Trading bots modeled as <i>Financial Beings</i>, meaning that when they run out of ALGO tokens, they die.
+                                                                The ecosystem’s output is a collection of ever-evolving trading organisms whose collective intelligence grows exponentially.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                <strong>Technology:</strong> An ERC-20 Token on Ethereum.
+                                                                The platform serves an open Automated Trading Services Marketplace through which investors can hire World Champion bot’s to trade on their behalf.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                Trading happens entirely at third-party exchanges, the funds never leaving subscribers’ own accounts.
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -188,18 +188,18 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/algo-token.jpg" alt="">
+                                    <img src="img/photos/algo-token-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="padding:10px; width: 1000px;">
 
-                                                        <h3 style="margin-top: 17%;">ALGO</h3>
-                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Token Economics</p>
+                                                        <h3 style="margin-top: 17%;">ALGO Token</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Economics</p>
                                                         <ul align="left">
                                                             <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                1 Billion ALGO total supply.
+                                                                1 Billion ALGO total supply, 0.017 USD / ALGO.
                                                             </li>
                                                             <ul>
                                                                 <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
@@ -220,8 +220,63 @@
                                                                 <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
                                                                     40% Funding Reserve; potential ICO.
                                                                 </li>
-
                                                             </ul>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/teams-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">ALGO Token</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Utility</p>
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Payments:</strong> ALGO is the medium of payment within the platform by which bots autonomously pay microfees for the services they consume and earn microfees for the services they offer.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Energy:</strong> The ecosystem connects ALGO tokens to algorithms as a form of energy essential to their life sustainability, turning bots into beings with a financial life of their own.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Technology:</strong> An ERC-20 Token on Ethereum.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/financial-beings-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">Financial Beings</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Living Autonomous Agents</p>
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                Algorithms within the platform are autonomous agents, which &ndash;after being released in the open&mdash;become living stakeholders in the ecosystem.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                Financial life makes them behave in ways conducive to protecting their own interests: they strive to produce value in order to get ALGO payments for their services.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                Bots need ALGO to stay alive. Good performers strive through the income they generate, while inefficient bots run out of ALGO and die.
+                                                            </li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -246,10 +301,7 @@
                                                                 European Union-based, fully compliant operation.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Legal person in Malta: Advanced Algos Ltd.
-                                                            </li>
-                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Legal person in Hungary: Advanced Algos Hungary Kft.
+                                                                Legal persons: Advanced Algos Ltd. (Malta), Advanced Algos Hungary Kft. (Hungary).
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
                                                                 Roadmap to comply with the Malta Virtual Financial Assets Act, 2018.
