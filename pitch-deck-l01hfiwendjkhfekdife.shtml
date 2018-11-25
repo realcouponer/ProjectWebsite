@@ -66,7 +66,7 @@
                                                                 Sells IT services to corporate clients decomposing projects into modules, distributing the pieces for the community to build&mdash;while competing with each other.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                They currently have over 1.2 million developers, designers and data scientists in their community.
+                                                                They currently count with over 1.2 million developers, designers and data scientists in their community.
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -118,7 +118,7 @@
 
                                                         <h3 style="margin-top: 17%;">Evolution</h3>
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Value Proposition</p>
-                                                        <p style="color:white; font-size: x-large; line-height: 40px;">By open sourcing bot’s code after competitions end, the community forks the winners, improves them and puts the new generation to compete again, unleashing a relentless evolutionary process leading to the emergence of superalgos, capable of outperforming everyone at the markets.</p>
+                                                        <p style="color:white; font-size: x-large; line-height: 40px;">By open sourcing bot’s code after competitions end, the community forks the winners, improves them and brings the new generation back to compete again, unleashing a relentless evolutionary process leading to the emergence of superalgos capable of outperforming everyone at the markets.</p>
 
                                                     </div>
                                                 </div>
@@ -168,59 +168,17 @@
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Platform as a Service (PaaS)</p>
                                                         <ul align="left">
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Advanced Algos runs an economic ecosystem in which different stakeholders collaborate to generate value, greater than the sum of its parts.
+                                                                Advanced Algos runs an economic ecosystem in which different stakeholders collaborate to generate value.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
                                                                 The ecosystem’s output is a collection of ever-evolving trading organisms whose collective intelligence grows exponentially.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                The platform serves an open Automated Trading Services Marketplace through which investors can hire World Champion bot’s to trade on their behalf.
+                                                                The platform serves an open <i>Automated Trading Services Marketplace</i> through which investors can hire World Champion bots to trade on their behalf.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
                                                                 Trading happens entirely at third-party exchanges, the funds never leaving subscribers’ own accounts.
                                                             </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <img src="img/photos/algo-token-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
-                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
-                                            <div data-animation="fadeInUp" align="center">
-                                                <div>
-                                                    <div style="padding:10px; width: 1000px;">
-
-                                                        <h3 style="margin-top: 17%;">ALGO Token</h3>
-                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Economics</p>
-                                                        <ul align="left">
-                                                            <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                1 Billion ALGO total supply, 0.017 USD / ALGO.
-                                                            </li>
-                                                            <ul>
-                                                                <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
-                                                                    25% Competition Prizes
-                                                                </li>
-                                                                <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
-                                                                    15% Software Development
-                                                                </li>
-                                                                <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
-                                                                    10% Project Development
-                                                                </li>
-                                                                <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
-                                                                    5% Early Buyers (Friends & Family Round + Seed Rounds 1 to 4)
-                                                                </li>
-                                                                <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
-                                                                    5% Referrals & Incentives Programs
-                                                                </li>
-                                                                <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
-                                                                    40% Funding Reserve; potential ICO.
-                                                                </li>
-                                                            </ul>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -275,8 +233,50 @@
                                                                 Financial life makes them behave in ways conducive to protecting their own interests: they strive to produce value in order to get ALGO payments for their services.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Bots need ALGO to stay alive. Good performers strive through the income they generate, while inefficient bots run out of ALGO and die.
+                                                                Bots need ALGO to stay alive. Good performers thrive through the income they generate, while inefficient bots run out of ALGO and die.
                                                             </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/algo-token-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">ALGO Token</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Economics</p>
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                1 Billion ALGO total supply, 0.017 USD / ALGO.
+                                                            </li>
+                                                            <ul>
+                                                                <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
+                                                                    25% Competition Prizes
+                                                                </li>
+                                                                <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
+                                                                    15% Software Development
+                                                                </li>
+                                                                <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
+                                                                    10% Project Development
+                                                                </li>
+                                                                <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
+                                                                    5% Early Buyers (Friends & Family Round + Seed Rounds 1 to 4)
+                                                                </li>
+                                                                <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
+                                                                    5% Referrals & Incentives Programs
+                                                                </li>
+                                                                <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
+                                                                    40% Funding Reserve; potential ICO.
+                                                                </li>
+                                                            </ul>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -294,12 +294,10 @@
                                                     <div style="padding:10px; width: 1000px;">
 
                                                         <h3 style="margin-top: 17%;">Compliance</h3>
-                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Malta Digital Innovation Authority</p>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">European Union-based, fully compliant operation.</p>
 
                                                         <ul align="left">
-                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                European Union-based, fully compliant operation.
-                                                            </li>
+
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
                                                                 Legal persons: Advanced Algos Ltd. (Malta), Advanced Algos Hungary Kft. (Hungary).
                                                             </li>
@@ -333,7 +331,7 @@
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center; margin-top: 10%;">Minimum Viable Product</p>
 
                                                         <div class="polaroid">
-                                                            <iframe src="https://platform-dev.advancedalgos.net/" width="1300px;" height="700px"></iframe>
+                                                            <iframe src="https://platform.advancedalgos.net/" width="1300px;" height="700px"></iframe>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -391,10 +389,10 @@
                                                                 National, continental championships and world cups follow;
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                As competitions evolve from amateur to professional teams, bots performance takes off;
+                                                                As competitions evolve from amateur to professional teams, bots' performance takes off;
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                Increasing performance attracts subscribers, willing to hire champions;
+                                                                Increasing performance attracts subscribers, seeking to hire champions;
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
                                                                 Technology is opened so that anyone can run unofficial tournaments (<i>i.e.</i>: schools, universities, investment funds, etc.)
@@ -421,7 +419,7 @@
 
                                                         <ul align="left">
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
-                                                                By the time we reach 1 Million developers, traders and analysts, we expand out of the crypto markets and into the broader electronic markets to compete in the big leagues.
+                                                                By the time we reach one million developers, traders and analysts, we expand out of the crypto markets and into the broader electronic markets to compete in the big leagues.
                                                             </li>
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
                                                                 Once big-league players notice our presence it will be too late, because:
