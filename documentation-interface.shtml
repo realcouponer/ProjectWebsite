@@ -28,27 +28,30 @@
                         <h1 id="watchingalgobotsinaction">Interface</h1>
 
                         <p>
-                            Now that you have a working version of your <span class="tooltip-custom">t-bot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em>, <em>t-bot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-t-bots.shtml" target="_blank"><em>More about Algobots</em></a></span></span>
-                            and have set it to perform some backtesting, you can use the platform's web interface to visualize it's actions and debug the strategy over the charts. Being able to visually review your t-bot's trades is an essential part of the optimization process as it may help you fine-tune your t-bot's decision-making.
+                            Now that you have a working version of your 
+                            <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-trading bots.shtml" target="_blank"><em>More about Algobots</em></a></span></span>
+                            and have set it to perform some backtesting, you can use the platform charts to visualize its actions and debug the strategy. Being able to visually review your algobot's trades is an essential part of the optimization process as it may help you fine-tune your its decision-making.
                         </p>
 
-                        <p>Go on and check out the <a href="http://app.advancedalgos.net/" target="_blank">platform's web app</a>.</p>
+                        <p>Go on and check out the <a href="http://platform.advancedalgos.net/" target="_blank">platform</a>.</p>
 
                         <h2 id="aaweboverview">Overview</h2>
 
-                        <p>The web app is an HTML canvas featuring three overlaid <em>visual spaces</em> working simultaneously:</p>
+                        <p>The charts interface is an HTML canvas featuring three overlaid <em>visual spaces</em> working simultaneously:</p>
 
                         <ul>
                             <li>
                                 <p>
-                                    <strong>Charts timeline</strong>: It is a timeline in which <span class="tooltip-custom">indicators and sensors' products<span class="tooltiptext-custom" style="text-align: justify;">Indicators and sensors' mission is creating <em>products</em> that others can consume. To do this, they run <em>processes</em> which produce and store <em>datasets</em>.</br><a href="documentation-algorithms.shtml#howalgorithmswork" target="_blank"><em>More about Algorithm's Products</em></a></span></span>
-                                    along with trading bots actions are displayed in a graphical representation created by <span class="tooltip-custom">plotters<span class="tooltiptext-custom" style="text-align: justify;">Plotters are JavaScript programms that serve the purpose of featuring visual representations of datasets so that people can easily interpret the data in a graphical environment.</br><a href="documentation-algorithms.shtml#aboutplotters" target="_blank"><em>More about Plotters</em></a></span></span>.
+                                    <strong>Charts timeline</strong>: It is a timeline in which 
+                                    <span class="tooltip-custom">indicators and sensors' products<span class="tooltiptext-custom" style="text-align: justify;">Indicators and sensors' mission is creating <em>products</em> that others can consume. To do this, they run <em>processes</em> which produce and store <em>datasets</em>.</br><a href="documentation-algorithms.shtml#howalgorithmswork" target="_blank"><em>More about Algorithm's Products</em></a></span></span>
+                                    along with trading bots actions are displayed in a graphical representation created by 
+                                    <span class="tooltip-custom">plotters<span class="tooltiptext-custom" style="text-align: justify;">Plotters are JavaScript programms that serve the purpose of featuring visual representations of datasets so that people can easily interpret the data in a graphical environment.</br><a href="documentation-algorithms.shtml#aboutplotters" target="_blank"><em>More about Plotters</em></a></span></span>.
                                 </p>
                             </li>
                             </a>
-                            <li><p><strong>Floating notifications</strong>: It is a layer of information displayed on top of the timeline, typically containing t-bots' related information such as t-bots' runtime position and messages.</p></li>
+                            <li><p><strong>Floating notifications</strong>: It is a layer of information displayed on top of the timeline, typically containing algobots' related information such as bots' runtime position and messages.</p></li>
 
-                            <li><p><strong>Control &amp; information panels</strong>: There are two types of panels. One set of panels is built in the web app and show certain control elements to dictate what exactly is shown on the timeline (list of bot products, for instance). A second type of panels is created by plotters to display additional information for certain products.</p></li>
+                            <li><p><strong>Control &amp; information panels</strong>: There are two types of panels. One set of panels is built in the interface and show certain control elements to dictate what exactly is shown on the timeline (list of bot products, for instance). A second type of panels is created by plotters to display additional information for certain products.</p></li>
                         </ul>
 
                         <h3>Menu</h3>
@@ -56,11 +59,11 @@
                         <p>Use the menu on the top-right corner of the screen to navigate through different system modules:</p>
                         <ol>
 
-                            <li><p><em>Users:</em> Handles your personal profile.</p></li>
+                            <li><p><em>USERS:</em> Handles your personal profile.</p></li>
 
-                            <li><p><em>Teams:</em> Allows you to create and administer teams. It also allows you to find and join other teams.</p></li>
+                            <li><p><em>TEAMS:</em> Allows you to create and administer teams. It also allows you to find and join other teams.</p></li>
 
-                            <li><p><em>KeyVault:</em> Administers your exchanges' API keys.</p></li>
+                            <li><p><em>KEY VAULT:</em> Administers your exchanges' API keys.</p></li>
 
                         </ol>
 
@@ -92,9 +95,9 @@
 
                         <ol>
 
-                            <li><p>This is a <em>message</em> left by a t-bot, commenting on the nature of the operation being performed. The message is linked to a specific point in time.</p></li>
+                            <li><p>This is a <em>message</em> left by a trading bot, commenting on the nature of the operation being performed. The message is linked to a specific point in time.</p></li>
 
-                            <li><p>These are icons indicate the <em>last execution</em> of certain t-bots, namely RocketFeller, Dumper Wolf and Nimbus2000. Notice how each of these icons show a different <em>execution mode</em>, namely live, backtest and competition repectively.</p></li>
+                            <li><p>These are icons indicating the <em>last execution</em> of certain trading bots, namely <i>RocketFeller</i>, <i>Dumper Wolf</i> and <i>Nimbus2000</i>. Notice how each of these icons show a different <em>execution mode</em>, namely <i>live</i>, <i>backtest</i> and <i>competition</i> repectively.</p></li>
 
                         </ol>
 
@@ -134,7 +137,7 @@ if (global.AT_BREAKPOINT === true) {
                                 <p>Upon execution, a chart breakpoint pauses execution and takes the user to that specific line of code, provided that a breakpoint was placed at that line in the first place.</p>
                             </li>
 
-                            <li><p>This the <em>play</em> button. Use it to run your algobot.</p></li>
+                            <li><p>This is the <em>play</em> button. Use it to run your algobot.</p></li>
 
                             <li><p>This is the <em>running mode</em> control. Click it and you will cycle through the three available running options: backtest, live and competition. Select which mode you wish to run your algobot in and click play.</p></li>
 
@@ -208,9 +211,9 @@ if (global.AT_BREAKPOINT === true) {
 
                         <p>To scroll the panel simply place your mouse pointer on top of it and turn the scroll wheel.</p>
 
-                        <h2 id="tbotsinaction">T-Bots in Action</h2>
+                        <h2 id="tbotsinaction">Trading Bots in Action</h2>
 
-                        <p>Trading algobots produce three different datasets constituting three different products:</p>
+                        <p>Algobots produce three different datasets constituting three different products:</p>
 
 
                         <ul>
@@ -226,7 +229,7 @@ if (global.AT_BREAKPOINT === true) {
                 <div class="row">
                     <div class="col-sm-10">
 
-                        <p>When either of the trading products is <em>on</em> in the Products Panel, the <a href="https://github.com/AAMasters/Plotters-Trading" rel="nofollow" target="_blank">Plotters-Trading</a> associated with t-bots renders a number of visual clues in the timeline to indicate various t-bot actions. Notice the small triangles in the figure below:</p>
+                        <p>When either of the trading products is <em>on</em> in the Products Panel, the <a href="https://github.com/AAMasters/Plotters-Trading" rel="nofollow" target="_blank">Plotters-Trading</a> associated with trading bots renders a number of visual clues in the timeline to indicate various bot actions. Notice the small triangles in the figure below:</p>
                     </div>
                 </div>
 
