@@ -27,14 +27,14 @@
                 <div class="col-sm-12">
                     <h1 id="quickstartguide">Quick Start Guide</h1>
 
-                    <p>Welcome to the Advanced Algos Competition Arena! This guide will take you on the express lane to registering and getting your <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em>, <em>t-bot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-t-bots.shtml" target="_blank"><em>More about Algobots</em></a></span></span> up and running. Once you are fully set up, use the menu on the left to access the rest of the documentation which should help you make the most out of your algobot and the platform.</p>
+                    <p>Welcome to the Advanced Algos Competition Arena! This guide will take you on the express lane to registering and getting your <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-t-bots.shtml" target="_blank"><em>More about Algobots</em></a></span></span> up and running. Once you are fully set up, use the menu on the left to access the rest of the documentation which should help you make the most out of your algobot and the platform.</p>
 
                     <h2 id="requirements">Registration</h2>
 
                     <ol>
                         <li><p>Make sure you are using Chrome (Version 67.0.3396.87 or later); it is the only tested browser at this point in time.</p></li>
                         <li><p>Go to the <a href="http://platform.advancedalgos.net/" target="_blank">platform</a>, click <em>SIGN UP</em> on the menu, in the top-right corner of the screen, and register.</p></li>
-                        <li><p>Once logged in, go to <em>TEAMS > Your Teams</em>. A form will load offering you to create your own team. Enter a name for your team and another name for your bot and click the Create Team button.</p></li>
+                        <li><p>Once logged in, go to <em>TEAMS > Your Teams</em>. A form will load offering you to create your own team. Enter a name for your team and another name for your bot and click the <i>CREATE TEAM</i> button.</p></li>
                         <li><p>You are almost done... Now take a few minutes to upload an avatar for your bot and a banner for your team so that you can easily recognize them in the charts and directories. This is what you need to do:</p></li>
                         <ul>
                             <li><p>When in <em>TEAMS > Your Teams</em>, click <i>MANAGE PROFILE</i>.</p></li>
