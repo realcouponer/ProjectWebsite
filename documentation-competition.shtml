@@ -31,12 +31,17 @@
                         <p>Competition related events are&ndash;too&mdash;rendered over the timeline. A thin red vertical line (<span class="red_text">1</span>) marks the start of the competition and a checkered vertical banner (<span class="red_text">2</span>) marks the end of the competition.</p>
 
                         <div class="polaroid">
-                            <img src="img/doc/Interface-05-competition.png" alt="Algobots Competition Platform">
+                            <a href="#">
+                                <img src="img/doc/Interface-05-competition.png"
+                                     onmouseover="this.src='img/doc/Interface-05-dim-competition.png'"
+                                     onmouseout="this.src='img/doc/Interface-05-competition.png'"
+                                     border="0" alt="" />
+                            </a>
                         </div>
 
-                        <p>T-Bots keep showing their trades on the charts, as usual. In addition, a new area of the timeline gains relevance: the intersection of the red vertical line with the 0% horizontal mark of the ROI scale in the left margin (<span class="red_text">3</span>). This is exactly where the competition starts.</p>
+                        <p>Trading bots keep showing their trades on the charts, as usual. In addition, a new area of the timeline gains relevance: the intersection of the red vertical line with the 0% horizontal mark of the ROI scale in the left margin (<span class="red_text">3</span>). This is exactly where the competition starts.</p>
 
-                        <p>Trading algobots start out the competition at the 0% mark and their ROI is tracked with every single execution (every one minute) and rendered in the timeline accordingly (<span class="red_text">4</span>).</p>
+                        <p>Algobots start out the competition at the 0% mark and their ROI is tracked with every single execution (every one minute) and rendered in the timeline accordingly (<span class="red_text">4</span>).</p>
 
                         <p>In other words, the competition can be followed in real time simply by watching the timeline, as shown in the folloowing close-up screen:</p>
 
