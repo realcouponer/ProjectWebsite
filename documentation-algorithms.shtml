@@ -25,7 +25,7 @@
             <div class="container">
 
                 <div class="col-sm-12">
-                    <h1 id="aboutalgobots">About Algorithms</h1>
+                    <h1 id="aboutbots">About Algorithms</h1>
 
                     <p>Algorithms or simply <em>bots</em> are open source software programmed in JavaScript and running as autonomous agents. AA Cloud calls algorithms and puts them to run in specific time intervals. They consume services from the platform and data from other bots, especially from indicators, and at the same time, produce an output that is stored in the cloud (to be consumed by other bots).</p>
 
@@ -33,28 +33,28 @@
 
                     <p>The AAPlatform handles three different types of bots, differentiating them by their incumbencies:</p>
 
-                    <h4 id="extractors">Extractors (AKA e-bots)</h4>
+                    <h4 id="sensors">Sensors</h4>
 
                     <p>They extract raw trades and order books data from exchanges and store it in a standardized format for other bots to consume.</p>
 
-                    <h4 id="indicators">Indicators (AKA i-bots)</h4>
+                    <h4 id="indicators">Indicators</h4>
 
                     <p>They process raw trades data and other indicators to output elaborate data structures, mainly technical indicators, for trading bots to consume.</p>
 
-                    <p>You will most likely need to program i-bots in order to perform Technical Analysis studies or functions. While it is true that you can process data and do all sorts of calculations from within your trading bot's code, this is not recommended. Advanced Algos Ltd. encourages developers to respect incumbencies assigned to each type of algobot, for several reasons:</p>
+                    <p>You will most likely need to program indicators in order to perform Technical Analysis studies or functions. While it is true that you can process data and do all sorts of calculations from within your trading bot's code, this is not recommended. Advanced Algos encourages developers to respect incumbencies assigned to each type of bot, for several reasons:</p>
 
                     <ol>
                         <li><p>The AA Platform's architecture is designed so that bots can consume data from other bots, in order for the network to reuse resources. By respecting the incumbencies of each type of bot you contribute to growing the platform along with the embedded ecosystem in a sustainable manner.</p></li>
 
-                        <li><p>The ecosystem will eventually be set up as a marketplace of extractors, indicators and trading bots. If you program and release an i-bot, you will eventually be able to monetize your efforts, as bots consuming the data your i-bot generates will pay you a fee (in the future).</p></li>
+                        <li><p>The ecosystem will eventually be set up as a marketplace of sensors, indicators and trading bots. If you program and release an indicator, you will eventually be able to monetize your efforts, as bots consuming the data your indicator generates will pay you a fee (in the future).</p></li>
 
-                        <li><p>If instead of creating an indicator, you do the technical analysis from within your trading algobot, anyone can come at a later time, extract from your trading bot the code that performs the technical analysis, and create their own indicator with it. This means you may permanently lose the chance to monetize the indicator functions and effectively allow someone else to do it instead.</p></li>
+                        <li><p>If instead of creating an indicator, you do the technical analysis from within your trading bot, anyone can come at a later time, extract from your trading bot the code that performs the technical analysis, and create their own indicator with it. This means you may permanently lose the chance to monetize the indicator functions and effectively allow someone else to do it instead.</p></li>
 
                     </ol>
 
                     <p>Performing indicator-type calculations within your trading bot is only justified when there is a significant time constraint, such as an upcoming competition!</p>
 
-                    <h4 id="algobots">Algobots (AKA t-bots or trading bots)</h4>
+                    <h4 id="bots">Algobots (AKA trading bots)</h4>
 
                     <p>They automate trading strategies and place orders through the platform, which connects to exchanges via exchanges APIs to trade cryptocurrency. Their source code becomes open source as soon as they enter their first competition.</p>
 
@@ -64,7 +64,7 @@
 
                     <p>Eeach bot may have several processes, and processes don't necessarily have a one-to-one relationship with products. That is, a product can be the result of the work of one or more processes.</p>
 
-                    <p>Bot processes run when called by AA Cloud and stop when they finish the task at hand, to wake up again only when AA Cloud calls the process the next time (in configurable intervals). The datasets processes create are the actual <em>output</em> of bots which are stored in Azure cloud storage containers. But processes also produce and store a second valuable piece of information: <em>status reports</em>.</p>
+                    <p>Bot processes run when called by AA Cloud and stop when they finish the task at hand, to wake up again only when AA Cloud calls the process the next time (in configurable intervals). The datasets processes create are the actual <em>output</em> of bots which are stored in cloud storage containers. But processes also produce and store a second valuable piece of information: <em>status reports</em>.</p>
 
                     <p>Status reports serve as temporal annotations that bots read every time they are called by AA Cloud so as to know what was done in the previous run and what the state of affairs is at the present time. Status reports are dynamic, and they change constantly, with updates after every single run of the associated process.</p>
 
@@ -88,7 +88,7 @@
 
                     <p>Let's put all this in perspective by analyzing the processes, products and dependencies of a few existing bots.</p>
 
-                    <p><a href="https://github.com/AAMasters/AACharly-Extraction-Bot" rel="nofollow" target="_blank">Charly</a> is an extractor. As his <a href="https://github.com/AAMasters/AACharly-Extraction-Bot/blob/master/README.md" rel="nofollow" target="_blank">README file</a> explains, he "gets trades data for all markets &ndash;both historic and live&mdash;assuring consistency using recursive processes, and store it in a highly fragmented and usable dataset.</p>
+                    <p><a href="https://github.com/AAMasters/AACharly-Extraction-Bot" rel="nofollow" target="_blank">Charly</a> is an sensor. As his <a href="https://github.com/AAMasters/AACharly-Extraction-Bot/blob/master/README.md" rel="nofollow" target="_blank">README file</a> explains, he "gets trades data for all markets &ndash;both historic and live&mdash;assuring consistency using recursive processes, and store it in a highly fragmented and usable dataset.</p>
 
                     <p>Also explained in Charly's README file, Charly offers one product which is defined by the dataset scope and various characteristics. Please, go on and review <a href="https://github.com/AAMasters/AACharly-Extraction-Bot/blob/master/README.md" rel="nofollow" target="_blank">Charly's README file</a>  and become familiarized with the concepts detailed in there.</p>
 
@@ -98,11 +98,11 @@
 
                     <p>Now scroll down the README file and see what Bruce's dependencies are. That's right. Bruce depends on Charly's product. Bruce's processes take the trades data that Charly extracted from the exchange, performs calculations to build 1 minute candles and stores his own dataset with more elaborate data. In other words, Bruce is adding value to Charly's product and offering a new value-added product of his own.</p>
 
-                    <p>But the value-adding chain does not stop there. Let's take a look at another i-bot, <a href="https://github.com/AAMasters/AAOlivia-Indicator-Bot" rel="nofollow" target="_blank">Olivia</a>. According to her <a href="https://github.com/AAMasters/AAOlivia-Indicator-Bot/blob/master/README.md" rel="nofollow" target="_blank">README file</a> Olivia offers four different products: candles at sub-hour resolutions, candles in resolutions above one hour, volumes in sub-hour resolutions and volumes in resolutions above one hour. And guess what? Indeed, Olivia uses Bruce's one minute candles and one minute volumes to produce complementary candles and volumes at different resolutions.</p>
+                    <p>But the value-adding chain does not stop there. Let's take a look at another indicator, <a href="https://github.com/AAMasters/AAOlivia-Indicator-Bot" rel="nofollow" target="_blank">Olivia</a>. According to her <a href="https://github.com/AAMasters/AAOlivia-Indicator-Bot/blob/master/README.md" rel="nofollow" target="_blank">README file</a> Olivia offers four different products: candles at sub-hour resolutions, candles in resolutions above one hour, volumes in sub-hour resolutions and volumes in resolutions above one hour. And guess what? Indeed, Olivia uses Bruce's one minute candles and one minute volumes to produce complementary candles and volumes at different resolutions.</p>
 
                     <p>And so it goes. The last link in the chain usually comes in the form of algobots using data from indicators, as that is the ultimate purpose of the whole ecosystem: to provide trading bots with quality preprocessed data they can use to make the best possible trading decisions.</p>
 
-                    <p>Let's take a look at <a href="https://github.com/AAVikings/AAArtudito-Trading-Bot" rel="nofollow" target="_blank">Artudito</a>, for instance. Artudito &ndash;a t-bot&mdash;uses candles and volumes from Olivia and linear regression curves (LRC) from <a href="https://github.com/AAVikings/AAGauss-Indicator-Bot" rel="nofollow" target="_blank">Gauss</a> to make trading decisions. Of course, the main goal of a t-bot like Artudito is to perform profitable trading. However, notice that trading algobots too have outputs, and thus offer products that are consumable by others. Trading bots output three different products: live trading history, backtest trading history and competition trading history. Those datasets are available for others to consume. For instance, the <a href="https://develop.advancedalgos.net">development environment</a> uses those datasets to show t-bots activities on a visual setting resembling typical candlestick charts so that anyone can dive in and analyze what algobots are doing.</p>
+                    <p>Let's take a look at <a href="https://github.com/AAVikings/AAArtudito-Trading-Bot" rel="nofollow" target="_blank">Artudito</a>, for instance. Artudito &ndash;an algobot&mdash;uses candles and volumes from Olivia and linear regression curves (LRC) from <a href="https://github.com/AAVikings/AAGauss-Indicator-Bot" rel="nofollow" target="_blank">Gauss</a> to make trading decisions. Of course, the main goal of an algobot like Artudito is to perform profitable trading. However, notice that trading bots too have outputs, and thus offer products that are consumable by others. Trading bots output three different products: live trading history, backtest trading history and competition trading history. Those datasets are available for others to consume. For instance, the <a href="https://develop.advancedalgos.net">development environment</a> uses those datasets to show algobots activities on a visual setting resembling typical candlestick charts so that anyone can dive in and analyze what bots are doing.</p>
 
                     <h2 id="aboutplotters">About Plotters</h2>
 

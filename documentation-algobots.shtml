@@ -1,8 +1,8 @@
 ﻿<!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Trading Algobots Explained</title>
-    <meta name="description" content="Documentation: An introduction to T-Bots, the autonomous agents trading at the Algobots Competition Platform by Advanced Algos">
+    <title>Algobots Explained</title>
+    <meta name="description" content="Documentation: An introduction to algobots, the autonomous agents trading at the Algobots Competition Platform by Advanced Algos">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -25,7 +25,7 @@
             <div class="container">
 
                 <div class="col-sm-12">
-                    <h1 id="tradingalgobots">Algobots (AKA t-bots or trading bots)</h1>
+                    <h1 id="tradingalgobots">Algobots (AKA trading bots)</h1>
 
                     <p>At this early stage, the AA Platform and the algobot templates solve several of the main issues around algorithmic trading:</p>
 
@@ -37,14 +37,14 @@
                         <li><p>Connection with exchanges, placement and handling of orders.</p></li>
                     </ul>
 
-                    <p>This leaves Teams free to focus in the creative side of things: coming up with and implementing a trading strategies.</p>
+                    <p>This leaves Teams free to focus in the creative side of things: coming up with and implementing trading strategies.</p>
 
                     <p>There are four AA Cloud modules particularly significant to algobots:</p>
 
                     <ul>
-                        <li><p><em>Data dependencies</em> &amp; <em>Status dependencies</em>: Your algobot's config file contains two declarations of dependencies: data and status dependencies. Dependencies exist because t-bots use other bots' datasets, or require certain data to be on a certain state. The dependencies modules load declared dependencies and pass them on to the bot through the Assistant module.</p></li>
+                        <li><p><em>Data dependencies</em> &amp; <em>Status dependencies</em>: Your algobot's config file contains two declarations of dependencies: data and status dependencies. Dependencies exist because algobots use other bots' datasets, or require certain data to be on a certain state. The dependencies modules load declared dependencies and pass them on to the bot through the Assistant module.</p></li>
 
-                        <li><p><em>Context</em>: In terms of context, trading algobots require the latest status report, the history of what was done on previous runs and the execution context tracking balances, trades, positions and so on. Context is saved in files as outputs of algobots. The context module reads the last status report, gets the date of the last execution, fetches the corresponding context file and serves it to the Assistant module.</p></li>
+                        <li><p><em>Context</em>: In terms of context, algobots require the latest status report, the history of what was done on previous runs and the execution context tracking balances, trades, positions and so on. Context is saved in files as outputs of algobots. The context module reads the last status report, gets the date of the last execution, fetches the corresponding context file and serves it to the Assistant module.</p></li>
 
                         <li><p><em>Assistant</em>: The Assistant module processes information available from other modules and serves a digest version to the trading bot. The Assistant module also acts as an interface with the exchange, as it offers methods for placing, closing and moving orders.</p></li>
                     </ul>
@@ -67,7 +67,7 @@
                         <li><p>Schedule next execution</p></li>
                     </ul>
 
-                    <p>Let's take a closer look at how all this is done in the case of trading algobots...</p>
+                    <p>Let's take a closer look at how all this is done in the case of algobots...</p>
 
                     <h3 id="setupinitializeobjects">Set Up &amp; Initialize Objects</h3>
 
@@ -151,22 +151,22 @@ const DATA_DEPENDENCIES = require(ROOT_DIR + 'Data Dependencies');
 
                     <h3 id="executealgobotsprocesses">Execute Algobots Processes</h3>
 
-                    <p>Once the object structure is constructed function <em>initializeUserBot()</em> passes the Assistant object to the <em>UserBot.js</em> module in the t-bot and function <em>startUserBot()</em> executes it. <strong>This makes the Assistant object the one and only direct interface of AA Cloud with t-bots.</strong></p>
+                    <p>Once the object structure is constructed function <em>initializeUserBot()</em> passes the Assistant object to the <em>UserBot.js</em> module in the algobot and function <em>startUserBot()</em> executes it. <strong>This makes the Assistant object the one and only direct interface of AA Cloud with algobots.</strong></p>
 
                     <h3 id="savecontextschedulenextexecution">Save Context &amp; Schedule Next Execution</h3>
 
-                    <p>Once the t-bot finishes its execution, function <em>saveContext()</em> saves the context and function <em>loopControl(nextWaitTime)</em> sets the wait time for the next execution according to configuration values.</p>
+                    <p>Once the algobot finishes its execution, function <em>saveContext()</em> saves the context and function <em>loopControl(nextWaitTime)</em> sets the wait time for the next execution according to configuration values.</p>
 
-                    <h2 id="howtbotsusetheassistantobject">How T-Bots Use the Assistant Object</h2>
+                    <h2 id="howtbotsusetheassistantobject">How Algobots Use the Assistant Object</h2>
 
                     <p>The overall strategy when working with algobots can be summarized in the following bullet points:</p>
 
                     <ul>
                         <li><p>Bots are executed every one minute.</p></li>
 
-                        <li><p>Each time the bot runs, it first needs to understand the context of the current execution. T-Bots get the context info from the Assitant object. The Assistant keeps track of orders placed at the exchange, keeps track of balances, profit and every other variable related to the operations that the t-bot may have performed in previous runs. All of that information is available for the t-bot to consume every time it is executed. Bear in mind that each time the t-bot places or moves an order, it doesn't wait for any sort of confirmation of the result of the opreation. That means that when it runs the next time it needs to syncronize with the current state of affairs in the exchange, as the order may have filled or not, may have filled partially or may have failed for some unexpected reason.</p></li>
+                        <li><p>Each time the bot runs, it first needs to understand the context of the current execution. T-Bots get the context info from the Assitant object. The Assistant keeps track of orders placed at the exchange, keeps track of balances, profit and every other variable related to the operations that the algobot may have performed in previous runs. All of that information is available for the algobot to consume every time it is executed. Bear in mind that each time the algobot places or moves an order, it doesn't wait for any sort of confirmation of the result of the opreation. That means that when it runs the next time it needs to syncronize with the current state of affairs in the exchange, as the order may have filled or not, may have filled partially or may have failed for some unexpected reason.</p></li>
 
-                        <li><p>After evaluating the context and syncronizing with the exchange, the t-bot embarks in the calculations required by its trading strategy. At this point in time, there are very few indicators offering processed information. As <a href="documentation-algorithms.shtml#indicators">explained earlier</a>, we encourage you to respect the proposed incumbencies architectecture and put the Technical Analysis logic in <strong>indicators</strong>. Almost all Technical Analysis indicators are calculated from trades and volume data. Their formulas are in the pubic domain and even code is readily available if you search around. You are free to use open source code within your bot's code.</p></li>
+                        <li><p>After evaluating the context and syncronizing with the exchange, the algobot embarks in the calculations required by its trading strategy. At this point in time, there are very few indicators offering processed information. As <a href="documentation-algorithms.shtml#indicators">explained earlier</a>, we encourage you to respect the proposed incumbencies architectecture and put the Technical Analysis logic in <strong>indicators</strong>. Almost all Technical Analysis indicators are calculated from trades and volume data. Their formulas are in the pubic domain and even code is readily available if you search around. You are free to use open source code within your bot's code.</p></li>
 
                         <li><p>Once calculations are performed, the bot decides what to do, and uses the Assitant to place orders on the exchange.</p></li>
                     </ul>
