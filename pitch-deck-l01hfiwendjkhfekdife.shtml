@@ -157,6 +157,36 @@
                                 </li>
 
                                 <li>
+                                    <img src="img/photos/supermind-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">Supermind</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">
+                                                            A collective intelligence.
+                                                        </p>
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                Science has established that &ndash;like intelligence in individuals&mdash;collective intelligence in groups exists and can be measured.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                It has also been established that certain factors are correlated with collective intelligence, offering a clear path to cultivate it.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                As a project, we intend do everything possible to maximize the collective intelligence of the group so as to minimize the time required for the first superalgo to emerge.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
                                     <img src="img/photos/events-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center pixel-overlay-pixel7inter">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
