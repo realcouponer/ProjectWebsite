@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Bitcoin Argentina Competition Rules &amp; Guidelines</title>
-    <meta name="description" content="Bitcoin Argentina FB Group algorithmic-trading competition celebrating the forty thousand members mark.">
+    <title>Competition Rules &amp; Guidelines</title>
+    <meta name="description" content="Algorithmic Trading Competitions on the Advanced Algos Platform">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -26,15 +26,13 @@
                         <div class="flexslider slider_height_max">
                             <ul class="slides text-center">
                                 <li>
-                                    <img src="img/photos/bitcoin-argentina.jpg" alt="">
+                                    <img src="img/photos/events.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:80%;">
-                                                        <h4 style="color:white;">
-                                                            <br />Bitcoin Argentina FB Group 1st Algorithmic-trading Competition!
-                                                        </h4>
+                                                        <h3 style="margin-top: 17%;">Algorithmic Trading Contest</h3>
                                                     </div>
                                                 </div>
                                             </div>
@@ -53,8 +51,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Bitcoin Argentina FB Group Competition</h1>
-                        <h5 class="sc_title sc_title_underline">Celebrating the 40 thousand members mark!</h5>
+                        <h1 class="sc_title">Official Competitions</h1>
+                        <h5 class="sc_title sc_title_underline">Rules &amp; Guidelines</h5>
                     </div>
                 </div>
                 <div class="row">
@@ -62,37 +60,53 @@
                         <div style="width: 95%; margin: 0 auto;">
                             <h2>How it Works</h2>
                             <ul>
-                                <li><p>We provide you with a functioning algobot for you to start with. </p></li>
-                                <li><p>You will get to know it and try to improve it during three weeks,  testing and refining it while watching it perform against other algobots in the sandbox. </p></li>
+                                <li><p>We provide you with a functioning <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" target="_blank"><em>More about Algobots</em></a></span></span> for you to start with. </p></li>
+                                <li><p>You will get to know it and try to improve it during a few weeks,  testing and refining it while watching it perform against other algobots in the charts. </p></li>
                                 <li><p>24 hours before the comp starts, you will submit your algobot so that we set it up to run in the cloud for the official competition. </p></li>
-                                <li><p>During the comp, you will cheer and brag about how cool your algobot is, while hoping it beats the rest to win juicy prize money!</p></li>
+                                <li><p>During the comp, you will cheer and brag about how cool your algobot is, while hoping it beats the rest to win the prize money!</p></li>
                             </ul>
                             <h2 id="preliminarydatestobeconfirmedsoon">Preliminary Dates</h2>
 
-                            <p>The competition starts on Monday November 26th 2018 at 00:00:00.000 GMT and ends on Sunday December 2nd at 23:59:59.999 GMT. <strong>Dates to be confirmed soon.</strong></p>
+                            <p>The training comp starts on Monday December 17th 2018 at 00:00:00.000 GMT and ends on Sunday December 23rd at 23:59:59.999 GMT.</p>
+
+                            <p>The first three official competition events will take place on the following dates:</p>
+                            <ul>
+                                <li>
+                                    <p><strong>January 2019 Event:</strong> The competition starts on Monday January 21st 2019 at 00:00:00.000 GMT and ends on Sunday January 27th at 23:59:59.999 GMT. </p>
+                                </li>
+                                <li>
+                                    <p><strong>February 2019 Event:</strong> The competition starts on Monday February 18th 2019 at 00:00:00.000 GMT and ends on Sunday February 24th at 23:59:59.999 GMT. </p>
+                                </li>
+                                <li>
+                                    <p><strong>March 2019 Event:</strong> The competition starts on Monday March 25th 2019 at 00:00:00.000 GMT and ends on Sunday March 31st at 23:59:59.999 GMT. </p>
+                                </li>
+                            </ul>
+
+                            <p>All dates are subject to change. In case of changes, notice will be given through the official Telegram <a href="https://t.me/advancedalgos" rel="nofollow" target="_blank">Advanced Algos Announcements Channel</a>.</p>
 
                             <h2 id="algobotteamregistration">Registration</h2>
 
-                            <p>Follow the <a href="documentation-quick-start.shtml" target="_blank">Quick Start Guide</a> to register and get started with your first bot.</p>
+                            <p>Registration is 100% free of charge. Follow the <a href="documentation-quick-start.shtml" target="_blank">Quick Start Guide</a> to register and get started with your first bot.</p>
 
                             <p>This is actually a good time to do just that, so go ahead and register! But still, make sure you go through the rest of the guidelines later, so that you are familiar with the details and rules.</p>
 
-                            <p><strong>For support and to interact live with the rest of participants, join <a href="https://t.me/aaespanol" rel="nofollow" target="_blank">AA en Espa&ntilde;ol</a> (the Advanced Algos Telegram Group for Spanish-speakers). Feel free to introduce yourself and let the rest know the name of your bot.</strong></p>
+                            <p><strong>For support and to interact live with the rest of participants, join the <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Advanced Algos Community Group</a> in Telegram. Feel free to introduce yourself and let the rest know the name of your bot.</strong></p>
 
 
                             <h2 id="poloniexaccount">Poloniex Account</h2>
 
-                            <p>Make sure you have an account with <a href="https://poloniex.com/" rel="nofollow" target="_blank">Poloniex</a>. If you don't, go ahead and open one ASAP, as there may be a waiting period. You will need to verify your account in order to be able to trade freely; in the meantime, you can run your algobot in backtest mode.</p>
+                            <p>Make sure you have an account with <a href="https://poloniex.com/" rel="nofollow" target="_blank">Poloniex</a>. If you don't, go ahead and open one ASAP, as there may be a waiting period. You will need to verify your account in order to be able to trade freely; in the meantime, you can run your algobot in backtest mode. </p>
+                            <p>You will also need to create an API key to authorize the Advanced Algos Platform to access your account. Follow the <a href="documentation-poloniex-api-key.shtml" target="_blank">instructions</a> if you don't know how to set up your key.</p>
 
                             <h2 id="aboutalgobots">About Algobots</h2>
 
-                            <p>You are allowed to compete with one algobot. In order to guarantee transparency, registered algobots are not allowed to connect to the exchange directly; algobots should connect to the exchange only through the AACloud <em>Assistant</em> (check the documentation to learn more about <a href="documentation-t-bots.shtml">how trading algobots work</a>). AACloud tracks algbots activity and makes the information available for everyone to audit.</p>
+                            <p>You are allowed to compete with one algobot. In order to guarantee transparency, registered algobots are not allowed to connect to the exchange directly; algobots should connect to the exchange only through the AACloud <em>Assistant</em> (check the documentation to learn more about <a href="documentation-algobots.shtml" target="_blank">how trading bots work</a>). AACloud tracks algbots activity and makes the information available for everyone to audit.</p>
 
                             <p><strong>Once an algobot is released in the competition it cannot be modified.</strong></p>
 
                             <h3 id="algbotslicense">Algbots License</h3>
 
-                            <p>Existing algobots offered as templates or starting points for other teams to fork are released under the GNU Affero General Public License (AGPL) to guarantee:</p>
+                            <p>Existing algobots offered as templates or starting points for other teams to fork are released under a Restricted Open Source License to guarantee:</p>
 
                             <ul>
                                 <li><p>the freedom to use the software for any purpose,</p></li>
@@ -101,12 +115,13 @@
 
                                 <li><p>the freedom to share the software with your friends and neighbors, and</p></li>
 
-                                <li><p>the freedom to share the changes you make.</p></li>
+                                <li><p>the freedom to share the changes you make,</p></li>
+
+                                <li><p><strong>always within the Advanced Algos Platform</strong>.</p></li>
+
                             </ul>
-                            <p><em>(Extract from <a href="https://www.gnu.org/licenses/quick-guide-gplv3.html" rel="nofollow" target="_blank">The Foundations of the GPL</a>)</em></p>
 
-
-                            <p>It is a policy of Advanced Algos Ltd. to require all algobots running on the AAPlatform to be released under the same license. The AAPlatform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml">Terms of Service</a>, which you need to agree to in order to participate in our competitions.</p>
+                            <p>It is a policy of Advanced Algos to require all algorithms running on the platform to be released under the same license, so as to insure the free flow of knowledge that fosters the rapid-evolution of trading intelligence within the ecosystem. The Advanced Algos Platform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml" target="_blank">Terms of Service</a>, which you need to agree to in order to participate in our competitions.</p>
 
                             <h2 id="markets">Markets</h2>
 
@@ -120,10 +135,10 @@
 
                             <p>Each Team trades with their own funds within their own accounts at the exchange. Teams are fully responsible for the trading they do.</p>
 
-                            <p>Each algobot is allowed to trade up to 0.001 BTC Initial Capital (roughly equivalent to USD 6-10). This is in order to minimize risk at this first few pre-alpha competitions.</p>
+                            <p>Each algobot is allowed to trade up to 0.001 BTC Initial Capital (roughly equivalent to USD 3 to 6). This is in order to minimize risk at this first few pre-alpha competitions.</p>
 
                             <blockquote>
-                                <p>In order to avoid unnecessary risk, we highly recommend withdrawing excess funds from the exchange or creating a new account altogether. </p>
+                                <p>In order to avoid unnecessary risk, we highly recommend withdrawing excess funds from the exchange or creating a new account to use exclusiveley through the platform altogether. </p>
                             </blockquote>
 
                             <h3 id="partialprofitstrading">Partial Profits Trading</h3>
@@ -172,7 +187,7 @@
                             <h3 id="definitions">Definitions</h3>
 
                             <ul>
-                                <li><p><strong>Cost of Investment</strong> = Initial BTC Balance = 0.001 BTC. For the purpose of this competition, this is a constant, meaning that if you use less than 0.001 BTC to do your trading, we will still use 0.001 BTC as the value for this constant.</p></li>
+                                <li><p><strong>Cost of Investment</strong> = Initial BTC Balance = 0.001 BTC. For the purpose of these competitions, this is a constant, meaning that if you use less than 0.001 BTC to do your trading, we will still use 0.001 BTC as the value for this constant.</p></li>
                             </ul>
 
                             <blockquote>
@@ -243,8 +258,8 @@
 
                             <h2 id="prizes">Prizes</h2>
 
-                            <p>The competition distributes 200,000 ALGO (worth USD 6,000) as prize money for the top 5 performers and 1,000 ALGO to each participant not making the top 5.</p>
-                            <p><strong>In addition, USD 5,000 (five thousand dollars) go to the absolut winner (1st), sponsored by Advanced Algos Ltd. (payable in BTC at the rate of the competition's closing time).</strong></p>
+                            <p>The competition distributes 200,000 ALGO as prize money for the top 5 performers and 1,000 ALGO to each participant not making the top 5.</p>
+                            <p><strong>In addition, USD 5,000 (five thousand dollars) go to the absolut winner (1st), sponsored by Advanced Algos Ltd. This sponsored prize is payable in BTC at the rate of the competition's closing time, and shall be awareded only if the winner has a positive ROI. In case no bot ends up with a positive ROI (<i>i.e.: ROI > 0</i>), the sponsored prize shall be declared null and void.</strong></p>
 
                             <p>The prize money is awarded as follows:</p>
 
@@ -342,15 +357,33 @@
 
                             <h2 id="NoRestrictions">No Restrictions</h2>
 
-                            <p>Because Advanced Algos has an open arms policy encouraging developers to join the company's development team and because the Advanced Algos Community is open for all people, we deliberately allow and urge everyone &ndash;including team and community members&mdash;to participate in all competitions. </p>
+                            <p>Because Advanced Algos has an open arms policy encouraging developers to join the project's development team and because the Advanced Algos Community is open for all people, we deliberately allow and urge everyone &ndash;including team and community members&mdash;to participate in all competitions. </p>
 
+                            <h2 id="Disclaimer">Pre-Alpha Disclaimer</h2>
+
+                            <p>Bear in mind the platform is in a pre-alpha stage. As developers, you should expect eventual errors that may cause inconveniences. Participating in pre-alpha competitions is a way to support the Advanced Algos project... we very much appreciate your help!</p>
+
+                            <h2 id="Bugs">Reporting Bugs</h2>
+
+                            <p>Please report bugs by opening <em>issues</em> at the corresponding repository in the <a href="https://github.com/AdvancedAlgos" rel="nofollow" target="_blank">Advanced Algos</a> organization in Github:</p>
+
+                            <ul>
+                                <li>
+                                    <p><a href="https://github.com/AdvancedAlgos/MasterApp" rel="nofollow" target="_blank">MasterApp</a>: issues related to registration, login, etc.</p>
+                                </li>
+                                <li>
+                                    <p><a href="https://github.com/AdvancedAlgos/UsersModule" rel="nofollow" target="_blank">UsersModule</a>: issues related to managing your own profile, searching or finding other users, etc.</p>
+                                </li>
+                                <li>
+                                    <p><a href="https://github.com/AdvancedAlgos/TeamsModule" rel="nofollow" target="_blank">TeamsModule</a>: issues related to creating, managing or finding teams, etc.</p>
+                                </li>
+                                <li>
+                                    <p><a href="https://github.com/AdvancedAlgos/KeyVaultModule" rel="nofollow" target="_blank">KeyVaultModule</a>: issues related to administering your API keys.</p>
+                                </li>
+                            </ul>
                             <h2 id="TermsOfService">Terms of Service</h2>
 
                             <p>All of Advanced Algos services, including this competition, are governed by our <a href="legal-terms-of-service.shtml">Terms of Service</a>&mdash;a legally binding contract between you and Advanced Algos Ltd. with which you agree if you decide to participate. </p>
-
-                            <h2 id="TermsOfService">Pre-Alpha Disclaimer</h2>
-
-                            <p>Bear in mind the platform is in a pre-alpha stage. As developers, you should expect eventual errors that may cause inconveniences. Participating in pre-alpha competitions is a way to support the Advanced Algos project... we very much appreciate your help!</p>
 
                         </div>
                     </div>
