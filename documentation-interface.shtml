@@ -29,7 +29,7 @@
 
                         <p>
                             Now that you have a working version of your 
-                            <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-trading bots.shtml" target="_blank"><em>More about Algobots</em></a></span></span>
+                            <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" target="_blank"><em>More about Algobots</em></a></span></span>
                             and have set it to perform some backtesting, you can use the platform charts to visualize its actions and debug the strategy. Being able to visually review your algobot's trades is an essential part of the optimization process as it may help you fine-tune your its decision-making.
                         </p>
 
