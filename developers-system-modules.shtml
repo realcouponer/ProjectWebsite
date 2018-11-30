@@ -107,7 +107,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>Each of the modules are estimated to require roughly 1 to 2 months of development for one senior developer working on a full time basis or a similar time for a team of two developers working part time. Should your team count with more resources, it shouldn't be a problem to deliver the module much faster.</p>
+                        <p>Depending on the module, the first working version is estimated to require roughly 1 to 2 months of development effort for a senior developer working full time or a similar time for a team of two developers working part time. Should your team count with more resources, it shouldn't be a problem to deliver the module much faster.</p>
                         <p>Teams are autonomous and may freely decide how to organize their work internally. </p>
                     </div>
                     <div class="col-sm-6">
@@ -149,7 +149,7 @@
                         <p>Miners are Ethereum smart contracts programmed to allocate ALGO tokens from a particular pool to a specific set of beneficiary addresses. </p>
                     </div>
                     <div class="col-sm-6">
-                        <p>They have a pre-defined mining rate and a monthly transaction interval. Once deployed, miners deliver 50% of the remaining tokens in the pool each year. Put in other words, there is a halving event in the mining rate at each year mark counting from the activation date; <i>i.e.</i> 50% of the total amount of tokens in a pool are mined during the first year, 25% during the second year, 12.5% during the third and so on, until year ten in which all remaining tokens in the specific pool are mined&mdash;see the table below for clarity.</p>
+                        <p>They have a pre-defined mining rate and a daily transaction interval. Once deployed, miners deliver 50% of the remaining tokens in the pool each year. Put in other words, there is a halving event in the mining rate at each year mark counting from the activation date; <i>i.e.</i> 50% of the total amount of tokens in a pool are mined during the first year, 25% during the second year, 12.5% during the third and so on, until year ten in which all remaining tokens in the specific pool are mined&mdash;see the table below for clarity.</p>
                     </div>
                 </div>
             </div>
