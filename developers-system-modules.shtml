@@ -1,24 +1,18 @@
 <!--#include file="includes/doctype.shtml" -->
-
 <head>
     <title>Advanced Algos System Modules</title>
     <meta name="description" content="Co-creating the environment for rapid-evolution of trading algorithms where financial beings' lives hinge on their ability to adapt, gain intelligence and compete.">
     <meta charset="utf-8">
-
     <!--#include file="includes/headlinks.shtml" -->
-
 </head>
 <body>
-
     <!--[if lt IE 7]>
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
-
     <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
         <!--#include file="includes/header.shtml" -->
         <!--#include file="includes/header-logo-dark-bg.shtml" -->
         <!--#include file="includes/header2.shtml" -->
-
         <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
             <div class="container">
                 <div class="row">
@@ -47,7 +41,6 @@
                 </div>
             </div>
         </section>
-
         <section id="intro" class="light_section">
             <div class="container">
                 <div class="row">
@@ -97,7 +90,6 @@
                 </div>
             </div>
         </section>
-
         <section id="development" class="light_section">
             <div class="container">
                 <div class="row">
@@ -113,11 +105,9 @@
                     <div class="col-sm-6">
                         <p>However, due to the fact that development starts from loose definitions and because teams are interdependent stakeholders within the ecosystem, we do require teams to work under an <span class="tooltip-custom">agile development<span class="tooltiptext-custom" style="text-align: justify;"><strong>Agile software development</strong> is an approach to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s). It advocates adaptive planning, evolutionary development, early delivery, and continual improvement, and it encourages rapid and flexible response to change.</br><a href="https://en.wikipedia.org/wiki/Agile_software_development" rel="nofollow" target="_blank"><em>Wikipedia: Agile Software Development</em></a></span></span> approach in which batches of functionality are delivered in 2-week-long sprints.</p>
                         <p>Under such framework, teams interact with the project's technical core team and with other teams handling related modules to create definitions at the start of each sprint, and to evaluate results, assist integrations and coordinate testing at the end of each sprint.</p>
-
+                    </div>
                 </div>
-            </div>
         </section>
-
         <section id="maintenance" class="light_section">
             <div class="container">
                 <div class="row">
@@ -135,7 +125,6 @@
                 </div>
             </div>
         </section>
-
         <section id="compensation" class="light_section">
             <div class="container">
                 <div class="row">
@@ -154,12 +143,10 @@
                 </div>
             </div>
         </section>
-
         <section id="distribution" class="light_section">
             <div class="container">
                 <div class="row text-center">
                     <div class="col-sm-12">
-
                         <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul class="columnsAnimate">
@@ -182,7 +169,6 @@
                                 </ul>
                             </div>
                         </div>
-
                         <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul class="columnsAnimate">
@@ -205,7 +191,6 @@
                                 </ul>
                             </div>
                         </div>
-
                         <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul class="columnsAnimate">
@@ -228,7 +213,6 @@
                                 </ul>
                             </div>
                         </div>
-
                         <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul class="columnsAnimate">
@@ -251,7 +235,6 @@
                                 </ul>
                             </div>
                         </div>
-
                         <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul class="columnsAnimate">
@@ -275,12 +258,10 @@
                             </div>
                         </div>
 
-
                     </div>
                 </div>
             </div>
         </section>
-
         <section id="compensation2" class="light_section">
             <div class="container">
                 <div class="row">
@@ -293,7 +274,6 @@
                 </div>
             </div>
         </section>
-
         <section id="compensation" class="light_section">
             <div class="container">
                 <div class="row">
@@ -311,7 +291,6 @@
                 </div>
             </div>
         </section>
-
         <section id="compensation" class="light_section">
             <div class="container">
                 <div class="row">
@@ -337,7 +316,6 @@
             </div>
         </section>
 
-
         <section id="covenants" class="light_section">
             <div class="container">
                 <div class="row">
@@ -361,7 +339,6 @@
                 </div>
             </div>
         </section>
-
         <section id="onboarding" class="light_section">
             <div class="container">
                 <div class="row">
@@ -384,9 +361,7 @@
             </div>
         </section>
 
-
         <!--#include file="includes/footer.shtml" -->
         <!--#include file="includes/preloader2.shtml" -->
-
 </body>
 </html>
