@@ -240,26 +240,24 @@
 
                     </div>
                 </div>
+
                 <div class="row">
                     <div class="col-sm-12">
-                        <h2>Advanced Algos</h2>
+                        <h2>Algobots</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>An advanced algo is an algorithm with a financial life of its own but at the same time depends on other financial beings living within it.</p>
-                        <p>Advanced algos function as the <i>machine room</i> of complex trading organisms, and their main activities are:</p>
-                        <ul>
-                            <li><p>interfacing with subscribers, collecting ALGO for its services;</p></li>
-                            <li><p>deploying algonet clones appropriate for the job according to the strategies each of them implement;</p></li>
-                        </ul>
+                        <p>An algobot is the basic structural and functional unit, and the smallest unit displaying the common traits of financial life within trading organisms.</p>
+                        <p>Algobots are coded to implement a single trading strategy. </p>
+                        <p>When working under the commands of an algonet they are allocated a certain amount of working capital to trade with and are supplied with ALGO to pay for their existence and the resources they need to do their job.</p>
+                        <p>When working on their own, they interface directly with the subscriber, collecting ALGO for their services.</p>
+                        <p>They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions. They connect to exchanges through the platform using subscribers' exchange keys and trade directly from within the subscriber's account at the exchange.</p>
                     </div>
                     <div class="col-sm-6">
-                        <ul>
-                            <li><p>supplying algonets with ALGO for them to administer;</p></li>
-                            <li><p>allocating algonets a specific percentage of the available trading capital;</p></li>
-                            <li><p>monitoring the performance of algonets and eventually deciding which ones to keep and which ones to let die by continuing or suspending the supply of ALGO respectively.</p></li>
-                        </ul>
+                        <p>If an Algobot is not successful in its trading job and its performance drops below a predefined threshold, it dies. What may be left of the allocated working capital in the exchange account gets back in control of the algonet (in case the algobot was working under an algonet) or the subscriber (in case the algobot was working for the subscriber directly), as well as the ALGO it holds.</p>
+                        <p>On the other hand, if the algobot is successful and increases its performance above a certain threshold an <i>Algobot Subdivision Process</i> is triggered by which the algobot splits into two different entities with a random mutation of its genes (within a small range), each copy being allocated part of the working capital and receiving part of the ALGO tokens available.</p>
                     </div>
                 </div>
+
                 <div class="row">
                     <div class="col-sm-12">
                         <h2>Algonets</h2>
@@ -281,22 +279,28 @@
                         <p>With all this in mind, the job of an algonet is to administer the resources it gets either from its associated advanced algo or directly from the subscriber, and to find the best possible structure of algobots to do the trading. As such, the logic behind an algonet is open for teams to develop further control and learning mechanisms.</p>
                     </div>
                 </div>
+
                 <div class="row">
                     <div class="col-sm-12">
-                        <h2>Algobots</h2>
+                        <h2>Advanced Algos</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>An algobot is the basic structural and functional unit, and the smallest unit displaying the common traits of financial life within trading organisms.</p>
-                        <p>Algobots are coded to implement a single trading strategy. </p>
-                        <p>When working under the commands of an algonet they are allocated a certain amount of working capital to trade with and are supplied with ALGO to pay for their existence and the resources they need to do their job.</p>
-                        <p>When working on their own, they interface directly with the subscriber, collecting ALGO for their services.</p>
-                        <p>They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions. They connect to exchanges through the platform using subscribers' exchange keys and trade directly from within the subscriber's account at the exchange.</p>
+                        <p>An advanced algo is an algorithm with a financial life of its own but at the same time depends on other financial beings living within it.</p>
+                        <p>Advanced algos function as the <i>machine room</i> of complex trading organisms, and their main activities are:</p>
+                        <ul>
+                            <li><p>interfacing with subscribers, collecting ALGO for its services;</p></li>
+                            <li><p>deploying algonet clones appropriate for the job according to the strategies each of them implement;</p></li>
+                        </ul>
                     </div>
                     <div class="col-sm-6">
-                        <p>If an Algobot is not successful in its trading job and its performance drops below a predefined threshold, it dies. What may be left of the allocated working capital in the exchange account gets back in control of the algonet (in case the algobot was working under an algonet) or the subscriber (in case the algobot was working for the subscriber directly), as well as the ALGO it holds.</p>
-                        <p>On the other hand, if the algobot is successful and increases its performance above a certain threshold an <i>Algobot Subdivision Process</i> is triggered by which the algobot splits into two different entities with a random mutation of its genes (within a small range), each copy being allocated part of the working capital and receiving part of the ALGO tokens available.</p>
+                        <ul>
+                            <li><p>supplying algonets with ALGO for them to administer;</p></li>
+                            <li><p>allocating algonets a specific percentage of the available trading capital;</p></li>
+                            <li><p>monitoring the performance of algonets and eventually deciding which ones to keep and which ones to let die by continuing or suspending the supply of ALGO respectively.</p></li>
+                        </ul>
                     </div>
                 </div>
+
                 <div class="row">
                     <div class="col-sm-12">
                         <h2>Funds Management</h2>
