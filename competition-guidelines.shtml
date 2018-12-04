@@ -63,8 +63,8 @@
                     <div class="col-sm-10">
                         <h2 id="howitworks">How it Works</h2>
                         <ul>
-                            <li><p>We provide you with a functioning <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" target="_blank"><em>More about Algobots</em></a></span></span> for you to start with. </p></li>
-                            <li><p>You will get to know it and try to improve it during a few weeks,  testing and refining it while watching it perform against other algobots in the charts. </p></li>
+                            <li><p>We provide you with a functioning <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" target="_blank"><em>More about Algobots</em></a></span></span> &ndash;one of the latest competition winners&mdash;for you to start with. </p></li>
+                            <li><p>You will get acquainted with your bot and try to improve it during a few weeks, testing and refining it while watching it perform against other algobots in the charts during the training period. </p></li>
                             <li><p>24 hours before the comp starts, you will submit your algobot so that we set it up to run in the cloud for the official competition. </p></li>
                             <li><p>During the comp, you will cheer and brag about how cool your algobot is, while hoping it beats the rest to win the prize money!</p></li>
                         </ul>
@@ -74,7 +74,7 @@
                     <div class="col-sm-10">
                         <h2 id="dates">2019 Competition Calendar</h2>
 
-                        <p>There is one competition event per month, lasting one week and taking place the last seven days of each month. This schedule allows for 23 or 24 training days in between competitions (21 in February). Events kick off at 00:00:00.000 GMT of the starting date and finish at 23:59:59.999 GMT of the end date.</p>
+                        <p>There is one competition event per month, lasting one week and taking place during the last seven days of each month. This schedule allows for 23 or 24 training days in between competitions (21 in February). Events kick off at 00:00:00.000 GMT of the starting date and finish at 23:59:59.999 GMT of the end date.</p>
 
                         <div class="sc_table sc_table_style_1 sc_table_size_medium sc_table_align_center">
                             <table>
@@ -159,8 +159,12 @@
                     <div class="col-sm-10">
                         <h2 id="prizes">Prizes</h2>
 
-                        <p>Each competition event distributes 200,000 ALGO as prize money for the top 5 performers and 1,000 ALGO to each participant not making the top 5.</p>
-                        <p><strong>In addition, USD 5,000 (five thousand dollars) go to the absolut winner (1st) of each event, sponsored by Advanced Algos Ltd. This sponsored prize is payable in BTC at the rate of the competition's closing time, and shall be awareded only if the winner has a positive ROI. In case no bot ends up with a positive ROI (<i>i.e.: ROI > 0</i>), the sponsored prize shall be declared null and void.</strong></p>
+                        <p>Each competition event distributes <strong>300,000 ALGO as prize money</strong>. The first 205,000 ALGO go to the top 5 performers and the rest is distributed among the rest of the field, up to the 100<sup>th</sup> position in the ranking.</p>
+                        <p>In addition, <strong>USD 5,000 (five thousand dollars) go to the absolut winner (1st) of each event</strong>, sponsored by Advanced Algos Ltd. This sponsored prize is payable in BTC at the rate of the competition's closing time, and shall be awareded only if the winner has a positive ROI. In case no bot ends up with a positive ROI (<i>i.e.: ROI > 0</i>), the sponsored prize shall be declared null and void.</p>
+
+                        <blockquote>
+                            <p>Sponsors wishing to offer additional prize money are welcome to <a href="contacts.shtml">contact us</a>.</p>
+                        </blockquote>
 
                         <p>The prize money is awarded as follows:</p>
 
@@ -169,81 +173,82 @@
                                 <thead>
                                     <tr>
                                         <th>
-                                            <p>Position</p>
+                                            Position
                                         </th>
                                         <th>
-                                            <p>USD Prize</p>
+                                            ALGO Prize
                                         </th>
                                         <th>
-                                            <p>ALGO Prize</p>
+                                            USD Prize
                                         </th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
                                         <td>
-                                            <p>1st</p>
+                                            1<sup>st</sup>
+                                        </td>
+
+                                        <td>
+                                            100,000
                                         </td>
                                         <td>
-                                            <p>5,000</p>
-                                        </td>
-                                        <td>
-                                            <p>100,000</p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p>2nd</p>
-                                        </td>
-                                        <td>
-                                            <p>-</p>
-                                        </td>
-                                        <td>
-                                            <p>50,000</p>
+                                            5,000
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p>3rd</p>
+                                            2<sup>nd</sup>
                                         </td>
                                         <td>
-                                            <p>-</p>
+                                            50,000
                                         </td>
                                         <td>
-                                            <p>25,000</p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p>4th</p>
-                                        </td>
-                                        <td>
-                                            <p>-</p>
-                                        </td>
-                                        <td>
-                                            <p>15,000</p>
+                                            -
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p>5th</p>
+                                            3<sup>rd</sup>
                                         </td>
                                         <td>
-                                            <p>-</p>
+                                            30,000
                                         </td>
                                         <td>
-                                            <p>10,000</p>
+                                            -
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p>6th and on...</p>
+                                            4<sup>th</sup>
                                         </td>
                                         <td>
-                                            <p>-</p>
+                                            15,000
                                         </td>
                                         <td>
-                                            <p>1,000</p>
+                                            -
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            5<sup>th</sup>
+                                        </td>
+                                        <td>
+                                            10,000
+                                        </td>
+                                        <td>
+                                            -
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            6<sup>th</sup> to 100<sup>th</sup>
+                                        </td>
+                                        <td>
+                                            1,000
+                                        </td>
+                                        <td>
+                                            -
                                         </td>
                                     </tr>
                                 </tbody>
@@ -261,7 +266,7 @@
 
                 <div class="row">
                     <div class="col-sm-10">
-                        <h2>Requirements</h2>
+                        <h2>Getting Started</h2>
                         <h3 id="algobotteamregistration">Registration</h3>
 
                         <p>Registration is 100% free of charge. Follow the <a href="documentation-quick-start.shtml" target="_blank">Quick Start Guide</a> to register and get started with your first bot.</p>
@@ -274,6 +279,9 @@
 
                         <p>Make sure you have an account with <a href="https://poloniex.com/" rel="nofollow" target="_blank">Poloniex</a>. If you don't, go ahead and open one ASAP, as there may be a waiting period. You will need to verify your account in order to be able to trade freely; in the meantime, you can run your algobot in backtest mode. </p>
                         <p>You will also need to create an API key to authorize the Advanced Algos Platform to access your account. Follow the <a href="documentation-poloniex-api-key.shtml" target="_blank">instructions</a> if you don't know how to set up your key.</p>
+                        <blockquote>
+                            <p>Other exchanges may be added during the course of the 2019 Calendar.</p>
+                        </blockquote>
 
                     </div>
                 </div>
@@ -303,7 +311,7 @@
 
                         </ul>
 
-                        <p>It is a policy of Advanced Algos to require all algorithms running on the platform to be released under the same license, so as to insure the free flow of knowledge that fosters the rapid-evolution of trading intelligence within the ecosystem. The Advanced Algos Platform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml" target="_blank">Terms of Service</a>, which you need to agree to in order to participate in our competitions.</p>
+                        <p>It is a policy of Advanced Algos to require all algorithms running on the platform to be released under the same license, so as to insure the free flow of knowledge that fosters the <a href="about-evolution.shtml" target="_blank">rapid-evolution of trading intelligence</a> within the ecosystem. The Advanced Algos Platform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml" target="_blank">Terms of Service</a>, which you need to agree to in order to participate in our competitions.</p>
 
                     </div>
                 </div>
@@ -313,11 +321,13 @@
                         <h2>Trading</h2>
                         <h3 id="markets">Markets</h3>
 
-                        <p>The competition takes place in the <strong>USDT-BTC market in Poloniex</strong>.</p>
+                        <p>The competition takes place in the <strong>USDT-BTC market</strong>.</p>
 
                         <p>For the time being, the platform serves both historic and live trades data. Trades are performed at Team's accounts at the exchange, thus having an account with Poloniex is a requirement for participating.</p>
 
-                        <p>For the time being, we will only be using Poloniex and the USDT-BTC market to do our trading. We will expand the horizon in upcoming competitions.</p>
+                        <blockquote>
+                            <p>Other markets may be added during the course of the 2019 Calendar.</p>
+                        </blockquote>
 
                         <h3 id="TradingCapital">Trading Capital</h3>
 
@@ -435,17 +445,17 @@
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>1st</td>
+                                        <td>1<sup>st</sup></td>
                                         <td>A</td>
                                         <td>50 %</td>
                                     </tr>
                                     <tr>
-                                        <td>2nd</td>
+                                        <td>2<sup>nd</sup></td>
                                         <td>C</td>
                                         <td>0 %</td>
                                     </tr>
                                     <tr>
-                                        <td>3rd</td>
+                                        <td>3<sup>rd</sup></td>
                                         <td>B</td>
                                         <td>-25 %</td>
                                     </tr>
@@ -474,6 +484,9 @@
 
                         <ul>
                             <li>
+                                <p><a href="https://github.com/AdvancedAlgos/CanvasApp" rel="nofollow" target="_blank">CanvasApp</a>: issues related to the CHARTS interface, and information rendered in the CHARTS.</p>
+                            </li>
+                            <li>
                                 <p><a href="https://github.com/AdvancedAlgos/MasterApp" rel="nofollow" target="_blank">MasterApp</a>: issues related to registration, login, etc.</p>
                             </li>
                             <li>
@@ -486,6 +499,11 @@
                                 <p><a href="https://github.com/AdvancedAlgos/KeyVaultModule" rel="nofollow" target="_blank">KeyVaultModule</a>: issues related to administering your API keys.</p>
                             </li>
                         </ul>
+
+                        <h3 id="RulesChanges">Rules Changes</h3>
+
+                        <p>Pretty much like with the rest of the project, competitions are in constant evolution and so are these rules, which may change at any time. Rules changes shall be announced at the top of this page, under a <em>New Rules</em> title.</p>
+
                         <h3 id="TermsOfService">Terms of Service</h3>
 
                         <p>All of Advanced Algos services, including this competition, are governed by our <a href="legal-terms-of-service.shtml">Terms of Service</a>&mdash;a legally binding contract between you and Advanced Algos Ltd. with which you agree if you decide to participate. </p>

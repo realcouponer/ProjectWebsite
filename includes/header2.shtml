@@ -1,9 +1,6 @@
                     <a href="#" class="openResponsiveMenu">Menu</a>
                     <nav id="mainmenu_wrapper" class="menuTopWrap topMenuStyleLine">
                         <ul id="mainmenu" class="nav sf-menu inited ">
-                            <li>
-                                <a href="index.shtml">HOME</a>
-                            </li>
                             <li class="menu-item-has-children">
                                 <a href="#">THE PROJECT</a>
                                 <ul class="sub-menu">
@@ -31,15 +28,18 @@
                                 <a href="#">DEVELOPERS</a>
                                 <ul class="sub-menu">
                                     <li>
-                                        <a href="developers-system-modules.shtml">System Modules</a>
-                                    </li>
-                                    <li>
                                         <a href="developers-breed-compete.shtml">Breed &amp; Compete</a>
                                     </li>
                                     <li>
                                         <a href="documentation-quick-start.shtml">Documentation</a>
                                     </li>
+                                    <li>
+                                        <a href="developers-system-modules.shtml"><nobr>Contribute a System Module</nobr></a>
+                                    </li>
                                 </ul>
+                            </li>
+                            <li>
+                                <a href="competition-guidelines.shtml">COMPETITIONS</a>
                             </li>
                             <li>
                                 <a href="https://platform.advancedalgos.net">PLATFORM</a>
