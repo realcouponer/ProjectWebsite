@@ -198,14 +198,23 @@
                     </div>
                     <div class="col-sm-6">
                         <h3 style="color:white;">Competitions</h3>
-                        <p>We are very close to launching the first ever algorithmic trading competition. If you wish to be among the first few pioneers, you are right on time to get in.</p>
+                        <p>The 2019 Competitions Calendar is out! One event per month with USD 5,000 in prize money for the winner and 300,000 ALGO to be distributed among the first 100 positions in the ranking.</p>
+                        <p>Be a pioneer and join the first community-driven evolutionary trading intelligence!</p>
                     </div>
                 </div>
-                <div class="text-center">
-                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                        <a href="developers-system-modules.shtml">Learn More</a>
-                    </span>
+                <div class="row">
+                    <div class="col-sm-6 text-center">
+                            <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                <a href="developers-system-modules.shtml">Learn More</a>
+                            </span>
+                    </div>
+                    <div class="col-sm-6 text-center">
+                            <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                <a href="competition-guidelines.shtml">Learn More</a>
+                            </span>
+                    </div>
                 </div>
+
             </div>
         </section>
 
