@@ -11,13 +11,13 @@
                                         <a href="about-superalgo.shtml" class="sf-with-ul">Superalgos</a>
                                     </li>
                                     <li>
-                                        <a href="about-supermind.shtml" class="sf-with-ul">Supermind</a>
-                                    </li>
-                                    <li>
                                         <a href="about-ecosystem.shtml" class="sf-with-ul">Ecosystem</a>
                                     </li>
                                     <li>
                                         <a href="about-financial-beings.shtml" class="sf-with-ul">Financial Beings</a>
+                                    </li>
+                                    <li>
+                                        <a href="about-supermind.shtml" class="sf-with-ul">Supermind</a>
                                     </li>
                                     <li>
                                         <a href="about-contributing.shtml" class="sf-with-ul">Contributing</a>
@@ -28,7 +28,7 @@
                                 <a href="#">DEVELOPERS</a>
                                 <ul class="sub-menu">
                                     <li>
-                                        <a href="developers-breed-compete.shtml">Breed &amp; Compete</a>
+                                        <a href="developers-breed-compete.shtml"><nobr>Breed > Compete > Fork > Repeat</nobr></a>
                                     </li>
                                     <li>
                                         <a href="documentation-quick-start.shtml">Documentation</a>

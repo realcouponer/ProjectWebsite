@@ -120,7 +120,7 @@ CloudVM -> Changes in code saved.
 
                     <p>Before moving on, please refresh the page ( <kbd>F5</kbd> ) so that the rest of the interface updates with your algobot's current configuration.</p>
 
-                    <p>With this set up, you are ready to run you algobot in backtest mode. Trading live is currently available in a <a href="documentation-competition.shtml" target="_blank">competition setting</a> only. You should get a basic understanding of how your algobot and the platform work and join our <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Advanced Algos Telegram Group</a> to learn more about competitions.</p>
+                    <p>With this set up, you are ready to run you algobot in backtest mode. Trading live is currently available in a <a href="documentation-competition.shtml" target="_blank">competition setting</a> only. You should get a basic understanding of how your algobot and the platform work and join our <a href="https://t.me/superalgoscommunity" rel="nofollow" target="_blank">Superalgos Telegram Group</a> to learn more about competitions.</p>
 
                     <p>Now that you are up and running, keep exploring this documentation to learn more about the platform and your algobot so that you can get the most out of them. We recommend starting with the <a href="documentation-interface.shtml" target="_blank">Interface</a> page!</p>
 
@@ -138,7 +138,7 @@ CloudVM -> Changes in code saved.
 
                     <h2 id="joinourtelegramchannel">Support</h2>
 
-                    <p>Join the <a href="https://t.me/advancedalgoscommunity" rel="nofollow" target="_blank">Advanced Algos Telegram Group</a> through which we offer technical support and answer questions.</p>
+                    <p>Join the <a href="https://t.me/superalgoscommunity" rel="nofollow" target="_blank">Superalgos Telegram Group</a> through which we offer technical support and answer questions.</p>
 
                 </div>
 
