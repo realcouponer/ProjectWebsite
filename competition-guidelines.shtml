@@ -480,23 +480,23 @@
 
                         <h3 id="Bugs">Reporting Bugs</h3>
 
-                        <p>Please report bugs by opening <em>issues</em> at the corresponding repository in the <a href="https://github.com/AdvancedAlgos" rel="nofollow" target="_blank">Advanced Algos</a> organization in Github:</p>
+                        <p>Please report bugs by opening <em>issues</em> at the corresponding repository in the <a href="https://github.com/Superalgos" rel="nofollow" target="_blank">Advanced Algos</a> organization in Github:</p>
 
                         <ul>
                             <li>
-                                <p><a href="https://github.com/AdvancedAlgos/CanvasApp" rel="nofollow" target="_blank">CanvasApp</a>: issues related to the CHARTS interface, and information rendered in the CHARTS.</p>
+                                <p><a href="https://github.com/Superalgos/CanvasApp" rel="nofollow" target="_blank">CanvasApp</a>: issues related to the CHARTS interface, and information rendered in the CHARTS.</p>
                             </li>
                             <li>
-                                <p><a href="https://github.com/AdvancedAlgos/MasterApp" rel="nofollow" target="_blank">MasterApp</a>: issues related to registration, login, etc.</p>
+                                <p><a href="https://github.com/Superalgos/MasterApp" rel="nofollow" target="_blank">MasterApp</a>: issues related to registration, login, etc.</p>
                             </li>
                             <li>
-                                <p><a href="https://github.com/AdvancedAlgos/UsersModule" rel="nofollow" target="_blank">UsersModule</a>: issues related to managing your own profile, searching or finding other users, etc.</p>
+                                <p><a href="https://github.com/Superalgos/UsersModule" rel="nofollow" target="_blank">UsersModule</a>: issues related to managing your own profile, searching or finding other users, etc.</p>
                             </li>
                             <li>
-                                <p><a href="https://github.com/AdvancedAlgos/TeamsModule" rel="nofollow" target="_blank">TeamsModule</a>: issues related to creating, managing or finding teams, etc.</p>
+                                <p><a href="https://github.com/Superalgos/TeamsModule" rel="nofollow" target="_blank">TeamsModule</a>: issues related to creating, managing or finding teams, etc.</p>
                             </li>
                             <li>
-                                <p><a href="https://github.com/AdvancedAlgos/KeyVaultModule" rel="nofollow" target="_blank">KeyVaultModule</a>: issues related to administering your API keys.</p>
+                                <p><a href="https://github.com/Superalgos/KeyVaultModule" rel="nofollow" target="_blank">KeyVaultModule</a>: issues related to administering your API keys.</p>
                             </li>
                         </ul>
 
