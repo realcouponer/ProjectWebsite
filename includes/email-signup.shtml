@@ -1,6 +1,6 @@
 <div class="signup-form-container">
     <h3 class="sc_title margintop20">Stay in touch!</h3>
-    <p>Opt-in our mailing list to stay up to date with the Advanced Algos Project.</p>
+    <p>Opt-in our mailing list to stay up to date with the Superalgos Project.</p>
      <form id="email-signup" action="#" class="form-inline">
       <div class="message display-none">Thank you for your interest! We'll keep you informed</div>
       <div class="form-group">

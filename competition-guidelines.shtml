@@ -2,7 +2,7 @@
 
 <head>
     <title>Competition Rules &amp; Guidelines</title>
-    <meta name="description" content="Algorithmic Trading Competitions on the Advanced Algos Platform">
+    <meta name="description" content="Algorithmic Trading Competitions on the Superalgos Platform">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -87,11 +87,6 @@
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>January</td>
-                                        <td>Friday 25<sup>th</sup></td>
-                                        <td>Thrusday 31<sup>st</sup></td>
-                                    </tr>
-                                    <tr>
                                         <td>February</td>
                                         <td>Friday 22<sup>nd</sup></td>
                                         <td>Thrusday 28<sup>th</sup></td>
@@ -160,7 +155,7 @@
                         <h2 id="prizes">Prizes</h2>
 
                         <p>Each competition event distributes <strong>300,000 ALGO as prize money</strong>. The first 205,000 ALGO go to the top 5 performers and the rest is distributed among the rest of the field, up to the 100<sup>th</sup> position in the ranking.</p>
-                        <p>In addition, <strong>USD 5,000 (five thousand dollars) go to the absolut winner (1st) of each event</strong>, sponsored by Advanced Algos Ltd. This sponsored prize is payable in BTC at the rate of the competition's closing time, and shall be awareded only if the winner has a positive ROI. In case no bot ends up with a positive ROI (<i>i.e.: ROI > 0</i>), the sponsored prize shall be declared null and void.</p>
+                        <p>In addition, <strong>USD 5,000 (five thousand dollars) go to the absolut winner (1st) of each event</strong>, sponsored by Superalgos This sponsored prize is payable in BTC at the rate of the competition's closing time, and shall be awareded only if the winner has a positive ROI. In case no bot ends up with a positive ROI (<i>i.e.: ROI > 0</i>), the sponsored prize shall be declared null and void.</p>
 
                         <blockquote>
                             <p>Sponsors wishing to offer additional prize money are welcome to <a href="contacts.shtml">contact us</a>.</p>
@@ -278,7 +273,7 @@
                         <h3 id="poloniexaccount">Poloniex Account</h3>
 
                         <p>Make sure you have an account with <a href="https://poloniex.com/" rel="nofollow" target="_blank">Poloniex</a>. If you don't, go ahead and open one ASAP, as there may be a waiting period. You will need to verify your account in order to be able to trade freely; in the meantime, you can run your algobot in backtest mode. </p>
-                        <p>You will also need to create an API key to authorize the Advanced Algos Platform to access your account. Follow the <a href="documentation-poloniex-api-key.shtml" target="_blank">instructions</a> if you don't know how to set up your key.</p>
+                        <p>You will also need to create an API key to authorize the Superalgos Platform to access your account. Follow the <a href="documentation-poloniex-api-key.shtml" target="_blank">instructions</a> if you don't know how to set up your key.</p>
                         <blockquote>
                             <p>Other exchanges may be added during the course of the 2019 Calendar.</p>
                         </blockquote>
@@ -307,11 +302,11 @@
 
                             <li><p>the freedom to share the changes you make,</p></li>
 
-                            <li><p><strong>always within the Advanced Algos Platform</strong>.</p></li>
+                            <li><p><strong>always within the Superalgos Platform</strong>.</p></li>
 
                         </ul>
 
-                        <p>It is a policy of Advanced Algos to require all algorithms running on the platform to be released under the same license, so as to insure the free flow of knowledge that fosters the <a href="about-evolution.shtml" target="_blank">rapid-evolution of trading intelligence</a> within the ecosystem. The Advanced Algos Platform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml" target="_blank">Terms of Service</a>, which you need to agree to in order to participate in our competitions.</p>
+                        <p>It is a policy of Superalgos to require all algorithms running on the platform to be released under the same license, so as to insure the free flow of knowledge that fosters the <a href="about-evolution.shtml" target="_blank">rapid-evolution of trading intelligence</a> within the ecosystem. The Superalgos Platform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml" target="_blank">Terms of Service</a>, which you need to agree to in order to participate in our competitions.</p>
 
                     </div>
                 </div>
@@ -472,15 +467,15 @@
                         <h2>Final Notes</h2>
                         <h3 id="NoRestrictions">No Restrictions</h3>
 
-                        <p>Because Advanced Algos has an open arms policy encouraging developers to join the project's development team and because the Advanced Algos Community is open for all people, we deliberately allow and urge everyone &ndash;including team and community members&mdash;to participate in all competitions. </p>
+                        <p>Because Superalgos has an open arms policy encouraging developers to join the project's development team and because the Superalgos Community is open for all people, we deliberately allow and urge everyone &ndash;including core team and project team members&mdash;to participate in all competitions. </p>
 
                         <h3 id="Disclaimer">Pre-Alpha Disclaimer</h3>
 
-                        <p>Bear in mind the platform is in a pre-alpha stage. As developers, you should expect eventual errors that may cause inconveniences. Participating in pre-alpha competitions is a way to support the Advanced Algos project... we very much appreciate your help!</p>
+                        <p>Bear in mind the platform is in a pre-alpha stage. As developers, you should expect eventual errors that may cause inconveniences. Participating in pre-alpha competitions is a way to support the Superalgos project... we very much appreciate your help!</p>
 
                         <h3 id="Bugs">Reporting Bugs</h3>
 
-                        <p>Please report bugs by opening <em>issues</em> at the corresponding repository in the <a href="https://github.com/Superalgos" rel="nofollow" target="_blank">Advanced Algos</a> organization in Github:</p>
+                        <p>Please report bugs by opening <em>issues</em> at the corresponding repository in the <a href="https://github.com/Superalgos" rel="nofollow" target="_blank">Superalgos</a> organization in Github:</p>
 
                         <ul>
                             <li>
@@ -506,7 +501,7 @@
 
                         <h3 id="TermsOfService">Terms of Service</h3>
 
-                        <p>All of Advanced Algos services, including this competition, are governed by our <a href="legal-terms-of-service.shtml">Terms of Service</a>&mdash;a legally binding contract between you and Advanced Algos Ltd. with which you agree if you decide to participate. </p>
+                        <p>All of Superalgos services, including this competition, are governed by our <a href="legal-terms-of-service.shtml">Terms of Service</a>&mdash;a legally binding contract between you and Superalgos with which you agree if you decide to participate. </p>
 
                     </div>
                 </div>

@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Advanced Algos Project Definitions</title>
-    <meta name="description" content="Documentation: Basic definitions about the Advanced Algos Project infrastructure and ecosystem">
+    <title>Superalgos Project Definitions</title>
+    <meta name="description" content="Documentation: Basic definitions about the Superalgos Project infrastructure and ecosystem">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -63,20 +63,21 @@
 
                     <h2 id="stakeholders">Stakeholders</h2>
 
-                    <ul>
+                    <ul><!--
                         <li>
-                            <p><strong>Advanced Algos Ltd.</strong>: Advanced Algos Ltd. is the legal person behind the project, whose main role is enabling the business to operate legally, interfacing with authorities, regulators, service providers and customers, while assuming all liabilities regarding the operation.</p>
+                            <p><strong>Superalgos.org</strong>: Superalgos.org is the organization behind the project, whose main role is enabling the project to operate legally, interfacing with authorities, regulators, service providers and customers, while assuming all liabilities regarding the operation.</p>
                         </li>
+                        -->
 
                         <li>
                             <p><strong>The Community</strong>: Its formed by a heterogeneous group of people with diverse profiles, coming from an assortment of fields and areas of expertise, in particular those related with software development, trading, market and data analysis, mathematics and entrepreneurship.</p>
                             <p>It is an open community guided by a culture of collaboration that cultivates the notion of collective entitlement to the open source assets created by its different teams while promoting recognition of authorship through the ecosystem's reputation and incentives schemes.</p>
                             <ul>
                                 <li>
-                                    <p><strong>Audience</strong>: People watching the developments of the Advanced Algos world, following live competitions, consuming public functionality and potentially evaluating ways of getting involved at a deeper level. This segment of the community creates demand for certain functionality and represents a target for competition sponsors.</p>
+                                    <p><strong>Audience</strong>: People watching the developments of the Superalgos world, following live competitions, consuming public functionality and potentially evaluating ways of getting involved at a deeper level. This segment of the community creates demand for certain functionality and represents a target for competition sponsors.</p>
                                 </li>
                                 <li>
-                                    <p><strong>Teams</strong>: A number of teams are bootstrapped by Advanced Algos Ltd. during the early stages of the project. Later on, teams form organically through spontaneous relationships within the community, and through the entrepreneurial activity of actors in the broader community.</p>
+                                    <p><strong>Teams</strong>: A number of teams are bootstrapped by Superalgos.org during the early stages of the project. Later on, teams form organically through spontaneous relationships within the community, and through the entrepreneurial activity of actors in the broader community.</p>
                                     <p>The main function of teams are creating, developing, maintaining and promoting the evolution of financial beings and / or contributing to the development and maintenance of the AA System.</p>
                                     <p>Teams are free to create any number of financial beings and &ndash;most times&mdash;free to set the fees other beings need to pay to consume the products (datasets) and services they offer.</p>
                                     <p>Any individual in the community may create a team, and people may participate in multiple teams at the same time.</p>
@@ -91,7 +92,7 @@
                             </ul>
                         </li>
 
-                        <li><p><strong><span class="red_text">ALGO</span> Arena</strong>: It is a competition host currently run by Advanced Algos Ltd.</p></li>
+                        <li><p><strong><span class="red_text">ALGO</span> Arena</strong>: It is a competition host currently run by Superalgos.org</p></li>
 
                     </ul>
 
