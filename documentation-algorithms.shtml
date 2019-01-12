@@ -2,7 +2,7 @@
 
 <head>
     <title>Algobots Explained</title>
-    <meta name="description" content="Documentation: An introduction to algorithms, the autonomous agents living at the Algobots Competition Platform by Advanced Algos">
+    <meta name="description" content="Documentation: An introduction to algorithms, the autonomous agents living at the Algobots Competition Platform by Superalgos">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -41,7 +41,7 @@
 
                     <p>They process raw trades data and other indicators to output elaborate data structures, mainly technical indicators, for trading bots to consume.</p>
 
-                    <p>You will most likely need to program indicators in order to perform Technical Analysis studies or functions. While it is true that you can process data and do all sorts of calculations from within your trading bot's code, this is not recommended. Advanced Algos encourages developers to respect incumbencies assigned to each type of bot, for several reasons:</p>
+                    <p>You will most likely need to program indicators in order to perform Technical Analysis studies or functions. While it is true that you can process data and do all sorts of calculations from within your trading bot's code, this is not recommended. Superalgos encourages developers to respect incumbencies assigned to each type of bot, for several reasons:</p>
 
                     <ol>
                         <li><p>The AA Platform's architecture is designed so that bots can consume data from other bots, in order for the network to reuse resources. By respecting the incumbencies of each type of bot you contribute to growing the platform along with the embedded ecosystem in a sustainable manner.</p></li>

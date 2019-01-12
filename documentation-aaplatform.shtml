@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>The AA Platform</title>
-    <meta name="description" content="Documentation: Overview of the Algobots Competition Platform by Advanced Algos">
+    <title>The Superalgos Platform</title>
+    <meta name="description" content="Documentation: Overview of the Algobots Competition Platform by Superalgos">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -24,9 +24,9 @@
             <div class="container">
 
                 <div class="col-sm-12">
-                    <h1 id="theaaplatform">The AAPlatform</h1>
+                    <h1 id="thePlatform">The Platform</h1>
 
-                    <p>The AAPlatform is the system created to support the creation, optimization and competition of algobots.</p>
+                    <p>The Platform is the system created to support the creation, optimization and competition of algobots.</p>
 
                     <h2 id="aacloud">AACloud</h2>
 
@@ -62,7 +62,7 @@
                         <li><p>and finally, sets the time for the next execution.</p></li>
                     </ul>
 
-                    <p><strong>Reviewing the <a href="documentation-algorithms.shtml">workings of algorithms</a> will further clarify the way the AAPlatform functions.</strong></p>
+                    <p><strong>Reviewing the <a href="documentation-algorithms.shtml">workings of algorithms</a> will further clarify the way the Platform functions.</strong></p>
                 </div>
 
             </div>

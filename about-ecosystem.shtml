@@ -52,13 +52,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">The Advanced Algos Ecosystem</h1>
+                        <h1 class="sc_title">The Superalgos Ecosystem</h1>
                         <h5 class="sc_title sc_title_underline">A permissionless business hub</h5>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The Advanced Algos Ecosystem is a network of economic relationships embodied by interdependent modules and their stakeholders participating in a joint business. </p>
+                        <p>The Superalgos Ecosystem is a network of economic relationships embodied by interdependent modules and their stakeholders participating in a joint business. </p>
                         <p>The main purpose of the ecosystem is to enable a decentralized, self-sustainable and self-regulating economic environment by which all participants are exposed to business opportunities and through which the profits obtained through the ecosystem's output as a joint enterprise are systematically distributed and channeled to participants according to their individual contributions.</p>
                     </div>
                     <div class="col-sm-6">
@@ -110,7 +110,7 @@
                         <h2>Audience</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>The audience is people watching the developments of the Advanced Algos universe, following live competitions, consuming public functionality and potentially evaluating ways of getting involved at a deeper level. </p>
+                        <p>The audience is people watching the developments of the Superalgos universe, following live competitions, consuming public functionality and potentially evaluating ways of getting involved at a deeper level. </p>
                     </div>
                     <div class="col-sm-6">
                         <p>This segment of the community creates demand for certain functionality and represents a target for competition sponsors.</p>
@@ -122,7 +122,7 @@
                         <h2>Competition Hosts</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>Competition hosts are people, companies or institutions organizing trading competitions using the Advanced Algos Platform. The ecosystem is permissionless in the sense that allows anyone to organize all sorts of competitions.</p>
+                        <p>Competition hosts are people, companies or institutions organizing trading competitions using the Superalgos Platform. The ecosystem is permissionless in the sense that allows anyone to organize all sorts of competitions.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>We expect algorithmic trading competitions will eventually become as mainstream as e-sports, attracting important followings and growing into international structures, with regulatory bodies, associations and federations. When competitions grow to such dimensions, they will most likely become a substantial business and gain notable exposure.</p>
@@ -177,20 +177,20 @@
                         <p>It is composed of the Cloud App which handles the cloud environment, the Canvas App which renders datasets in a timeline, a Master App running a number of modules providing frontend and backend functionality, and blockchain elements such as smart contracts.</p>
                     </div>
                 </div>
-
-                <div class="row">
-                    <div class="col-sm-12">
-                        <h2>Advanced Algos Ltd.</h2>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Advanced Algos Ltd. is the legal person behind the project, whose main role is enabling the business to operate legally, interfacing with authorities, regulators, service providers and customers, while assuming all liabilities regarding the operation. </p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>As such, the company establishes internal regulations and ensures compliance by all stakeholders.</p>
-                        <p>The company is also tasked with protecting the ecosystem's intellectual property, handling the relationship with business partners and service providers and managing funds.</p>
-                    </div>
-                </div>
-
+                <!--
+    <div class="row">
+        <div class="col-sm-12">
+            <h2>Advanced Algos Ltd.</h2>
+        </div>
+        <div class="col-sm-6">
+            <p>Advanced Algos Ltd. is the legal person behind the project, whose main role is enabling the business to operate legally, interfacing with authorities, regulators, service providers and customers, while assuming all liabilities regarding the operation. </p>
+        </div>
+        <div class="col-sm-6">
+            <p>As such, the company establishes internal regulations and ensures compliance by all stakeholders.</p>
+            <p>The company is also tasked with protecting the ecosystem's intellectual property, handling the relationship with business partners and service providers and managing funds.</p>
+        </div>
+    </div>
+    -->
             </div>
         </section>
 
