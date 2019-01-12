@@ -14,14 +14,24 @@ jQuery( document ).ready(function($) {
 
    if(token !== ''){
      $.ajax({
-       type: "GET",
-       url: "https://aa-sendgrid-signup.azurewebsites.net/api/signup/" + token + '?callback=?',
-       dataType: 'jsonp',
+       method: "POST",
+       url: "https://platform-api-dev.advancedalgos.net",
+       contentType: "application/json",
+       dataType: 'json',
+       xhrFields: {
+         'withCredentials': true
+       },
+       data: JSON.stringify({
+         query: `mutation ($token: String!) {notifications_Corporate_NewsletterSignupVerify(token: $token)}`,
+         variables: { "token": token }
+       }),
        success: function (response, status) {
+         console.log('success: ', response, status)
          $('#verify-message').html("Thank you! Your email address has been verified.");
          $('#verify-loader').toggle("slow");
         },
         error: function (xhr, status, text) {
+          console.log('error: ', xhr, status, text)
           if (status === 'parsererror' && xhr.status >= 200 && xhr.status <= 300){
             $('#verify-message').html("Thank you! Your email address has been verified.");
             $('#verify-loader').toggle("slow");
