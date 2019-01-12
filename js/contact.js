@@ -12,40 +12,34 @@ jQuery( document ).ready(function($) {
         var recaptcha = encodeURI($("#g-recaptcha-response").val());
         var dev = 'false';
 
+        var url = 'https://aa-sendgrid-signup.azurewebsites.net/api/sendcontact/';
         $.ajax({
-          method: "POST",
-          url: "https://platform-api-dev.advancedalgos.net",
-          contentType: "application/json",
-          dataType: 'json',
-          xhrFields: {
-            'withCredentials': true
-          },
-          data: JSON.stringify({
-            query: "mutation ($email: String! $name: String! $message: String! $recaptcha: String!) { notifications_Corporate_Contact(email: $email message: $message name: $name recaptcha: $recaptcha) }",
-            variables: { "email": email, "name": name, "message": message, "recaptcha": recaptcha}
-          }),
+            type: "GET",
+            url: url + email + '/' + name + '/' + message + '/' + recaptcha + '/' + dev,
+            crossDomain: true,
+            dataType: 'jsonp',
           success: function (response, status) {
             //console.log('success', response, status);
             $('.contact_1').trigger("reset");
-            $('.contact-message').html("Thank you for contacting us! We will be in touch soon.");
-            $('.contact-message').fadeIn(1000).delay(5000).fadeOut(1000);
-            $('.contact-message').addClass("text-success");
+            $('.message').html("Thank you for contacting us! We will be in touch soon.");
+            $('.message').fadeIn(1000).delay(5000).fadeOut(1000);
+            $('.message').addClass("text-success");
             $(".contact_form_submit").prop('disabled', false);
             $(".contact_form_submit span").hide();
            },
            error: function (xOptions, textStatus) {
              if (textStatus === 'parsererror' && xOptions.status >= 200 && xOptions.status <= 300){
                $('.contact_1').trigger("reset");
-               $('.contact-message').html("Thank you for contacting us! We will be in touch soon.");
-               $('.contact-message').fadeIn(1000).delay(5000).fadeOut(1000);
-               $('.contact-message').addClass("text-success");
+               $('.message').html("Thank you for contacting us! We will be in touch soon.");
+               $('.message').fadeIn(1000).delay(5000).fadeOut(1000);
+               $('.message').addClass("text-success");
                $(".contact_form_submit").prop('disabled', false);
                $(".contact_form_submit span").hide();
              } else {
                $('.contact_1').trigger("reset");
-               $('.contact-message').html("Error: " + textStatus + ": " + xOptions.statusText);
-               $('.contact-message').fadeIn(1000).delay(5000).fadeOut(1000);
-               $('.contact-message').addClass("text-danger");
+               $('.message').html("Error: " + textStatus + ": " + xOptions.statusText);
+               $('.message').fadeIn(1000).delay(5000).fadeOut(1000);
+               $('.message').addClass("text-danger");
                $(".contact_form_submit").prop('disabled', false);
                $(".contact_form_submit span").hide();
              }
