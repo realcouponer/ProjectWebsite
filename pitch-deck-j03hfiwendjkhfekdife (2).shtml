@@ -71,19 +71,19 @@
                                                             </thead>
                                                             <tbody>
                                                                 <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 12px">
-                                                                    <td style="border: none !important; text-align:left;">Amateur / Open Source</td>
+                                                                    <td style="border: none !important; text-align:left;">Amateur Bots</td>
                                                                     <td style="border: none !important;">low</td>
                                                                     <td style="border: none !important;">limited</td>
                                                                 </tr>
                                                                 <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 12px">
-                                                                    <td style="border: none !important; text-align:left;">Institutional Investors</td>
+                                                                    <td style="border: none !important; text-align:left;">Professional Bots</td>
                                                                     <td style="border: none !important;">high</td>
                                                                     <td style="border: none !important;">linear</td>
                                                                 </tr>
                                                                 <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 12px">
-                                                                    <td style="border: none !important; text-align:left;"><strong>Advanced Algos</strong></td>
+                                                                    <td style="border: none !important; text-align:left;"><strong>Superalgos</strong></td>
                                                                     <td style="border: none !important;"><strong>low</strong></td>
-                                                                    <td style="border: none !important;"><strong>exponential</strong></td>
+                                                                    <td style="border: none !important;"><strong>order of magnitude higher</strong></td>
                                                                 </tr>
                                                             </tbody>
                                                         </table>
@@ -102,9 +102,9 @@
                                                 <div>
                                                     <div style="padding:10px; width: 1000px;">
 
-                                                        <h3 style="margin-top: 17%;">1. Supermind</h3>
+                                                        <h3 style="margin-top: 17%;">The Solution, Part 1: <strong>SUPERMIND</strong></h3>
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">
-                                                            A Human-Machine Collective
+                                                            A Massive, Global Human-Machine Collective
                                                         </p>
                                                         <ul align="left">
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
@@ -139,7 +139,7 @@
                                                 <div>
                                                     <div style="padding:10px; width: 1000px;">
 
-                                                        <h3 style="margin-top: 17%;">2. Driving Evolution</h3>
+                                                        <h3 style="margin-top: 17%;">The Solution, Part 2: <strong>EVOLUTION</strong></h3>
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">
                                                             The Role of the Community
                                                         </p>
@@ -172,7 +172,7 @@
                                                 <div>
                                                     <div style="padding:10px; width: 1000px;">
 
-                                                        <h3 style="margin-top: 17%;">3. Financial Life</h3>
+                                                        <h3 style="margin-top: 17%;">The Solution, Part 3: <strong>FINANCIAL LIFE</strong></h3>
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">The Role of Machines</p>
                                                         <ul align="left">
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
@@ -203,7 +203,7 @@
                                                 <div>
                                                     <div style="padding:10px; width: 1000px;">
 
-                                                        <h3 style="margin-top: 17%;">4. ALGO Token</h3>
+                                                        <h3 style="margin-top: 17%;">The Solution, Part 4: <strong>ALGO Token</strong></h3>
                                                         <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">The Role of the Environment</p>
                                                         <ul align="left">
                                                             <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">

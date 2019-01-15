@@ -1,0 +1,497 @@
+﻿<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Advanced Algos</title>
+    <meta name="description" content="A collective project fostering the rapid-evolution of trading algorithms through trading bots competitions.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg-no-menu.shtml" -->
+        <!--#include file="includes/header2-no-menu.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+
+                                <li>
+                                    <img src="img/photos/markets-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">Advanced Algos</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;"><br />People and Machines Working Together to Create Superalgos</p>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/connect-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">The Problem</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">
+                                                            How Do We Make Superalgos Emerge in our Platform?
+                                                        </p>
+
+                                                        <img src="img/charts/superalgo-performance.svg" height="250" />
+
+                                                    </div>
+                                                    <div class="sc_table sc_table_style_1 sc_table_size_medium sc_table_align_center" style="width: 780px;">
+                                                        <table>
+                                                            <thead>
+                                                                <tr style="line-height: 10px">
+                                                                    <th style="text-align:left;">Market Participant</th>
+                                                                    <th>Current Intelligence</th>
+                                                                    <th>Improvement Rate</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                                <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 12px">
+                                                                    <td style="border: none !important; text-align:left;">Amateur Bots</td>
+                                                                    <td style="border: none !important;">low</td>
+                                                                    <td style="border: none !important;">limited</td>
+                                                                </tr>
+                                                                <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 12px">
+                                                                    <td style="border: none !important; text-align:left;">Professional Bots</td>
+                                                                    <td style="border: none !important;">high</td>
+                                                                    <td style="border: none !important;">linear</td>
+                                                                </tr>
+                                                                <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 12px">
+                                                                    <td style="border: none !important; text-align:left;"><strong>Superalgos</strong></td>
+                                                                    <td style="border: none !important;"><strong>low</strong></td>
+                                                                    <td style="border: none !important;"><strong>order of magnitude higher</strong></td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/supermind-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">The Solution, Part 1: <strong>SUPERMIND</strong></h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">
+                                                            A Massive, Global Human-Machine Collective
+                                                        </p>
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Collective intelligence <i>(CI)</i></strong> in groups exists and can be measured... [*]
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Factors correlated</strong> with collective intelligence have been identified... [*]
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Humans and machines</strong> working together may outperform pure forms of AI... [*]
+                                                            </li>
+                                                        </ul>
+                                                        <p style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>* MIT Center for Collective Intelligence... <a href="https://cci.mit.edu/publications/" target="_blank">learn more</a></i></p>
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>We apply current science</strong> to maximize the CI of our human-machine group.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+
+                                <li>
+                                    <img src="img/photos/evolution-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">The Solution, Part 2: <strong>EVOLUTION</strong></h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">
+                                                            The Role of the Community
+                                                        </p>
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Train:</strong> teams of developers, traders and analysts build and train trading bots.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Compete:</strong> they put bots to compete for cash prizes, fun, honor and glory.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Fork:</strong> once each competition ends, code is opened and teams fork the winners.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Repeat:</strong> winners are improved and the new generation is put to compete again.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/financial-beings-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">The Solution, Part 3: <strong>FINANCIAL LIFE</strong></h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">The Role of Machines</p>
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Financial beings:</strong> once released, bots become living stakeholders in the ecosystem.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Autonomy:</strong> financial beings are autonomous agents, independent of their creators.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Value-oriented:</strong> bots strive to produce value to attract subscribers for their services.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Survival of the fittest:</strong> top performers thrive; inefficient bots run out of ALGO and die.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/teams-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">The Solution, Part 4: <strong>ALGO Token</strong></h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">The Role of the Environment</p>
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Payments:</strong> bots pay / earn micro fees for the services they consume / offer.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Energy:</strong> a form of energy turning bots into beings with a financial life of their own.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Scarcity:</strong> regulates the numbers of financial beings in the environment.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Free market:</strong> floating prices enable market forces to affect viability of bots.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/events-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">Business Model</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Platform as a Service (PaaS)</p>
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Joint venture: </strong> the community is a stakeholder participating in the business.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Community output: </strong> ever-evolving trading organisms leading to superalgos.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Business output: </strong> a Trading Services Marketplace actively managing clients' funds.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Income:</strong> the company and the community split management &amp; performance fees.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/algo-token-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">Market</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Top-to-bottom Analysis 5 Years Into the Operation</p>
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
+                                                                <strong>Crypto Market Capitalization:</strong> USD 800 billion (2018 peak, conservative estimate).
+                                                            </li>
+                                                            <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
+                                                                <strong>Total Addressable Market:</strong> USD 200 B (1/4 of the market deemed active investments).
+                                                            </li>
+                                                            <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
+                                                                <strong>Market Share:</strong> 5% of TAM by removing friction, new use cases and lowering prices.
+                                                            </li>
+                                                            <li style="color:white; margin: 18px 0; font-size: x-large; text-align:justify;">
+                                                                <strong>Revenue:</strong> USD 100 – 500 M out of USD 10 B AUM, through management & perf. fees.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+
+
+
+
+                                <li>
+                                    <img src="img/photos/compliance-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">Compliance</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">European Union Compliant Operation</p>
+
+                                                        <ul align="left">
+
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Legal persons:</strong> Advanced Algos Ltd. (Malta), Advanced Algos Hungary Kft. (Hungary).
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Roadmap:</strong> comply with the Malta Virtual Financial Assets Act, 2018.
+                                                            </li>
+                                                            <ul>
+                                                                <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                    Obtain Virtual Financial Assets Services license from MDIA.
+                                                                </li>
+                                                                <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                    Comply with MFSA regulations to list ALGO token in regulated VFA Exchanges.
+                                                                </li>
+                                                            </ul>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/platform-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">Minimum Viable Product</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Platform Launched in Alpha Stage: <a href="https://platform.advancedalgos.net" target="_blank">Try it Live!</a></p>
+
+                                                        <ul align="left">
+
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Platform:</strong> running algorithms in the browser and in the cloud indistinctly.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Modes:</strong> backtesting, live trading and competition.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>IDE:</strong> browser-based, allows debugging and training bots directly in the browser.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Competitions:</strong> starting January 2019; check out the <a href="competition-guidelines.shtml" target="_blank">Official Calendar!</a>.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/business-plan-1-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">Strategy &amp; Projections</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Years 1 to 3: The Community</p>
+
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Kickstart:</strong> attract and engage through simple competitions awarding cash prizes.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Sponsors:</strong> companies benefiting augment cash prizes and help drive adoption.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Growth:</strong> events grow into national, continental and world championships.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>E-sports:</strong> competitions become a lifestyle (social bonds, travelling, stardom, etc.)
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/business-plan-2-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">Strategy &amp; Projections</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Years 4 to 6: The Business</p>
+
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Marketplace:</strong> performance attracts investors seeking active management services.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Professionalization:</strong> teams evolve from part-time amateurs to full-time professionals.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Break-even:</strong> low-cost operation plus income equals quick self-sustainability.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Snowball:</strong> business opportunities accelarate growth of the community.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/business-plan-3-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">Strategy &amp; Projections</h3>
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">Years 7 to 10: Consolidation</p>
+
+                                                        <ul align="left">
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Critical mass:</strong> one-million-members community running on a zero-costs basis.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Dominance:</strong> our technology indisputably dominates and market share grows.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Competitors join:</strong> institutions abandon the technology race and bring in their funds.
+                                                            </li>
+                                                            <li style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">
+                                                                <strong>Market growth:</strong> passive funds become active attracted by performance and low fees.
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/contacts-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1000px;">
+
+                                                        <h3 style="margin-top: 17%;">Questions?</h3>
+                                                        <br />Questions?
+                                                        <p style="color:white; font-size: xx-large; line-height: 40px; text-align: center;">
+                                                            Luis Molina | +36 31 781 1162 <br /> Telegram: <a href="https://t.me/luis_fernando_molina" rel="nofollow" target="_blank">@luis_fernando_molina</a> | Email: <a href="mailto:luis@advancedalgos.net">luis@advancedalgos.net</a>
+                                                        </p>
+                                                        </p>
+
+                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                            <a href="index.shtml">Learn More</a>
+                                                        </span>&nbsp; &nbsp;
+                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                            <a href="https://platform.advancedalgos.net">Join the Crowd</a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </p>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--#include file="includes/preloader2.shtml" -->
+        <!--preloader2 = flymenu reference-->
+
+</body>
+    </html>
