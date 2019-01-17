@@ -6,7 +6,7 @@ jQuery( document ).ready(function($) {
         var email = $("#signup_email").val();
         $.ajax({
           method: "POST",
-          url: "https://platform-api.superalgos.org",
+          url: "https://platform-api.superalgos.org/graphql",
           contentType: "application/json",
           dataType: 'json',
           xhrFields: {

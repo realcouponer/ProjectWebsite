@@ -14,7 +14,7 @@ jQuery( document ).ready(function($) {
 
         $.ajax({
           method: "POST",
-          url: "https://platform-api.superalgos.org",
+          url: "https://platform-api.superalgos.org/graphql",
           contentType: "application/json",
           dataType: 'json',
           xhrFields: {
