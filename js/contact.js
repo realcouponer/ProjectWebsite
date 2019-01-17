@@ -3,13 +3,10 @@ jQuery( document ).ready(function($) {
         e.preventDefault();
         $(".contact_form_submit").prop('disabled', true);
         $(".contact_form_submit span").toggle();
-        var email = encodeURI($("#contact_form_email").val());
-        var name = encodeURI($("#contact_form_name").val());
+        var email = $("#contact_form_email").val();
+        var name = $("#contact_form_name").val();
         var message = $("#contact_form_message").val();
-        var changePeriod = message.replace(/\./g, '[PERIOD]');
-        var changeSlash = changePeriod.replace(/\//g, '[FORWARDSLASH]');
-        message = encodeURI(changeSlash);
-        var recaptcha = encodeURI($("#g-recaptcha-response").val());
+        var recaptcha = $("#g-recaptcha-response").val();
         var dev = 'false';
 
         $.ajax({
