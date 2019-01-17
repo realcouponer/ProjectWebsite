@@ -17,7 +17,7 @@ jQuery( document ).ready(function($) {
             variables: { "email": email }
           }),
           success: function (response, status) {
-            console.log('success', response, status);
+            // console.log('success', response, status);
             $('#email-signup').trigger("reset");
             $('.signup-message').html("Please check your inbox to confirm your email address. In case you can not find the confirmation email, please check your trash or junk mail folder.");
             $('.signup-message').fadeIn(1000).delay(5000).fadeOut(1000);
@@ -26,7 +26,7 @@ jQuery( document ).ready(function($) {
             $("#email-submit span").hide();
            },
            error: function (xOptions, textStatus) {
-             console.log('error', xOptions, textStatus);
+             // console.log('error', xOptions, textStatus);
              if (textStatus === 'parsererror' && xOptions.status >= 200 && xOptions.status <= 300){
                $('#email-signup').trigger("reset");
                $('.signup-message').html("Please check your inbox to confirm your email address. In case you can not find the confirmation email, please check your trash or junk mail folder.");
