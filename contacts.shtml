@@ -73,7 +73,7 @@
                                         <textarea id="contact_form_message" class="textAreaSize" name="message" placeholder="Message"></textarea>
                                     </div>
                                 </div>
-                                <div class="message" style="margin-top:1em; font-size:1.4em;display:none;"></div>
+                                <div class="contact-message" style="margin-top:1em; font-size:1.4em;display:none;"></div>
                                 <div class="sc_contact_form_button">
 
                                     <div class="squareButton big">
