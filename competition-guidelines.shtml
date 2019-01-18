@@ -63,7 +63,7 @@
                     <div class="col-sm-10">
                         <h2 id="howitworks">How it Works</h2>
                         <ul>
-                            <li><p>We provide you with a functioning <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" target="_blank"><em>More about Algobots</em></a></span></span> &ndash;one of the latest competition winners&mdash;for you to start with. </p></li>
+                            <li><p>We provide you with a functioning <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" target="_blank"><em>More about Algobots</em></a></span></span>&mdash;one of the latest competition winners&mdash;for you to start with. </p></li>
                             <li><p>You will get acquainted with your bot and try to improve it during a few weeks, testing and refining it while watching it perform against other algobots in the charts during the training period. </p></li>
                             <li><p>24 hours before the comp starts, you will submit your algobot so that we set it up to run in the cloud for the official competition. </p></li>
                             <li><p>During the comp, you will cheer and brag about how cool your algobot is, while hoping it beats the rest to win the prize money!</p></li>
@@ -154,8 +154,7 @@
                     <div class="col-sm-10">
                         <h2 id="prizes">Prizes</h2>
 
-                        <p>Each competition event distributes <strong>300,000 ALGO as prize money</strong>. The first 205,000 ALGO go to the top 5 performers and the rest is distributed among the rest of the field, up to the 100<sup>th</sup> position in the ranking.</p>
-                        <p>In addition, <strong>USD 5,000 (five thousand dollars) go to the absolut winner (1st) of each event</strong>, sponsored by Superalgos This sponsored prize is payable in BTC at the rate of the competition's closing time, and shall be awareded only if the winner has a positive ROI. In case no bot ends up with a positive ROI (<i>i.e.: ROI > 0</i>), the sponsored prize shall be declared null and void.</p>
+                        <p>Each competition event distributes <strong>300,000 ALGO in prize money</strong>. The first 205,000 ALGO go to the top 5 performers and the rest is distributed among the rest of the field, up to the 100<sup>th</sup> position in the ranking.</p>
 
                         <blockquote>
                             <p>Sponsors wishing to offer additional prize money are welcome to <a href="contacts.shtml">contact us</a>.</p>
@@ -173,9 +172,6 @@
                                         <th>
                                             ALGO Prize
                                         </th>
-                                        <th>
-                                            USD Prize
-                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -187,9 +183,6 @@
                                         <td>
                                             100,000
                                         </td>
-                                        <td>
-                                            5,000
-                                        </td>
                                     </tr>
                                     <tr>
                                         <td>
@@ -197,9 +190,6 @@
                                         </td>
                                         <td>
                                             50,000
-                                        </td>
-                                        <td>
-                                            -
                                         </td>
                                     </tr>
                                     <tr>
@@ -209,9 +199,6 @@
                                         <td>
                                             30,000
                                         </td>
-                                        <td>
-                                            -
-                                        </td>
                                     </tr>
                                     <tr>
                                         <td>
@@ -219,9 +206,6 @@
                                         </td>
                                         <td>
                                             15,000
-                                        </td>
-                                        <td>
-                                            -
                                         </td>
                                     </tr>
                                     <tr>
@@ -231,9 +215,6 @@
                                         <td>
                                             10,000
                                         </td>
-                                        <td>
-                                            -
-                                        </td>
                                     </tr>
                                     <tr>
                                         <td>
@@ -241,9 +222,6 @@
                                         </td>
                                         <td>
                                             1,000
-                                        </td>
-                                        <td>
-                                            -
                                         </td>
                                     </tr>
                                 </tbody>
@@ -254,7 +232,7 @@
 
                         <p>In the event of a tie, the prize is divided between the tied players: the prizes for the tied spots are added together, and the total is then awarded to the tied players in equal parts.</p>
 
-                        <p>For example, there is a three-way tie for first place. The 1st place is awarded USD 5,000 (no USD prize is awarded to 2nd and 3rd, so nothing to add here) thus, USD 1,666.66 is awarded to each of the tied participants. In addition, a total of 175,000 ALGO is reserved for 1st, 2nd and 3rd place, thus, each participant tied in the 1st place gets 58,300.33 ALGO.</p>
+                        <p>For example, there is a three-way tie for first place. A total of 175,000 ALGO is reserved for 1st, 2nd and 3rd place, thus, each participant tied in the 1st place gets 58,300.33 ALGO.</p>
 
                     </div>
                 </div>
