@@ -1,4 +1,13 @@
+Options +FollowSymLinks
 RewriteEngine On
 RewriteBase /
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^advancedalgos.net$ [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.advancedalgos.net$ [NC]
+RewriteRule ^(.*)$ https://superalgos.org/$1 [L,R=301,NC]
+
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+Redirect 301 / https://superalgos.org/
