@@ -1,0 +1,387 @@
+<!--#include file="includes/doctype.shtml" -->
+<head>
+    <title>Superalgos System Modules</title>
+    <meta name="description" content="Co-creating the system that will serve the businesses running on Superalgos.org">
+    <meta charset="utf-8">
+    <!--#include file="includes/headlinks.shtml" -->
+</head>
+
+<body>
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/modules.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="width:100%;">
+                                                        <h4 style="color:white;">
+                                                            <br />Co-creating the system that will serve the businesses running on Superalgos.org
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="intro" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">The Role of the Dev Team</h1>
+                        <h5 class="sc_title sc_title_underline">CO-CREATING THE SYSTEM THAT SERVES THE ECOSYSTEM</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>The Superalgos project distributes the development and maintenance of the system on a global network of Dev Teams, in the quest to create a highly resilient body of talent in charge of both producing and maintaining the technology required to run the project.</p>
+                        <p>We aim to create a superior trading intelligence capable of outperforming every other participant in the markets. Such intelligence will certainly enable a number of businesses, which will depend on the project's systems to run successfully.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p><strong>Dev Teams own the business of maintaining the system.</strong></p>
+                        <p>The system is subdivided in over 100 components consisting of frontend and backend modules along with some infrastructure and blockchain components.</p>
+                        <p>In order to achieve maximum resilience, Dev Teams develop one or two components each only, with the exception of a few pioneer teams who may have developed more than one in early stages. This means that only a few dozens of Dev Teams contributing early on will be able to participate in this role. </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <div class="polaroid">
+                            <img src="img/charts/status-of-modules.png" alt="Status of Modules">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>The Core Team maintains the <a href="https://github.com/Superalgos/" rel="nofollow" target="_blank">Superalgos organization</a> on GitHub. Each part of the system has its own repository to which Dev Teams contribute to. Dev Teams' work is characterized as voluntary work, as explained on the <a href="https://github.com/Superalgos/ProjectWebsite/blob/master/CONTRIBUTING.md" rel="nofollow" target="_blank">CONTRIBUTING.MD</a> file in each repository.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>In order to incentivize significant contributions, the project has created a long-term, two-fold incentives scheme by which Dev Teams are entitled to both mining ALGO tokens and earning maintenance fees once adoption reaches certain levels.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <div class="polaroid">
+                            <img src="img/charts/modules-by-team.png" alt="Modules by Team">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>The project allocates 15% of the total supply of ALGO tokens to the System Development Pool.</p>
+                        <p>The incentive scheme is based on Dev Teams undertaking responsibility over specific <i>concepts</i>, which usually map to one or more system components. For instance, the concept of <i>users</i> is handled by the <i>Users Backend Module</i> and the <i>Users Frontend Module</i>.</p>
+                        <p>Each concept is allocated a fraction of the System Development Pool. The precise allocation depends on the concept's <i>category</i>, which is a function of the level of criticality, urgency and difficulty. </p>
+                        <p>There are five categories, from 1 to 5.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>The category number indicates the amount of ALGO tokens to be allocated to Dev Teams undertaking responsibility on a specific concept, expressed in millions (<i>i.e.</i>: a category 5 concept allocates 5 million tokens), as shown below. Bear in mind that 5 million ALGO represent 0.5% of the total supply.</p>
+                        <p>As mentioned earlier, in order for incentives to be sustainable in the long term, the project will also implement a maintenance fee payable by all financial beings running on the platform. </p>
+                        <p>More details on maintenance fees will be available in the future. Suffice to say, the project fully understands the critical nature of the maintenance of a system that will play an important role in the global trading landscape. Such incentive is going to be implemented in a way that guarantees the service level that businesses running on the software require.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <div class="polaroid">
+                            <img src="img/charts/algo-budget-per-module.png" alt="ALGO Budget per Module">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="development" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Scope of Responsibility</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>Dev Teams are expected to assume <i>full responsibility</i> over a specific <i>concept</i>, for instance, users, teams or events. Many times, a concept maps directly to one or more specific components, but is not necessarily limited to that.</p>
+                        <p>This distinction is instrumental to understanding the scope of the responsibility of Dev Teams, in particular because the Superalgos system is meant to evolve over time. Evolution of the system may entail the need to integrate new components or even new requirements that may emerge resulting from the expansion of business needs.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Assuming full responsibility implies that Dev Teams are in charge of producing their own requirements, developing the components and maintaining them in the long term. As such, teams are expected to get truly close to the project, becoming a fundamental piece of the machinery.</p>
+                        <p>While we foresee components stabilizing after a period of time, as explained earlier, the project is in constant evolution. Any new piece of functionality or requirement falling within the scope of a certain concept, requires the prompt attention of the Dev Team responsible for that concept.</p>
+                    </div>
+                </div>
+        </section>
+        <section id="development" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Development Workflow</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>As general requirements, Dev Teams are expected to maintain a clear README.md file and a thorough change log. We also encourage proper use of git comments and maintaining a clean git workflow.</p>
+                        <p>Depending on the component, the first working version is estimated to require roughly 1 to 2 months of development effort for a senior developer working full time or a similar time for a team of two developers working part time. Should your team count with more resources, it shouldn't be a problem to deliver the component much faster.</p>
+                        <p>The development workflow exhibits two distinct phases: <i>open requirements</i> and <i>free development</i>.</p>
+                        <p>The first task Dev Teams face after getting acquainted with the system and the functionality falling within the concept on which they are assuming responsibility is to draft their own requirements sheet, kick starting the open requirements phase.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Requirements are then discussed with the Core Team and the rest of the teams, in particular those responsible for adjacent or intersecting functionality, and are eventually approved, after any number of iterations.</p>
+                        <p>Teams are autonomous and may freely decide how to organize their work internally. However, we do require teams to work under an <span class="tooltip-custom">agile development<span class="tooltiptext-custom" style="text-align: justify;"><strong>Agile software development</strong> is an approach to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s). It advocates adaptive planning, evolutionary development, early delivery, and continual improvement, and it encourages rapid and flexible response to change.</br><a href="https://en.wikipedia.org/wiki/Agile_software_development" rel="nofollow" target="_blank"><em>Wikipedia: Agile Software Development</em></a></span></span> approach, attending one technical meeting per week and pushing batches of functionality to the <i>develop branch</i> at least once per month.</p>
+                        <p>Once requirements have been completed, tested and pushed to the production environment, the free development phase starts. The components pushed to production are considered alpha stage, so teams iterate on the first version, making improvements and correcting bugs until the code is stable.</p>
+                        <p>Dev Teams are expected to stay close to the project for the long run, as even after the code has been stabilized, new requirements may arise.</p>
+                    </div>
+                </div>
+        </section>
+
+        <section id="compensation" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Mining ALGO Tokens</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>Volunteering your work and taking a long-term responsibility over the concept assigned to your Dev Team leads to the community granting your team access to mining ALGO tokens from the corresponding concept's pool, and also to collect a fee from every financial being living in the platform once the service is deployed and open to the public.</p>
+                        <p>Miners are Ethereum smart contracts programmed to allocate ALGO tokens from a particular pool to a specific address. </p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>They have a predefined mining rate and a daily transaction interval. Once deployed, miners deliver 50% of the remaining tokens in the pool each year. </p>
+                        <p>Put in other words, there is a halving event in the mining rate at each year mark counting from the activation date; <i>i.e.</i> 50% of the total amount of tokens in a pool are mined during the first year, 25% during the second year, 12.5% during the third and so on, until year ten in which all remaining tokens in the specific pool are mined&mdash;see the tables below for clarity.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="distribution" class="light_section">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-sm-12">
+                        <!--<div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+        <div class="sc_pricing_columns">
+            <ul class="columnsAnimate">
+                <li class="sc_pricing_data sc_pricing_title">Category 5</li>
+                <li class="sc_pricing_data sc_pricing_price">
+                    <div class="sc_price_item">
+                        <div class="sc_price_money">5,000,000 ALGO</div>
+                    </div>
+                </li>
+                <li class="sc_pricing_data">Year 1: 2,500,000</li>
+                <li class="sc_pricing_data">Year 2: 1,250,000</li>
+                <li class="sc_pricing_data">Year 3: 625,000</li>
+                <li class="sc_pricing_data">Year 4: 312,500</li>
+                <li class="sc_pricing_data">Year 5: 156,250</li>
+                <li class="sc_pricing_data">Year 6: 78,125</li>
+                <li class="sc_pricing_data">Year 7: 39,063</li>
+                <li class="sc_pricing_data">Year 8: 19,531</li>
+                <li class="sc_pricing_data">Year 9: 9,766</li>
+                <li class="sc_pricing_data">Year 10: 9,766</li>
+            </ul>
+        </div>
+    </div>-->
+                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 4</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">4,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 2,000,000</li>
+                                    <li class="sc_pricing_data">Year 2: 1,000,000</li>
+                                    <li class="sc_pricing_data">Year 3: 500,000</li>
+                                    <li class="sc_pricing_data">Year 4: 250,000</li>
+                                    <li class="sc_pricing_data">Year 5: 125,000</li>
+                                    <li class="sc_pricing_data">Year 6: 62,500</li>
+                                    <li class="sc_pricing_data">Year 7: 31,250</li>
+                                    <li class="sc_pricing_data">Year 8: 15,625</li>
+                                    <li class="sc_pricing_data">Year 9: 7,813</li>
+                                    <li class="sc_pricing_data">Year 10: 7,813</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 3</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">3,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 1,500,000</li>
+                                    <li class="sc_pricing_data">Year 2: 750,000</li>
+                                    <li class="sc_pricing_data">Year 3: 375,000</li>
+                                    <li class="sc_pricing_data">Year 4: 187,500</li>
+                                    <li class="sc_pricing_data">Year 5: 93,750</li>
+                                    <li class="sc_pricing_data">Year 6: 46,875</li>
+                                    <li class="sc_pricing_data">Year 7: 23,438</li>
+                                    <li class="sc_pricing_data">Year 8: 11,719</li>
+                                    <li class="sc_pricing_data">Year 9: 5,859</li>
+                                    <li class="sc_pricing_data">Year 10: 5,859</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 2</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">2,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 1,000,000</li>
+                                    <li class="sc_pricing_data">Year 2: 500,000</li>
+                                    <li class="sc_pricing_data">Year 3: 250,000</li>
+                                    <li class="sc_pricing_data">Year 4: 125,000</li>
+                                    <li class="sc_pricing_data">Year 5: 62,500</li>
+                                    <li class="sc_pricing_data">Year 6: 31,250</li>
+                                    <li class="sc_pricing_data">Year 7: 15,625</li>
+                                    <li class="sc_pricing_data">Year 8: 7,813</li>
+                                    <li class="sc_pricing_data">Year 9: 3,906</li>
+                                    <li class="sc_pricing_data">Year 10: 3,906</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 1</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">1,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 500,000</li>
+                                    <li class="sc_pricing_data">Year 2: 250,000</li>
+                                    <li class="sc_pricing_data">Year 3: 125,000</li>
+                                    <li class="sc_pricing_data">Year 4: 62,500</li>
+                                    <li class="sc_pricing_data">Year 5: 31,250</li>
+                                    <li class="sc_pricing_data">Year 6: 15,625</li>
+                                    <li class="sc_pricing_data">Year 7: 7,813</li>
+                                    <li class="sc_pricing_data">Year 8: 3,906</li>
+                                    <li class="sc_pricing_data">Year 9: 1,953</li>
+                                    <li class="sc_pricing_data">Year 10: 1,953</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="compensation2" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>The number of tokens reserved for each pool is related to the concept's category. There are five categories, from one to five. The category number indicates the amount of ALGO tokens in the pool expressed in millions (<i>i.e.</i> a category 1 pool has 1 million tokens).</p>
+                        <p>The category number is a reflection of the perceived level of criticality, urgency and difficulty entailed in the particular concept. The higher the number, the more critical, urgent and / or difficult the area of responsibility is recognized to be.</p>
+                        <p>All category 5 concepts have been assigned already, thus, concepts available now span from category 1 to category 4.</p>
+                        <p>Dev Teams are assigned a miner during the final stage of the onboarding process, once they have started works.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>However, the miner is activated and started only after the team has pushed the solution for the original requirements into production, having gone through a testing phase in development.</p>
+                        <p>Once a miner is started, it allocates ALGO tokens to one or more addresses controlled by the team in daily transactions.</p>
+                        <p>The Core Team remains in control of the miner throughout the life of the project. The miner may be paused in cases when a team becomes unresponsive or does not satisfy the service level agreements established for maintenance. Should a Dev Team become a liability for the project for whatever reason, the Core Team may decide to stop the miner and find a replacement for the team at fault.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="compensation" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Example</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>Let's use an example to bring down to earth everything said so far.</p>
+                        <p>A team of three developers wishes to contribute to the development of the Superalgos System. They get in touch with the project, meet the technical core team maintaining the <a href="https://github.com/Superalgos" rel="nofollow" target="_blank">Superalgos organization in Github</a>, discuss priorities and apply to work on a specific concept.</p>
+                        <p>The selected concept becomes their area of responsibility. </p>
+                        <p>Every piece of functionality identified (or to be identified) that logically falls within the scope of that particular concept becomes the team's responsibility. Their mission is to develop the corresponding components, refine them and maintain them.</p>
+                        <p>The team starts out by joining regular developer meetings, at least once per week; they discuss their concept with other developers, getting acquainted with the system architecture and gathering initial definitions. </p>
+                        <p>They present a requirements sheet and agree with the community on the scope of a first usable version of the components, and start programming.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>While developing version one of the components, they stay in touch with other developers and the Core Team, consulting on any issues that may arise, while showcasing their progress at developer meetings. </p>
+                        <p>Eventually, they start integrating the module into the overall system, polishing the rough edges until the functionality becomes usable.</p>
+                        <p>By that time, the rest of developers have become acquainted with the new team, having interacted frequently and followed their work closely. The constant revisions through regular meetings help the new team stay on course, remain focused in priorities and programing following agreed best practices.</p>
+                        <p>This initial piece of work is enough to show the rest of developers that the new team is a worthy acquisition. As soon as the software is up and running in the production environment, the team's miner is readily activated and started.</p>
+                        <p>The new team is now a key part of the community. It keeps developing their module until the last bit of functionality is integrated. People report bugs until the module stabilizes and requires less and less work. The team stays alert, updating the module every time a new requirement arises.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="covenants" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Exit</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>If at any point in time an individual contributor wishes to step aside, or fails to deliver as per the expectations of the rest of the Dev Teams, the project will help the person make a clean exit by delegating responsibilities into:</p>
+                        <ul>
+                            <li><p>other members of the same team;</p></li>
+                            <li><p>other teams.</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>In the first case, the team's relationship with the rest of the ecosystem remains the same and the team shall keep all of its responsibilities and entitlements through an internal change in management.</p>
+                        <p>In the second case, the departing team will keep all the ALGO it may have been allocated up to that point in time.</p>
+                        <p>However, the departing team will resign entitlements to future maintenance fees and to minning whatever part of the pool may be pending.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="onboarding" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Onboarding Steps</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>If you are a talented developer and would like to join the project's Development Team, we would be happy to have you on board. </p>
+                        <p>It is in fact the only way to buy your way into the business of maintaining the software that will support the ecosystem that aims to disrupt the trading space.</p>
+                        <p>Please follow these steps:</p>
+                        <ol>
+                            <li><p>Study this website thoroughly to gain the best possible understanding of the project.</p></li>
+                        </ol>
+                    </div>
+                    <div class="col-sm-6">
+                        <ol start="2">
+                            <li><p>Study the following articles to get acquainted with the inner workings of the project:</p></li>
+                                <ul>
+                                    <li><a href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" target="_blank">Superalgos, Part One:  The Trading Singularity</a></li>
+                                    <li><a href="https://hackernoon.com/superalgos-part-two-building-a-trading-supermind-a47bdc73aed" rel="nofollow" target="_blank">Superalgos, Part Two:  Building a Trading Supermind</a></li>
+                                </ul>
+                            <li><p><a href="contacts.shtml"><strong>Contact us</strong></a> expressing your interest. Please include the Telegram handles of members of your team in your message. We will get in touch with you to start talks and get you started.</p></li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+</body>
+</html>
