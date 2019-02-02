@@ -64,7 +64,7 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <div class="polaroid">
-                            <img src="img/charts/status-of-modules.png" alt="Status of Modules">
+                            <img src="img/charts/status-of-concepts.png" alt="Status of Modules">
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <div class="polaroid">
-                            <img src="img/charts/modules-by-team.png" alt="Modules by Team">
+                            <img src="img/charts/concepts-by-team.png" alt="Modules by Team">
                         </div>
                     </div>
                 </div>
@@ -99,7 +99,7 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <div class="polaroid">
-                            <img src="img/charts/algo-budget-per-module.png" alt="ALGO Budget per Module">
+                            <img src="img/charts/algo-budget-per-concept.png" alt="ALGO Budget per Module">
                         </div>
                     </div>
                 </div>
