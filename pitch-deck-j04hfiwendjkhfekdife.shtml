@@ -356,7 +356,7 @@
                                                     <div style="padding:10px; width: 1800px;">
 
                                                         <h3 style="margin-top: 10%; font-size: 700%;">Roadmap</h3>
-                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">Platform Launched in Alpha Stage: <br /><a href="https://platform.advancedalgos.net" target="_blank">Try it Live!</a></p>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">Platform Launched in Alpha Stage: <br /><a href="https://platform.advancedalgos.net" rel="noopener" target="_blank">Try it Live!</a></p>
 
                                                         <div style="padding:10px; width: 1350px;">
                                                             <ol align="left">
@@ -365,7 +365,7 @@
                                                                     <strong>MVP:</strong> done!
                                                                 </li>
                                                                 <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
-                                                                    <strong>Competition events:</strong> Alpha stage comps starting March 2019. <a href="competition-guidelines.shtml" target="_blank">Check the Calendar!</a>.
+                                                                    <strong>Competition events:</strong> Alpha stage comps starting March 2019. <a href="competition-guidelines.shtml" rel="noopener" target="_blank">Check the Calendar!</a>.
                                                                 </li>
                                                                 <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
                                                                     <strong>World Cup League:</strong> seed round target.
@@ -485,7 +485,7 @@
                                                         <h3 style="margin-top: 10%; font-size: 700%;">Join Us!</h3>
                                                         <br />Questions?
                                                         <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
-                                                            Julian Molina | +34 684 33 97 11 <br /> Telegram: <a href="https://t.me/julianmolina" rel="nofollow" target="_blank">@julianmolina</a> | Email: <a href="mailto:julian@advancedalgos.net">julian@advancedalgos.net</a>
+                                                            Julian Molina | +34 684 33 97 11 <br /> Telegram: <a href="https://t.me/julianmolina" rel="nofollow" rel="noopener" target="_blank">@julianmolina</a> | Email: <a href="mailto:julian@advancedalgos.net">julian@advancedalgos.net</a>
                                                         </p>
                                                         </p>
 
@@ -783,7 +783,7 @@
                                                                 <strong>Humans and machines</strong> working together may outperform pure forms of AI... [*]
                                                             </li>
                                                         </ul>
-                                                        <p style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>* MIT Center for Collective Intelligence... <a href="https://cci.mit.edu/publications/" target="_blank">learn more</a></i></p>
+                                                        <p style="color:white; margin: 20px 0; font-size: x-large; text-align:justify; line-height: 30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>* MIT Center for Collective Intelligence... <a href="https://cci.mit.edu/publications/" rel="noopener" target="_blank">learn more</a></i></p>
                                                         <ul align="left">
                                                             <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
                                                                 <strong>We apply current science</strong> to maximize the CI of our human-machine group.

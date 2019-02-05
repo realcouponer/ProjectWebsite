@@ -29,11 +29,11 @@
 
                         <p>
                             Now that you have a working version of your 
-                            <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" target="_blank"><em>More about Algobots</em></a></span></span>
+                            <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" rel="noopener" target="_blank"><em>More about Algobots</em></a></span></span>
                             and have set it to perform some backtesting, you can use the platform charts to visualize its actions and debug the strategy. Being able to visually review your algobot's trades is an essential part of the optimization process as it may help you fine-tune your its decision-making.
                         </p>
 
-                        <p>Go on and check out the <a href="http://platform.advancedalgos.net/" target="_blank">platform</a>.</p>
+                        <p>Go on and check out the <a href="http://platform.advancedalgos.net/" rel="noopener" target="_blank">platform</a>.</p>
 
                         <h2 id="aaweboverview">Overview</h2>
 
@@ -43,9 +43,9 @@
                             <li>
                                 <p>
                                     <strong>Charts timeline</strong>: It is a timeline in which 
-                                    <span class="tooltip-custom">indicators and sensors' products<span class="tooltiptext-custom" style="text-align: justify;">Indicators and sensors' mission is creating <em>products</em> that others can consume. To do this, they run <em>processes</em> which produce and store <em>datasets</em>.</br><a href="documentation-algorithms.shtml#howalgorithmswork" target="_blank"><em>More about Algorithm's Products</em></a></span></span>
+                                    <span class="tooltip-custom">indicators and sensors' products<span class="tooltiptext-custom" style="text-align: justify;">Indicators and sensors' mission is creating <em>products</em> that others can consume. To do this, they run <em>processes</em> which produce and store <em>datasets</em>.</br><a href="documentation-algorithms.shtml#howalgorithmswork" rel="noopener" target="_blank"><em>More about Algorithm's Products</em></a></span></span>
                                     along with trading bots actions are displayed in a graphical representation created by 
-                                    <span class="tooltip-custom">plotters<span class="tooltiptext-custom" style="text-align: justify;">Plotters are JavaScript programms that serve the purpose of featuring visual representations of datasets so that people can easily interpret the data in a graphical environment.</br><a href="documentation-algorithms.shtml#aboutplotters" target="_blank"><em>More about Plotters</em></a></span></span>.
+                                    <span class="tooltip-custom">plotters<span class="tooltiptext-custom" style="text-align: justify;">Plotters are JavaScript programms that serve the purpose of featuring visual representations of datasets so that people can easily interpret the data in a graphical environment.</br><a href="documentation-algorithms.shtml#aboutplotters" rel="noopener" target="_blank"><em>More about Plotters</em></a></span></span>.
                                 </p>
                             </li>
                             </a>
@@ -77,7 +77,7 @@
 
                             <li><p>The left margin features a <em>percent scale</em> that is used in competitions to indicate Return on Investment (ROI).</p></li>
 
-                            <li><p>This is the <em>candlestick chart</em> visually showing <span class="tooltip-custom">Olivia's<span class="tooltiptext-custom" style="text-align: justify;">Olivia is an indicator producing candlesticks and volumes data.</br><a href="https://github.com/AAMasters/AAOlivia-Indicator-Bot" target="_blank"><em>Olivia's Repository</em></a></span></span></span> products, put in graphics by <span class="tooltip-custom">Plotters-Candles-Volumes<span class="tooltiptext-custom" style="text-align: justify;">Plotters-Candles-Volumes is a visualization bot.</br><a href="https://github.com/AAMasters/Plotters-Candles-Volumes" target="_blank"><em>Plotters-Candles-Volumes' Repository</em></a></span></span>.</p></li>
+                            <li><p>This is the <em>candlestick chart</em> visually showing <span class="tooltip-custom">Olivia's<span class="tooltiptext-custom" style="text-align: justify;">Olivia is an indicator producing candlesticks and volumes data.</br><a href="https://github.com/AAMasters/AAOlivia-Indicator-Bot" rel="noopener" target="_blank"><em>Olivia's Repository</em></a></span></span></span> products, put in graphics by <span class="tooltip-custom">Plotters-Candles-Volumes<span class="tooltiptext-custom" style="text-align: justify;">Plotters-Candles-Volumes is a visualization bot.</br><a href="https://github.com/AAMasters/Plotters-Candles-Volumes" rel="noopener" target="_blank"><em>Plotters-Candles-Volumes' Repository</em></a></span></span>.</p></li>
 
                         </ol>
 
@@ -229,7 +229,7 @@ if (global.AT_BREAKPOINT === true) {
                 <div class="row">
                     <div class="col-sm-10">
 
-                        <p>When either of the trading products is <em>on</em> in the Products Panel, the <a href="https://github.com/AAMasters/Plotters-Trading" rel="nofollow" target="_blank">Plotters-Trading</a> associated with trading bots renders a number of visual clues in the timeline to indicate various bot actions. Notice the small triangles in the figure below:</p>
+                        <p>When either of the trading products is <em>on</em> in the Products Panel, the <a href="https://github.com/AAMasters/Plotters-Trading" rel="nofollow" rel="noopener" target="_blank">Plotters-Trading</a> associated with trading bots renders a number of visual clues in the timeline to indicate various bot actions. Notice the small triangles in the figure below:</p>
                     </div>
                 </div>
 

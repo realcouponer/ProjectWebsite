@@ -70,7 +70,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The Core Team maintains the <a href="https://github.com/Superalgos/" rel="nofollow" target="_blank">Superalgos organization</a> on GitHub. Each part of the system has its own repository to which Dev Teams contribute to. Dev Teams' work is characterized as voluntary work, as explained on the <a href="https://github.com/Superalgos/ProjectWebsite/blob/master/CONTRIBUTING.md" rel="nofollow" target="_blank">CONTRIBUTING.MD</a> file in each repository.</p>
+                        <p>The Core Team maintains the <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">Superalgos organization</a> on GitHub. Each part of the system has its own repository to which Dev Teams contribute to. Dev Teams' work is characterized as voluntary work, as explained on the <a href="https://github.com/Superalgos/ProjectWebsite/blob/master/CONTRIBUTING.md" rel="nofollow" rel="noopener" target="_blank">CONTRIBUTING.MD</a> file in each repository.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>In order to incentivize significant contributions, the project has created a long-term, two-fold incentives scheme by which Dev Teams are entitled to both mining ALGO tokens and earning maintenance fees once adoption reaches certain levels.</p>
@@ -139,7 +139,7 @@
                     </div>
                     <div class="col-sm-6">
                         <p>Requirements are then discussed with the Core Team and the rest of the teams, in particular those responsible for adjacent or intersecting functionality, and are eventually approved, after any number of iterations.</p>
-                        <p>Teams are autonomous and may freely decide how to organize their work internally. However, we do require teams to work under an <span class="tooltip-custom">agile development<span class="tooltiptext-custom" style="text-align: justify;"><strong>Agile software development</strong> is an approach to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s). It advocates adaptive planning, evolutionary development, early delivery, and continual improvement, and it encourages rapid and flexible response to change.</br><a href="https://en.wikipedia.org/wiki/Agile_software_development" rel="nofollow" target="_blank"><em>Wikipedia: Agile Software Development</em></a></span></span> approach, attending one technical meeting per week and pushing batches of functionality to the <i>develop branch</i> at least once per month.</p>
+                        <p>Teams are autonomous and may freely decide how to organize their work internally. However, we do require teams to work under an <span class="tooltip-custom">agile development<span class="tooltiptext-custom" style="text-align: justify;"><strong>Agile software development</strong> is an approach to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s). It advocates adaptive planning, evolutionary development, early delivery, and continual improvement, and it encourages rapid and flexible response to change.</br><a href="https://en.wikipedia.org/wiki/Agile_software_development" rel="nofollow" rel="noopener" target="_blank"><em>Wikipedia: Agile Software Development</em></a></span></span> approach, attending one technical meeting per week and pushing batches of functionality to the <i>develop branch</i> at least once per month.</p>
                         <p>Once requirements have been completed, tested and pushed to the production environment, the free development phase starts. The components pushed to production are considered alpha stage, so teams iterate on the first version, making improvements and correcting bugs until the code is stable.</p>
                         <p>Dev Teams are expected to stay close to the project for the long run, as even after the code has been stabilized, new requirements may arise.</p>
                     </div>
@@ -311,7 +311,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <p>Let's use an example to bring down to earth everything said so far.</p>
-                        <p>A team of three developers wishes to contribute to the development of the Superalgos System. They get in touch with the project, meet the technical core team maintaining the <a href="https://github.com/Superalgos" rel="nofollow" target="_blank">Superalgos organization in Github</a>, discuss priorities and apply to work on a specific concept.</p>
+                        <p>A team of three developers wishes to contribute to the development of the Superalgos System. They get in touch with the project, meet the technical core team maintaining the <a href="https://github.com/Superalgos" rel="nofollow" rel="noopener" target="_blank">Superalgos organization in Github</a>, discuss priorities and apply to work on a specific concept.</p>
                         <p>The selected concept becomes their area of responsibility. </p>
                         <p>Every piece of functionality identified (or to be identified) that logically falls within the scope of that particular concept becomes the team's responsibility. Their mission is to develop the corresponding components, refine them and maintain them.</p>
                         <p>The team starts out by joining regular developer meetings, at least once per week; they discuss their concept with other developers, getting acquainted with the system architecture and gathering initial definitions. </p>
@@ -371,8 +371,8 @@
                         <ol start="2">
                             <li><p>Study the following articles to get acquainted with the inner workings of the project:</p></li>
                                 <ul>
-                                    <li><a href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" target="_blank">Superalgos, Part One:  The Trading Singularity</a></li>
-                                    <li><a href="https://hackernoon.com/superalgos-part-two-building-a-trading-supermind-a47bdc73aed" rel="nofollow" target="_blank">Superalgos, Part Two:  Building a Trading Supermind</a></li>
+                                    <li><a href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" rel="noopener" target="_blank">Superalgos, Part One:  The Trading Singularity</a></li>
+                                    <li><a href="https://hackernoon.com/superalgos-part-two-building-a-trading-supermind-a47bdc73aed" rel="nofollow" rel="noopener" target="_blank">Superalgos, Part Two:  Building a Trading Supermind</a></li>
                                 </ul>
                             <li><p><a href="contacts.shtml"><strong>Contact us</strong></a> expressing your interest. Please include the Telegram handles of members of your team in your message. We will get in touch with you to start talks and get you started.</p></li>
                         </ol>
