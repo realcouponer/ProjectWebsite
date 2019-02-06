@@ -27,13 +27,13 @@
                 <div class="col-sm-12">
                     <h1 id="quickstartguide">Quick Start Guide</h1>
 
-                    <p>Welcome to the Superalgos Competition Arena! This guide will take you on the express lane to registering and getting your <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" target="_blank"><em>More about Algobots</em></a></span></span> up and running. Once you are fully set up, use the menu on the left to access the rest of the documentation which should help you make the most out of your algobot and the platform.</p>
+                    <p>Welcome to the Superalgos Competition Arena! This guide will take you on the express lane to registering and getting your <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" rel="noopener" target="_blank"><em>More about Algobots</em></a></span></span> up and running. Once you are fully set up, use the menu on the left to access the rest of the documentation which should help you make the most out of your algobot and the platform.</p>
 
                     <h2 id="requirements">Registration</h2>
 
                     <ol>
                         <li><p>Make sure you are using Chrome (Version 67.0.3396.87 or later); it is the only tested browser at this point in time.</p></li>
-                        <li><p>Go to the <a href="http://platform.advancedalgos.net/" target="_blank">platform</a>, click <em>SIGN UP</em> on the menu, in the top-right corner of the screen, and register.</p></li>
+                        <li><p>Go to the <a href="http://platform.advancedalgos.net/" rel="noopener" target="_blank">platform</a>, click <em>SIGN UP</em> on the menu, in the top-right corner of the screen, and register.</p></li>
                         <li><p>Once logged in, go to <em>TEAMS > Your Teams</em>. A form will load offering you to create your own team. Enter a name for your team and another name for your bot and click the <i>CREATE TEAM</i> button.</p></li>
                         <li><p>You are almost done... Now take a few minutes to upload an avatar for your bot and a banner for your team so that you can easily recognize them in the charts and directories. This is what you need to do:</p></li>
                         <ul>
@@ -120,9 +120,9 @@ CloudVM -> Changes in code saved.
 
                     <p>Before moving on, please refresh the page ( <kbd>F5</kbd> ) so that the rest of the interface updates with your algobot's current configuration.</p>
 
-                    <p>With this set up, you are ready to run you algobot in backtest mode. Trading live is currently available in a <a href="documentation-competition.shtml" target="_blank">competition setting</a> only. You should get a basic understanding of how your algobot and the platform work and join our <a href="https://t.me/superalgoscommunity" rel="nofollow" target="_blank">Superalgos Telegram Group</a> to learn more about competitions.</p>
+                    <p>With this set up, you are ready to run you algobot in backtest mode. Trading live is currently available in a <a href="documentation-competition.shtml" rel="noopener" target="_blank">competition setting</a> only. You should get a basic understanding of how your algobot and the platform work and join our <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Superalgos Telegram Group</a> to learn more about competitions.</p>
 
-                    <p>Now that you are up and running, keep exploring this documentation to learn more about the platform and your algobot so that you can get the most out of them. We recommend starting with the <a href="documentation-interface.shtml" target="_blank">Interface</a> page!</p>
+                    <p>Now that you are up and running, keep exploring this documentation to learn more about the platform and your algobot so that you can get the most out of them. We recommend starting with the <a href="documentation-interface.shtml" rel="noopener" target="_blank">Interface</a> page!</p>
 
                     <h2 id="competitions">Competitions</h2>
 
@@ -130,15 +130,15 @@ CloudVM -> Changes in code saved.
 
                     <ul>
 
-                        <li><p>A verified account with Poloniex. If you don't have one, <a href="https://poloniex.com/signup" target="_blank" rel="nofollow" target="_blank">get it here</a>. Make sure you go through the verification process so that you can trade freely. We recommend either creating a new account to use specifically with Superalgos, or at least make sure you have very little money in it&mdash;just enough to play around and participate in competitions (0.002 BTC is more than enough).</p></li>
+                        <li><p>A verified account with Poloniex. If you don't have one, <a href="https://poloniex.com/signup" rel="noopener" target="_blank" rel="nofollow" rel="noopener" target="_blank">get it here</a>. Make sure you go through the verification process so that you can trade freely. We recommend either creating a new account to use specifically with Superalgos, or at least make sure you have very little money in it&mdash;just enough to play around and participate in competitions (0.002 BTC is more than enough).</p></li>
 
-                        <li><p>An API Key to access your account programmatically. If you don't have an API key, follow the <a href="documentation-poloniex-api-key.shtml" target="_blank">instructions</a> to get one. </p></li>
+                        <li><p>An API Key to access your account programmatically. If you don't have an API key, follow the <a href="documentation-poloniex-api-key.shtml" rel="noopener" target="_blank">instructions</a> to get one. </p></li>
 
                     </ul>
 
                     <h2 id="joinourtelegramchannel">Support</h2>
 
-                    <p>Join the <a href="https://t.me/superalgoscommunity" rel="nofollow" target="_blank">Superalgos Telegram Group</a> through which we offer technical support and answer questions.</p>
+                    <p>Join the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Superalgos Telegram Group</a> through which we offer technical support and answer questions.</p>
 
                 </div>
 

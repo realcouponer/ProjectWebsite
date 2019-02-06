@@ -63,7 +63,7 @@
                     <div class="col-sm-10">
                         <h2 id="howitworks">How it Works</h2>
                         <ul>
-                            <li><p>We provide you with a functioning <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" target="_blank"><em>More about Algobots</em></a></span></span>&mdash;one of the latest competition winners&mdash;for you to start with. </p></li>
+                            <li><p>We provide you with a functioning <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" rel="noopener" target="_blank"><em>More about Algobots</em></a></span></span>&mdash;one of the latest competition winners&mdash;for you to start with. </p></li>
                             <li><p>You will get acquainted with your bot and try to improve it during a few weeks, testing and refining it while watching it perform against other algobots in the charts during the training period. </p></li>
                             <li><p>24 hours before the comp starts, you will submit your algobot so that we set it up to run in the cloud for the official competition. </p></li>
                             <li><p>During the comp, you will cheer and brag about how cool your algobot is, while hoping it beats the rest to win the prize money!</p></li>
@@ -146,7 +146,7 @@
                             </table>
                         </div>
 
-                        <p>All dates are subject to change. In case of changes, notice will be given through the official Telegram <a href="https://t.me/superalgos" rel="nofollow" target="_blank">Superalgos Announcements Channel</a>.</p>
+                        <p>All dates are subject to change. In case of changes, notice will be given through the official Telegram <a href="https://t.me/superalgos" rel="nofollow" rel="noopener" target="_blank">Superalgos Announcements Channel</a>.</p>
 
                     </div>
                 </div>
@@ -242,16 +242,16 @@
                         <h2>Getting Started</h2>
                         <h3 id="algobotteamregistration">Registration</h3>
 
-                        <p>Registration is 100% free of charge. Follow the <a href="documentation-quick-start.shtml" target="_blank">Quick Start Guide</a> to register and get started with your first bot.</p>
+                        <p>Registration is 100% free of charge. Follow the <a href="documentation-quick-start.shtml" rel="noopener" target="_blank">Quick Start Guide</a> to register and get started with your first bot.</p>
 
                         <p>This is actually a good time to do just that, so go ahead and register! But still, make sure you go through the rest of the guidelines later, so that you are familiar with the details and rules.</p>
 
-                        <p><strong>For support and to interact live with the rest of participants, join the <a href="https://t.me/superalgoscommunity" rel="nofollow" target="_blank">Superalgos Community Group</a> in Telegram. Feel free to introduce yourself and let the rest know the name of your bot.</strong></p>
+                        <p><strong>For support and to interact live with the rest of participants, join the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Superalgos Community Group</a> in Telegram. Feel free to introduce yourself and let the rest know the name of your bot.</strong></p>
 
                         <h3 id="poloniexaccount">Poloniex Account</h3>
 
-                        <p>Make sure you have an account with <a href="https://poloniex.com/" rel="nofollow" target="_blank">Poloniex</a>. If you don't, go ahead and open one ASAP, as there may be a waiting period. You will need to verify your account in order to be able to trade freely; in the meantime, you can run your algobot in backtest mode. </p>
-                        <p>You will also need to create an API key to authorize the Superalgos Platform to access your account. Follow the <a href="documentation-poloniex-api-key.shtml" target="_blank">instructions</a> if you don't know how to set up your key.</p>
+                        <p>Make sure you have an account with <a href="https://poloniex.com/" rel="nofollow" rel="noopener" target="_blank">Poloniex</a>. If you don't, go ahead and open one ASAP, as there may be a waiting period. You will need to verify your account in order to be able to trade freely; in the meantime, you can run your algobot in backtest mode. </p>
+                        <p>You will also need to create an API key to authorize the Superalgos Platform to access your account. Follow the <a href="documentation-poloniex-api-key.shtml" rel="noopener" target="_blank">instructions</a> if you don't know how to set up your key.</p>
                         <blockquote>
                             <p>Other exchanges may be added during the course of the 2019 Calendar.</p>
                         </blockquote>
@@ -263,7 +263,7 @@
 
                         <h2 id="aboutalgobots">About Algobots</h2>
 
-                        <p>You are allowed to compete with one algobot. In order to guarantee transparency, registered algobots are not allowed to connect to the exchange directly; algobots should connect to the exchange only through the AACloud <em>Assistant</em> (check the documentation to learn more about <a href="documentation-algobots.shtml" target="_blank">how trading bots work</a>). AACloud tracks algbots activity and makes the information available for everyone to audit.</p>
+                        <p>You are allowed to compete with one algobot. In order to guarantee transparency, registered algobots are not allowed to connect to the exchange directly; algobots should connect to the exchange only through the AACloud <em>Assistant</em> (check the documentation to learn more about <a href="documentation-algobots.shtml" rel="noopener" target="_blank">how trading bots work</a>). AACloud tracks algbots activity and makes the information available for everyone to audit.</p>
 
                         <p><strong>Once an algobot is released in the competition it cannot be modified.</strong></p>
 
@@ -284,7 +284,7 @@
 
                         </ul>
 
-                        <p>It is a policy of Superalgos to require all algorithms running on the platform to be released under the same license, so as to insure the free flow of knowledge that fosters the <a href="about-evolution.shtml" target="_blank">rapid-evolution of trading intelligence</a> within the ecosystem. The Superalgos Platform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml" target="_blank">Terms of Service</a>, which you need to agree to in order to participate in our competitions.</p>
+                        <p>It is a policy of Superalgos to require all algorithms running on the platform to be released under the same license, so as to insure the free flow of knowledge that fosters the <a href="about-evolution.shtml" rel="noopener" target="_blank">rapid-evolution of trading intelligence</a> within the ecosystem. The Superalgos Platform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml" rel="noopener" target="_blank">Terms of Service</a>, which you need to agree to in order to participate in our competitions.</p>
 
                     </div>
                 </div>
@@ -343,7 +343,7 @@
                             </table>
                         </div>
 
-                        <p>Poloniex fees are explained <a href="https://poloniex.com/fees/" rel="nofollow" target="_blank">here</a>.</p>
+                        <p>Poloniex fees are explained <a href="https://poloniex.com/fees/" rel="nofollow" rel="noopener" target="_blank">here</a>.</p>
 
                         <p>The competition does take fees into consideration while calculating the ranking and competition results. For that reason, fees are factored in the available balance served by the platform.</p>
 
@@ -354,7 +354,7 @@
                     <div class="col-sm-10">
                         <h2 id="ranking">Ranking</h2>
 
-                        <p>The ranking is determined by a very simple performance metric: <a href="https://www.investopedia.com/terms/r/returnoninvestment.asp" rel="nofollow" target="_blank">Return on Investment (ROI)</a>.</p>
+                        <p>The ranking is determined by a very simple performance metric: <a href="https://www.investopedia.com/terms/r/returnoninvestment.asp" rel="nofollow" rel="noopener" target="_blank">Return on Investment (ROI)</a>.</p>
 
                         <h3 id="formula">Formula</h3>
 
@@ -453,23 +453,23 @@
 
                         <h3 id="Bugs">Reporting Bugs</h3>
 
-                        <p>Please report bugs by opening <em>issues</em> at the corresponding repository in the <a href="https://github.com/Superalgos" rel="nofollow" target="_blank">Superalgos</a> organization in Github:</p>
+                        <p>Please report bugs by opening <em>issues</em> at the corresponding repository in the <a href="https://github.com/Superalgos" rel="nofollow" rel="noopener" target="_blank">Superalgos</a> organization in Github:</p>
 
                         <ul>
                             <li>
-                                <p><a href="https://github.com/Superalgos/CanvasApp" rel="nofollow" target="_blank">CanvasApp</a>: issues related to the CHARTS interface, and information rendered in the CHARTS.</p>
+                                <p><a href="https://github.com/Superalgos/CanvasApp" rel="nofollow" rel="noopener" target="_blank">CanvasApp</a>: issues related to the CHARTS interface, and information rendered in the CHARTS.</p>
                             </li>
                             <li>
-                                <p><a href="https://github.com/Superalgos/MasterApp" rel="nofollow" target="_blank">MasterApp</a>: issues related to registration, login, etc.</p>
+                                <p><a href="https://github.com/Superalgos/MasterApp" rel="nofollow" rel="noopener" target="_blank">MasterApp</a>: issues related to registration, login, etc.</p>
                             </li>
                             <li>
-                                <p><a href="https://github.com/Superalgos/UsersModule" rel="nofollow" target="_blank">UsersModule</a>: issues related to managing your own profile, searching or finding other users, etc.</p>
+                                <p><a href="https://github.com/Superalgos/UsersModule" rel="nofollow" rel="noopener" target="_blank">UsersModule</a>: issues related to managing your own profile, searching or finding other users, etc.</p>
                             </li>
                             <li>
-                                <p><a href="https://github.com/Superalgos/TeamsModule" rel="nofollow" target="_blank">TeamsModule</a>: issues related to creating, managing or finding teams, etc.</p>
+                                <p><a href="https://github.com/Superalgos/TeamsModule" rel="nofollow" rel="noopener" target="_blank">TeamsModule</a>: issues related to creating, managing or finding teams, etc.</p>
                             </li>
                             <li>
-                                <p><a href="https://github.com/Superalgos/KeyVaultModule" rel="nofollow" target="_blank">KeyVaultModule</a>: issues related to administering your API keys.</p>
+                                <p><a href="https://github.com/Superalgos/KeyVaultModule" rel="nofollow" rel="noopener" target="_blank">KeyVaultModule</a>: issues related to administering your API keys.</p>
                             </li>
                         </ul>
 

@@ -98,7 +98,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <p>The nesting of simple trading algos into more complex organisms is &ndash;in essence&mdash;an approach to learning algorithms which use live experiments to explore ranges of possible behaviors and dynamically select the most efficient ones  while discarding the less desirable. These learning mechanisms not only supply a live feedback loop to the organism doing the actual trading, but also stores valuable information to be recalled by the system at any point in time.</p>
-                        <p>It is this wealth of memories and real-life trading experiences that superalgos will harness. How exactly they are going to do that will be the outcome of the relentless evolution of the ecosystem and the work of the <a href="about-supermind.shtml#general-specialized-experiences" target="_blank">specialized intelligence segment of the supermind</a>.</p>
+                        <p>It is this wealth of memories and real-life trading experiences that superalgos will harness. How exactly they are going to do that will be the outcome of the relentless evolution of the ecosystem and the work of the <a href="about-supermind.shtml#general-specialized-experiences" rel="noopener" target="_blank">specialized intelligence segment of the supermind</a>.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>In that light, we invite researchers and computer scientists within the field of artificial intelligence to join the team and help design strategies to make the most out of the base layer of algorithms and trading experiences the community is developing.</p>

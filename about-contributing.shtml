@@ -64,7 +64,7 @@
                         <p>Leaders are flexible and constantly adapt, welcoming new requirements, iterating on solutions and even redoing work as many times as may be necessary. Our mission is to evolve our work until it reaches the expected level of quality or efficiency.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>We work in <i>domains</i> (<i>e.g.</i> Marketing, Business, Software Development, etc) interacting with peers that collaborate in a horizontal and organic fashion. There are no formal supervisors or hard hierarchies. Instead, we all follow up with each other, coordinating intersecting issues, planning integration and setting up collective goals in order to align efforts.</p>
+                        <p>We work in <i>domains</i> (<i>e.g.</i> Marketing, Business, Software Development, etc.) interacting with peers that collaborate in a horizontal and organic fashion. There are no formal supervisors or hard hierarchies. Instead, we all follow up with each other, coordinating intersecting issues, planning integration and setting up collective goals in order to align efforts.</p>
                         <p>Decisions are made by consensus within each domain and with the larger community. Ultimately, each individual person's views, choices and decisions are influenced by their peers. After all, we aim to satisfy the needs of the project as perceived by the wider community. </p>
                         <p>Leaders are open-minded people who welcome diversity of opinion. They are always willing to negotiate when confronted with diverging views, reach agreements quickly and resolve disputes amicably. </p>
                         <p>Leaders may be individuals or teams of any number of people sharing one specific area of responsibility.</p>
@@ -227,6 +227,69 @@
                             </div>
                         </div>
 
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul>
+                                    <li class="sc_pricing_data sc_pricing_title">Category 4</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Project Narrative</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Craft and maintain the project's main conceptual communication instrument covering all relevant conceptual aspects of the project.</li>
+                                    <li class="sc_pricing_data">4,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.4% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="margin_bottom_mini squareButton global big">
+                                            <a>Assigned</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul>
+                                    <li class="sc_pricing_data sc_pricing_title">Category 1</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Pith Deck</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Craft and maintain a number of target-customized pitch decks along the lifecycle of the project.</li>
+                                    <li class="sc_pricing_data">1,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.1% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="margin_bottom_mini squareButton global big">
+                                            <a>Assigned</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul>
+                                    <li class="sc_pricing_data sc_pricing_title">Category 1</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">One / Two-Pagers</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Craft and maintain a number of target-customized one and two-pagers along the lifecycle of the project.</li>
+                                    <li class="sc_pricing_data">1,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.1% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="margin_bottom_mini squareButton global big">
+                                            <a>Assigned</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -282,19 +345,40 @@
 
                         <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
                             <div class="sc_pricing_columns">
-                                <ul class="columnsAnimate">
-                                    <li class="sc_pricing_data sc_pricing_title">Category 1</li>
+                                <ul>
+                                    <li class="sc_pricing_data sc_pricing_title">Category 5</li>
                                     <li class="sc_pricing_data sc_pricing_price">
                                         <div class="sc_price_item">
-                                            <div class="sc_price_money">Pitch Decks</div>
+                                            <div class="sc_price_money">General Counsel</div>
                                         </div>
                                     </li>
-                                    <li class="sc_pricing_data sc_price_item_long">Craft and maintain a number of target-customized pitch decks along the lifecycle of the project.</li>
-                                    <li class="sc_pricing_data">1,000,000 ALGO</li>
-                                    <li class="sc_pricing_data">(0.1% of Total Supply)</li>
+                                    <li class="sc_pricing_data sc_price_item_long">Lead the legal analysis in all aspects concerning the project's development and operation, coordinating with external counsel when required.</li>
+                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.5% of Total Supply)</li>
                                     <li class="sc_pricing_data">
-                                        <span class="sc_button margin_bottom_mini squareButton global big">
-                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        <span class="margin_bottom_mini squareButton global big">
+                                            <a>Assigned</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul>
+                                    <li class="sc_pricing_data sc_pricing_title">Category 5</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Exchanges Relationship</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Craft strategies to engage with exchanges at the levels that have already been identified and move on developing and maintaining the required relationships.</li>
+                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.5% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="margin_bottom_mini squareButton global big">
+                                            <a>Assigned</a>
                                         </span>
                                     </li>
                                 </ul>
@@ -365,6 +449,48 @@
                             </div>
                         </div>
 
+                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul>
+                                    <li class="sc_pricing_data sc_pricing_title">Category 4</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Corporate Compliance</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Undertake responsibility to operate the business legally, coordinating with legal counsel to ensure compliance with local and international regulation, adopting custom measures for each market as well as internal ecosystem policies to ensure collective compliance.</li>
+                                    <li class="sc_pricing_data">4,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.4% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="margin_bottom_mini squareButton global big">
+                                            <a>Assigned</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul>
+                                    <li class="sc_pricing_data sc_pricing_title">Category 3</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Accounting</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Devise and manage the project's accounting needs, covering all fundamentals required by law.</li>
+                                    <li class="sc_pricing_data">3,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.3% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="margin_bottom_mini squareButton global big">
+                                            <a>Assigned</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -384,7 +510,7 @@
                         <p>After leaders are confirmed in their area of responsibility, a smart contract starts delivering ALGO tokens from the corresponding pool to the leaders' ALGO wallet.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>The project expects leaders to honor their responsibilities for the long run and aims to align all stakeholders interests via a smart incentives scheme. In that light, ALGO tokens in the pool are delivered in monthly installments under the following rule: 50% of the remaining tokens in the pool are delivered each year. Put in other words, there is a halving event in the delivery rate at each year mark counting from the date the area of responsibility was assigned; <i>i.e.</i> 50% of the total amount of tokens in the pool are delivered during the first year, 25% during the second year, 12.5% during the third and so on, until the tenth year in which all remaining tokens are delivered&mdash;see the table below for clarity.</p>
+                        <p>The project expects leaders to honor their responsibilities for the long run and aims to align all stakeholders interests via a smart incentives scheme. In that light, ALGO tokens in the pool are delivered in monthly installments under the following rule: 50% of the remaining tokens in the pool are delivered each year. Put in other words, there is a halving event in the delivery rate at each year mark counting from the date the area of responsibility was granted; <i>i.e.</i> 50% of the total amount of tokens in the pool are delivered during the first year, 25% during the second year, 12.5% during the third and so on, until the tenth year in which all remaining tokens are delivered&mdash;see the tables below for clarity.</p>
                     </div>
                 </div>
             </div>
@@ -546,10 +672,10 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>If at any point in time an individual leader wishes to step aside, or fails to deliver as per the expectations of the rest of the community, the project will help the person make a clean exit by delegating responsibilities into:</p>
+                        <p>If at any point in time an individual leader wishes to step aside, or fails to deliver as per the expectations of the rest of the community, the project will help the person make a clean exit by delegating responsibilities into other leaders.</p>
                         <ul>
                             <li><p>other members of the same team;</p></li>
-                            <li><p>other teams.</p></li>
+                            <li><p>other individuals or teams.</p></li>
                         </ul>
                     </div>
                     <div class="col-sm-6">
@@ -579,10 +705,35 @@
                     </div>
                     <div class="col-sm-6">
                         <p>By that time, a part of the community has become acquainted with the new team, having interacted frequently and followed their work closely. The constant revisions through regular meetings helped the new team stay on course, remain focused in priorities and producing the tutorial following agreed best practices.</p>
-                        <p>This initial piece of work along with the human interactions experienced along the way  are enough to show the community that the new team is a worthy acquisition. Without further due and through an express voting session, the new team is granted the corresponding area of responsibility, and 30 days later the team starts getting ALGO tokens in their ALGO wallet.</p>
+                        <p>This initial piece of work along with the human interactions experienced along the way  are enough to show the community that the new team is a worthy acquisition. Without further due and through an express voting session, the new team is granted the corresponding area of responsibility, and a few days later the team starts getting ALGO tokens in their ALGO wallet.</p>
                         <p>The new team is now a key part of the community. It keeps producing tutorials, promoting the Tutorials Youtube Channel and integrating their material with the rest of the marketing mix. </p>
                         <p>Along the way, the system evolves and some tutorials need adjustments or become obsolete. The team is fully responsible for staying on top of the system's progress in order to keep their material up to date.</p>
                         <p>By the second year the team has got 75% of the tokens in their area's pool and are collecting fees from the moment the service launched to the public.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="onboarding" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Onboarding Steps</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>If you are a talented individual with top level expertise in your field and would like to join the project's Team, we would be happy to have you on board. </p>
+                        <p>Please follow these steps:</p>
+                        <ol>
+                            <li><p>Study this website thoroughly to gain the best possible understanding of the project.</p></li>
+                        </ol>
+                    </div>
+                    <div class="col-sm-6">
+                        <ol start="2">
+                            <li><p>Study the following article to get acquainted with the inner workings of the project:<a href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" rel="noopener" target="_blank">Superalgos, Part One:  The Trading Singularity</a></p>
+                            <li><p><a href="contacts.shtml"><strong>Contact us</strong></a> expressing your interest. Please include the Telegram handles of members of your team in your message. We will get in touch with you to start talks and get you started.</p></li>
+                        </ol>
                     </div>
                 </div>
             </div>
