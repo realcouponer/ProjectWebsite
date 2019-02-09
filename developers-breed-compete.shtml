@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Superalgos for Developers</title>
-    <meta name="description" content="An open source crypto-trading bots competition platform featuring regular comps after which winners are forked to level the playing field.">
+    <title>Breed Trading Algos &amp; Compete</title>
+    <meta name="description" content="Join us breeding and competing with trading algos in a fun, gamified environment.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -33,10 +33,9 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h3></h3>
-                                                        <h4 style="color:white;">
-                                                            <br />Building the <i>superalgo</i> that will reorganize trading intelligence.
-                                                        </h4>
+                                                        <h2>
+                                                            Join us breeding and competing with trading algos in a fun, gamified environment
+                                                        </h2>
                                                     </div>
                                                 </div>
                                             </div>

@@ -1,8 +1,8 @@
 ﻿<!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Algobots Explained</title>
-    <meta name="description" content="Documentation: An introduction to algobots, the autonomous agents trading at the Algobots Competition Platform by Superalgos">
+    <title>Algobots</title>
+    <meta name="description" content="Documentation: An introduction to algobots, the simplest autonomous agents trading on the Superalgos Platform">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->

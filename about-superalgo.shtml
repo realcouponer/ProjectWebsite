@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>The Superalgos Superalgo</title>
-    <meta name="description" content="Combining algorithms using a vast bank of trading experiences as the food for an AI learning processes.">
+    <title>Superalgos Trading Intelligence</title>
+    <meta name="description" content="A superior trading intelligence feeding from the exploration of the trading space.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -32,9 +32,9 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h4 style="color:white;">
-                                                            <br />Combining algorithms using a vast bank of trading experiences as the food for an AI learning processes.
-                                                        </h4>
+                                                        <h2>
+                                                            A superior trading intelligence feeding from the exploration of the trading space
+                                                        </h2>
                                                     </div>
                                                 </div>
                                             </div>
