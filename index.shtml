@@ -32,10 +32,10 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h3>Superalgos</h3>
-                                                        <h3 style="color:white; font-size:200%; line-height:150%;">
-                                                            <br />We invented a framework to disrupt and outperform the reigning investments management model
-                                                        </h3>
+                                                        <h1 style="color:white; font-size:350%; line-height:150%;">Superalgos</h1>
+                                                        <h2>
+                                                            We invented a framework to disrupt and outperform the reigning investments management model
+                                                        </h2>
                                                     </div>
                                                 </div>
                                             </div>
@@ -50,10 +50,10 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h3>The Status Quo</h3>
-                                                        <h3 style="color:white; font-size:200%; line-height:150%;">
-                                                            <br />No one shares their algorithms or know-how, putting a cap to evolution of trading intelligence
-                                                        </h3>
+                                                        <h1 style="color:white; font-size:350%; line-height:150%;">The Status Quo</h2>
+                                                        <h2>
+                                                            No one shares their algorithms or know-how, putting a cap to evolution of trading technology
+                                                        </h2>
                                                     </div>
                                                 </div>
                                             </div>
@@ -68,9 +68,9 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h3>Our Approach</h3>
-                                                        <h3 style="color:white; font-size:200%; line-height:150%;">
-                                                            <br />Break the silos with a global crowd co-creating a collective trading intelligence
+                                                        <h1 style="color:white; font-size:350%; line-height:150%;">Our Approach</h2>
+                                                        <h2>
+                                                            Break the silos with a global crowd co-creating a collective trading intelligence
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -259,23 +259,21 @@
                         <h5 style="text-align: center; color:#fff;">Development Team</h5>
                         <p>The project requires a significant computer system to function, which is currently under development by several teams distributed all over the world. A number of components have been completed already, a few are in development and others are awaiting assignation.</p>
                         <p>If you are a talented developer or part of a team and wish to contribute one module to the project, you are welcome to do so. Contributing a module makes you a co-owner of the system maintenance business.</p>
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                <a href="developers-join-dev-team.shtml">Learn More</a>
+                            </span>
+                        </div>
                     </div>
                     <div class="col-sm-6">
                         <h5 style="text-align: center; color:#fff;">Business Team</h5>
                         <p>Superalgos is building a team of leaders to develop each of the domains we wish to excel at. We welcome experts in fields such as collective intelligence, social psychology, game theory, artificial intelligence, governance, management, economy, communication, marketing, law and business.</p>
                         <p>We work in a horizontal organization where leaders assume responsibility in developing a specific area. If you wish to leave a mark on the way future generations interact with the markets, we would be happy to have you.</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6 text-center">
-                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                            <a href="developers-join-dev-team.shtml">Learn More</a>
-                        </span>
-                    </div>
-                    <div class="col-sm-6 text-center">
-                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                            <a href="developers-join-dev-team.shtml">Learn More</a>
-                        </span>
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                <a href="developers-join-dev-team.shtml">Learn More</a>
+                            </span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -313,7 +311,7 @@
                         <div class="sc_accordion_item panel">
                             <h4 class="sc_accordion_title">
                                 <a data-toggle="collapse" data-parent="#roadmap" href="#roadmap_2">
-                                    Alpha-stage Competitions: soon!
+                                    Alpha-stage Competitions: coming soon!
                                 </a>
                             </h4>
                             <div id="roadmap_2" class="panel-collapse collapse in">
