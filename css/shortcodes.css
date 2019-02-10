@@ -4975,7 +4975,7 @@ a.sc_icon.bg_icon.sc_icon_round:hover:after {
 .sc_team_item .sc_team_item_description { padding-top:15px; }
 .sc_team_item .sc_team_item_info { padding: 25px 30px 25px; background-color: #ffffff; }
 .sc_team_item .sc_team_item_title { padding:0;}
-.sc_team_item .sc_team_item_position { font-size: 12px; font-weight: 700; letter-spacing: 1px; padding: 0 0 5px; text-align: left; text-transform: uppercase; color: #303036; }
+.sc_team_item .sc_team_item_position { font-size: 12px; letter-spacing: 1px; padding: 0 0 5px; text-align: left; text-transform: uppercase; color: #303036; }
 
 /* - hover - */
 .sc_team_item .sc_team_item_avatar:hover:after  {
