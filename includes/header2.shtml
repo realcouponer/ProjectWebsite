@@ -5,22 +5,35 @@
                                 <a href="#">THE PROJECT</a>
                                 <ul class="sub-menu">
                                     <li>
-                                        <a href="about-evolution.shtml" class="sf-with-ul">Evolution</a>
-                                    </li>
-                                    <li>
-                                        <a href="about-superalgo.shtml" class="sf-with-ul">Superalgos</a>
-                                    </li>
-                                    <li>
-                                        <a href="about-ecosystem.shtml" class="sf-with-ul">Ecosystem</a>
-                                    </li>
-                                    <li>
-                                        <a href="about-financial-beings.shtml" class="sf-with-ul">Financial Beings</a>
-                                    </li>
-                                    <li>
-                                        <a href="about-supermind.shtml" class="sf-with-ul">Supermind</a>
-                                    </li>
-                                    <li>
                                         <a href="about-contributing.shtml" class="sf-with-ul">Contributing</a>
+                                    </li>
+                                    <li class="menu-item-has-children">
+                                        <a href="#">Foundational Concepts</a>
+                                        <ul class="sub-menu">
+                                            <li>
+                                                <a href="about-evolution.shtml" class="sf-with-ul">Evolution</a>
+                                            </li>
+                                            <li>
+                                                <a href="about-superalgo.shtml" class="sf-with-ul">Superalgos</a>
+                                            </li>
+                                            <li>
+                                                <a href="about-supermind.shtml" class="sf-with-ul">Supermind</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item-has-children">
+                                        <a href="#">Stakeholders</a>
+                                        <ul class="sub-menu">
+                                            <li>
+                                                <a href="about-ecosystem.shtml" class="sf-with-ul">Ecosystem Overview</a>
+                                            </li>
+                                            <li>
+                                                <a href="about-financial-beings.shtml" class="sf-with-ul">Financial Beings</a>
+                                            </li>
+                                            <li>
+                                                <a href="about-team.shtml" class="sf-with-ul">Core Team</a>
+                                            </li>
+                                        </ul>
                                     </li>
                                 </ul>
                             </li>
@@ -28,13 +41,13 @@
                                 <a href="#">DEVELOPERS</a>
                                 <ul class="sub-menu">
                                     <li>
+                                        <a href="developers-join-dev-team.shtml"><nobr>Join the Dev Team</nobr></a>
+                                    </li>
+                                    <li>
                                         <a href="developers-breed-compete.shtml"><nobr>Breed Bots &amp; Compete</nobr></a>
                                     </li>
                                     <li>
                                         <a href="documentation-quick-start.shtml">Documentation</a>
-                                    </li>
-                                    <li>
-                                        <a href="developers-join-dev-team.shtml"><nobr>Join the Dev Team</nobr></a>
                                     </li>
                                 </ul>
                             </li>

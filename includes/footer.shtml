@@ -18,12 +18,13 @@
                 <div class="col-md-6 col-sm-6">
 
                     <!--#include file="email-signup.shtml" -->
-                    <p>Meet us on Social Networks:</p>
+                    <p>Meet us on your preferred network:</p>
                     <div class="socPage widgetWrap">
                         <ul>
-                            <li><a class="fab fa-telegram-plane" href="https://t.me/superalgoscommunity" title="Join us on Telgram"></a></li>
-                            <li><a class="fab fa-twitter" href="https://twitter.com/superalgos" title="Follow us on Twitter"></a></li>
-                            <li><a class="fab fa-facebook-f" href="https://www.facebook.com/Superalgos-375022859724428" title="Meet us on Facebook"></a></li>
+                            <li><a class="fab fa-telegram-plane" href="https://t.me/superalgoscommunity" title="Join us on Telgram" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a></li>
+                            <li><a class="fab fa-twitter" href="https://twitter.com/superalgos" title="Follow us on Twitter" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a></li>
+                            <li><a class="fab fa-facebook-f" href="https://www.facebook.com/Superalgos-375022859724428" title="Meet us on Facebook" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a></li>
+                            <li><a class="fab fa-github" href="https://github.com/Superalgos/" title="Check our Code" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a></li>
                         </ul>
                     </div>
 

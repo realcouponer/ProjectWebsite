@@ -125,6 +125,10 @@ a[target='_blank']::after {
     font-size: x-small;
 }
 
+a[marker='_nosymbol']::after {
+    content: '' !important;
+}
+
 /*
 **styled lists
 */
