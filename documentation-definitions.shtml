@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Superalgos Project Definitions</title>
-    <meta name="description" content="Documentation: Basic definitions about the Superalgos Project infrastructure and ecosystem">
+    <title>Superalgos Basic Definitions</title>
+    <meta name="description" content="Documentation: Basic technical definitions on the Superalgos infrastructure and ecosystem">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -115,12 +115,6 @@
                         <li>
                             <p>
                                 <a href="https://github.com/AAVikings"><strong>AAVikings</strong></a>: Its another showcase GitHub organization similar to AAMasters featuring indicators and trading algorithms.
-                            </p>
-                        </li>
-
-                        <li>
-                            <p>
-                                <a href="https://github.com/AAArena"><strong>AAArena</strong></a>: Its another showcase GitHub organization featuring the plotter rendering algobot's activities during trading competitions.
                             </p>
                         </li>
                     </ul>

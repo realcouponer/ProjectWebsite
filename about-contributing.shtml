@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Contributing to the Superalgos Project</title>
-    <meta name="description" content="Contributing to the collective project that will reshape the trading space.">
+    <title>Co-leading to the Superalgos Project</title>
+    <meta name="description" content="Help us lead an open project that will contribute to reshaping the markets.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -32,9 +32,9 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h4 style="color:white;">
-                                                            <br />Co-leading the swarm that will reshape the trading space.
-                                                        </h4>
+                                                        <h2>
+                                                            Help us lead an open project that will contribute to reshaping the markets
+                                                        </h2>
                                                     </div>
                                                 </div>
                                             </div>

@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Superalgos for Developers</title>
-    <meta name="description" content="An open source crypto-trading bots competition platform featuring regular comps after which winners are forked to level the playing field.">
+    <title>Breed Trading Algos &amp; Compete</title>
+    <meta name="description" content="Join us breeding and competing with trading algos in a fun, gamified environment.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -33,10 +33,9 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h3></h3>
-                                                        <h4 style="color:white;">
-                                                            <br />Building the <i>superalgo</i> that will reorganize trading intelligence.
-                                                        </h4>
+                                                        <h2>
+                                                            Join us breeding and competing with trading algos in a fun, gamified environment
+                                                        </h2>
                                                     </div>
                                                 </div>
                                             </div>
@@ -74,7 +73,7 @@
 
                         <img src="img/illustrations/basics-compete.svg" alt="Compete!" />
 
-                        <p>During the fourth week, your bot will compete with the rest while the crowd cheers. If it wins the race, you <strong>hit the jackpot worth $10,000!</strong></p>
+                        <p>During the fourth week, your bot will compete with the rest while the crowd cheers. If it wins the race, you hit the jackpot worth <strong>100,000 ALGO!</strong></p>
                     </div>
                     <div class="col-sm-4">
                         <h3>3. <span style="font-weight: 700; color:#e3493c">Fork Winners</span> and Start Over</h3>
@@ -160,9 +159,11 @@
                     </div>
                     <div class="col-sm-4">
                         <p>The technology required to support these dynamics is currently under development by multiple teams, in a collaborative setting. If you are a talented developer willing to participate in an open source crypto-project, we are happy to invite you to join us.</p>
-                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                            <a href="developers-join-dev-team.shtml">Learn More</a>
-                        </span>
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                <a href="developers-join-dev-team.shtml">Learn More</a>
+                            </span>
+                        </div>
                     </div>
                 </div>
             </div>

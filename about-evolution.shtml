@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>The Superalgos Evolution</title>
-    <meta name="description" content="Fostering rapid-evolution of trading algorithms through ongoing competition cycles.">
+    <title>Multidimensional Evolution</title>
+    <meta name="description" content="Fostering the rapid-evolution of trading algorithms through ongoing competition cycles.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -32,9 +32,9 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h4 style="color:white;">
-                                                            <br />Fostering rapid-evolution of trading algorithms through ongoing competition cycles.
-                                                        </h4>
+                                                        <h2>
+                                                            Fostering the rapid-evolution of trading algorithms through ongoing competition cycles
+                                                        </h2>
                                                     </div>
                                                 </div>
                                             </div>

@@ -1,0 +1,166 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>The Superalgos Team</title>
+    <meta name="description" content="Joining forces to trigger the Era of Superalgos.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/teams-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="width:85%;">
+                                                        <h2>
+                                                            Joining forces to trigger the Era of Superalgos
+                                                        </h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="team_section" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">The Core Team</h1>
+                        <h3>The Core Team was assembled during the first year of the life of the project. It is tasked, among many other things, with bootstrapping the project until it snowballs into a global <a href="about-supermind.shtml">supermind</a>.</h3>
+                        <br/>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="sc_team col-sm-12">
+                        <div class="col-md-1">
+                        </div>
+                        <div class="col-md-3">
+                            <div class="sc_team_item">
+                                <div class="sc_team_item_avatar">
+                                    <img src="img/people/Luis.jpg" alt="">
+                                    <ul class="sc_team_item_socials">
+                                        <li>
+                                            <a href="https://www.linkedin.com/in/luisfernandomolina/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="sc_team_item_info">
+                                    <div class="sc_team_item_position"><strong>Founder</strong><br/>Teams: Development, Business, Marketing</div>
+                                    <h4 class="sc_team_item_title">Luis Molina</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="sc_team_item">
+                                <div class="sc_team_item_avatar">
+                                    <img src="img/people/julian.jpg" alt="">
+                                    <ul class="sc_team_item_socials">
+                                        <li>
+                                            <a href="https://www.linkedin.com/in/julian-molina/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="sc_team_item_info">
+                                    <div class="sc_team_item_position"><strong>Co-Founder</strong><br />Teams: Business, Marketing, Management</div>
+                                    <h4 class="sc_team_item_title">Julian Molina</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="sc_team_item">
+                                <div class="sc_team_item_avatar">
+                                    <img src="img/people/Matias.jpg" alt="">
+                                    <ul class="sc_team_item_socials">
+                                        <li>
+                                            <a href="https://www.linkedin.com/in/matias-e-benitez-bb4b1926/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="sc_team_item_info">
+                                    <div class="sc_team_item_position"><strong>Co-Founder</strong><br />Teams: Development<br /><br /></div>
+                                    <h4 class="sc_team_item_title">Mat&iacute;as Benitez</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-1">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="sc_team col-sm-12">
+                        <div class="col-md-3">
+                        </div>
+                        <div class="col-md-3">
+                            <div class="sc_team_item">
+                                <div class="sc_team_item_avatar">
+                                    <img src="img/people/Barry.jpg" alt="">
+                                    <ul class="sc_team_item_socials">
+                                        <li>
+                                            <a href="https://www.linkedin.com/in/bnlow/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="sc_team_item_info">
+                                    <div class="sc_team_item_position"><strong>Co-Founder</strong><br />Teams: Development</div>
+                                    <h4 class="sc_team_item_title">Barry Low</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="sc_team_item">
+                                <div class="sc_team_item_avatar">
+                                    <img src="img/people/Nikola.jpg" alt="">
+                                    <ul class="sc_team_item_socials">
+                                        <li>
+                                            <a href="https://www.linkedin.com/in/nikola-bjelogrlic-624995118/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="sc_team_item_info">
+                                    <div class="sc_team_item_position"><strong>Co-Founder</strong><br />Teams: Development</div>
+                                    <h4 class="sc_team_item_title">Nikola Bjelogrlic</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>

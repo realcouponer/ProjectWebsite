@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Advanced Algos Ecosystem</title>
-    <meta name="description" content="An open, self-regulated economic environment around the ALGO Token.">
+    <title>Superalgos Ecosystem</title>
+    <meta name="description" content="An open, self-sustainable and self-regulating economic environment">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -31,10 +31,10 @@
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
-                                                    <div style="width:100%;">
-                                                        <h4 style="color:white;">
-                                                            <br />A self-sustainable and self-regulating economic environment.
-                                                        </h4>
+                                                    <div style="width:85%;">
+                                                        <h2>
+                                                            An open, self-sustainable and self-regulating economic environment
+                                                        </h2>
                                                     </div>
                                                 </div>
                                             </div>

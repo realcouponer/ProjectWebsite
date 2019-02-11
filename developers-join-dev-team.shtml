@@ -1,6 +1,6 @@
 <!--#include file="includes/doctype.shtml" -->
 <head>
-    <title>Superalgos System Modules</title>
+    <title>Join the Superalgos Development Team</title>
     <meta name="description" content="Co-creating the system that will serve the businesses running on Superalgos.org">
     <meta charset="utf-8">
     <!--#include file="includes/headlinks.shtml" -->
@@ -26,10 +26,10 @@
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
-                                                    <div style="width:100%;">
-                                                        <h4 style="color:white;">
-                                                            <br />Co-creating the system that will serve the businesses running on Superalgos.org
-                                                        </h4>
+                                                    <div style="width:85%;">
+                                                        <h2>
+                                                            Co-creating the system that will serve the businesses running on Superalgos.org
+                                                        </h2>
                                                     </div>
                                                 </div>
                                             </div>

@@ -2,7 +2,7 @@
 
 <head>
     <title>Contact Us</title>
-    <meta name="description" content="Contact Superalgos. We'd love to hear from you!">
+    <meta name="description" content="Get in touch with the Superalgos Core Team. We'd love to hear from you!">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -31,10 +31,9 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-
-                                                        <h4 style="color:white;">
-                                                            <br />Your feedback, comments and questions are important to us.
-                                                        </h4>
+                                                        <h2>
+                                                            Your feedback, comments and questions are important to us.
+                                                        </h2>
                                                     </div>
                                                 </div>
                                             </div>
