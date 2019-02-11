@@ -1,15 +1,15 @@
                     <a href="#" class="openResponsiveMenu">Menu</a>
                     <nav id="mainmenu_wrapper" class="menuTopWrap topMenuStyleLine">
-                        <ul id="mainmenu" class="nav sf-menu inited ">
+                        <ul id="mainmenu" class="nav sf-menu inited">
                             <li class="menu-item-has-children">
                                 <a href="#">THE PROJECT</a>
-                                <ul class="sub-menu">
+                                <ul>
                                     <li>
                                         <a href="about-contributing.shtml" class="sf-with-ul">Contributing</a>
                                     </li>
                                     <li class="menu-item-has-children">
                                         <a href="#">Foundational Concepts</a>
-                                        <ul class="sub-menu">
+                                        <ul>
                                             <li>
                                                 <a href="about-evolution.shtml" class="sf-with-ul">Evolution</a>
                                             </li>
@@ -23,7 +23,7 @@
                                     </li>
                                     <li class="menu-item-has-children">
                                         <a href="#">Stakeholders</a>
-                                        <ul class="sub-menu">
+                                        <ul>
                                             <li>
                                                 <a href="about-ecosystem.shtml" class="sf-with-ul">Ecosystem Overview</a>
                                             </li>
@@ -35,11 +35,14 @@
                                             </li>
                                         </ul>
                                     </li>
+                                    <li>
+                                        <a href="about-faqs.shtml" class="sf-with-ul">FAQs</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="menu-item-has-children">
                                 <a href="#">DEVELOPERS</a>
-                                <ul class="sub-menu">
+                                <ul>
                                     <li>
                                         <a href="developers-join-dev-team.shtml"><nobr>Join the Dev Team</nobr></a>
                                     </li>
