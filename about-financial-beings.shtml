@@ -67,7 +67,7 @@
             </div>
         </section>
 
-        <section id="notice" class="light_section">
+        <section id="notice" class="rustred_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -174,7 +174,7 @@
             </div>
         </section>
 
-        <section id="data-algorithms" class="light_section">
+        <section id="data-algorithms" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -321,7 +321,7 @@
             </div>
         </section>
 
-        <section id="trading-algorithms" class="light_section">
+        <section id="trading-algorithms" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -332,9 +332,6 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-sm-12">
-                        <h2>Plotters</h2>
-                    </div>
                     <div class="col-sm-6">
                         <p>They produce graphic representations of datasets produced by other financial beings, offering a visual tool made available in the charts timeline of the web applications used to follow financial beings activities. </p>
                     </div>
