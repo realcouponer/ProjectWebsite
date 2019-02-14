@@ -171,50 +171,6 @@
                 </div>
             </div>
         </section>
-        <!--
-    <section id="OurApproach" class="darkgrey_section">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12 text-center">
-                    <h1 class="sc_title sc_title_underline">Our Approach</h1>
-                    <h3 style="color:white;">A global crowd creates trading algorithms, which participate in competitions for prize money. After each competition ends, algorithms are open-sourced within the community. The crowd improves the best algorithms and puts them to compete again, over and over. A relentless evolutionary process kicks in driving trading intelligence to new heights, while assuring the prompt replacement of algos that lose their edge.</h3>
-                </div>
-            </div>
-            <div class="sc_accordion_item panel" style="text-align: center !important; background-color: #303036; color: #fff;">
-                <h3 class="sc_accordion_title">
-                    <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_2" class="collapsed">
-                        Learn More
-                    </a>
-                </h3>
-                <div id="accordion_left_2" class="panel-collapse collapse">
-                    <div class="sc_accordion_content">
-                        <div class="row">
-                            <div class="col-sm-4">
-                                <p>Superalgos enables and incentivizes teams of developers, traders and analysts, both professionals and amateurs alike, to come together and train trading bots that compete on a wide array of algorithmic trading competitions.</p>
-                                <p>Every time a competition finishes, bots' source code is opened, resulting in the crowd forking winners, improving them and bringing the new generation back for the next round, in the quest for fun, fame, glory and hefty prizes.</p>
-                            </div>
-                            <div class="col-sm-4">
-                                <p>The expected outcome is a relentless evolution of trading algorithms and a systematic increase in collective performance through each competition cycle.</p>
-                                <p>After enough iterations, a wealth of strategies will have been explored and tested. In the process, substantial experience will have been accumulated, constructing the collective memory that will feed and train the <i>superalgos</i> of the future.</p>
-                            </div>
-                            <div class="col-sm-4">
-                                <p>A superalgo is not just a high-performance trading algorithm. It is a <i>trading intelligence</i> that will <span class="tooltip-custom">emerge<span class="tooltiptext-custom" style="text-align: justify;">In philosophy, systems theory, science, and art, <strong>emergence</strong> occurs when "the whole is greater than the sum of the parts," meaning the whole has properties its parts do not have. These properties come about because of interactions among the parts.</br><a href="https://en.wikipedia.org/wiki/Emergence" rel="nofollow" rel="noopener" target="_blank"><em>Wikipedia: Emergence</em></a></span></span> from within this <i>evolutionary model</i>. Superalgos will know about all possible trading strategies, remember what worked and what didn't in different circumstances, and will learn from that experience. When trading, a superalgo will use any arrangement of all known strategies, dynamically switching or combining them as needed.</p>
-                            </div>
-                        </div>
-                        <div class="text-center">
-                            <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                <a href="about-evolution.shtml">More About Evolution</a>
-                            </span>
-                            &nbsp;
-                            <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                <a href="about-superalgo.shtml">More About Superalgos</a>
-                            </span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>-->
 
         <section id="TradingIntelligenceMarketplace" class="light_section">
             <div class="container">
