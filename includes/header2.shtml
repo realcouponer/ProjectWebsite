@@ -38,6 +38,20 @@
                                             </li>
                                         </ul>
                                     </li>
+                                    <li class="menu-item-has-children">
+                                        <a href="#">ALGO Token</a>
+                                        <ul>
+                                            <li>
+                                                <a href="about-algo-overview.shtml" class="sf-with-ul">Overview</a>
+                                            </li>
+                                            <li>
+                                                <a href="about-algo-economics.shtml" class="sf-with-ul">Economics &amp; Distribution</a>
+                                            </li>
+                                            <li>
+                                                <a href="about-algo-miners.shtml" class="sf-with-ul">ALGO Miners</a>
+                                            </li>
+                                        </ul>
+                                    </li>
                                     <li>
                                         <a href="about-faqs.shtml" class="sf-with-ul">FAQs</a>
                                     </li>

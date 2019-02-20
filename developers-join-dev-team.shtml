@@ -53,12 +53,14 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <p>The Superalgos project distributes the development and maintenance of the system on a global network of Dev Teams, in the quest to create a highly resilient body of talent in charge of both producing and maintaining the technology required to run the project.</p>
-                        <p>We aim to create a superior trading intelligence capable of outperforming every other participant in the markets. Such intelligence will certainly enable a number of businesses, which will depend on the project's systems to run successfully.</p>
+                        <p>We aim to create a superior trading intelligence capable of outperforming every other participant in the markets. Such intelligence will certainly enable a number of businesses, which will depend on the project's systems to run successfully. </p>
+                        <p>The system is subdivided in over 100 components consisting of frontend and backend modules along with some infrastructure and blockchain components.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p><strong>Dev Teams own the business of maintaining the system.</strong></p>
-                        <p>The system is subdivided in over 100 components consisting of frontend and backend modules along with some infrastructure and blockchain components.</p>
-                        <p>In order to achieve maximum resilience, Dev Teams develop one or two components each only, with the exception of a few pioneer teams who may have developed more than one in early stages. This means that only a few dozens of Dev Teams contributing early on will be able to participate in this role. </p>
+                        <p>In order to achieve maximum resilience, Dev Teams develop one or two components each only, with the exception of a few pioneer teams who may have developed more than two in early stages. </p>
+                        <p>This means that only a few dozens of Dev Teams contributing early on will be able to participate in this role. </p>
+                        <p>The Core Team maintains the <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">Superalgos organization</a> on GitHub. Each part of the system has its own repository to which Dev Teams contribute to.</p>
+                        <p>The chart below is an indication of the current progress on the concepts that have been so far identified.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -68,12 +70,28 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </section>
+
+        <section id="mining_algo_section" class="darkgrey_section">
+            <div class="container">
                 <div class="row">
-                    <div class="col-sm-6">
-                        <p>The Core Team maintains the <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">Superalgos organization</a> on GitHub. Each part of the system has its own repository to which Dev Teams contribute to. Dev Teams' work is characterized as voluntary work, as explained on the <a href="https://github.com/Superalgos/ProjectWebsite/blob/master/CONTRIBUTING.md" rel="nofollow" rel="noopener" target="_blank">CONTRIBUTING.MD</a> file in each repository.</p>
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Incentives</h1>
+                        <h3>
+                            Superalgos has devised a scheme that aims to incentivize developers both in the short term and in the long run. In a nutshell, developers become <strong>co-owners</strong> of the system maintenance business. To learn more about our incentives, please see the <a href="about-algo-miners.shtml">ALGO Miners</a> page.
+                        </h3>
+                        <br />
                     </div>
-                    <div class="col-sm-6">
-                        <p>In order to incentivize significant contributions, the project has created a long-term, two-fold incentives scheme by which Dev Teams are entitled to both mining ALGO tokens and earning maintenance fees once adoption reaches certain levels.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="intro" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Concepts</h1>
                     </div>
                 </div>
                 <div class="row">
@@ -85,15 +103,12 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The project allocates 15% of the total supply of ALGO tokens to the System Development Pool.</p>
-                        <p>The incentive scheme is based on Dev Teams undertaking responsibility over specific <i>concepts</i>, which usually map to one or more system components. For instance, the concept of <i>users</i> is handled by the <i>Users Backend Module</i> and the <i>Users Frontend Module</i>.</p>
-                        <p>Each concept is allocated a fraction of the System Development Pool. The precise allocation depends on the concept's <i>category</i>, which is a function of the level of criticality, urgency and difficulty. </p>
-                        <p>There are five categories, from 1 to 5.</p>
+                        <p>The chart above shows the current allocation of concepts per Development Team. </p>
+                        <p>The work of Dev Teams is based on undertaking responsibility over specific concepts, which usually map to one or more system components. For instance, the concept of users is handled by the Users Backend Module and the Users Frontend Module. </p>
                     </div>
                     <div class="col-sm-6">
-                        <p>The category number indicates the amount of ALGO tokens to be allocated to Dev Teams undertaking responsibility on a specific concept, expressed in millions (<i>i.e.</i>: a category 5 concept allocates 5 million tokens), as shown below. Bear in mind that 5 million ALGO represent 0.5% of the total supply.</p>
-                        <p>As mentioned earlier, in order for incentives to be sustainable in the long term, the project will also implement a maintenance fee payable by all financial beings running on the platform. </p>
-                        <p>More details on maintenance fees will be available in the future. Suffice to say, the project fully understands the critical nature of the maintenance of a system that will play an important role in the global trading landscape. Such incentive is going to be implemented in a way that guarantees the service level that businesses running on the software require.</p>
+                        <p>Each concept is assigned a category, which is a function of the perceived level of criticality, urgency and difficulty entailed in the particular concept. There are five categories, from 1 to 5. The more critical, urgent or difficult the concept is perceived to be, the higher the category number, which is pegged to an <span class="tooltip-custom">ALGO Miner<span class="tooltiptext-custom" style="text-align: justify;">A smart contract that allocates ALGO tokens at a preprogrammed rate to the address of a person or entity working for the Superalgos project. <a href="about-algo-miners.shtml" rel="nofollow" rel="noopener" target="_blank"><em>Learn more about ALGO Miners</em></a>.</span></span> of the same category for the purpose of incentivizing teams. </p>
+                        <p>The Chart below shows the category of the concepts identified so far. </p>
                     </div>
                 </div>
                 <div class="row">
@@ -105,7 +120,7 @@
                 </div>
             </div>
         </section>
-        <section id="development" class="light_section">
+        <section id="development" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -146,7 +161,7 @@
                 </div>
         </section>
 
-        <section id="compensation" class="light_section">
+        <section id="compensation" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -155,152 +170,17 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>Volunteering your work and taking a long-term responsibility over the concept assigned to your Dev Team leads to the community granting your team access to mining ALGO tokens from the corresponding concept's pool, and also to collect a fee from every financial being living in the platform once the service is deployed and open to the public.</p>
-                        <p>Miners are Ethereum smart contracts programmed to allocate ALGO tokens from a particular pool to a specific address. </p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>They have a predefined mining rate and a daily transaction interval. Once deployed, miners deliver 50% of the remaining tokens in the pool each year. </p>
-                        <p>Put in other words, there is a halving event in the mining rate at each year mark counting from the activation date; <i>i.e.</i> 50% of the total amount of tokens in a pool are mined during the first year, 25% during the second year, 12.5% during the third and so on, until year ten in which all remaining tokens in the specific pool are mined&mdash;see the tables below for clarity.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section id="distribution" class="light_section">
-            <div class="container">
-                <div class="row text-center">
-                    <div class="col-sm-12">
-                        <!--<div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
-        <div class="sc_pricing_columns">
-            <ul class="columnsAnimate">
-                <li class="sc_pricing_data sc_pricing_title">Category 5</li>
-                <li class="sc_pricing_data sc_pricing_price">
-                    <div class="sc_price_item">
-                        <div class="sc_price_money">5,000,000 ALGO</div>
-                    </div>
-                </li>
-                <li class="sc_pricing_data">Year 1: 2,500,000</li>
-                <li class="sc_pricing_data">Year 2: 1,250,000</li>
-                <li class="sc_pricing_data">Year 3: 625,000</li>
-                <li class="sc_pricing_data">Year 4: 312,500</li>
-                <li class="sc_pricing_data">Year 5: 156,250</li>
-                <li class="sc_pricing_data">Year 6: 78,125</li>
-                <li class="sc_pricing_data">Year 7: 39,063</li>
-                <li class="sc_pricing_data">Year 8: 19,531</li>
-                <li class="sc_pricing_data">Year 9: 9,766</li>
-                <li class="sc_pricing_data">Year 10: 9,766</li>
-            </ul>
-        </div>
-    </div>-->
-                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
-                            <div class="sc_pricing_columns">
-                                <ul class="columnsAnimate">
-                                    <li class="sc_pricing_data sc_pricing_title">Category 4</li>
-                                    <li class="sc_pricing_data sc_pricing_price">
-                                        <div class="sc_price_item">
-                                            <div class="sc_price_money">4,000,000 ALGO</div>
-                                        </div>
-                                    </li>
-                                    <li class="sc_pricing_data">Year 1: 2,000,000</li>
-                                    <li class="sc_pricing_data">Year 2: 1,000,000</li>
-                                    <li class="sc_pricing_data">Year 3: 500,000</li>
-                                    <li class="sc_pricing_data">Year 4: 250,000</li>
-                                    <li class="sc_pricing_data">Year 5: 125,000</li>
-                                    <li class="sc_pricing_data">Year 6: 62,500</li>
-                                    <li class="sc_pricing_data">Year 7: 31,250</li>
-                                    <li class="sc_pricing_data">Year 8: 15,625</li>
-                                    <li class="sc_pricing_data">Year 9: 7,813</li>
-                                    <li class="sc_pricing_data">Year 10: 7,813</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
-                            <div class="sc_pricing_columns">
-                                <ul class="columnsAnimate">
-                                    <li class="sc_pricing_data sc_pricing_title">Category 3</li>
-                                    <li class="sc_pricing_data sc_pricing_price">
-                                        <div class="sc_price_item">
-                                            <div class="sc_price_money">3,000,000 ALGO</div>
-                                        </div>
-                                    </li>
-                                    <li class="sc_pricing_data">Year 1: 1,500,000</li>
-                                    <li class="sc_pricing_data">Year 2: 750,000</li>
-                                    <li class="sc_pricing_data">Year 3: 375,000</li>
-                                    <li class="sc_pricing_data">Year 4: 187,500</li>
-                                    <li class="sc_pricing_data">Year 5: 93,750</li>
-                                    <li class="sc_pricing_data">Year 6: 46,875</li>
-                                    <li class="sc_pricing_data">Year 7: 23,438</li>
-                                    <li class="sc_pricing_data">Year 8: 11,719</li>
-                                    <li class="sc_pricing_data">Year 9: 5,859</li>
-                                    <li class="sc_pricing_data">Year 10: 5,859</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
-                            <div class="sc_pricing_columns">
-                                <ul class="columnsAnimate">
-                                    <li class="sc_pricing_data sc_pricing_title">Category 2</li>
-                                    <li class="sc_pricing_data sc_pricing_price">
-                                        <div class="sc_price_item">
-                                            <div class="sc_price_money">2,000,000 ALGO</div>
-                                        </div>
-                                    </li>
-                                    <li class="sc_pricing_data">Year 1: 1,000,000</li>
-                                    <li class="sc_pricing_data">Year 2: 500,000</li>
-                                    <li class="sc_pricing_data">Year 3: 250,000</li>
-                                    <li class="sc_pricing_data">Year 4: 125,000</li>
-                                    <li class="sc_pricing_data">Year 5: 62,500</li>
-                                    <li class="sc_pricing_data">Year 6: 31,250</li>
-                                    <li class="sc_pricing_data">Year 7: 15,625</li>
-                                    <li class="sc_pricing_data">Year 8: 7,813</li>
-                                    <li class="sc_pricing_data">Year 9: 3,906</li>
-                                    <li class="sc_pricing_data">Year 10: 3,906</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
-                            <div class="sc_pricing_columns">
-                                <ul class="columnsAnimate">
-                                    <li class="sc_pricing_data sc_pricing_title">Category 1</li>
-                                    <li class="sc_pricing_data sc_pricing_price">
-                                        <div class="sc_price_item">
-                                            <div class="sc_price_money">1,000,000 ALGO</div>
-                                        </div>
-                                    </li>
-                                    <li class="sc_pricing_data">Year 1: 500,000</li>
-                                    <li class="sc_pricing_data">Year 2: 250,000</li>
-                                    <li class="sc_pricing_data">Year 3: 125,000</li>
-                                    <li class="sc_pricing_data">Year 4: 62,500</li>
-                                    <li class="sc_pricing_data">Year 5: 31,250</li>
-                                    <li class="sc_pricing_data">Year 6: 15,625</li>
-                                    <li class="sc_pricing_data">Year 7: 7,813</li>
-                                    <li class="sc_pricing_data">Year 8: 3,906</li>
-                                    <li class="sc_pricing_data">Year 9: 1,953</li>
-                                    <li class="sc_pricing_data">Year 10: 1,953</li>
-                                </ul>
-                            </div>
-                        </div>
+                        <p>Dev Teams are assigned a miner during the final stage of the onboarding process, once they have started works.</p>
+                        <p>However, the miner is activated and started only after the team has pushed the solution for the original requirements into production, having gone through a testing phase in development.</p>
 
                     </div>
-                </div>
-            </div>
-        </section>
-        <section id="compensation2" class="light_section">
-            <div class="container">
-                <div class="row">
                     <div class="col-sm-6">
-                        <p>The number of tokens reserved for each pool is related to the concept's category. There are five categories, from one to five. The category number indicates the amount of ALGO tokens in the pool expressed in millions (<i>i.e.</i> a category 1 pool has 1 million tokens).</p>
-                        <p>The category number is a reflection of the perceived level of criticality, urgency and difficulty entailed in the particular concept. The higher the number, the more critical, urgent and / or difficult the area of responsibility is recognized to be.</p>
-                        <p>All category 5 concepts have been assigned already, thus, concepts available now span from category 1 to category 4.</p>
-                        <p>Dev Teams are assigned a miner during the final stage of the onboarding process, once they have started works.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>However, the miner is activated and started only after the team has pushed the solution for the original requirements into production, having gone through a testing phase in development.</p>
-                        <p>Once a miner is started, it allocates ALGO tokens to one or more addresses controlled by the team in daily transactions.</p>
                         <p>The Core Team remains in control of the miner throughout the life of the project. The miner may be paused in cases when a team becomes unresponsive or does not satisfy the service level agreements established for maintenance. Should a Dev Team become a liability for the project for whatever reason, the Core Team may decide to stop the miner and find a replacement for the team at fault.</p>
                     </div>
                 </div>
             </div>
         </section>
+
         <section id="compensation" class="light_section">
             <div class="container">
                 <div class="row">
@@ -310,8 +190,8 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>Let's use an example to bring down to earth everything said so far.</p>
-                        <p>A team of three developers wishes to contribute to the development of the Superalgos System. They get in touch with the project, meet the technical core team maintaining the <a href="https://github.com/Superalgos" rel="nofollow" rel="noopener" target="_blank">Superalgos organization in Github</a>, discuss priorities and apply to work on a specific concept.</p>
+                        <p>Let's use an example to bring everything said so far down to earth.</p>
+                        <p>A team of three developers wishes to contribute to the development of the Superalgos system. They get in touch with the project, meet the technical core team maintaining the <a href="https://github.com/Superalgos" rel="nofollow" rel="noopener" target="_blank">Superalgos organization in Github</a>, discuss priorities and apply to work on a specific concept.</p>
                         <p>The selected concept becomes their area of responsibility. </p>
                         <p>Every piece of functionality identified (or to be identified) that logically falls within the scope of that particular concept becomes the team's responsibility. Their mission is to develop the corresponding components, refine them and maintain them.</p>
                         <p>The team starts out by joining regular developer meetings, at least once per week; they discuss their concept with other developers, getting acquainted with the system architecture and gathering initial definitions. </p>
@@ -328,7 +208,7 @@
             </div>
         </section>
 
-        <section id="covenants" class="light_section">
+        <section id="covenants" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -370,10 +250,10 @@
                     <div class="col-sm-6">
                         <ol start="2">
                             <li><p>Study the following articles to get acquainted with the inner workings of the project:</p></li>
-                                <ul>
-                                    <li><a href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" rel="noopener" target="_blank">Superalgos, Part One:  The Trading Singularity</a></li>
-                                    <li><a href="https://hackernoon.com/superalgos-part-two-building-a-trading-supermind-a47bdc73aed" rel="nofollow" rel="noopener" target="_blank">Superalgos, Part Two:  Building a Trading Supermind</a></li>
-                                </ul>
+                            <ul>
+                                <li><a href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" rel="noopener" target="_blank">Superalgos, Part One:  The Trading Singularity</a></li>
+                                <li><a href="https://hackernoon.com/superalgos-part-two-building-a-trading-supermind-a47bdc73aed" rel="nofollow" rel="noopener" target="_blank">Superalgos, Part Two:  Building a Trading Supermind</a></li>
+                            </ul>
                             <li><p><a href="contacts.shtml"><strong>Contact us</strong></a> expressing your interest. Please include the Telegram handles of members of your team in your message. We will get in touch with you to start talks and get you started.</p></li>
                         </ol>
                     </div>

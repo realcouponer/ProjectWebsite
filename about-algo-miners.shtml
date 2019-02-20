@@ -1,0 +1,301 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>ALGO Miners</title>
+    <meta name="description" content="The backbone of the Superalgos incentives scheme.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/puzzle-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="width:85%;">
+                                                        <h2>
+                                                            The backbone of the Superalgos incentives scheme
+                                                        </h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Proof_of_Value_section" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Proof of Worth</h1>
+                        <h3>
+                            Mining the ALGO token has nothing to do with hardware rigs, electricity or proof of work. Instead, it is about investing time and effort to add value to the project.
+                        </h3>
+                        <br />
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Bitcoin borrowed the mining analogy from the mining industry as a way to convey the notion that securing the network requires significant investments of various resources. Entities willing to make such investments and provide such valuable service to the network would in turn be compensated with newly minted bitcoin.</p>
+                        <p>It is in that same spirit that we too borrow the term to describe how any person or company may help secure the success of the Superalgos project, and obtain ALGO tokens in reward.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Beyond being <a href="about-algo-overview.shtml">the medium of exchange within the ecosystem and a form of energy enabling financial life</a>, ALGO is also the backbone of the Superalgos project incentives scheme. People and companies working with the project, starting with the Core Team, the Dev Team and the larger Superalgos Team as a whole are all incentivized with ALGO, for as long as they keep adding value to the project.</p>
+                        <p><strong>An <i>ALGO Miner</i> is, thus, the instrument used to distribute ALGO among all the entities that add value to the Superalgos project.</strong></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="ALGO_Miners_section" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">ALGO Miners</h1>
+                        <h3>
+                            An ALGO Miner is an Ethereum smart contract. Mining ALGO requires zero technical skills as the whole process is managed by the Core Team.
+                        </h3>
+                        <br />
+                    </div>
+                    <div class="col-sm-6">
+                        <p>The Superalgos incentives scheme is designed to satisfy a fundamental requirement: keep key stakeholders incentivized throughout the life of the project, meaning both in the short term and in the long run.</p>
+                        <p>For short term incentives, the project counts with a limited number of tokens reserved for <a href="about-algo-economics.shtml#Distribution_section">Software Development and Project Development</a>. Added together, that reserve amounts to 25% of the total supply of tokens.</p>
+                        <p>For long term incentives, we count with an unlimited source of tokens: a fee all financial beings will need to pay in order to run on the platform. This feature is not yet implemented, but will be in the future.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>As such, ALGO miners have three main features:</p>
+                        <ul>
+                            <li>
+                                <p>allocate a specific number of tokens from the corresponding pool (software or project development) to a beneficiary address;</p>
+                            </li>
+                            <li>
+                                <p>route a fraction of the fee financial beings will pay to a beneficiary address;</p>
+                            </li>
+                            <li>
+                                <p>participate in the governance of the project (this feature is not implemented nor even defined yet).</p>
+                            </li>
+                        </ul>
+                        <p>In essense, entities holding an ALGO Miner become co-owners of the Superalgos project.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Short_Term_Incentives_section" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Short Term Incentives</h1>
+                        <br />
+                    </div>
+                    <div class="col-sm-6">
+                        <p>There are 5 categories of miners: from Category 1 to Category 5.</p>
+                        <p>The category number indicates the number of ALGO tokens&mdash;in millions&mdash;that the miner is programmed to allocate (total capacity) along a period of time. </p>
+                        <p>For instance, a Category 1 Miner has the capacity to allocate 1 million tokens, while a Category 5 Miner allocates 5 million tokens.</p>
+                        <p>Miners have a predefined mining rate and a daily transaction interval. This means that a miner allocates a certain number of ALGO to the beneficiary address once per day.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Miners allocate ALGO as follows: </p>
+                        <ul>
+                            <li>
+                                <p>one half (&frac12; or 50%) of the total capacity is allocated on the first year;</p>
+                            </li>
+                            <li>
+                                <p>one fourth (&frac14; or 25%) of the total capacity is allocated on the second year;</p>
+                            </li>
+                            <li>
+                                <p>one eighth (&frac18; or 12.5%) is allocated on the third year... and so it goes, halving each year for a total of nine years;</p>
+                            </li>
+                            <li>
+                                <p>on year 10, all of the remaining ALGO are allocated. </p>
+                            </li>
+                        </ul>
+                        <p>Put in other words, miners deliver 50% of the remaining tokens each year. Please see the tables below for clarity.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="tables_section" class="light_section">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-sm-12">
+                        <div class="col-sm-6 col-md-4 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 1</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">1,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 500,000</li>
+                                    <li class="sc_pricing_data">Year 2: 250,000</li>
+                                    <li class="sc_pricing_data">Year 3: 125,000</li>
+                                    <li class="sc_pricing_data">Year 4: 62,500</li>
+                                    <li class="sc_pricing_data">Year 5: 31,250</li>
+                                    <li class="sc_pricing_data">Year 6: 15,625</li>
+                                    <li class="sc_pricing_data">Year 7: 7,813</li>
+                                    <li class="sc_pricing_data">Year 8: 3,906</li>
+                                    <li class="sc_pricing_data">Year 9: 1,953</li>
+                                    <li class="sc_pricing_data">Year 10: 1,953</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-4 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 2</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">2,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 1,000,000</li>
+                                    <li class="sc_pricing_data">Year 2: 500,000</li>
+                                    <li class="sc_pricing_data">Year 3: 250,000</li>
+                                    <li class="sc_pricing_data">Year 4: 125,000</li>
+                                    <li class="sc_pricing_data">Year 5: 62,500</li>
+                                    <li class="sc_pricing_data">Year 6: 31,250</li>
+                                    <li class="sc_pricing_data">Year 7: 15,625</li>
+                                    <li class="sc_pricing_data">Year 8: 7,813</li>
+                                    <li class="sc_pricing_data">Year 9: 3,906</li>
+                                    <li class="sc_pricing_data">Year 10: 3,906</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-4 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 3</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">3,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 1,500,000</li>
+                                    <li class="sc_pricing_data">Year 2: 750,000</li>
+                                    <li class="sc_pricing_data">Year 3: 375,000</li>
+                                    <li class="sc_pricing_data">Year 4: 187,500</li>
+                                    <li class="sc_pricing_data">Year 5: 93,750</li>
+                                    <li class="sc_pricing_data">Year 6: 46,875</li>
+                                    <li class="sc_pricing_data">Year 7: 23,438</li>
+                                    <li class="sc_pricing_data">Year 8: 11,719</li>
+                                    <li class="sc_pricing_data">Year 9: 5,859</li>
+                                    <li class="sc_pricing_data">Year 10: 5,859</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="col-sm-6 col-md-6 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 4</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">4,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 2,000,000</li>
+                                    <li class="sc_pricing_data">Year 2: 1,000,000</li>
+                                    <li class="sc_pricing_data">Year 3: 500,000</li>
+                                    <li class="sc_pricing_data">Year 4: 250,000</li>
+                                    <li class="sc_pricing_data">Year 5: 125,000</li>
+                                    <li class="sc_pricing_data">Year 6: 62,500</li>
+                                    <li class="sc_pricing_data">Year 7: 31,250</li>
+                                    <li class="sc_pricing_data">Year 8: 15,625</li>
+                                    <li class="sc_pricing_data">Year 9: 7,813</li>
+                                    <li class="sc_pricing_data">Year 10: 7,813</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 5</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">5,000,000 ALGO</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data">Year 1: 2,500,000</li>
+                                    <li class="sc_pricing_data">Year 2: 1,250,000</li>
+                                    <li class="sc_pricing_data">Year 3: 625,000</li>
+                                    <li class="sc_pricing_data">Year 4: 312,500</li>
+                                    <li class="sc_pricing_data">Year 5: 156,250</li>
+                                    <li class="sc_pricing_data">Year 6: 78,125</li>
+                                    <li class="sc_pricing_data">Year 7: 39,063</li>
+                                    <li class="sc_pricing_data">Year 8: 19,531</li>
+                                    <li class="sc_pricing_data">Year 9: 9,766</li>
+                                    <li class="sc_pricing_data">Year 10: 9,766</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Long_Term_Incentives_section" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Long Term Incentives</h1>
+                        <br />
+                    </div>
+                    <div class="col-sm-6">
+                        <p>In the not-so-distant future, algorithms in the platform will need to pay a fee to stay alive and running.</p>
+                        <p>Part of the fee will go to cover expenses directly related to running the algorithm, for example, cloud resources such as memory, processing capacity, storage space and bandwidth. </p>
+                        <p>Another part of the fee will go to cover indirect expenses, such as running the rest of the software infrastructure.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Yet another fraction of the fee will go to paying for the work a number of people and companies do in many different domains in order for the project to thrive. Such work includes software maintenance, marketing or management to name a few. This is the fraction of the fee that is distributed through ALGO Miners.</p>
+                        <p>The fraction of the fee corresponding to ALGO Miners will of course be distributed in proportion to the category of each miner, and will be paid for as long as the miner is active. </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="mining_algo_section" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Mining ALGO</h1>
+                        <h3>
+                            To mine ALGO Tokens, you need to contribute to the Superalgos project by assuming an area of responsibility within any of the existing teams. If you are a developer, you might want to check our <a href="developers-join-dev-team.shtml">Join the Dev Team</a> page. For different interests, please visit our <a href="about-contributing.shtml">Project Development</a> page.
+                        </h3>
+                        <br />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>

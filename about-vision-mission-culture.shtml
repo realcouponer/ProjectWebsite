@@ -46,49 +46,57 @@
                     </div>
                 </div>
             </div>
-        </section>
+            </section>
 
-        <section id="team_section" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Our Vision</h1>
-                        <h3>A superior trading intelligence evolving within an open global collaboration of humans and machines, at the service of all people.</h3>
-                        <br />
+            <section id="team_section" class="light_section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+                            <h1 class="sc_title sc_title_underline">Our Vision</h1>
+                            <h3>A superior trading intelligence evolving within an open global collaboration of humans and machines, at the service of all people.</h3>
+                            <br />
+                        </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Our Mission</h1>
-                        <h3>
-                            To trigger the Era of Superalgos, a collective trading intelligence that shall disrupt and outperform the reigning investments management model.
-                        </h3>
-                        <br />
+            </section>
+
+            <section id="team_section" class="darkgrey_section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+                            <h1 class="sc_title sc_title_underline">Our Mission</h1>
+                            <h3>
+                                To trigger the Era of Superalgos, a collective trading intelligence that shall disrupt and outperform the reigning investments management model.
+                            </h3>
+                            <br />
+                        </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Our Culture</h1>
-                        <br />
-                    </div>
-                    <div class="col-sm-6">
-                        <p>We are a collective organization embracing openness, collaboration and integrity as the basis of our working relationship. As a collective, we share a common fate, thus we will go through failure and success together, each of us in command of our area of responsibility.</p>
-                        <p>We strive to grow in diversity and achieve balance on every possible human variable, as a means to reflect the openness of the project and augment its collective intelligence.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>We make our voice heard by adding value and earning the recognition of our peers. </p>
-                        <p>We commit to subject our work to the forces of evolution, welcoming change and new needs as drivers of our collective improvement.</p>
-                        <p>We pledge to defend and protect the ALGO ecosystem, as a means to consolidate the sense of collective ownership of all participants.</p>
+            </section>
+
+            <section id="team_section" class="light_section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+                            <h1 class="sc_title sc_title_underline">Our Culture</h1>
+                            <br />
+                        </div>
+                        <div class="col-sm-6">
+                            <p>We are a collective organization embracing openness, collaboration and integrity as the basis of our working relationship. As a collective, we share a common fate, thus we will go through failure and success together, each of us in command of our area of responsibility.</p>
+                            <p>We strive to grow in diversity and achieve balance on every possible human variable, as a means to reflect the openness of the project and augment its collective intelligence.</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p>We make our voice heard by adding value and earning the recognition of our peers. </p>
+                            <p>We commit to subject our work to the forces of evolution, welcoming change and new needs as drivers of our collective improvement.</p>
+                            <p>We pledge to defend and protect the ALGO ecosystem, as a means to consolidate the sense of collective ownership of all participants.</p>
+                        </div>
                     </div>
                 </div>
-
-            </div>
-        </section>
+            </section>
 
 
-
-        <!--#include file="includes/footer.shtml" -->
-        <!--#include file="includes/preloader2.shtml" -->
+            <!--#include file="includes/footer.shtml" -->
+            <!--#include file="includes/preloader2.shtml" -->
 
 </body>
 </html>

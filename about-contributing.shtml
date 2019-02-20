@@ -2,7 +2,7 @@
 
 <head>
     <title>Co-leading to the Superalgos Project</title>
-    <meta name="description" content="Help us lead an open project that will contribute to reshaping the markets.">
+    <meta name="description" content="Help us lead an open project that will contribute to reshape financial markets.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -33,7 +33,7 @@
                                                 <div>
                                                     <div style="width:85%;">
                                                         <h2>
-                                                            Help us lead an open project that will contribute to reshaping the markets
+                                                            Help us lead an open project that will contribute to reshape financial markets
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -58,10 +58,10 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>Superalgos is a collective project, open for people to join and contribute. As a community, we aim to attract the best minds and spirits; people who share our vision and values; women and men willing to drive change and pursue the project's long-term goals.</p>
+                        <p>Superalgos is a collective project, open for people to join and contribute. As a community, we aim to attract the best minds and spirits; people who share <a href="about-vision-mission-culture.shtml">our vision and values</a>; women and men willing to drive change and pursue the project's long-term goals.</p>
                         <p><strong>At this early stage, people joining the project are those willing to undertake a leadership role: our work organization is founded on the distribution of responsibilities.</strong> </p>
                         <p>As leaders, we are expected to assume full responsibility on our specific fields of work. This means our scope of work is doing whatever it takes for our area of responsibility to be developed to the level the project needs at each point in time. In fact, the extent of the work of leaders is dynamic. As the project evolves, new needs arise. </p>
-                        <p>Leaders are flexible and constantly adapt, welcoming new requirements, iterating on solutions and even redoing work as many times as may be necessary. Our mission is to evolve our work until it reaches the expected level of quality or efficiency.</p>
+                        <p>Leaders are flexible and constantly adapting, welcoming new requirements, iterating on solutions and even redoing work as many times as may be necessary. Our mission is to evolve our work until it reaches the expected level of quality or efficiency.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>We work in <i>domains</i> (<i>e.g.</i> Marketing, Business, Software Development, etc.) interacting with peers that collaborate in a horizontal and organic fashion. There are no formal supervisors or hard hierarchies. Instead, we all follow up with each other, coordinating intersecting issues, planning integration and setting up collective goals in order to align efforts.</p>
@@ -73,23 +73,35 @@
             </div>
         </section>
 
+        <section id="mining_algo_section" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Incentives</h1>
+                        <h3>
+                            Superalgos has devised a scheme that aims to incentivize contributors both in the short term and in the long run. In a nutshell, the aforementioned leaders become <strong>co-owners</strong> of the Superalgos project. To learn more about our incentives for leaders, please see the <a href="about-algo-miners.shtml">ALGO Miners</a> page.
+                        </h3>
+                        <br />
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section id="positions" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Open Positions & Incentives</h1>
-                        <h5 class="sc_title sc_title_underline">WE VALUE YOUR CONTRIBUTION</h5>
+                        <h1 class="sc_title sc_title_underline">Open Positions</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>Our work in the Superalgos Project is characterized as volunteer work. In order to incentivize contributions, the project reserves 10% of the total supply of ALGO tokens to be distributed among the leadership of the project.</p>
-                        <p>Areas of responsibility are categorized in numbers, from 1 to 5. The category number is a reflection of the perceived level of criticality, urgency or scope entailed in the particular area of responsibility. The higher the number, the more critical, urgent or the largest the scope the area of responsibility is recognized to have.</p>
+                        <p>Our work in the Superalgos Project is characterized as volunteer work. In order to incentivize contributions, the project reserves 10% of the total supply of ALGO tokens to be distributed among the Project Development Team. </p>
+                        <p>Areas of responsibility are categorized in numbers, from 1 to 5. The category number is a reflection of the perceived level of criticality, urgency or scope entailed in the particular area. The higher the number, the more critical, urgent or the largest the scope the area is recognized to have. </p>
                     </div>
                     <div class="col-sm-6">
-                        <p>In terms of incentives, the category number indicates the amount of ALGO tokens to be allocated to leaders undertaking a specific area of responsibility, expressed in millions (<i>i.e.</i> a category 5 area allocates 5 million tokens).</p>
-                        <p>Domains and specific areas of responsibility are dynamically identified and assigned by the community as the project advances. </p>
-                        <p>The table below shows the existing areas of responsibility grouped by domain. The ones with an <i>Apply!</i> button indicate the areas available for new leaders to undertake.</p>
+                        <p>In terms of incentives, the category number of the area of responsibility is mapped with the category of the miner associated to the area, meaning for example that if you assume responsibility over a category 3 area, you will get a category 3 miner in compensation. </p>
+                        <p>Domains and specific areas of responsibility are dynamically identified and assigned by the community as the project advances. The table below shows the existing areas of responsibility grouped by domain. The ones with an <i>Apply!</i> button indicate the areas available for new leaders to undertake. </p>
                     </div>
                 </div>
             </div>
@@ -269,7 +281,7 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                        <div class="col-sm-6 col-md-12 sc_pricing_dark sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul>
                                     <li class="sc_pricing_data sc_pricing_title">Category 1</li>
@@ -396,7 +408,7 @@
                     <div class="col-sm-12">
                         <h2 class="sc_title margin_bottom_mini">Collective Intelligence</h2>
 
-                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                        <div class="col-sm-6 col-md-12 sc_pricing_dark sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul class="columnsAnimate">
                                     <li class="sc_pricing_data sc_pricing_title">Category 5</li>
@@ -428,7 +440,7 @@
                     <div class="col-sm-12">
                         <h2 class="sc_title margin_bottom_mini">Management</h2>
 
-                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                        <div class="col-sm-6 col-md-4 sc_pricing_light sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul>
                                     <li class="sc_pricing_data sc_pricing_title">Category 5</li>
@@ -449,7 +461,7 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                        <div class="col-sm-6 col-md-4 sc_pricing_light sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul>
                                     <li class="sc_pricing_data sc_pricing_title">Category 4</li>
@@ -470,7 +482,7 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
+                        <div class="col-sm-6 col-md-4 sc_pricing_light sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul>
                                     <li class="sc_pricing_data sc_pricing_title">Category 3</li>
@@ -496,195 +508,31 @@
             </div>
         </section>
 
-        <section id="incentives" class="light_section">
+        <section id="incentives" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Incentives Distribution</h1>
-                        <h5 class="sc_title sc_title_underline">UNDERTAKING AN AREA OF RESPONSIBILITY</h5>
+                        <h1 class="sc_title sc_title_underline">Undertaking an Area of Responsibility</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>In order to be granted the assignment of an area of responsibility, leaders need to show the community that they are the right person or team for the job. To do that, they apply for a specific area and start working. After some time, they will have produced a body of work consisting of a usable first version of whatever their area of responsibility requires. Once the piece of work satisfies the community, the area of responsibility is granted and the new leader acquires entitlements to the corresponding incentives in the form of ALGO tokens.</p>
-                        <p>After leaders are confirmed in their area of responsibility, a smart contract starts delivering ALGO tokens from the corresponding pool to the leaders' ALGO wallet.</p>
+                        <p>In order to be granted the assignment of an area of responsibility, leaders need to show the community that they are the right person or team for the job. To do that, they apply for a specific area and start working. After some time, they will have produced a body of work consisting of a usable first version of whatever their area of responsibility requires. Once the piece of work satisfies the community, the area of responsibility is granted and the new leader acquires the corresponding <span class="tooltip-custom">ALGO Miner<span class="tooltiptext-custom" style="text-align: justify;">A smart contract that allocates ALGO tokens at a preprogrammed rate to the address of a person or entity working for the Superalgos project. <a href="about-algo-miners.shtml" rel="nofollow" rel="noopener" target="_blank"><em>Learn more about ALGO Miners</em></a>.</span></span>.</p>
+                        <p>If at any point in time an individual leader wishes to step aside, or fails to deliver as per the expectations of the rest of the community, the project will help the person make a clean exit by delegating responsibilities into:</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>The project expects leaders to honor their responsibilities for the long run and aims to align all stakeholders interests via a smart incentives scheme. In that light, ALGO tokens in the pool are delivered in monthly installments under the following rule: 50% of the remaining tokens in the pool are delivered each year. Put in other words, there is a halving event in the delivery rate at each year mark counting from the date the area of responsibility was granted; <i>i.e.</i> 50% of the total amount of tokens in the pool are delivered during the first year, 25% during the second year, 12.5% during the third and so on, until the tenth year in which all remaining tokens are delivered&mdash;see the tables below for clarity.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="distribution" class="darkgrey_section">
-            <div class="container">
-                <div class="row text-center">
-                    <div class="col-sm-12">
-
-                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
-                            <div class="sc_pricing_columns">
-                                <ul class="columnsAnimate">
-                                    <li class="sc_pricing_data sc_pricing_title">Category 5</li>
-                                    <li class="sc_pricing_data sc_pricing_price">
-                                        <div class="sc_price_item">
-                                            <div class="sc_price_money">5,000,000 ALGO</div>
-                                        </div>
-                                    </li>
-                                    <li class="sc_pricing_data">Year 1: 2,500,000</li>
-                                    <li class="sc_pricing_data">Year 2: 1,250,000</li>
-                                    <li class="sc_pricing_data">Year 3: 625,000</li>
-                                    <li class="sc_pricing_data">Year 4: 312,500</li>
-                                    <li class="sc_pricing_data">Year 5: 156,250</li>
-                                    <li class="sc_pricing_data">Year 6: 78,125</li>
-                                    <li class="sc_pricing_data">Year 7: 39,063</li>
-                                    <li class="sc_pricing_data">Year 8: 19,531</li>
-                                    <li class="sc_pricing_data">Year 9: 9,766</li>
-                                    <li class="sc_pricing_data">Year 10: 9,766</li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
-                            <div class="sc_pricing_columns">
-                                <ul class="columnsAnimate">
-                                    <li class="sc_pricing_data sc_pricing_title">Category 4</li>
-                                    <li class="sc_pricing_data sc_pricing_price">
-                                        <div class="sc_price_item">
-                                            <div class="sc_price_money">4,000,000 ALGO</div>
-                                        </div>
-                                    </li>
-                                    <li class="sc_pricing_data">Year 1: 2,000,000</li>
-                                    <li class="sc_pricing_data">Year 2: 1,000,000</li>
-                                    <li class="sc_pricing_data">Year 3: 500,000</li>
-                                    <li class="sc_pricing_data">Year 4: 250,000</li>
-                                    <li class="sc_pricing_data">Year 5: 125,000</li>
-                                    <li class="sc_pricing_data">Year 6: 62,500</li>
-                                    <li class="sc_pricing_data">Year 7: 31,250</li>
-                                    <li class="sc_pricing_data">Year 8: 15,625</li>
-                                    <li class="sc_pricing_data">Year 9: 7,813</li>
-                                    <li class="sc_pricing_data">Year 10: 7,813</li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
-                            <div class="sc_pricing_columns">
-                                <ul class="columnsAnimate">
-                                    <li class="sc_pricing_data sc_pricing_title">Category 3</li>
-                                    <li class="sc_pricing_data sc_pricing_price">
-                                        <div class="sc_price_item">
-                                            <div class="sc_price_money">3,000,000 ALGO</div>
-                                        </div>
-                                    </li>
-                                    <li class="sc_pricing_data">Year 1: 1,500,000</li>
-                                    <li class="sc_pricing_data">Year 2: 750,000</li>
-                                    <li class="sc_pricing_data">Year 3: 375,000</li>
-                                    <li class="sc_pricing_data">Year 4: 187,500</li>
-                                    <li class="sc_pricing_data">Year 5: 93,750</li>
-                                    <li class="sc_pricing_data">Year 6: 46,875</li>
-                                    <li class="sc_pricing_data">Year 7: 23,438</li>
-                                    <li class="sc_pricing_data">Year 8: 11,719</li>
-                                    <li class="sc_pricing_data">Year 9: 5,859</li>
-                                    <li class="sc_pricing_data">Year 10: 5,859</li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
-                            <div class="sc_pricing_columns">
-                                <ul class="columnsAnimate">
-                                    <li class="sc_pricing_data sc_pricing_title">Category 2</li>
-                                    <li class="sc_pricing_data sc_pricing_price">
-                                        <div class="sc_price_item">
-                                            <div class="sc_price_money">2,000,000 ALGO</div>
-                                        </div>
-                                    </li>
-                                    <li class="sc_pricing_data">Year 1: 1,000,000</li>
-                                    <li class="sc_pricing_data">Year 2: 500,000</li>
-                                    <li class="sc_pricing_data">Year 3: 250,000</li>
-                                    <li class="sc_pricing_data">Year 4: 125,000</li>
-                                    <li class="sc_pricing_data">Year 5: 62,500</li>
-                                    <li class="sc_pricing_data">Year 6: 31,250</li>
-                                    <li class="sc_pricing_data">Year 7: 15,625</li>
-                                    <li class="sc_pricing_data">Year 8: 7,813</li>
-                                    <li class="sc_pricing_data">Year 9: 3,906</li>
-                                    <li class="sc_pricing_data">Year 10: 3,906</li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
-                            <div class="sc_pricing_columns">
-                                <ul class="columnsAnimate">
-                                    <li class="sc_pricing_data sc_pricing_title">Category 1</li>
-                                    <li class="sc_pricing_data sc_pricing_price">
-                                        <div class="sc_price_item">
-                                            <div class="sc_price_money">1,000,000 ALGO</div>
-                                        </div>
-                                    </li>
-                                    <li class="sc_pricing_data">Year 1: 500,000</li>
-                                    <li class="sc_pricing_data">Year 2: 250,000</li>
-                                    <li class="sc_pricing_data">Year 3: 125,000</li>
-                                    <li class="sc_pricing_data">Year 4: 62,500</li>
-                                    <li class="sc_pricing_data">Year 5: 31,250</li>
-                                    <li class="sc_pricing_data">Year 6: 15,625</li>
-                                    <li class="sc_pricing_data">Year 7: 7,813</li>
-                                    <li class="sc_pricing_data">Year 8: 3,906</li>
-                                    <li class="sc_pricing_data">Year 9: 1,953</li>
-                                    <li class="sc_pricing_data">Year 10: 1,953</li>
-                                </ul>
-                            </div>
-                        </div>
-
-
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-        <section id="maintenance" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Additional Incentives</h1>
-                        <h5 class="sc_title sc_title_underline">THINKING LONG TERM</h5>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <p>In addition to the incentives in the pool of tokens corresponding to each area of responsibility, leaders are also entitled to a second form of incentives that shall become available once the service is launched to the general public: leaders will collect fees from all financial beings living in the platform.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>There are no precise definitions as of how fees will work at this point in time. The intent, however, is clear: to complement and extend incentives so that leaders keep up the good work for the long run.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="exit" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Exit</h1>
-                        <h5 class="sc_title sc_title_underline">THE WAY OUT</h5>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <p>If at any point in time an individual leader wishes to step aside, or fails to deliver as per the expectations of the rest of the community, the project will help the person make a clean exit by delegating responsibilities into other leaders.</p>
                         <ul>
                             <li><p>other members of the same team;</p></li>
                             <li><p>other individuals or teams.</p></li>
                         </ul>
-                    </div>
-                    <div class="col-sm-6">
                         <p>In the first case, the team's relationship with the rest of the community remains the same and the team shall keep all of its responsibilities and entitlements through an internal change in management.</p>
                         <p>In the second case, the departing team will keep all the ALGO it may have been allocated up to that point in time. However, it will resign entitlements to future token deliveries and to future fees collected from financial beings.</p>
                     </div>
                 </div>
             </div>
         </section>
+
+
 
         <section id="example" class="light_section">
             <div class="container">
@@ -714,7 +562,7 @@
             </div>
         </section>
 
-        <section id="onboarding" class="light_section">
+        <section id="onboarding" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">

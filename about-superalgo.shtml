@@ -69,7 +69,7 @@
             </div>
         </section>
 
-        <section id="third" class="light_section">
+        <section id="third" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
@@ -102,7 +102,7 @@
                     </div>
                     <div class="col-sm-6">
                         <p>In that light, we invite researchers and computer scientists within the field of artificial intelligence to join the team and help design strategies to make the most out of the base layer of algorithms and trading experiences the community is developing.</p>
-                        <p>We also invite experts with a deep understanding of electronic markets, the capital investment space within the financial industry and algorithmic trading in general to join too, so as to help guide the IT efforts from the user and business case perspectives.</p>
+                        <p>We also invite experts with a deep understanding of financial markets, the capital investments space within the financial industry and algorithmic trading in general to join too, so as to help guide the IT efforts from the user and business case perspectives.</p>
                         <p>We believe your input can be of value in our quest to reorganizing the existing intelligence in the trading space so that more people have more opportunities to participate.</p>
                     </div>
                 </div>
