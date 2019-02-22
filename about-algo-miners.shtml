@@ -33,7 +33,7 @@
                                                 <div>
                                                     <div style="width:85%;">
                                                         <h2>
-                                                            The backbone of the Superalgos incentives scheme
+                                                            ALGO Miners... the backbone of the Superalgos incentives scheme
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -59,12 +59,13 @@
                         <br />
                     </div>
                     <div class="col-sm-6">
-                        <p>Bitcoin borrowed the mining analogy from the mining industry as a way to convey the notion that securing the network requires significant investments of various resources. Entities willing to make such investments and provide such valuable service to the network would in turn be compensated with newly minted bitcoin.</p>
-                        <p>It is in that same spirit that we too borrow the term to describe how any person or company may help secure the success of the Superalgos project, and obtain ALGO tokens in reward.</p>
+                        <p>Bitcoin borrowed the mining analogy from the mining industry as a way to convey the notion that securing the network requires significant investments of various resources, starting with the initial cost of the mining rig and infrastructure along with ongoing operational costs. </p>
+                        <p>Entities willing to make such investments and provide such valuable service to the network would in turn be compensated with newly minted bitcoin. </p>
+                        <p>It is in that same spirit that we too borrow the term. We use the term <i>mining</i> to describe how any person or company may help secure the success of the Superalgos project, and obtain ALGO tokens in reward. </p>
                     </div>
                     <div class="col-sm-6">
+                        <p>Like with bitcoin, mining ALGO Tokens requires an upfront investment, in our case, mostly of time and effort, along with an ongoing commitment of similar resources in the long run. </p>
                         <p>Beyond being <a href="about-algo-overview.shtml">the medium of exchange within the ecosystem and a form of energy enabling financial life</a>, ALGO is also the backbone of the Superalgos project incentives scheme. People and companies working with the project, starting with the Core Team, the Dev Team and the larger Superalgos Team as a whole are all incentivized with ALGO, for as long as they keep adding value to the project.</p>
-                        <p><strong>An <i>ALGO Miner</i> is, thus, the instrument used to distribute ALGO among all the entities that add value to the Superalgos project.</strong></p>
                     </div>
                 </div>
             </div>
@@ -76,7 +77,7 @@
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">ALGO Miners</h1>
                         <h3>
-                            An ALGO Miner is an Ethereum smart contract. Mining ALGO requires zero technical skills as the whole process is managed by the Core Team.
+                            An ALGO Miner is an Ethereum smart contract, and the instrument used to distribute ALGO among all the entities that add value to the Superalgos project. Mining ALGO requires zero technical skills as the whole process is managed by the Core Team.
                         </h3>
                         <br />
                     </div>

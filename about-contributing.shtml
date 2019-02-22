@@ -382,10 +382,31 @@
                                     <li class="sc_pricing_data sc_pricing_title">Category 5</li>
                                     <li class="sc_pricing_data sc_pricing_price">
                                         <div class="sc_price_item">
-                                            <div class="sc_price_money">Exchanges Relationship</div>
+                                            <div class="sc_price_money">Exchange Relationships</div>
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Craft strategies to engage with exchanges at the levels that have already been identified and move on developing and maintaining the required relationships.</li>
+                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(0.5% of Total Supply)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="margin_bottom_mini squareButton global big">
+                                            <a>Assigned</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-12 sc_pricing_light sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul>
+                                    <li class="sc_pricing_data sc_pricing_title">Category 5</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Trading Intelligence</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Lead the efforts to steer the project towards developing internal trading intelligence to match and surpass existing intelligence in the shortest possible span of time.</li>
                                     <li class="sc_pricing_data">5,000,000 ALGO</li>
                                     <li class="sc_pricing_data">(0.5% of Total Supply)</li>
                                     <li class="sc_pricing_data">
