@@ -70,7 +70,7 @@
             </div>
         </section>
 
-        <section id="third" class="light_section">
+        <section id="third" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
@@ -92,20 +92,18 @@
             </div>
         </section>
 
-        <section id="fourth" class="light_section">
+        <section id="fourth" class="rustred_section">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-6">
-                        <p>In order to tackle these and the rest of the challenges associated with our mission, Superalgos is currently setting up the foundations of what shall become the global supermind we envision.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>At this point in time, we foresee three kinds of intelligence operating simultaneously, each of which playing a role in the overall intelligence of the group, with specific functions, resources, goals and dynamics:</p>
+                    <div class="col-sm-12 text-center">
+                        <h3>Superalgos is setting up the foundations of what shall become the global supermind we envision. At this point in time, we foresee three kinds of intelligence operating simultaneously, each playing a role in the overall intelligence of the group, with specific functions, resources, goals and dynamics...</h3>
+                        <br />
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="general-specialized-experiences" class="light_section">
+        <section id="general-specialized-experiences" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">

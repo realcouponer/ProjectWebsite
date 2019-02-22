@@ -102,7 +102,7 @@
                 <div class="row">
                     <div class="col-sm-4">
 
-                        <h3 style="color:white;">1. <span style="font-weight: 700; color:#F4E409">IDE</span> to Work on the Browser</h3>
+                        <h3>1. <span style="font-weight: 700; color:#F4E409">IDE</span> to Work on the Browser</h3>
 
                         <div class="polaroid">
                             <img src="img/captures/thumbs/IDE01-Code.png" alt="Algobots Competition Platform">
@@ -113,7 +113,7 @@
                     </div>
                     <div class="col-sm-4">
 
-                        <h3 style="color:white;">2. <span style="font-weight: 700; color:#F4E409">Champion Bots</span> to Start With</h3>
+                        <h3>2. <span style="font-weight: 700; color:#F4E409">Champion Bots</span> to Start With</h3>
 
                         <div class="polaroid">
                             <img src="img/illustrations/how-algo-fork-flat.svg" alt="Algobots Competition Platform">
@@ -121,7 +121,7 @@
                         <p>You may fork any bot, including winners of previous competitions to start out on a level playing field. It's all about coming up with small improvements and optimizations.</p>
                     </div>
                     <div class="col-sm-4">
-                        <h3 style="color:white;">3. <span style="font-weight: 700; color:#F4E409">Competitions</span> Platform</h3>
+                        <h3>3. <span style="font-weight: 700; color:#F4E409">Competitions</span> Platform</h3>
 
                         <div class="polaroid">
                             <img src="img/captures/thumbs/IDE02-Competition.png" alt="Algobots Competition Platform">

@@ -70,7 +70,7 @@
             </div>
         </section>
 
-        <section id="competitions" class="light_section">
+        <section id="competitions" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -113,11 +113,6 @@
                         <p>Understanding the inner workings of the Superalgos ecosystem is not mired in considerations of just business or technology, but the pivotal notion of financial life&mdash;where the participation in the ecosystem evolves autonomous agents into becoming living stakeholders known as financial beings.</p>
                         <p>This transformation of financial life occurs within the environment of the Superalgos platform connecting the ALGO tokens to the autonomous agents as a form of energy essential to not just production, but the very center of their life sustainability.</p>
                     </div>
-                </div>
-                <div class="row text-center">
-                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                        <a href="https://platform.advancedalgos.net">Join the Community</a>
-                    </span>
                 </div>
             </div>
         </section>

@@ -1,0 +1,136 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>ALGO Token Economics &amp; Distribution</title>
+    <meta name="description" content="The fundamentals of the ALGO economy.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/case-study-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="width:85%;">
+                                                        <h2>
+                                                            The fundamentals of the ALGO economy
+                                                        </h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Fundamentals_section" class="rustred_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Fundamentals</h1>
+                        <h3>
+                            The total supply of ALGO tokens is 1 billion.
+                        </h3>
+                        <br />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Distribution_section" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Distribution</h1>
+                        <br />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-2">
+                    </div>
+                    <div class="col-sm-8">
+                        <div class="sc_table sc_table_style_1 sc_table_size_medium ">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Distribution Pools</th>
+                                        <th style="text-align:center!important">Percentage</th>
+                                        <th style="text-align:right!important">Nr. of Tokens</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Funding</td>
+                                        <td align="center">50%</td>
+                                        <td align="right">500,000,000</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Competition Prizes</td>
+                                        <td align="center">25%</td>
+                                        <td align="right">250,000,000</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Software Development</td>
+                                        <td align="center">15%</td>
+                                        <td align="right">150,000,000</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Project Development</td>
+                                        <td align="center">10%</td>
+                                        <td align="right">100,000,000</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                    </div>
+                </div>
+                <div class="row"><br />
+                    <div class="col-sm-4">
+                        <h3>Competition Prizes</h3>
+                        <p>The system will handle an internal ALGO wallet for each user and distribute prizes from the corresponding pool via a smart contract. These features are not implemented yet.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3>Software Development</h3>
+                        <p>The project distributes the development and maintenance of the Superalgos system in an international network of development teams. Learn more about <a href="developers-join-dev-team.shtml">joining the Dev Team</a>.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3>Project Development</h3>
+                        <p>The project is run by a number of distributed teams working in domains such as business, marketing, legal, management and so on. Learn more about <a href="about-contributing.shtml">joining the Superalgos Team</a>.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>
