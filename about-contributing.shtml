@@ -79,7 +79,7 @@
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">Incentives</h1>
                         <h3>
-                            Superalgos has devised a scheme that aims to incentivize contributors both in the short term and in the long run. In a nutshell, the aforementioned leaders become <strong>co-owners</strong> of the Superalgos project. To learn more about our incentives for leaders, please see the <a href="about-algo-miners.shtml">ALGO Miners</a> page.
+                            Superalgos has devised a scheme that aims to incentivize contributors both in the short term and in the long run. In a nutshell, the aforementioned leaders become <strong>co-owners</strong> of the Superalgos project. To learn more about our incentives for leaders, please see the <a href="about-algo-miners.shtml">ALGO Virtual Miners</a> page.
                         </h3>
                         <br />
                     </div>
@@ -538,7 +538,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>In order to be granted the assignment of an area of responsibility, leaders need to show the community that they are the right person or team for the job. To do that, they apply for a specific area and start working. After some time, they will have produced a body of work consisting of a usable first version of whatever their area of responsibility requires. Once the piece of work satisfies the community, the area of responsibility is granted and the new leader acquires the corresponding <span class="tooltip-custom">ALGO Miner<span class="tooltiptext-custom" style="text-align: justify;">A smart contract that allocates ALGO tokens at a preprogrammed rate to the address of a person or entity working for the Superalgos project. <a href="about-algo-miners.shtml" rel="nofollow" rel="noopener" target="_blank"><em>Learn more about ALGO Miners</em></a>.</span></span>.</p>
+                        <p>In order to be granted the assignment of an area of responsibility, leaders need to show the community that they are the right person or team for the job. To do that, they apply for a specific area and start working. After some time, they will have produced a body of work consisting of a usable first version of whatever their area of responsibility requires. Once the piece of work satisfies the community, the area of responsibility is granted and the new leader acquires the corresponding <span class="tooltip-custom">ALGO Virtual Miner<span class="tooltiptext-custom" style="text-align: justify;">A smart contract that allocates ALGO tokens at a preprogrammed rate to the address of a person or entity working for the Superalgos project. <a href="about-algo-miners.shtml" rel="nofollow" rel="noopener" target="_blank"><em>Learn more about ALGO Virtual Miners</em></a>.</span></span>.</p>
                         <p>If at any point in time an individual leader wishes to step aside, or fails to deliver as per the expectations of the rest of the community, the project will help the person make a clean exit by delegating responsibilities into:</p>
                     </div>
                     <div class="col-sm-6">
