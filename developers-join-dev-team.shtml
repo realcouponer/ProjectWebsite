@@ -42,6 +42,7 @@
                 </div>
             </div>
         </section>
+
         <section id="intro" class="light_section">
             <div class="container">
                 <div class="row">
@@ -79,7 +80,7 @@
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">Incentives</h1>
                         <h3>
-                            Superalgos has devised a scheme that aims to incentivize developers both in the short term and in the long run. In a nutshell, developers become <strong>co-owners</strong> of the system maintenance business. To learn more about our incentives, please see the <a href="about-algo-miners.shtml">ALGO Miners</a> page.
+                            Superalgos has devised a scheme that aims to incentivize developers both in the short term and in the long run. In a nutshell, developers become <strong>co-owners</strong> of the system maintenance business. To learn more about our incentives, please see the <a href="about-algo-miners.shtml">ALGO Virtual Miners</a> page.
                         </h3>
                         <br />
                     </div>
@@ -107,7 +108,7 @@
                         <p>The work of Dev Teams is based on undertaking responsibility over specific concepts, which usually map to one or more system components. For instance, the concept of users is handled by the Users Backend Module and the Users Frontend Module. </p>
                     </div>
                     <div class="col-sm-6">
-                        <p>Each concept is assigned a category, which is a function of the perceived level of criticality, urgency and difficulty entailed in the particular concept. There are five categories, from 1 to 5. The more critical, urgent or difficult the concept is perceived to be, the higher the category number, which is pegged to an <span class="tooltip-custom">ALGO Miner<span class="tooltiptext-custom" style="text-align: justify;">A smart contract that allocates ALGO tokens at a preprogrammed rate to the address of a person or entity working for the Superalgos project. <a href="about-algo-miners.shtml" rel="nofollow" rel="noopener" target="_blank"><em>Learn more about ALGO Miners</em></a>.</span></span> of the same category for the purpose of incentivizing teams. </p>
+                        <p>Each concept is assigned a category, which is a function of the perceived level of criticality, urgency and difficulty entailed in the particular concept. There are five categories, from 1 to 5. The more critical, urgent or difficult the concept is perceived to be, the higher the category number, which is pegged to an <span class="tooltip-custom">ALGO Virtual Miner<span class="tooltiptext-custom" style="text-align: justify;">A smart contract that allocates ALGO tokens at a preprogrammed rate to the address of a person or entity working for the Superalgos project. <a href="about-algo-miners.shtml" rel="nofollow" rel="noopener" target="_blank"><em>Learn more about ALGO Virtual Miners</em></a>.</span></span> of the same category for the purpose of incentivizing teams. </p>
                         <p>The Chart below shows the category of the concepts identified so far. </p>
                     </div>
                 </div>
@@ -120,6 +121,7 @@
                 </div>
             </div>
         </section>
+
         <section id="development" class="darkgrey_section">
             <div class="container">
                 <div class="row">
@@ -138,7 +140,28 @@
                     </div>
                 </div>
         </section>
-        <section id="development" class="light_section">
+
+        <section id="intro" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Web Technology</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>As hinted earlier, the core of the system is web-based. There is only one web app loaded at the browser&mdash;the Master App&mdash;and the rest of the system modules are transformed into NPM JavaScript libraries, listed as dependencies. </p>
+                        <p>In terms of implementation, the Master App is a React / Redux app, which accesses a GraphQL backend API via Apollo. </p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>The Master App API is actually an API Router, forwarding incoming requests to the backend of each individual module. </p>
+                        <p>A module backend consists of a Node.js / Express app, with either MongoDB or Postgre databases depending on the preferences of each individual developer. </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="development" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -161,7 +184,7 @@
                 </div>
         </section>
 
-        <section id="compensation" class="darkgrey_section">
+        <section id="compensation" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -181,7 +204,7 @@
             </div>
         </section>
 
-        <section id="compensation" class="light_section">
+        <section id="compensation" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -208,7 +231,7 @@
             </div>
         </section>
 
-        <section id="covenants" class="darkgrey_section">
+        <section id="covenants" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -231,7 +254,7 @@
                 </div>
             </div>
         </section>
-        <section id="onboarding" class="light_section">
+        <section id="onboarding" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">

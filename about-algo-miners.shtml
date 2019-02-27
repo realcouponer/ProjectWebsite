@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>ALGO Miners</title>
+    <title>ALGO Virtual Miners</title>
     <meta name="description" content="The backbone of the Superalgos incentives scheme.">
     <meta charset="utf-8">
 
@@ -33,7 +33,7 @@
                                                 <div>
                                                     <div style="width:85%;">
                                                         <h2>
-                                                            ALGO Miners... the backbone of the Superalgos incentives scheme
+                                                            ALGO Virtual Miners... the backbone of the Superalgos incentives scheme
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -75,9 +75,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">ALGO Miners</h1>
+                        <h1 class="sc_title sc_title_underline">ALGO Virtual Miners</h1>
                         <h3>
-                            An ALGO Miner is an Ethereum smart contract, and the instrument used to distribute ALGO among all the entities that add value to the Superalgos project. Mining ALGO requires zero technical skills as the whole process is managed by the Core Team.
+                            An ALGO Virtual Miner is an Ethereum smart contract, and the instrument used to distribute ALGO among all the entities that add value to the Superalgos project. Running a miner requires zero technical skills as the whole process is managed by the Core Team.
                         </h3>
                         <br />
                     </div>
@@ -87,7 +87,7 @@
                         <p>For long term incentives, we count with an unlimited source of tokens: a fee all financial beings will need to pay in order to run on the platform. This feature is not yet implemented, but will be in the future.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>As such, ALGO miners have three main features:</p>
+                        <p>As such, ALGO Virtual Miners have three main features:</p>
                         <ul>
                             <li>
                                 <p>allocate a specific number of tokens from the corresponding pool (software or project development) to a beneficiary address;</p>
@@ -99,7 +99,7 @@
                                 <p>participate in the governance of the project (this feature is not implemented nor even defined yet).</p>
                             </li>
                         </ul>
-                        <p>In essense, entities holding an ALGO Miner become co-owners of the Superalgos project.</p>
+                        <p>In essense, entities holding an ALGO Virtual Miner become co-owners of the Superalgos project.</p>
                     </div>
                 </div>
             </div>
@@ -274,8 +274,8 @@
                         <p>Another part of the fee will go to cover indirect expenses, such as running the rest of the software infrastructure.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>Yet another fraction of the fee will go to paying for the work a number of people and companies do in many different domains in order for the project to thrive. Such work includes software maintenance, marketing or management to name a few. This is the fraction of the fee that is distributed through ALGO Miners.</p>
-                        <p>The fraction of the fee corresponding to ALGO Miners will of course be distributed in proportion to the category of each miner, and will be paid for as long as the miner is active. </p>
+                        <p>Yet another fraction of the fee will go to paying for the work a number of people and companies do in many different domains in order for the project to thrive. Such work includes software maintenance, marketing or management to name a few. This is the fraction of the fee that is distributed through ALGO Virtual Miners.</p>
+                        <p>The fraction of the fee corresponding to ALGO Virtual Miners will of course be distributed in proportion to the category of each miner, and will be paid for as long as the miner is active. </p>
                     </div>
                 </div>
             </div>
