@@ -28,7 +28,7 @@
 
                                 <li>
                                     <img src="img/photos/markets-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -48,7 +48,7 @@
 
                                 <li>
                                     <img src="img/photos/key-vault-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -86,7 +86,7 @@
 
                                 <li>
                                     <img src="img/photos/connect-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -121,7 +121,7 @@
 
                                 <li>
                                     <img src="img/photos/evolution-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -153,7 +153,7 @@
 
                                 <li>
                                     <img src="img/photos/algo-token-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -188,7 +188,7 @@
 
                                 <li>
                                     <img src="img/photos/business-plan-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -196,18 +196,18 @@
 
                                                         <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Go To Market:<br />World Championship</h3>
                                                         <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
-                                                        A multi-layer league system<br />designed to drive evolution towards trading big capitals.
+                                                            A multi-layer league system <br />designed to drive evolution towards trading big capitals.
                                                         </p>
                                                         <div style="padding:10px; width: 1350px;">
                                                             <ul align="left">
                                                                 <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
-                                                                    Teams need to win minor leagues to move to higher leagues.
+                                                                    Teams freely choose which leagues to participate in.
                                                                 </li>
                                                                 <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
-                                                                    Bottom league runs short competitions, with minimal capital req. and small prizes.
+                                                                    Minor leagues runs short competitions, with minimal capital req. and small prizes.
                                                                 </li>
                                                                 <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
-                                                                    Higher leagues use longer comps, more capital and offer significant prize money.
+                                                                    Major leagues use longer comps, more capital and offer significant prize money.
                                                                 </li>
                                                                 <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
                                                                     Teams winning a league get prize money to cover the capital req. for the next league.
@@ -223,7 +223,7 @@
 
                                 <li>
                                     <img src="img/photos/business-plan-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -258,7 +258,7 @@
 
                                 <li>
                                     <img src="img/photos/ecosystem-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -293,7 +293,7 @@
 
                                 <li>
                                     <img src="img/photos/compliance-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -325,7 +325,7 @@
 
                                 <li>
                                     <img src="img/photos/platform-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -333,7 +333,7 @@
 
                                                         <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Roadmap</h3>
                                                         <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
-                                                        Platform launched in alpha stage: <br /><a href="https://platform.advancedalgos.net" rel="noopener" target="_blank">Try it live!</a>
+                                                        Platform launched in alpha stage: <br /><a href="https://platform.superalgos.org" rel="noopener" target="_blank">Try it live!</a>
                                                         </p>
 
                                                         <div style="padding:0px; width: 1350px;">
@@ -343,7 +343,7 @@
                                                                     <strong>MVP:</strong> done!
                                                                 </li>
                                                                 <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
-                                                                    <strong>Competition events:</strong> Alpha stage comps starting March 2019. <a href="competition-guidelines.shtml" rel="noopener" target="_blank">Check the Calendar!</a>.
+                                                                    <strong>Competition events:</strong> Alpha-stage comps starting March 2019. <a href="competition-guidelines.shtml" rel="noopener" target="_blank">Check the Calendar!</a>.
                                                                 </li>
                                                                 <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
                                                                     <strong>World Championship League:</strong> seed round target.
@@ -368,7 +368,7 @@
 
                                 <li>
                                     <img src="img/photos/events-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -406,7 +406,7 @@
 
                                 <li>
                                     <img src="img/photos/superalgo-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -439,7 +439,7 @@
 
                                 <li>
                                     <img src="img/photos/case-study-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -496,7 +496,7 @@
 
                                 <li>
                                     <img src="img/photos/supermind-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -515,14 +515,14 @@
                                                                     </thead>
                                                                     <tbody>
                                                                         <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 20px">
-                                                                            <td style="border: none !important;"><img src="img\people\Luis.jpg" /></td>
-                                                                            <td style="border: none !important;"><img src="img\people\Julian.jpg" /></td>
-                                                                            <td style="border: none !important;"><img src="img\people\Matias.jpg" /></td>
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Luis-color.jpg"/></td>
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Julian-color.jpg"/></td>
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Matias.jpg"/></td>
                                                                         </tr>
                                                                         <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 20px">
-                                                                            <td style="border: none !important;">Entrepreneur, Systems Architect</td>
-                                                                            <td style="border: none !important;">Entrepreneur, Designer</td>
-                                                                            <td style="border: none !important;">Backend Developer</td>
+                                                                            <td style="border: none !important;">DEVELOPMENT, BUSINESS, MARKETING</td>
+                                                                            <td style="border: none !important;">BUSINESS, MARKETING, MANAGEMENT</td>
+                                                                            <td style="border: none !important;">DEVELOPMENT</td>
                                                                         </tr>
                                                                     </tbody>
                                                                 </table>
@@ -536,14 +536,14 @@
                                                                     </thead>
                                                                     <tbody>
                                                                         <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 20px">
-                                                                            <td style="border: none !important;"><img src="img\people\Barry.jpg" /></td>
-                                                                            <td style="border: none !important;"><img src="img\people\Andreja.jpg" /></td>
-                                                                            <td style="border: none !important;"><img src="img\people\Nikola.jpg" /></td>
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Barry-color.jpg"/></td>
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Andreja.jpg"/></td>
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Nikola-color.jpg"/></td>
                                                                         </tr>
                                                                         <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 20px">
-                                                                            <td style="border: none !important;">Designer, Frontend Developer</td>
-                                                                            <td style="border: none !important;">Pro Trader, Fund Manager</td>
-                                                                            <td style="border: none !important;">Backend Developer</td>
+                                                                            <td style="border: none !important;">DEVELOPMENT</td>
+                                                                            <td style="border: none !important;">BUSINESS</td>
+                                                                            <td style="border: none !important;">DEVELOPMENT</td>
                                                                         </tr>
                                                                     </tbody>
                                                                 </table>
@@ -558,7 +558,7 @@
 
                                 <li>
                                     <img src="img/photos/contacts-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -567,91 +567,7 @@
                                                         <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Join Us!</h3>
 
                                                         <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
-                                                            Julian Molina | +34 684 33 97 11 <br /> Telegram: <a href="https://t.me/julianmolina" rel="nofollow" rel="noopener" target="_blank">@julianmolina</a> | Email: <a href="mailto:julian@advancedalgos.net">julian@advancedalgos.net</a>
-                                                        </p>
-                                                        </p>
-
-                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="index.shtml">Learn More</a>
-                                                        </span>&nbsp; &nbsp;
-                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="https://platform.advancedalgos.net">Join the Crowd</a>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <img src="img/photos/contacts-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
-                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
-                                            <div data-animation="fadeInUp" align="center">
-                                                <div>
-                                                    <div style="padding:10px; width: 1800px;">
-
-                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Join Us!</h3>
-
-                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
-                                                            Luis Molina | +36 31 781 1162 <br /> Telegram: <a href="https://t.me/luis_fernando_molina" rel="nofollow" rel="noopener" target="_blank">@luis_fernando_molina</a> | Email: <a href="mailto:luis@advancedalgos.net">luis@advancedalgos.net</a>
-                                                        </p>
-                                                        </p>
-
-                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="index.shtml">Learn More</a>
-                                                        </span>&nbsp; &nbsp;
-                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="https://platform.advancedalgos.net">Join the Crowd</a>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <img src="img/photos/contacts-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
-                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
-                                            <div data-animation="fadeInUp" align="center">
-                                                <div>
-                                                    <div style="padding:10px; width: 1800px;">
-
-                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Join Us!</h3>
-
-                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
-                                                            Andreja Cobeljic | +41 79 432 9881 <br /> Telegram: <a href="https://t.me/Riseoflemur111" rel="nofollow" rel="noopener" target="_blank">@Riseoflemur111</a><br />Email: <a href="mailto:andreja.cobeljic@advancedalgos.net">andreja.cobeljic@advancedalgos.net</a>
-                                                        </p>
-                                                        </p>
-
-                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="index.shtml">Learn More</a>
-                                                        </span>&nbsp; &nbsp;
-                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="https://platform.advancedalgos.net">Join the Crowd</a>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <img src="img/photos/contacts-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
-                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
-                                            <div data-animation="fadeInUp" align="center">
-                                                <div>
-                                                    <div style="padding:10px; width: 1800px;">
-
-                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Join Us!</h3>
-
-                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
-                                                            Barry Low | +1 707 312 1410 <br /> Telegram: <a href="https://t.me/bearcanrun" rel="nofollow" rel="noopener" target="_blank">@bearcanrun</a><br />Email: <a href="mailto:barry.low@advancedalgos.net">barry.low@advancedalgos.net</a>
+                                                            Julian Molina | +34 684 33 97 11 <br /> Telegram: <a href="https://t.me/julianmolina" rel="nofollow" rel="noopener" target="_blank">@julianmolina</a> | Email: <a href="mailto:julian@superalgos.org">julian@superalgos.org</a>
                                                         </p>
                                                         </p>
 
@@ -670,7 +586,7 @@
 
                                 <li>
                                     <img src="img/photos/contacts-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -679,7 +595,7 @@
                                                         <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Join Us!</h3>
 
                                                         <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
-                                                            Matias Benitez | +54 351 560 4741 <br /> Telegram: <a href="https://t.me/matias_ben" rel="nofollow" rel="noopener" target="_blank">@matias_ben</a><br />Email: <a href="mailto:matias.benitez@advancedalgos.net">matias.benitez@advancedalgos.net</a>
+                                                            Luis Molina | +36 31 781 1162 <br /> Telegram: <a href="https://t.me/luis_fernando_molina" rel="nofollow" rel="noopener" target="_blank">@luis_fernando_molina</a> | Email: <a href="mailto:luis@superalgos.org">luis@superalgos.org</a>
                                                         </p>
                                                         </p>
 
@@ -687,7 +603,7 @@
                                                             <a href="index.shtml">Learn More</a>
                                                         </span>&nbsp; &nbsp;
                                                         <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                            <a href="https://platform.advancedalgos.net">Join the Crowd</a>
+                                                            <a href="https://platform.superalgos.org">Join the Crowd</a>
                                                         </span>
                                                     </div>
                                                 </div>
@@ -698,7 +614,7 @@
 
                                 <li>
                                     <img src="img/photos/contacts-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
                                         <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
@@ -707,7 +623,91 @@
                                                         <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Join Us!</h3>
 
                                                         <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
-                                                            Nikola Bjelogrlic | +41 76 489 4066 <br /> Telegram: <a href="https://t.me/matias_ben" rel="nofollow" rel="noopener" target="_blank">@nikolabjelo</a><br />Email: <a href="mailto:nikola.bjelo@advancedalgos.net">nikola.bjelo@advancedalgos.net</a>
+                                                            Andreja Cobeljic | +41 79 432 9881 <br /> Telegram: <a href="https://t.me/Riseoflemur111" rel="nofollow" rel="noopener" target="_blank">@Riseoflemur111</a><br />Email: <a href="mailto:andreja.cobeljic@superalgos.org">andreja.cobeljic@superalgos.org</a>
+                                                        </p>
+                                                        </p>
+
+                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                            <a href="index.shtml">Learn More</a>
+                                                        </span>&nbsp; &nbsp;
+                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                            <a href="https://platform.superalgos.org">Join the Crowd</a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/contacts-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Join Us!</h3>
+
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            Barry Low | +1 707 312 1410 <br /> Telegram: <a href="https://t.me/bearcanrun" rel="nofollow" rel="noopener" target="_blank">@bearcanrun</a><br />Email: <a href="mailto:barry.low@superalgos.org">barry.low@superalgos.org</a>
+                                                        </p>
+                                                        </p>
+
+                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                            <a href="index.shtml">Learn More</a>
+                                                        </span>&nbsp; &nbsp;
+                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                            <a href="https://platform.superalgos.org">Join the Crowd</a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/contacts-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Join Us!</h3>
+
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            Matias Benitez | +54 351 560 4741 <br /> Telegram: <a href="https://t.me/matias_ben" rel="nofollow" rel="noopener" target="_blank">@matias_ben</a><br />Email: <a href="mailto:matias.benitez@superalgos.org">matias.benitez@superalgos.org</a>
+                                                        </p>
+                                                        </p>
+
+                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                            <a href="index.shtml">Learn More</a>
+                                                        </span>&nbsp; &nbsp;
+                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                            <a href="https://platform.superalgos.org">Join the Crowd</a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/contacts-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Join Us!</h3>
+
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            Nikola Bjelogrlic | +41 76 489 4066 <br /> Telegram: <a href="https://t.me/matias_ben" rel="nofollow" rel="noopener" target="_blank">@nikolabjelo</a><br />Email: <a href="mailto:nikola.bjelo@superalgos.org">nikola.bjelo@superalgos.org</a>
                                                         </p>
                                                         </p>
 
