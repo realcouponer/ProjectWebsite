@@ -1,0 +1,159 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Superalgos Trading Competitions</title>
+    <meta name="description" content="Competitions as a shift in incentives driving the rapid-evolution of a Collective Trading Intelligence">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/incentives-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="width:100%;">
+                                                        <h2>
+                                                            Competitions as a shift in incentives
+                                                        </h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="project-business" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Motivation</h1>
+                        <h3>What kind of new disruptive system could produce <i>zero cost, ever-evolving trading intelligence</i>, that would sooner or later outperform the intelligence produced in silos by investment companies?</h3>
+                        <br />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="superalgos-trading-league" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Superalgos Trading League</h1>
+                        <h3>A shift in incentives drives the <!--#include file="tooltips/community.shtml" --> to relentlessly evolve trading intelligence. Instead of focusing <i>only</i> on profits obtained from trading, the Community participates in <!--#include file="tooltips/superalgos-competitions.shtml" -->, attracted by the following essential traits...</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <ul>
+                            <li><p>By entering Competitions, Community members access the collective's state-of-the-art trading technology.</p></li>
+                            <li><p>On top of making profits with trading, Competitions offer the potential of trading profits as well as the ability to earn <i>substantial cash prizes</i>.</p></li>
+                            <li><p>Community members may take the best <!--#include file="tooltips/algorithms.shtml" --> and try to improve them, which saves the effort of producing Algorithms from scratch.</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <ul>
+                            <li><p>Participants compete for the ludic and entertainment value, for the challenge, for fame and glory, to feel honor and pride, to measure their skills, to be a part of a Community, or simply, to win.</p></li>
+                            <li><p>Performing well in Competitions allow participants to build up their reputation which enhances their ability to offer automated trading services in the <!--#include file="tooltips/marketplace.shtml" -->.</p></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="partnership-with-exchanges" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Partnership with Exchanges</h1>
+                        <h3>The Superalgos Organization partners with Exchanges in the following terms...</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <ul>
+                            <li><p>The <!--#include file="tooltips/superalgos-project.shtml" --> enables ongoing Competitions running on the <!--#include file="tooltips/superalgos-platform.shtml" --> while doing the actual trading on <!--#include file="tooltips/exchanges.shtml" -->.</p></li>
+                            <li><p>Competitions are designed to direct the evolution of the ecosystem's intelligence towards trading increasingly important value in assets, thus, are expected to generate substantial trading volume at Exchanges.</p></li>
+                            <li><p>Exchanges promote Competitions among their own clients and award <!--#include file="tooltips/algo-tokens.shtml" --> to the winner as prize money to incentivize participation and thus grow their own trading volume.</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <ul>
+                            <li><p>The Superalgos Project adds to the incentives by offering ALGO tokens as prize money for runners-up.</p></li>
+                            <li><p>As each Exchange is onboarded and set with its own Competition, the Exchange lists the ALGO token so that the Exchange's clients can cash out awarded ALGO tokens if they wish so. </p></li>
+                            <li><p>Once the clients of each newly onboarded Exchange become aware of the Superalgos Project, a small exchange offering of ALGO tokens is launched at the Exchange.</p></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2>Exchanges' Gains</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <ul>
+                            <li><p>Competitions drive trading volume on which Exchanges charge Transaction Fees.</p></li>
+                            <li><p>Transaction Fees finance the prize money awarded by Exchanges to incentivize Competitions and also generate  profits for the respective Exchange.</p></li>
+                            <li><p>Exchanges become invested stakeholders and get an <!--#include file="tooltips/algo-stream.shtml" -->&mdash;a smart contract that allocates ALGO Tokens at a certain rate, in compensation for the value added to the project.</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <ul>
+                            <li><p>Exchanges have the opportunity to raise and increase awareness within the growing <!--#include file="tooltips/community.shtml" --> and acquire new customers.</p></li>
+                            <li><p>The gamification (Competitions) and trading toolbox provided by the Superalgos Platform activates traders and drives an increase of trading volume within the existing Exchange clients.</p></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2>Superalgos Project Gains</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <ul>
+                            <li><p>Exchanges contribute to bootstrapping the Community driving new members to the Superalgos Project and incentivizing the Community to compete.</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <ul>
+                            <li><p>Exchanges contribute to the funding and growth of the Superalgos Project by listing, marketing and conducting exchange offerings of the ALGO Token.</p></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>

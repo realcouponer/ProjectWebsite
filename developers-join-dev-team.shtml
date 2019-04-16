@@ -53,14 +53,14 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The Superalgos project distributes the development and maintenance of the system on a global network of Dev Teams, in the quest to create a highly resilient body of talent in charge of both producing and maintaining the technology required to run the project.</p>
+                        <p>The <!--#include file="tooltips/superalgos-project.shtml" --> distributes the development and maintenance of the system on a global network of Dev Teams, in the quest to create a highly resilient body of talent in charge of both producing and maintaining the technology required to run the project.</p>
                         <p>We aim to create a superior trading intelligence capable of outperforming every other participant in the markets. Such intelligence will certainly enable a number of businesses, which will depend on the project's systems to run successfully. </p>
                         <p>The system is subdivided in tens of components consisting of frontend and backend modules along with some infrastructure and blockchain components.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>In order to achieve maximum resilience, Dev Teams develop one or two components each only, with the exception of a few pioneer teams who may have developed more than two in early stages. </p>
                         <p>This means that only a few dozens of Dev Teams contributing early on will be able to participate in this role. </p>
-                        <p>The Core Team maintains the <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">Superalgos organization</a> on GitHub. Each part of the system has its own repository to which Dev Teams contribute to.</p>
+                        <p>The <!--#include file="tooltips/core-team.shtml" --> maintains the <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">Superalgos organization</a> on GitHub. Each part of the system has its own repository to which Dev Teams contribute to.</p>
                         <p>The chart below is an indication of the current progress on the concepts that have been so far identified.</p>
                     </div>
                 </div>
@@ -80,7 +80,7 @@
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">Incentives</h1>
                         <h3>
-                            Superalgos has devised a scheme that aims to incentivize developers both in the short term and in the long run. In a nutshell, developers become <strong>co-owners</strong> of the system maintenance business. To learn more about our incentives, please see the <a href="about-algo-miners.shtml">ALGO Virtual Miners</a> page.
+                            We have devised a scheme that aims to incentivize developers both in the short term and in the long run. Developers earn a continuous stream of <!--#include file="tooltips/algo-tokens.shtml" --> for as long as they keep contributing to the project. To learn more about our incentives, please see the <a href="about-algo-streams.shtml">ALGO Streams</a> page.
                         </h3>
                         <br />
                     </div>
@@ -108,7 +108,7 @@
                         <p>The work of Dev Teams is based on undertaking responsibility over specific concepts, which usually map to one or more system components. For instance, the concept of users is handled by the Users Backend Module and the Users Frontend Module. </p>
                     </div>
                     <div class="col-sm-6">
-                        <p>Each concept is assigned a category, which is a function of the perceived level of criticality, urgency and difficulty entailed in the particular concept. There are five categories, from 1 to 5. The more critical, urgent or difficult the concept is perceived to be, the higher the category number, which is pegged to an <span class="tooltip-custom">ALGO Virtual Miner<span class="tooltiptext-custom" style="text-align: justify;">A smart contract that allocates ALGO tokens at a preprogrammed rate to the address of a person or entity working for the Superalgos project. <a href="about-algo-miners.shtml" rel="nofollow" rel="noopener" target="_blank"><em>Learn more about ALGO Virtual Miners</em></a>.</span></span> of the same category for the purpose of incentivizing teams. </p>
+                        <p>Each concept is assigned a category, which is a function of the perceived level of criticality, urgency and difficulty entailed in the particular concept. There are fifty categories, from 1 to 50. The more critical, urgent or difficult the concept is perceived to be, the higher the category number, which is pegged to an <!--#include file="tooltips/algo-stream.shtml" --> of the size corresponding to the concept's category. </p>
                         <p>The Chart below shows the category of the concepts identified so far. </p>
                     </div>
                 </div>
@@ -176,8 +176,8 @@
                         <p>The first task Dev Teams face after getting acquainted with the system and the functionality falling within the concept on which they are assuming responsibility is to draft their own requirements sheet, kick starting the open requirements phase.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>Requirements are then discussed with the Core Team and the rest of the teams, in particular those responsible for adjacent or intersecting functionality, and are eventually approved, after any number of iterations.</p>
-                        <p>Teams are autonomous and may freely decide how to organize their work internally. However, we do require teams to work under an <span class="tooltip-custom">agile development<span class="tooltiptext-custom" style="text-align: justify;"><strong>Agile software development</strong> is an approach to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s). It advocates adaptive planning, evolutionary development, early delivery, and continual improvement, and it encourages rapid and flexible response to change.</br><a href="https://en.wikipedia.org/wiki/Agile_software_development" rel="nofollow" rel="noopener" target="_blank"><em>Wikipedia: Agile Software Development</em></a></span></span> approach, attending one technical meeting per week and pushing batches of functionality to the <i>develop branch</i> at least once per month.</p>
+                        <p>Requirements are then discussed with the <!--#include file="tooltips/core-team.shtml" --> and the rest of the teams, in particular those responsible for adjacent or intersecting functionality, and are eventually approved, after any number of iterations.</p>
+                        <p>Teams are autonomous and may freely decide how to organize their work internally. However, we do require teams to work under an <!--#include file="tooltips/agile-development.shtml" --> approach, attending one technical meeting per week and pushing batches of functionality to the <i>develop branch</i> at least once per month.</p>
                         <p>Once requirements have been completed, tested and pushed to the production environment, the free development phase starts. The components pushed to production are considered alpha stage, so teams iterate on the first version, making improvements and correcting bugs until the code is stable.</p>
                         <p>Dev Teams are expected to stay close to the project for the long run, as even after the code has been stabilized, new requirements may arise.</p>
                     </div>
@@ -188,17 +188,17 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Mining ALGO Tokens</h1>
+                        <h1 class="sc_title sc_title_underline">Earning an ALGO Stream</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>Dev Teams are assigned a miner during the final stage of the onboarding process, once they have started works.</p>
-                        <p>However, the miner is activated and started only after the team has pushed the solution for the original requirements into production, having gone through a testing phase in development.</p>
+                        <p>Dev Teams are assigned an <!--#include file="tooltips/algo-stream.shtml" --> during the final stage of the onboarding process, once they have started works.</p>
+                        <p>However, the stream is activated and started only after the team has pushed the solution for the original requirements into production, having gone through a testing phase in development.</p>
 
                     </div>
                     <div class="col-sm-6">
-                        <p>The Core Team remains in control of the miner throughout the life of the project. The miner may be paused in cases when a team becomes unresponsive or does not satisfy the service level agreements established for maintenance. Should a Dev Team become a liability for the project for whatever reason, the Core Team may decide to stop the miner and find a replacement for the team at fault.</p>
+                        <p>The <!--#include file="tooltips/superalgos-organization.shtml" --> supervises the ALGO Stream throughout the life of the project. The ALGO Stream may be paused in cases when a team becomes unresponsive or does not satisfy the service level agreements established for maintenance. Should a Dev Team become a liability for the project for whatever reason, the ALGO Stream Supervisor may decide to stop the miner and find a replacement for the team at fault.</p>
                     </div>
                 </div>
             </div>
@@ -214,8 +214,8 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <p>Let's use an example to bring everything said so far down to earth.</p>
-                        <p>A team of three developers wishes to contribute to the development of the Superalgos system. They get in touch with the project, meet the technical core team maintaining the <a href="https://github.com/Superalgos" rel="nofollow" rel="noopener" target="_blank">Superalgos organization in Github</a>, discuss priorities and apply to work on a specific concept.</p>
-                        <p>The selected concept becomes their area of responsibility. </p>
+                        <p>A team of three developers wishes to contribute to the development of the Superalgos system. They get in touch with the project, meet the technical Core Team maintaining the <a href="https://github.com/Superalgos" rel="nofollow" rel="noopener" target="_blank">Superalgos organization in Github</a>, discuss priorities and apply to work on a specific concept.</p>
+                        <p>The selected concept becomes their <!--#include file="tooltips/area-of-responsibility.shtml" -->. </p>
                         <p>Every piece of functionality identified (or to be identified) that logically falls within the scope of that particular concept becomes the team's responsibility. Their mission is to develop the corresponding components, refine them and maintain them.</p>
                         <p>The team starts out by joining regular developer meetings, at least once per week; they discuss their concept with other developers, getting acquainted with the system architecture and gathering initial definitions. </p>
                         <p>They present a requirements sheet and agree with the community on the scope of a first usable version of the components, and start programming.</p>
@@ -224,7 +224,7 @@
                         <p>While developing version one of the components, they stay in touch with other developers and the Core Team, consulting on any issues that may arise, while showcasing their progress at developer meetings. </p>
                         <p>Eventually, they start integrating the module into the overall system, polishing the rough edges until the functionality becomes usable.</p>
                         <p>By that time, the rest of developers have become acquainted with the new team, having interacted frequently and followed their work closely. The constant revisions through regular meetings help the new team stay on course, remain focused in priorities and programing following agreed best practices.</p>
-                        <p>This initial piece of work is enough to show the rest of developers that the new team is a worthy acquisition. As soon as the software is up and running in the production environment, the team's miner is readily activated and started.</p>
+                        <p>This initial piece of work is enough to show the rest of developers that the new team is a worthy acquisition. As soon as the software is up and running in the production environment, the team's <!--#include file="tooltips/algo-stream.shtml" --> is readily activated and started.</p>
                         <p>The new team is now a key part of the community. It keeps developing their module until the last bit of functionality is integrated. People report bugs until the module stabilizes and requires less and less work. The team stays alert, updating the module every time a new requirement arises.</p>
                     </div>
                 </div>
@@ -249,7 +249,7 @@
                     <div class="col-sm-6">
                         <p>In the first case, the team's relationship with the rest of the ecosystem remains the same and the team shall keep all of its responsibilities and entitlements through an internal change in management.</p>
                         <p>In the second case, the departing team will keep all the ALGO it may have been allocated up to that point in time.</p>
-                        <p>However, the departing team will resign entitlements to future maintenance fees and to minning whatever part of the pool may be pending.</p>
+                        <p>However, the departing team will resign entitlements to any further ALGO allocations.</p>
                     </div>
                 </div>
             </div>
@@ -264,7 +264,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <p>If you are a talented developer and would like to join the project's Development Team, we would be happy to have you on board. </p>
-                        <p>It is in fact the only way to buy your way into the business of maintaining the software that will support the ecosystem that aims to disrupt the trading space.</p>
+                        <p>It is in fact the best way to support the ecosystem that aims to disrupt the trading space.</p>
                         <p>Please follow these steps:</p>
                         <ol>
                             <li><p>Study this website thoroughly to gain the best possible understanding of the project.</p></li>

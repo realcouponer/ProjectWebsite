@@ -58,12 +58,12 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>A superalgo is an artificial intelligence that dynamically combines any number of algorithms within a pool, using a vast bank of trading experiences gathered from hundreds of thousands of live-trading runs and competition matches carefully recorded and catalogued within the supermind's collective memory as the food for its learning processes.</p>
-                        <p>The production of algorithms is driven by an open worldwide community of developers, traders and analysts collaborating by engaging in iterative competition cycles. Competitions measure the performance of individual strategies and different forms of algorithms, identifying and selecting promising traits for the community to breed and help evolve.</p>
+                        <p>A superalgo is an artificial intelligence that dynamically combines any number of <!--#include file="tooltips/algorithms.shtml" --> within a pool, using a vast bank of trading experiences gathered from hundreds of thousands of live-trading runs and <!--#include file="tooltips/superalgos-competition.shtml" --> matches carefully recorded and catalogued within the supermind's collective memory as the food for its learning processes.</p>
+                        <p>The production of Algorithms is driven by an open worldwide community of developers, traders and analysts collaborating by engaging in iterative competition cycles. Competitions measure the performance of individual strategies and different forms of Algorithms, identifying and selecting promising traits for <!--#include file="tooltips/algo-makers.shtml" --> to breed and help evolve.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>The competition system is designed to explore the widest possible trading universe in order to produce a comprehensive bank of memories covering as many experiences as possible through an array of variables such as markets, market conditions, strategies, or technical implementations.</p>
-                        <p>Competition dynamics drive the evolution of three different kinds of algorithms, all of them existing as autonomous agents with a financial life of their own. These financial beings feature varying degrees of intricacy, resulting from the combination of simple algorithms into complex organisms:</p>
+                        <p>The Competition system is designed to explore the widest possible trading universe in order to produce a comprehensive bank of memories covering as many experiences as possible through an array of variables such as markets, market conditions, strategies, or technical implementations.</p>
+                        <p>Competition dynamics drive the evolution of different kinds of Algorithms, all of them existing as autonomous agents with a <!--#include file="tooltips/financial-life.shtml" --> of their own. These <!--#include file="tooltips/financial-beings.shtml" --> feature varying degrees of intricacy, resulting from the combination of simple Algorithms into complex organisms:</p>
                     </div>
                 </div>
             </div>
@@ -74,8 +74,8 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <h3>Algobots</h3>
-                        <p>An algobot is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. </p>
-                        <p>They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</p>
+                        <p>An algobot is the basic structural and functional unit of Algorithms running on the platform. They are coded to implement a single trading strategy. </p>
+                        <p>They consume data from Sensors and Indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</p>
                         <p>If an Algobot is not successful in its trading job and its performance drops below a pre-defined threshold, it dies.</p>
                     </div>
                     <div class="col-sm-4">
@@ -97,11 +97,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The nesting of simple trading algos into more complex organisms is &ndash;in essence&mdash;an approach to learning algorithms which use live experiments to explore ranges of possible behaviors and dynamically select the most efficient ones  while discarding the less desirable. These learning mechanisms not only supply a live feedback loop to the organism doing the actual trading, but also stores valuable information to be recalled by the system at any point in time.</p>
+                        <p>The nesting of simple Algorithms into more complex organisms is &ndash;in essence&mdash;an approach to learning algorithms which use live experiments to explore ranges of possible behaviors and dynamically select the most efficient ones while discarding the less desirable. These learning mechanisms not only supply a live feedback loop to the organism doing the actual trading, but also stores valuable information to be recalled by the system at any point in time.</p>
                         <p>It is this wealth of memories and real-life trading experiences that superalgos will harness. How exactly they are going to do that will be the outcome of the relentless evolution of the ecosystem and the work of the <a href="about-supermind.shtml#general-specialized-experiences" rel="noopener" target="_blank">specialized intelligence segment of the supermind</a>.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>In that light, we invite researchers and computer scientists within the field of artificial intelligence to join the team and help design strategies to make the most out of the base layer of algorithms and trading experiences the community is developing.</p>
+                        <p>In that light, we invite researchers and computer scientists within the field of artificial intelligence to join the team and help design strategies to make the most out of the base layer of Algorithms and trading experiences the <!--#include file="tooltips/community.shtml" --> is developing.</p>
                         <p>We also invite experts with a deep understanding of financial markets, the capital investments space within the financial industry and algorithmic trading in general to join too, so as to help guide the IT efforts from the user and business case perspectives.</p>
                         <p>We believe your input can be of value in our quest to reorganizing the existing intelligence in the trading space so that more people have more opportunities to participate.</p>
                     </div>

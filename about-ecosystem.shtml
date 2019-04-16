@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Superalgos Ecosystem</title>
+    <title>ALGO Ecosystem</title>
     <meta name="description" content="An open, self-sustainable and self-regulating economic environment">
     <meta charset="utf-8">
 
@@ -33,7 +33,7 @@
                                                 <div>
                                                     <div style="width:85%;">
                                                         <h2>
-                                                            An open, self-sustainable and self-regulating economic environment
+                                                            The ALGO Ecosystem... an open, self-sustainable and self-regulating economic environment
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -52,18 +52,18 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">The Superalgos Ecosystem</h1>
+                        <h1 class="sc_title">The ALGO Ecosystem</h1>
                         <h5 class="sc_title sc_title_underline">A permissionless business hub</h5>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The Superalgos Ecosystem is a network of economic relationships embodied by interdependent modules and their stakeholders participating in a joint business. </p>
-                        <p>The main purpose of the ecosystem is to enable a decentralized, self-sustainable and self-regulating economic environment by which all participants are exposed to business opportunities and through which the profits obtained through the ecosystem's output as a joint enterprise are systematically distributed and channeled to participants according to their individual contributions.</p>
+                        <p>The ALGO Ecosystem is the network of economic relationships embodied by the activities of numerous stakeholders of the <!--#include file="tooltips/superalgos-project.shtml" -->, participating in a joint business.</p>
+                        <p>The main purpose of the ecosystem is to enable a decentralized, self-sustainable and self-regulating economic environment. Participants are exposed to business opportunities and the profits obtained through the ecosystem's output are systematically distributed and channeled to entities according to their individual contributions.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>The ALGO token is the medium of payment within the ecosystem, and the project's native token.</p>
-                        <p>In the long run, the output of the joint business will be a marketplace of automated trading services, to be exposed to the general public. </p>
+                        <p>The <!--#include file="tooltips/algo-token.shtml" --> is the medium of payment within the ecosystem, and the project's native token.</p>
+                        <p>In the long run, the output of the ALGO Ecosystem will be a <!--#include file="tooltips/marketplace.shtml" --> of automated asset management and trading services, to be exposed to the general public.</p>
                         <p>The ecosystem is composed of several stakeholders. We shall briefly introduce them in order to provide context to deeper explanations coming afterwards.</p>
                     </div>
                 </div>
@@ -81,13 +81,13 @@
 
                 <div class="row">
                     <div class="col-sm-12">
-                        <h2>Financial Beings</h2>
+                        <h2>Superalgos Organization</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>Financial beings are autonomous agents with a financial life of their own, meaning that the live or die depending on their ability to produce value in the form of products (data) and services (trading), which they sell to obtain financial resources and guarantee their subsistence.</p>
+                        <p>A not-for-profit organisation with the main purpose to promote the Superalgos Project. The organization aims to make trading technology readily available to ever increasing numbers of market participants by lowering the barriers of entry as well as promoting open source collaboration.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>Financial life is a leading paradigm playing a fundamental role in balancing the ecosystem. Because financial beings need to pay for their own living expenses, they strive to be as efficient as possible. Financial life naturally selects top performers and discards inefficient specimens.</p>
+                        <p>The Superalgos Organization is the legal entity representing the Superalgos Project in front of <!--#include file="tooltips/exchanges.shtml" -->, entering legal agreements with the latter to ensure a meaningful and profitable  business relationship for all parties involved.</p>
                     </div>
                 </div>
 
@@ -96,48 +96,28 @@
                         <h2>Community</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>The community is the human component of the project, formed by a heterogeneous group of people counting mainly developers, traders and analysts, self-organizing in teams, which form organically through spontaneous relationships within the community.  </p>
-                        <p>Teams main functions are creating, developing, maintaining and promoting the evolution of financial beings. Teams may also contribute to the development and maintenance of the platform.</p>
+                        <p>The Community is embodied by the strong collaboration of a heterogeneous group participating in the <!--#include file="tooltips/superalgos-project.shtml" -->. </p>
+                        <p>A subset of the Community counts professional and amateur traders, developers and analysts, organized in Teams. Their main functions are creating, developing, maintaining and promoting the evolution of <!--#include file="tooltips/financial-beings.shtml" -->, so we call Teams <!--#include file="tooltips/algo-makers.shtml" -->.</p>
+                        <p>Teams may also contribute to the development and maintenance of the platform, <a href="developers-join-dev-team.shtml">becoming Team Members</a>.</p>
+
                     </div>
                     <div class="col-sm-6">
-                        <p>Teams are free to create any number of financial beings and &ndash;most times&mdash;are free to set the fees other beings need to pay to consume the products (datasets) and services they offer.</p>
-                        <p>Any individual in the community may create a team, and people may participate in multiple teams at the same time.</p>
+                        <p>Teams are free to create any number of financial beings and are free to set the fees other beings need to pay to consume the products (datasets) and services (trading) they offer.</p>
+                        <p>Any individual in the Community may create a Team, and people may participate in multiple Teams at the same time.</p>
+                        <p>Teams participate in <!--#include file="tooltips/superalgos-competitions.shtml" --> to earn cash prizes and acquire reputation, which in turn may help them market their services once the <!--#include file="tooltips/marketplace.shtml" --> is up and running.</p>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-sm-12">
-                        <h2>Audience</h2>
+                        <h2>Node Operators</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>The audience is people watching the developments of the Superalgos universe, following live competitions, consuming public functionality and potentially evaluating ways of getting involved at a deeper level. </p>
+                        <p>Node operators are people or companies running <!--#include file="tooltips/superalgos-nodes.shtml" --> and potentially offering hosting services for <!--#include file="tooltips/algo-makers.shtml" --> to run their <!--#include file="tooltips/algorithms.shtml" -->.</p>
+                        <p>Everyone has the option to run their own Superalgos Nodes&mdash;that is, their own instances of the <!--#include file="tooltips/superalgos-platform.shtml" -->&mdash;which removes the need to trust other parties on the network with Algorithms code and / or <!--#include file="tooltips/exchanges.shtml" -->' API Keys.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>This segment of the community creates demand for certain functionality and represents a target for competition sponsors.</p>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-sm-12">
-                        <h2>Competition Hosts</h2>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Competition hosts are people, companies or institutions organizing trading competitions using the Superalgos Platform. The ecosystem is permissionless in the sense that allows anyone to organize all sorts of competitions.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>We expect algorithmic trading competitions will eventually become as mainstream as e-sports, attracting important followings and growing into international structures, with regulatory bodies, associations and federations. When competitions grow to such dimensions, they will most likely become a substantial business and gain notable exposure.</p>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-sm-12">
-                        <h2>Competition Sponsors</h2>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Competition sponsors are people, companies or brands supporting trading competitions by entering competition hosts' sponsorship programs. </p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>They help finance competition events, enabling competitions to grow and attract more people through more attractive prize money incentives and broader exposure.</p>
+                        <p>In the future, Node Operators will be incentivized to participate in the <!--#include file="tooltips/superalgos-network.shtml" --> through a discount offered by Exchanges, applicable to the volume generated by Superalgos Nodes in the Marketplace.</p>
                     </div>
                 </div>
 
@@ -146,10 +126,11 @@
                         <h2>Exchanges</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>All kinds of crypto exchanges offering APIs to trade on their listed markets are able to participate in the ecosystem.</p>
+                        <p>All crypto exchanges offering APIs to trade on their listed markets are able to participate in the <!--#include file="tooltips/algo-ecosystem.shtml" -->. The Superalgos Platform is exchange-agnostic.</p>
+                        <p>Exchanges play a crucial role in the ecosystem as they are the actor hosting and incentivizing <!--#include file="tooltips/superalgos-competitions.shtml" -->&mdash;the ultimate driver of evolution&mdash;by offering significant prize money to winners.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>The platform is exchange-agnostic. The demand for trading with any specific exchange will drive the development of the required connectors by teams with an entrepreneurial mindset.</p>
+                        <p>They will also play an important role incentivizing the actual use of the <!--#include file="tooltips/superalgos-network.shtml" --> once the <!--#include file="tooltips/marketplace.shtml" --> is operational: Exchanges will route discounts back to Node Operators, based on their trading volume.</p>
                     </div>
                 </div>
 
@@ -158,39 +139,37 @@
                         <h2>Subscribers</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>In the future, people, companies and institutions will be able to hire financial beings to trade on their behalf by subscribing to financial beings' services for a fee, through an automated trading services marketplace.  </p>
+                        <p>In the future, people, companies and institutions will be able to hire Asset Managers to trade on their behalf by subscribing to asset management services for a fee.</p>
+                        <p>Subscribers will eventually become the main consumers in the ecosystem.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>Subscribers will eventually become the main consumers in the ecosystem.</p>
-                        <p>However, in order for this to happen, both the platform and financial beings need to evolve further, so as to enable a certain performance level in terms of the ecosystem's output.</p>
+                        <p>However, in order for this to happen, both the <!--#include file="tooltips/superalgos-platform.shtml" --> and <!--#include file="tooltips/financial-beings.shtml" --> need to evolve further, so as to enable a certain performance level in terms of the ecosystem's output.</p>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-sm-12">
-                        <h2>Platform</h2>
+                        <h2>Asset Managers</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>The platform is the collection of software components that enable the project's vision. It provides the living environment for financial beings to exist, the arena for them to compete, and the marketplace for stakeholders to relate and transact with each other.</p>
+                        <p>Asset managers will be companies or individuals in the network, providing financial advice / services to investors / subscribers. Their services may vary in terms of sophistication according to the size of capitals they manage.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>It is composed of the Cloud App which handles the cloud environment, the Canvas App which renders datasets in a timeline, a Master App running a number of modules providing frontend and backend functionality, and blockchain elements such as smart contracts.</p>
+                        <p>Asset management services may be as elaborate as available elsewhere in the industry or as simple as an application connecting the subscription directly to <!--#include file="tooltips/algorithms.shtml" -->.</p>
                     </div>
                 </div>
-                <!--
-    <div class="row">
-        <div class="col-sm-12">
-            <h2>Advanced Algos Ltd.</h2>
-        </div>
-        <div class="col-sm-6">
-            <p>Advanced Algos Ltd. is the legal person behind the project, whose main role is enabling the business to operate legally, interfacing with authorities, regulators, service providers and customers, while assuming all liabilities regarding the operation. </p>
-        </div>
-        <div class="col-sm-6">
-            <p>As such, the company establishes internal regulations and ensures compliance by all stakeholders.</p>
-            <p>The company is also tasked with protecting the ecosystem's intellectual property, handling the relationship with business partners and service providers and managing funds.</p>
-        </div>
-    </div>
-    -->
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h2>Financial Beings</h2>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Financial beings are autonomous agents with a <!--#include file="tooltips/financial-life.shtml" --> of their own, meaning that they live or die depending on their ability to produce value in the form of products (data) and services (trading), which they sell to obtain financial resources and guarantee their subsistence.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Financial life is a leading paradigm playing a fundamental role in balancing the ecosystem. Because <!--#include file="tooltips/financial-beings.shtml" --> need to pay for their own living expenses, they strive to be as efficient as possible. Financial life naturally selects top performers and discards inefficient specimens.</p>
+                    </div>
+                </div>
             </div>
         </section>
 

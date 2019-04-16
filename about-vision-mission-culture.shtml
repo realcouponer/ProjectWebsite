@@ -33,7 +33,7 @@
                                                 <div>
                                                     <div style="width:85%;">
                                                         <h2>
-                                                            The foundational principles leading the Superalgos Project
+                                                            The foundational principles guiding the Superalgos Project
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -88,7 +88,7 @@
                         <div class="col-sm-6">
                             <p>We make our voice heard by adding value and earning the recognition of our peers. </p>
                             <p>We commit to subject our work to the forces of evolution, welcoming change and new needs as drivers of our collective improvement.</p>
-                            <p>We pledge to defend and protect the ALGO ecosystem, as a means to consolidate the sense of collective ownership of all participants.</p>
+                            <p>We pledge to defend and protect the <!--#include file="tooltips/algo-ecosystem.shtml" -->, as a means to consolidate the sense of collective ownership of all participants.</p>
                         </div>
                     </div>
                 </div>

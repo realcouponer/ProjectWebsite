@@ -57,14 +57,14 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>Developers, traders and analysts, both professionals and amateurs alike, get together forming multidisciplinary teams. Teams' goal is to train bots and have them compete in a wide array of algorithmic trading competitions, both for fun, but also to win prize money.</p>
-                        <p>Teams train bots for a period of time (weeks) until the next competition starts. During this time, they work in silos, in an attempt to develop new solutions or optimizations to the bot's code, decision making or strategy, that will put them in the path to winning the next comp.</p>
-                        <p>During a competition, the public can follow the event live and see how bots perform against each other. When a competition finishes, prize money is allocated to the winners, but&mdash;most importantly&mdash;<strong>all participant's source code is opened.</strong></p>
+                        <p>Developers, traders and analysts, both professionals and amateurs alike, get together forming multidisciplinary <!--#include file="tooltips/algo-makers.shtml" --> Teams. Teams' goal is to train <!--#include file="tooltips/algorithms.shtml" --> and have them compete in a wide array of <!--#include file="tooltips/superalgos-competitions.shtml" -->, both for fun, but also to win prize money.</p>
+                        <p>Teams train Algorithms for a period of time (weeks) until the next Competition starts. During this time, they work in silos, in an attempt to develop new solutions or optimizations to the Algorithm's code, decision making or strategy, that will put them in the path to winning the next Competition.</p>
+                        <p>During a Competition, the public can follow the event live and see how bots perform against each other. When a Competition finishes, prize money is allocated to the winners, but&mdash;most importantly&mdash;<strong>all participant's source code is opened.</strong></p>
                     </div>
                     <div class="col-sm-6">
-                        <p>This is a key feature of Superalgos competitions. By opening the code of participants, we effectively distribute newly acquired knowledge across the community. At the same time, we level the playing field upwards for the next competition round, so that: <i>a.</i> no team ever gets to dominate the scene; <i>b.</i> new entrants can start out with pretty good chances of being competitive or even winning; and <i>c.</i> the whole system starts out the new competition round being smarter.</p>
+                        <p>This is a key feature of Competitions. By opening the code of participants, we effectively distribute newly acquired knowledge across the <!--#include file="tooltips/community.shtml" -->. At the same time, we level the playing field upwards for the next Competition round, so that: <i>a.</i> no team ever gets to dominate the scene; <i>b.</i> new entrants can start out with pretty good chances of being competitive or even winning; and <i>c.</i> the whole system starts out the new Competition round being smarter.</p>
                         <p>For the next training session, teams are likely to fork winners to start with a winning specimen, but they also study and adopt the traits and ideas that other participants performing well had implemented.</p>
-                        <p><strong>Repeating this pattern over and over produces a relentless evolution of trading algorithms and a systematic increase in collective performance through each competition cycle.</strong></p>
+                        <p><strong>Repeating this pattern over and over produces a relentless evolution of <!--#include file="tooltips/algorithms.shtml" --> and a systematic increase in collective performance through each competition cycle.</strong></p>
                     </div>
                 </div>
             </div>
@@ -79,16 +79,16 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>We foresee an early community gathering around early stage competitions, seeking moments of fun, fame, glory and&mdash;also&mdash;prize money.</p>
-                        <p>These early stage competitions are quite simple. They are stand alone events with an <i>each against all format</i>. The metric measured is <i>ROI</i> (Return on Investment). However, with time and as the number of participants grow, competitions will diversify and grow in numbers.</p>
-                        <p>Different competition formats, with different rules and metrics constitute instruments for incentivizing evolution along different lines. Put in other words, implementing competitions with specific sets of rules and metrics can direct development to targeted areas of the trading space.</p>
-                        <p>As competitions attract crowds from different parts of the globe using different exchanges, demand will grow for more exchanges to connect to the platform and host their own competitions to drive trading volume to their businesses. </p>
+                        <p>We foresee an early community gathering around early stage <!--#include file="tooltips/superalgos-competitions.shtml" -->, seeking moments of fun, fame, glory and&mdash;also&mdash;prize money.</p>
+                        <p>These early stage Competitions are quite simple. They are stand alone events with an <i>each against all format</i>. The metric measured is <i>ROI</i> (Return on Investment). However, with time and as the number of participants grow, Competitions will diversify and grow in numbers.</p>
+                        <p>Different competition formats, with different rules and metrics constitute instruments for incentivizing evolution along different lines. Put in other words, implementing Competitions with specific sets of rules and metrics can direct development to targeted areas of the trading space.</p>
+                        <p>As Competitions attract crowds from different parts of the globe using different <!--#include file="tooltips/exchanges.shtml" -->, demand will grow for more Exchanges to connect to the platform and host their own Competitions to drive trading volume to their businesses. </p>
                     </div>
                     <div class="col-sm-6">
-                        <p>Exchanges will therefore sponsor competitions, attracting larger crowds with heftier prizes, incentivizing teams to grow in size and professionalize. </p>
+                        <p>Exchanges will therefore sponsor Competitions, attracting larger crowds with heftier prizes, incentivizing teams to grow in size and professionalize. </p>
                         <p>Competitions will steadily grow into a worldwide phenomenon, reaching newsworthiness status for mainstream media. </p>
-                        <p>Superalgos will organize official competitions, and will also open up the technology for anyone to organize their own events. This mechanism adds a wide scope of diversification that allows the exploration of a wider space.</p>
-                        <p><strong>With this setup, we aim to grow our community to the order of millions.</strong></p>
+                        <p>The <!--#include file="tooltips/superalgos-project.shtml" --> will organize official Competitions, and will also open up the technology for anyone to organize their own events. This mechanism adds a wide scope of diversification that allows the exploration of a wider space.</p>
+                        <p><strong>With this setup, we aim to grow our Community to the order of millions.</strong></p>
                     </div>
                 </div>
         </section>
@@ -102,14 +102,14 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p><strong>Evolution driven by competition is the mechanism Superalgos chooses to produce the largest exploration of the trading space ever recorded, with the end goal of using the vast amount of data collected through hundreds of thousands of trading experiences to feed the learning engines of the ultimate superalgo.</strong></p>
+                        <p><strong>Evolution driven by competition is the mechanism the Superalgos Project chooses to produce the largest exploration of the trading space ever recorded, with the end goal of using the vast amount of data collected through hundreds of thousands of trading experiences to feed the learning engines of the ultimate superalgo.</strong></p>
                         <p>Competition as a system is a proven driver of evolution, with plenty of evidence found in the natural world, sports and business, to name a few settings. As an evolving species, our drive to compete is programmed in our DNA. </p>
                         <p>From the perspective of humans participating in the project, competition has multiple built-in incentives that resonate with different kinds of personalities. We compete for the ludic and entertainment value, for the challenge, for fame and glory, to feel honor and pride, to measure our skills, to feel we are a part of the community, to drive the project forwards, or simply, to win.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>However, from the perspective of algorithms running on the platform, their drive to compete is of an existential nature: they compete to evolve in order to survive and thrive, as failing means death and extinction.</p>
-                        <p>Understanding the inner workings of the Superalgos ecosystem is not mired in considerations of just business or technology, but the pivotal notion of <span class="tooltip-custom">financial life<span class="tooltiptext-custom" style="text-align: justify;">A type of <a href="https://en.wikipedia.org/wiki/Artificial_life" rel="nofollow" rel="noopener" target="_blank"><em>artificial life</em></a> in which agents are alive as long as they have enough money to pay for their expenses.</span></span>&mdash;where the participation in the ecosystem evolves autonomous agents into becoming living stakeholders known as <a href="about-financial-beings.shtml">financial beings</a>.</p>
-                        <p>This transformation of financial life occurs within the environment of the Superalgos platform connecting the ALGO tokens to the autonomous agents as a form of energy essential to not just production, but the very center of their life sustainability.</p>
+                        <p>However, from the perspective of <!--#include file="tooltips/financial-beings.shtml" --> running on the platform, their drive to compete is of an existential nature: they compete to evolve in order to survive and thrive, as failing means death and extinction.</p>
+                        <p>Understanding the inner workings of the <!--#include file="tooltips/algo-ecosystem.shtml" --> is not mired in considerations of just business or technology, but the pivotal notion of <!--#include file="tooltips/financial-life.shtml" -->&mdash;where the participation in the ecosystem evolves autonomous agents into becoming living stakeholders known as <!--#include file="tooltips/financial-beings.shtml" -->.</p>
+                        <p>This transformation of financial life occurs within the environment of the <!--#include file="tooltips/superalgos-platform.shtml" --> connecting the <!--#include file="tooltips/algo-token.shtml" --> to the autonomous agents as a form of energy essential to not just production, but the very center of their life sustainability.</p>
                     </div>
                 </div>
             </div>

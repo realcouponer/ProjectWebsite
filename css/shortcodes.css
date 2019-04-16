@@ -418,9 +418,24 @@ border-top: none;
         color: #fff;
     }
 
-    .grey_section .sc_title {
+    .darkgrey_section h2 {
         color: #fff;
     }
+
+    .darkgrey_section blockquote p {
+        color: #BBB;
+    }
+
+    .darkgrey_section blockquote {
+        background-color: #19191c;
+    }
+
+
+
+
+.grey_section .sc_title {
+    color: #fff;
+}
 
 
 .darkgrey_section + .darkgrey_section {
@@ -3319,7 +3334,7 @@ ul.sc_list.sc_list_style_disk { margin: 0 !important; }
 /*block quote*/
 
 blockquote {
-    margin: 2em 1em 2em 3em;
+    margin: 2em 1em 2em 1em;
     font-weight: 300;
     border-left: 0;
     font-variant-caps: normal;
@@ -3328,10 +3343,11 @@ blockquote {
 }
 
     blockquote p {
-        font-size: 20px;
+        font-size: 18px;
         line-height: 30px;
         text-transform: none;
         font-style: italic;
+        text-align: left;
     }
 
 
@@ -4998,7 +5014,7 @@ a.sc_icon.bg_icon.sc_icon_round:hover:after {
     filter: alpha(opacity=80);
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 }
-.sc_team_item .sc_team_item_avatar:hover .sc_team_item_socials { bottom:50%; }
+.sc_team_item .sc_team_item_avatar:hover .sc_team_item_socials { bottom:20%; }
 .sc_team_item .sc_team_item_avatar:hover .sc_team_item_socials li a  {
     background-color: rgba(255, 255, 255, 0.3);
     opacity: 1;
@@ -6195,7 +6211,7 @@ a.revlink{
 
 /*=Accordion==================================================================================================================================================================*/
 
-.sc_accordion .sc_accordion_item .sc_accordion_content { overflow: hidden; font-weight: 300; margin:0; }
+.sc_accordion .sc_accordion_item .sc_accordion_content { overflow: visible; font-weight: 300; margin:0; }
 .sc_accordion .sc_accordion_item .sc_accordion_content p { padding-bottom: 0;}
 .sc_accordion .sc_accordion_item .sc_accordion_title { text-align:left; font-size: 20px; font-weight: 400; padding: 0; position: relative; }
 .sc_accordion .sc_accordion_item .sc_accordion_title:before {  }
@@ -6397,25 +6413,30 @@ code {
 .tooltip-custom {
     position: relative;
     display: inline-block;
-    border-bottom: 1.5px dotted red;
+    border-bottom: 1.5px dotted #BBB;
 }
 
     .tooltip-custom .tooltiptext-custom {
         visibility: hidden;
         background-color: rgba(0,0,0,0.8);
         color: #fff;
-        font-size:smaller;
+        font-size:small;
         text-align: left;
+        line-height: normal;
         border-radius: 6px;
         padding: 15px;
         width: 300px;
         /* Position the tooltip */
         position: absolute;
-        z-index: 1;
+        z-index: 0;
         bottom: 125%;
         right: -50px;
         opacity: 0;
-        transition: opacity 1s;
+        transition: opacity .5s;
+    }
+
+    .tooltip-custom .tooltiptext-custom a {
+        font-weight:bold;
     }
 
         .tooltip-custom .tooltiptext-custom::after {
