@@ -20,13 +20,25 @@
                                                 <a href="about-algo-overview.shtml" class="sf-with-ul">Overview</a>
                                             </li>
                                             <li>
-                                                <a href="about-algo-economics.shtml" class="sf-with-ul">Economics &amp; Distribution</a>
-                                            </li>
-                                            <li>
                                                 <a href="about-algo-flow.shtml" class="sf-with-ul">Economic Flow</a>
                                             </li>
                                             <li>
                                                 <a href="about-algo-streams.shtml" class="sf-with-ul">ALGO Streams</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="menu-item-has-children">
+                                        <a href="#">Social Contract</a>
+                                        <ul>
+                                            <li>
+                                                <a href="#" class="sf-with-ul">Constitution</a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="sf-with-ul">ALGO Macroeconomics</a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="sf-with-ul">ALGO Governance Charter</a>
                                             </li>
                                         </ul>
                                     </li>
