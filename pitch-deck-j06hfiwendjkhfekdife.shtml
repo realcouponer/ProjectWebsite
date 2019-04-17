@@ -1,0 +1,585 @@
+﻿<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Advanced Algos</title>
+    <meta name="description" content="A collective project fostering the rapid-evolution of trading algorithms through trading bots competitions.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg-no-menu.shtml" -->
+        <!--#include file="includes/header2-no-menu.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+
+
+                                <li>
+                                    <img src="img/photos/markets-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1900px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Superalgos</h3>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;"><br />An open source project developing and implementing<br />a framework to disrupt the reigning active investments model.</p>
+                                                        <div style="padding:10px; width: 1800px;">
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/key-vault-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">The Status Quo</h3>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            No one shares their algorithms <br />or know-how.
+                                                        </p>
+                                                        <div style="padding:10px; width: 1500px;">
+                                                            <ul align="left">
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Investment companies keep trading technology in <span class="red_text">absolute secrecy</span>.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    The assumption is made that this gives them an edge over other market participants.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    It is also assumed that algorithms lose performance when used too broadly.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Even within a company, specialists work alone or in small groups.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Evolution of trading intelligence is therefore <span class="red_text">capped</span> by the intelligence of small groups.
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/connect-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Our Approach</h3>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            Challenge the silos <br />with a global collective.
+                                                        </p>
+                                                        <div style="padding:10px; width: 1500px;">
+                                                            <ul align="left">
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    A global collective creates trading algorithms <span class="red_text">&rarr;</span> uncapped group size!
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Algorithms participate in competitions for prize money and reputation <span class="red_text">&rarr;</span> shift in incentives!
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    After each competition, algorithms are open-sourced <span class="red_text">&rarr;</span> collective knowledge levelled upwards!
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    The collective improves the best algorithms and puts them to compete again <span class="red_text">&rarr;</span> rapid evolution!
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/supermind-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1850px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">The Outcome</h3>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            A collective trading intelligence alongside closed-source providers, <br />coexisting on a decentralized network hosting a Trading Intelligence Marketplace.
+                                                        </p>
+                                                        <div style="padding:10px; width: 1500px;">
+                                                            <ul align="left">
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Our open-source trading intelligence is distributed across a <span class="red_text">trustless</span> peer-to-peer network.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    The network is open to traditional investment companies and other black-boxed intelligences.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    A global marketplace provides various asset management services to <span class="red_text">investors of all calibers</span>.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    The system is glued with significant monetary incentives to participate in the network.
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/events-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Superalgos Trading League</h3>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            A multi-layer league system designed to drive evolution <br />towards trading increasingly important value in assets.
+                                                        </p>
+                                                        <div style="padding:10px; width: 1500px;">
+                                                            <ul align="left">
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Minor leagues run short competitions, with minimal capital requirements and small prizes.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Major leagues run longer events, trade <span class="red_text">more capital</span> and offer significant prize money.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Algo-makers access state-of-the-art tech after each event, keeping entry barriers low.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Teams winning an event get enough prize money to cover the capital req. for the next league.
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/teams-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Partnership with Exchanges</h3>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            Exchanges take a leading role hosting, sponsoring<br />and marketing trading competitions.
+                                                        </p>
+                                                        <div style="padding:10px; width: 1500px;">
+                                                            <ul align="left">
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Exchanges host competitions to drive <span class="red_text">trading volume</span> to their own businesses.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    They sponsor significant prize money to incentivize algo-maker teams to compete.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Price money comes at no cost to exchanges as it comes from standard volume discounts.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Exchanges market competitions to their clients, onboarding <span class="red_text">whole communities</span> to Superalgos.
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/marketplace-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Trading Intelligence Marketplace</h3>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            As the network grows,<br />intelligence is put at the service of all people.
+                                                        </p>
+                                                        <div style="padding:10px; width: 1500px;">
+                                                            <ul align="left">
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Investors of all calibers may rent asset management services offered throughout the network.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Asset managers range from professionals to <span class="red_text">automated solutions</span> renting algos from algo-makers.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Algo-makers counting traders, developers and data analysist are paid for the use of their algos.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Constant evolution guarantees diversity and prompt replacement of algos that lose their edge.
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/network-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Superalgos Network</h3>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            The whole system runs distributed on a trustless, decentralized,<br />permissionless peer-to-peer network.
+                                                        </p>
+                                                        <div style="padding:10px; width: 1500px;">
+                                                            <ul align="left">
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Stakeholders run their own instance of the platform on a node, <span class="red_text">removing all trust</span> requirements.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Nodes may offer data, trading and asset management services in a permissionless manner.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Services may be black-boxed without revealing how the output is obtained and sold for fees.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Services available throughout the network may be leveraged and combined in infinite manners.
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/incentives-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Network Incentives</h3>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            The network leverages its bundled trading volume<br />to obtain significant cash-back discounts from exchanges.
+                                                        </p>
+                                                        <div style="padding:10px; width: 1500px;">
+                                                            <ul align="left">
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Exchanges compete for customers within the Superalgos Network to capture trading volume.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    They run special nodes federating regular nodes driving trading volume to their exchange.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Nodes get a cash-back payment obtained from <span class="red_text">transaction-fee discounts</span> on volume they drive.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    This is an incentive to trade from within the network as no benefits are obtained otherwise.
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/ecosystem-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">The Main Challenge</h3>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            Bootstrapping the project<br />until it snowballs!
+                                                        </p>
+                                                        <div style="padding:10px; width: 1500px;">
+                                                            <ul align="left">
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    The project is wired around two parallel positive feedback loops that accelerate growth.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    Both loops incentivize algo-makers, the key to an ever-growing collective intelligence.
+                                                                </li>
+                                                            </ul>
+
+                                                        </div>
+                                                        <p style="color:white; margin: 35px 0; font-size: 200%; text-align:center;">
+                                                            More algo-makers <span class="red_text">&rarr;</span> more competitors <span class="red_text">&rarr;</span> more volume <span class="red_text">&rarr;</span> more prize money <span class="red_text">&rarr;</span> more algo-makers!
+                                                            <br /><br />
+                                                            More algo-makers <span class="red_text">&rarr;</span> more intelligence <span class="red_text">&rarr;</span> more performance <span class="red_text">&rarr;</span> more demand for rentals <span class="red_text">&rarr;</span> more algo-makers!
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/business-plan-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Go to Market Strategy</h3>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            We leverage the partnership with exchanges<br />to onboard their communities, one by one as the project advances.
+
+                                                        </p>
+                                                        <div style="padding:0px; width: 1350px;">
+                                                            <ol align="left">
+                                                                <li style="color:white; margin: 25px 0; font-size: 200%; text-align:justify;">
+                                                                    Activate traders with the Strategizer, a tool to customize pre-programmed algos via a GUI.
+                                                                </li>
+                                                                <li style="color:white; margin: 25px 0; font-size: 200%; text-align:justify;">
+                                                                    Onboard first exchange to market Superalgos within their clients <span class="red_text">&rarr; deal signed!</span>
+                                                                </li>
+                                                                <li style="color:white; margin: 25px 0; font-size: 200%; text-align:justify;">
+                                                                    Host micro token offering at the Exchange and launch alpha-stage competitions.
+                                                                </li>
+                                                                <li style="color:white; margin: 25px 0; font-size: 200%; text-align:justify;">
+                                                                    <span class="red_text">Repeat</span> with other exchanges, targeting bigger ones as the network matures.
+                                                                </li>
+                                                            </ol>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/platform-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Roadmap</h3>
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            Platform launched in alpha stage: <a href="https://platform.superalgos.org" rel="noopener" target="_blank">Try it live!</a>
+                                                        </p>
+
+                                                        <div style="padding:0px; width: 1350px;">
+                                                            <ol align="left">
+
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    <strong>Project Kick-off</strong>: August 2017.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    <strong>Minimum Viable Product</strong>: Delivered, October 2018.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    <span class="red_text"><strong>Strategizer</strong>: Demo version imminent release!</span>
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    <strong>Superalgos Node</strong>: Alpha version ETA Q2 2019.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    <strong>First Micro Exchange Offering (COSS.IO)</strong>: ETA Q2 2019.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    <strong>Alpha-stage Competitions</strong>: ETA Q3 2019.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    <strong>Superalgos Network</strong>: Alpha version ETA Q3 2019.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    <strong>Superalgos Trading League</strong>: Alpha version ETA Q1 2020.
+                                                                </li>
+                                                                <li style="color:white; margin: 35px 0; font-size: 200%; text-align:justify;">
+                                                                    <strong>Trading Intelligence Marketplace</strong>: Alpha version ETA Q3 2020.
+                                                                </li>
+                                                            </ol>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/flow-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <div style="padding:10px; width: 1500px;">
+                                                            <div class="sc_table sc_table_style_1 sc_table_size_medium sc_table_align_center" style="width: 1500px;">
+                                                                <br /><br /><br /><br /><br /><br /><br />
+                                                                <table>
+                                                                    <tbody>
+                                                                        <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 20px">
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Luis-color.jpg" /></td>
+                                                                            <td style="border: none !important; text-align: left; width:250px!important; vertical-align: top; font-size: 22px; line-height: 28px;"><strong>Luis Molina</strong>, <br />visionary entrepreneur, systems architect, 15 years in fintech developing mission-critical systems for banks; in crypto since 2013.</td>
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Andreja.jpg" /></td>
+                                                                            <td style="border: none !important; text-align: left; width:250px!important; vertical-align: top; font-size: 22px; line-height: 28px;"><strong>Andreja Cobeljic</strong>, Pro-trader and Portfolio Manager in Goldman Sachs & UBS: cross-asset trading, equity derivatives, FX and options; in crypto since 2016.</td>
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Ira-color.jpg" /></td>
+                                                                            <td style="border: none !important; text-align: left; width:250px!important; vertical-align: top; font-size: 22px; line-height: 28px;"><strong>Ira Miller</strong>, <br />bitcoin entrepreneur, tech-visionary, crypto-trader, systems architect, blockchain developer; in crypto since 2011.</td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table><br />
+                                                                <table>
+                                                                    <tbody>
+                                                                        <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 20px">
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Matias.jpg" /></td>
+                                                                            <td style="border: none !important; text-align: left; width:250px!important; vertical-align: top; font-size: 22px; line-height: 28px;"><strong>Matias Benitez</strong>, Information Systems Engineer, MBA, former Hewlett Packard and General Motors; in crypto since 2017.</td>
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Barry-color.jpg" /></td>
+                                                                            <td style="border: none !important; text-align: left; width:250px!important; vertical-align: top; font-size: 22px; line-height: 28px;"><strong>Barry Low</strong>, <br />web developer, vision-based brand consultant, graphic designer, UX/UI designer; in crypto since 2017.</td>
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Nikola-color.jpg" /></td>
+                                                                            <td style="border: none !important; text-align: left; width:250px!important; vertical-align: top; font-size: 22px; line-height: 28px;"><strong>Nikola Bjelogrlic</strong>, hacker, web developer; in crypto since 2018.</td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table><br />
+                                                                <table>
+                                                                    <tbody>
+                                                                        <tr style="color:white; margin: 20px 0; font-size: large; text-align:justify; line-height: 20px">
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Rob-color.jpg" /></td>
+                                                                            <td style="border: none !important; text-align: left; width:250px!important; vertical-align: top; font-size: 22px; line-height: 28px;"><strong>Robert Brown</strong>, UX/UI Developer, visual arts, multimedia design, interfaces and UX design for the likes of NASA, Microsoft, Coca Cola, Ford, TNT and General Motors.</td>
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Jeff-low.jpg" /></td>
+                                                                            <td style="border: none !important; text-align: left; width:250px!important; vertical-align: top; font-size: 22px; line-height: 28px;"><strong>Jeff Braun</strong>, <br />Master's degree in Private Law, capital markets & corporate law, crypto finance and distributed trust networks; in crypto since 2016.</td>
+                                                                            <td style="border: none !important; width:250px!important;"><img src="img\people\Julian-color.jpg" /></td>
+                                                                            <td style="border: none !important; text-align: left; width:250px!important; vertical-align: top; font-size: 22px; line-height: 28px;"><strong>Julian Molina</strong>, <br />lifelong entrepreneur in fintech, arts, design, engineering and manufacturing; in crypto since 2016.</td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                <li>
+                                    <img src="img/photos/contacts-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
+                                        <div class="slide_description to_animate" style="display: inline-block; vertical-align: top;">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding:10px; width: 1800px;">
+
+                                                        <h3 style="margin-top: 10%; font-size: 700%; line-height: 135px;">Join Us!</h3>
+
+                                                        <p style="color:white; font-size: 300%; line-height: 65px; margin-top: 50px; text-align: center;">
+                                                            Julian Molina | +34 684 33 97 11 <br /> Telegram: <a href="https://t.me/julianmolina" rel="nofollow" rel="noopener" target="_blank">@julianmolina</a> | Email: <a href="mailto:julian@superalgos.org">julian@superalgos.org</a>
+                                                        </p>
+                                                        </p>
+
+                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                            <a href="index.shtml">Learn More</a>
+                                                        </span>&nbsp; &nbsp;
+                                                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                            <a href="https://platform.superalgos.org">Join the Crowd</a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--#include file="includes/preloader2.shtml" -->
+        <!--preloader2 = flymenu reference-->
+
+</body>
+    </html>
+
+
+
