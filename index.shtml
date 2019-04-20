@@ -187,42 +187,7 @@
             </div>
         </section>
 
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
-                                <li>
-                                    <img src="img/photos/events-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
-                                        <div class="slide_description to_animate">
-                                            <div data-animation="fadeInRight" align="left">
-                                                <h3>Superalgos Trading League</h3>
-                                                <h2>
-                                                    &bull; Minor leagues run short competitions, with minimal capital requirements and small prizes.<br />
-                                                    &bull; Major leagues run longer events, trade <span class="red_text">more capital</span> and offer significant prize money.<br />
-                                                    &bull; Algo-makers access state-of-the-art tech after each event, keeping entry barriers low.<br />
-                                                    &bull; Teams winning an event get enough prize money to cover the capital req. for the next league.<br />
-                                                </h2>
-                                                <br />
-                                                <br />
-                                                <br />
-                                                <a class="revlink filled" href="#">get started</a>
-                                                <a class="revlink border">Learn More</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-        <section id="SuperalgosTradingLeague" class="darkgrey_section">
+        <section id="SuperalgosTradingLeague" class="darkgrey_section bgimg-events">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
