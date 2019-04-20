@@ -69,6 +69,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-12 text-center">
+                        <br /><br />
                         <h3>The flow of the Marketplace is the following...</h3></br>
                         <div>
                             <img src="img/charts/Marketplace-Flow-01.svg" width="890px" alt="Marketplace">
@@ -89,6 +90,8 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-12 text-center">
+
+                        <br /><br />
                         <h3>The flow continues as follows...</h3></br>
                         <div>
                             <img src="img/charts/Marketplace-Flow-02.svg" width="890px" alt="Marketplace">
