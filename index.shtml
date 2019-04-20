@@ -72,18 +72,14 @@
                         <h1 class="sc_title">The Status Quo</h1>
                         <h5 class="sc_title sc_title_underline">Trading Intelligence Evolves in Silos</h5>
                     </div>
-                    <div class="col-sm-2">
-                    </div>
-                    <div class="col-sm-8">
+                    <div class="col-sm-12">
                         <ul>
-                            <li><p>Investment companies keep trading technology in <span class="red_text">absolute secrecy</span>.</p></li>
-                            <li><p>The assumption is made that this gives them an edge over other market participants.</p></li>
-                            <li><div>It is also assumed that algorithms lose performance when used too broadly.</div></li>
-                            <li><p>Even within a company, specialists work alone or in small groups.</p></li>
-                            <li><p>Evolution of trading intelligence is therefore <span class="red_text">capped</span> by the intelligence of small groups.</p></li>
+                            <li><h3>Investment companies keep trading technology in <span class="red_text">absolute secrecy</span>.</h3></li>
+                            <li><h3>The assumption is made that this gives them an edge over other market participants.</h3></li>
+                            <li><h3>It is also assumed that algorithms lose performance when used too broadly.</h3></li>
+                            <li><h3>Even within a company, specialists work alone or in small groups.</h3></li>
+                            <li><h3>Evolution of trading intelligence is therefore <span class="red_text">capped</span> by the intelligence of small groups.</h3></li>
                         </ul>
-                    </div>
-                    <div class="col-sm-2">
                     </div>
                 </div>
                 <div class="sc_accordion_item panel" style="text-align: center !important;">
