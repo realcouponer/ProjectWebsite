@@ -30,7 +30,7 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 30px 20px 10px 20px;">
-                                                <h2><strong>Superalgos</strong><br />An open source project developing and implementing a framework to disrupt the reigning active investments model.</h2>
+                                                <h2><strong>Superalgos</strong><br />An open source project implementing a framework to disrupt the reigning active investments model.</h2>
 
                                             </div>
                                         </div>
@@ -42,7 +42,7 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 30px 20px 10px 20px;">
-                                                <h2><strong>The Status Quo</strong><br />No one shares their algorithms or know-how, putting a cap to evolution and entry barriers to trading technology.</h2>
+                                                <h2><strong>The Status Quo</strong><br />No one shares their know-how, putting a cap to evolution and entry barriers to trading technology.</h2>
                                             </div>
                                         </div>
                                     </div>
