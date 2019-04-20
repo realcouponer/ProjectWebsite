@@ -72,16 +72,18 @@
                         <h1 class="sc_title">The Status Quo</h1>
                         <h5 class="sc_title sc_title_underline">Trading Intelligence Evolves in Silos</h5>
                     </div>
-                    <div class="col-sm-12">
-                        <h3>
-                            <ul>
-                                <li>Investment companies keep trading technology in <span class="red_text">absolute secrecy</span>.</li>
-                                <li>The assumption is made that this gives them an edge over other market participants.</li>
-                                <li>It is also assumed that algorithms lose performance when used too broadly.</li>
-                                <li>Even within a company, specialists work alone or in small groups.</li>
-                                <li>Evolution of trading intelligence is therefore <span class="red_text">capped</span> by the intelligence of small groups.</li>
-                            </ul>
-                        </h3>
+                    <div class="col-sm-2">
+                    </div>
+                    <div class="col-sm-8">
+                        <ul>
+                            <li><p>Investment companies keep trading technology in <span class="red_text">absolute secrecy</span>.</p></li>
+                            <li><p>The assumption is made that this gives them an edge over other market participants.</p></li>
+                            <li><div>It is also assumed that algorithms lose performance when used too broadly.</div></li>
+                            <li><p>Even within a company, specialists work alone or in small groups.</p></li>
+                            <li><p>Evolution of trading intelligence is therefore <span class="red_text">capped</span> by the intelligence of small groups.</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-2">
                     </div>
                 </div>
                 <div class="sc_accordion_item panel" style="text-align: center !important;">
@@ -122,15 +124,17 @@
                             <h1 class="sc_title">Our Approach</h1>
                             <h5 class="sc_title sc_title_underline">Challenge the Silos with a Global Open Collaboration</h5>
                         </div>
-                        <div class="col-sm-12">
-                            <h3 style="color:#FFF;">
-                                <ul>
-                                    <li>A global collective creates trading algorithms <span class="red_text">&rarr;</span> uncapped group size!</li>
-                                    <li>Algorithms participate in competitions for prize money and reputation <span class="red_text">&rarr;</span> shift in incentives!</li>
-                                    <li>After each competition, algorithms are open-sourced <span class="red_text">&rarr;</span> collective knowledge levelled upwards!</li>
-                                    <li>The collective improves the best algorithms and puts them to compete again <span class="red_text">&rarr;</span> rapid evolution!</li>
-                                </ul>
-                            </h3>
+                        <div class="col-sm-2">
+                        </div>
+                        <div class="col-sm-8">
+                            <ul>
+                                <li><p>A global collective creates trading algorithms <span class="red_text">&rarr;</span> uncapped group size!</p></li>
+                                <li><p>Algorithms participate in competitions for prize money and reputation <span class="red_text">&rarr;</span> shift in incentives!</p></li>
+                                <li><p>After each competition, algorithms are open-sourced <span class="red_text">&rarr;</span> collective knowledge levelled upwards!</p></li>
+                                <li><p>The collective improves the best algorithms and puts them to compete again <span class="red_text">&rarr;</span> rapid evolution!</p></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-2">
                         </div>
                     </div>
                     <div style="text-align: center !important; background-color: !important ; color: #fff;">
