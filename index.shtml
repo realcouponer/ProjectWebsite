@@ -74,11 +74,11 @@
                     </div>
                     <div class="col-sm-12">
                         <ul>
-                            <li><h3>Investment companies keep trading technology in <span class="red_text">absolute secrecy</span>.</h3></li>
+                            <li><h3>Investment companies keep trading technology in <strong>absolute secrecy</strong>.</h3></li>
                             <li><h3>The assumption is made that this gives them an edge over other market participants.</h3></li>
-                            <li><h3>It is also assumed that algorithms lose performance when used too broadly.</h3></li>
+                            <li><h3>It is also assumed that <!--#include file="tooltips/algorithms.shtml" --> lose performance when used too broadly.</h3></li>
                             <li><h3>Even within a company, specialists work alone or in small groups.</h3></li>
-                            <li><h3>Evolution of trading intelligence is therefore <span class="red_text">capped</span> by the intelligence of small groups.</h3></li>
+                            <li><h3>Evolution of trading intelligence is therefore <strong>capped</strong> by the intelligence of small groups.</h3></li>
                         </ul>
                     </div>
                 </div>
@@ -96,14 +96,14 @@
                                     <p>Companies acquire significant talent in the form of data analysts and tech resources; however, in our view, they may be failing at organizing human and machine resources in a way that would yield the best possible results.</p>
                                 </div>
                                 <div class="col-sm-4">
-                                    <p>Sometimes due to incentives structures, workflows, organizational requirements or segmentation of incumbencies&mdash;save for a few exceptions&mdash;there is little <i>collaboration</i> within firms.</p>
-                                    <p>In fact, small teams and many times individuals work in absolute <i>secrecy</i>.</p>
+                                    <p>Sometimes due to incentives structures, workflows, organizational requirements or segmentation of incumbencies&mdash;save for a few exceptions&mdash;there is <strong>little collaboration</strong> within firms.</p>
+                                    <p>In fact, small teams and many times individuals work in absolute secrecy.</p>
                                     <p>Needless to say, there certainly is zero cooperation in between firms.</p>
                                     <p><strong>Investment firms work in silos.</strong></p>
                                 </div>
                                 <div class="col-sm-4">
                                     <p>Secrecy is believed to give market participants an advantage over the rest of the field. This notion is particularly entrenched among players who see the markets as a zero sum game. Also, there is the general belief that <!--#include file="tooltips/algorithms.shtml" --> and strategies lose their edge when used broadly.</p>
-                                    <p>We understand these concerns and accept they may have a root in reality. However, we believe there are alternative solutions that would render secrecy an <i>optional feature</i>, instead of a requirement in the system. </p>
+                                    <p>We understand these concerns and accept they may have a root in reality. However, we believe there are <strong>alternative solutions</strong> that would render secrecy an optional feature, instead of a requirement in the system. </p>
                                 </div>
                             </div>
                         </div>
@@ -122,10 +122,10 @@
                         </div>
                         <div class="col-sm-12">
                             <ul>
-                                <li><h3 style="color:#FFF;">A global collective creates trading algorithms <span class="red_text">&rarr;</span> uncapped group size!</h3></li>
-                                <li><h3 style="color:#FFF;">Algorithms participate in competitions for prize money and reputation <span class="red_text">&rarr;</span> shift in incentives!</h3></li>
-                                <li><h3 style="color:#FFF;">After each competition, algorithms are open-sourced <span class="red_text">&rarr;</span> collective knowledge levelled upwards!</h3></li>
-                                <li><h3 style="color:#FFF;">The collective improves the best algorithms and puts them to compete again <span class="red_text">&rarr;</span> rapid evolution!</h3></li>
+                                <li><h3 style="color:#FFF;">A global collective creates trading Algorithms <span class="red_text">&rarr;</span> uncapped group size!</h3></li>
+                                <li><h3 style="color:#FFF;">Algorithms participate in <!--#include file="tooltips/superalgos-competitions.shtml" --> for prize money and reputation <span class="red_text">&rarr;</span> shift in incentives!</h3></li>
+                                <li><h3 style="color:#FFF;">After each Competition, Algorithms are open-sourced <span class="red_text">&rarr;</span> collective knowledge levelled upwards!</h3></li>
+                                <li><h3 style="color:#FFF;">The collective improves the best Algorithms and puts them to compete again <span class="red_text">&rarr;</span> rapid evolution!</h3></li>
                             </ul>
                         </div>
                     </div>
@@ -177,10 +177,10 @@
                     </div>
                     <div class="col-sm-12">
                         <ul>
-                            <li><h3>Our open-source trading intelligence is distributed across a <span class="red_text">trustless</span> peer-to-peer network.</h3></li>
-                            <li><h3>The network is open to traditional investment companies and other black-boxed intelligences.</h3></li>
-                            <li><h3>A global marketplace provides various asset management services to <span class="red_text">investors of all calibers</span>.</h3></li>
-                            <li><h3>The system is glued with significant monetary incentives to participate in the network.</h3></li>
+                            <li><h3>Our open-source trading intelligence is distributed across a <strong>trustless</strong> peer-to-peer network.</h3></li>
+                            <li><h3>The <!--#include file="tooltips/superalgos-network.shtml" --> is open to investment companies and other black-boxed intelligences.</h3></li>
+                            <li><h3>A global <!--#include file="tooltips/marketplace.shtml" --> provides various asset management services to <strong>investors of all calibers</strong>.</h3></li>
+                            <li><h3>The system is glued with <a href="about-network.shtml#network-incentives">significant monetary incentives</a> to participate in the network.</h3></li>
                         </ul>
                     </div>
                 </div>
@@ -192,9 +192,15 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title ">Superalgos Trading League</h1>
-                        <h5 class="sc_title sc_title_underline">The Driver of Evolution</h5>
-
-                        <h3 style="color:white;">The League is designed to drive evolution towards trading increasingly important value in assets. Teams may participate in amateur Minor Leagues or move to professional Major Leagues. As they progress, each league runs longer competitions with increasing capital and larger prize money.</h3>
+                        <h5 class="sc_title sc_title_underline">A multi-layer league system designed to drive evolution towards trading increasingly important value in assets.<br /><br /><strong>Alpha version ETA: Q1, 2020</strong></h5>
+                    </div>
+                    <div class="col-sm-12">
+                        <ul>
+                            <li><h3>Minor leagues run short <!--#include file="tooltips/superalgos-competitions.shtml" -->, with minimal capital requirements and small prizes.</h3></li>
+                            <li><h3>Major leagues run longer events, trade more capital and offer significant prize money.</h3></li>
+                            <li><h3><!--#include file="tooltips/algo-makers.shtml" --> access state-of-the-art tech after each event, keeping entry barriers low.</h3></li>
+                            <li><h3><!--#include file="tooltips/teams.shtml" --> winning an event get enough prize money to cover the capital req. for the next league.</h3></li>
+                        </ul>
                     </div>
                 </div>
                 <div class="text-center">
@@ -205,14 +211,39 @@
             </div>
         </section>
 
-        <section id="TradingIntelligenceMarketplace" class="light_section">
+        <section id="PartnershipWithExchanges" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Trading Intelligence Marketplace</h1>
-                        <h5 class="sc_title sc_title_underline">Democratizing Trading Technology</h5>
+                        <h1 class="sc_title">Partnership with Exchanges</h1>
+                        <h5 class="sc_title sc_title_underline">Exchanges take a leading role hosting, sponsoring and marketing trading competitions.</h5>
+                    </div>
+                    <div class="col-sm-12">
+                        <ul>
+                            <li><h3><!--#include file="tooltips/exchanges.shtml" --> host Competitions to drive <strong>trading volume</strong> to their own businesses.</h3></li>
+                            <li><h3>They sponsor significant prize money to incentivize Algo-maker Teams to compete.</h3></li>
+                            <li><h3>Price money comes at no cost to exchanges as it comes from standard volume discounts.</h3></li>
+                            <li><h3>Exchanges market Competitions to their clients, onboarding <strong>whole communities</strong> to Superalgos.</h3></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-                        <h3>As the collective trading intelligence grows, it shall be put at the service of all people: investors of all calibers will be able to rent the crowd's trading intelligence to manage their assets. Rental fees will go directly to <!--#include file="tooltips/asset-managers.shtml" --> and <!--#include file="tooltips/algo-makers.shtml" -->, with no intermediaries. </h3>
+        <section id="TradingIntelligenceMarketplace" class="darkgrey_section bgimg-marketplace">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title ">Trading Intelligence Marketplace</h1>
+                        <h5 class="sc_title sc_title_underline">As the network grows, intelligence is put at the service of all people.<br /><br /><strong>Alpha version ETA: Q3, 2020</strong></h5>
+                    </div>
+                    <div class="col-sm-12">
+                        <ul>
+                            <li><h3>Investors of all calibers may rent asset management services offered throughout the network.</h3></li>
+                            <li><h3><!--#include file="tooltips/asset-managers.shtml" --> range from professionals to automated solutions renting intelligence too.</h3></li>
+                            <li><h3><!--#include file="tooltips/algo-makers.shtml" --> counting traders, developers and analysist are paid for the use of their <!--#include file="tooltips/algorithms.shtml" -->.</h3></li>
+                            <li><h3>Constant evolution guarantees the prompt replacement of Algorithms that lose their edge.</h3></li>
+                        </ul>
                     </div>
                 </div>
                 <div class="text-center">

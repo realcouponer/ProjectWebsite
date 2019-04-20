@@ -27,7 +27,7 @@
                                             </li>
                                         </ul>
                                     </li>
-
+                                    <!--
                                     <li class="menu-item-has-children">
                                         <a href="#">Social Contract</a>
                                         <ul>
@@ -42,6 +42,7 @@
                                             </li>
                                         </ul>
                                     </li>
+                                    -->
 
                                     <li class="menu-item-has-children">
                                         <a href="#">Foundational Concepts</a>
