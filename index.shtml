@@ -29,9 +29,9 @@
                                     <img src="img/photos/markets-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp" align="center" style="padding: 40px 50px 10px 20px;">
-                                                        <h3><strong>Superalgos</strong></h3>
-                                                        <h2>An open source project developing and implementing a framework to disrupt the reigning active investments model.</h2>
+                                            <div data-animation="fadeInUp" align="center">
+                                                <h2>An open source project developing and implementing a framework to disrupt the reigning active investments model.</h2>
+
                                             </div>
                                         </div>
                                     </div>
@@ -42,10 +42,7 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 30px 50px 10px 20px;">
-                                                <h3><strong>The Status Quo</strong></h3>
-                                                <h2>
-                                                    No one shares their algorithms or know-how, putting a cap to evolution of&mdash;and an entry barrier to&mdash;trading technology.
-                                                </h2>
+                                                <h2><strong>The Status Quo</strong>:<br />No one shares their algorithms or know-how, putting a cap to evolution of&mdash;and an entry barrier to&mdash;trading technology.</h2>
                                             </div>
                                         </div>
                                     </div>
@@ -56,10 +53,7 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 20px 50px 10px 20px;">
-                                                        <h3><strong>Our Approach</strong></h3>
-                                                        <h2>
-                                                            Challenge the silos with a global collaboration evolving a collective trading intelligence.
-                                                        </h2>
+                                                <h2><strong>Our Approach</strong>: Challenge the silos with a global collaboration evolving a collective trading intelligence.</h2>
                                             </div>
                                         </div>
                                     </div>
