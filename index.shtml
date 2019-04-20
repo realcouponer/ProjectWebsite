@@ -29,13 +29,9 @@
                                     <img src="img/photos/markets-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp" align="center">
-                                                <div>
-                                                    <div style="width:85%;">
+                                            <div data-animation="fadeInUp" align="center" style="padding:20px;">
                                                         <h3>Superalgos</h3>
                                                         <p style="text-align:center;font-size:150%;line-height:150%;">An open source project developing and implementing a framework to disrupt the reigning active investments model.</p>
-                                                    </div>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -46,13 +42,9 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
-                                                <div>
-                                                    <div style="width:85%;">
                                                         <h3>The Status Quo</h3>
                                                         <p style="text-align:center;"><strong>No one shares their algorithms or know-how, putting a cap to evolution of&mdash;and an entry barrier to&mdash;trading technology.</strong></p>
 
-                                                    </div>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -65,11 +57,10 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h1 style="color:white; font-size:350%; line-height:150%;">
-                                                            Our Approach</h2>
-                                                            <h2>
-                                                                Challenge the silos with a global collaboration evolving a collective trading intelligence.
-                                                                </h2>
+                                                        <h3>Our Approach</h3>
+                                                        <h2>
+                                                            Challenge the silos with a global collaboration evolving a collective trading intelligence.
+                                                        </h2>
                                                     </div>
                                                 </div>
                                             </div>
