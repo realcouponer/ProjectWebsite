@@ -54,15 +54,11 @@
                                     <img src="img/photos/connect-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp" align="center">
-                                                <div>
-                                                    <div style="width:85%;">
-                                                        <h3>Our Approach</h3>
+                                            <div data-animation="fadeInUp" align="center" style="padding:20px;">
+                                                        <h3><strong>Our Approach</strong></h3>
                                                         <h2>
                                                             Challenge the silos with a global collaboration evolving a collective trading intelligence.
                                                         </h2>
-                                                    </div>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
