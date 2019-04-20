@@ -1,0 +1,164 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>ALGO Streams</title>
+    <meta name="description" content="The backbone of the Superalgos incentives scheme.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/puzzle-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="width:85%;">
+                                                        <h2>
+                                                            ALGO Streams... the backbone of our incentives scheme
+                                                        </h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Proof_of_Value_section" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Proof of Worth</h1>
+                        <h3>
+                            People and companies adding value to the <!--#include file="tooltips/superalgos-project.shtml" --> become <!--#include file="tooltips/team-members.shtml" --> and earn ALGO Streams as incentives. An ALGO Stream delivers a continuous flow of ALGO for as long as the contribution lasts, and entitles Team Members with rights over the governance of the <!--#include file="tooltips/algo-token.shtml" -->.
+                        </h3>
+                        <br />
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Bitcoin borrowed the mining analogy from the mining industry as a way to convey the notion that securing the network requires significant investments of various resources, starting with the initial cost of the mining rig and infrastructure along with ongoing operational costs.</p>
+                        <p>Entities willing to make such investments and provide such valuable service to the network would in turn be compensated with newly minted bitcoin.</p>
+                        <p>It is in that same spirit that we invent our own concept of earning and keeping an ALGO Stream. The analogy describes how any person or company may help secure the success of the Superalgos Project, and obtain ALGO Tokens in reward, on a continuous basis.</p>
+                        <p>In nature the water springs up in places that connect to the abundant water source, and forms streams that flow and promote life along their path.</p>
+                        <p>We imagine the ALGO source as the source of energy in the <!--#include file="tooltips/algo-ecosystem.shtml" -->, connecting to an entity that proves its willingness to reach out by contributing value. In return, the ecosystem offers a spring from which a stream of ALGO will flow.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p><strong>The ALGO Stream is potentially endless and will last for as long as the contributor's pledges are honoured.</strong></p>
+                        <p>We wish to form lasting and mutually rewarding connections. </p>
+                        <p>Like with bitcoin miners, earning an ALGO Stream requires an upfront investment, in our case, mostly of time and effort, along with an ongoing commitment of similar resources in the long run.</p>
+                        <p>Beyond being <a href="about-algo-overview.shtml">the medium of exchange within the ecosystem and a form of energy enabling financial life</a>, ALGO is also the backbone of the <!--#include file="tooltips/superalgos-project.shtml" --> incentives scheme.</p>
+                        <p>People and companies working with the project, starting with the Core Team, the Dev Team and <!--#include file="tooltips/team-members.shtml" --> as a whole are all incentivized with ALGO Streams, for as long as they keep adding value to the project.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="ALGO_Streams" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">ALGO Streams</h1>
+                        <h3>
+                            An ALGO Stream is a soon to be deployed Ethereum smart contract, and the instrument to be used to distribute ALGO among all the entities that add value to the Superalgos Project.
+                        </h3>
+                        <br />
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <section id="ALGO_Allocation" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">ALGO Allocation</h1>
+                        <br />
+                    </div>
+                    <div class="col-sm-6">
+                        <p>The incentives scheme is designed to satisfy a fundamental requirement: keep key stakeholders incentivized throughout the life of the project, meaning both in the short term and in the long run.</p>
+                        <p>ALGO Streams have two main features:</p>
+                        <ul>
+                            <li>
+                                <p>allocate a perpetual stream of tokens to a beneficiary ALGO address;</p>
+                            </li>
+                            <li>
+                                <p>grant a number of votes in the governance of the ALGO Token.</p>
+                            </li>
+                        </ul>
+                        <p>The Standard Stream features a 100,000 ALGO allocation. It relates to the amount of tokens allocated in the first 2 years and is the base for the calculations for subsequent years.</p>
+                        <div>ALGO Streams come in different Sizes, numbered from 1 to 50.</div>
+                        <p>A Size 1 ALGO Stream delivers the Standard Stream, that is, 100,000 ALGO during the first two years. Each increment in Size reflects a linear increment in the amount of ALGO delivered in the first two years.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>For instance, a Size 2 ALGO Stream delivers 200,000 ALGO and a Size 50 ALGO Stream delivers 5 Million ALGO during the first two years.</p>
+                        <p><strong>In general, the yearly allocation is:</strong></p>
+<pre><code>
+
+    Stream for year n = Standard Stream * Size * 1.2 * / ( n + 1)
+
+</code></pre>
+
+                        <p>The number of ALGO Tokens to be allocated during the period of one year as per the above formula are actually delivered on a daily basis, in equal daily payments throughout the year.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Voting" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Voting Rights</h1>
+                        <h3>
+                            Each ALGO Stream is entitled to as many votes as the numeric Size of the ALGO Stream. Therefore, each <!--#include file="tooltips/team-member.shtml" --> is entitled to as many votes as the sum of the Sizes of all ALGO Streams the Team Member may hold.
+                        </h3>
+                        <br />
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <section id="mining_algo_section" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Earning an ALGO Stream</h1>
+                        <h3>
+                            To receive an ALGO Stream, you need to contribute to the Superalgos Project by undertaking an <!--#include file="tooltips/area-of-responsibility.shtml" -->. If you are a developer, you might want to check our <a href="developers-join-dev-team.shtml">Join the Dev Team</a> page. For different interests, please visit our <a href="about-contributing.shtml">Project Development</a> page.
+                        </h3>
+                        <br />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>

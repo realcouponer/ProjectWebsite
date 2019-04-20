@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Algorithmic Trading Competitions</title>
-    <meta name="description" content="Alpha-stage algorithmic trading competitions on the Superalgos platform">
+    <title>Alpha-stage Trading Competitions</title>
+    <meta name="description" content="Alpha-stage trading competitions on the Superalgos Platform">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -33,7 +33,7 @@
                                                 <div>
                                                     <div style="width:85%;">
                                                         <h2>
-                                                            Alpha-stage algorithmic trading competitions on the Superalgos platform
+                                                            General guidelines for the upcoming alpha-stage trading competitions
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -53,262 +53,91 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Official Competitions</h1>
-                        <h5 class="sc_title sc_title_underline">Rules &amp; Guidelines</h5>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-sm-10">
-                        <h2 id="howitworks">How it Works</h2>
-                        <ul>
-                            <li><p>We provide you with a functioning <span class="tooltip-custom">algobot<span class="tooltiptext-custom" style="text-align: justify;">An <em>algobot</em> or <em>trading bot</em> is the basic structural and functional unit of trading algorithms running on the platform. They are coded to implement a single trading strategy. They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions.</br><a href="documentation-algobots.shtml" rel="noopener" target="_blank"><em>More about Algobots</em></a></span></span>&mdash;one of the latest competition winners&mdash;for you to start with. </p></li>
-                            <li><p>You will get acquainted with your bot and try to improve it during a few weeks, testing and refining it while watching it perform against other algobots in the charts during the training period. </p></li>
-                            <li><p>24 hours before the comp starts, you will submit your algobot so that we set it up to run in the cloud for the official competition. </p></li>
-                            <li><p>During the comp, you will cheer and brag about how cool your algobot is, while hoping it beats the rest to win the prize money!</p></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-10">
-                        <h2 id="dates">2019 Competition Calendar</h2>
-
-                        <p>There is one competition event per month, lasting one week and taking place during the last seven days of each month. This schedule allows for 23 or 24 training days in between competitions (21 in February). Events kick off at 00:00:00.000 GMT of the starting date and finish at 23:59:59.999 GMT of the end date.</p>
-
-                        <div class="sc_table sc_table_style_1 sc_table_size_medium sc_table_align_center">
-                            <table>
-                                <thead>
-                                    <tr>
-                                        <th>Event</th>
-                                        <th>Start</th>
-                                        <th>End</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>March</td>
-                                        <td>Monday 25<sup>th</sup></td>
-                                        <td>Sunday 31<sup>st</sup></td>
-                                    </tr>
-                                    <tr>
-                                        <td>April</td>
-                                        <td>Wednesday 24<sup>th</sup></td>
-                                        <td>Tuesday 30<sup>th</sup></td>
-                                    </tr>
-                                    <tr>
-                                        <td>May</td>
-                                        <td>Saturday 25<sup>th</sup></td>
-                                        <td>Friday 31<sup>st</sup></td>
-                                    </tr>
-                                    <tr>
-                                        <td>June</td>
-                                        <td>Monday 24<sup>th</sup></td>
-                                        <td>Sunday 30<sup>th</sup></td>
-                                    </tr>
-                                    <tr>
-                                        <td>July</td>
-                                        <td>Thursday 25<sup>th</sup></td>
-                                        <td>Wednesday 31<sup>st</sup></td>
-                                    </tr>
-                                    <tr>
-                                        <td>August</td>
-                                        <td>Sunday 25<sup>th</sup></td>
-                                        <td>Saturday 31<sup>st</sup></td>
-                                    </tr>
-                                    <tr>
-                                        <td>September</td>
-                                        <td>Tuesday 24<sup>th</sup></td>
-                                        <td>Monday 30<sup>th</sup></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ocotober</td>
-                                        <td>Friday 25<sup>th</sup></td>
-                                        <td>Thursday 31<sup>st</sup></td>
-                                    </tr>
-                                    <tr>
-                                        <td>November</td>
-                                        <td>Sunday 24<sup>th</sup></td>
-                                        <td>Saturday 30<sup>th</sup></td>
-                                    </tr>
-                                    <tr>
-                                        <td>December</td>
-                                        <td>Wednesday 25<sup>th</sup></td>
-                                        <td>Tuesday 31<sup>st</sup></td>
-                                    </tr>
-
-                                </tbody>
-                            </table>
-                        </div>
-
-                        <p>All dates are subject to change. In case of changes, notice will be given through the official Telegram <a href="https://t.me/superalgos" rel="nofollow" rel="noopener" target="_blank">Superalgos Announcements Channel</a>.</p>
-
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-10">
-                        <h2 id="prizes">Prizes</h2>
-
-                        <p>Each competition event distributes <strong>300,000 ALGO in prize money</strong>. The first 205,000 ALGO go to the top 5 performers and the rest is distributed among the rest of the field, up to the 100<sup>th</sup> position in the ranking.</p>
-
-                        <blockquote>
-                            <p>Sponsors wishing to offer additional prize money are welcome to <a href="contacts.shtml">contact us</a>.</p>
-                        </blockquote>
-
-                        <p>The prize money is awarded as follows:</p>
-
-                        <div class="sc_table sc_table_style_1 sc_table_size_medium sc_table_align_center">
-                            <table>
-                                <thead>
-                                    <tr>
-                                        <th>
-                                            Position
-                                        </th>
-                                        <th>
-                                            ALGO Prize
-                                        </th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            1<sup>st</sup>
-                                        </td>
-
-                                        <td>
-                                            100,000
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            2<sup>nd</sup>
-                                        </td>
-                                        <td>
-                                            50,000
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            3<sup>rd</sup>
-                                        </td>
-                                        <td>
-                                            30,000
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            4<sup>th</sup>
-                                        </td>
-                                        <td>
-                                            15,000
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            5<sup>th</sup>
-                                        </td>
-                                        <td>
-                                            10,000
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            6<sup>th</sup> to 100<sup>th</sup>
-                                        </td>
-                                        <td>
-                                            1,000
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-
-                        <h3 id="Ties">Ties</h3>
-
-                        <p>In the event of a tie, the prize is divided between the tied players: the prizes for the tied spots are added together, and the total is then awarded to the tied players in equal parts.</p>
-
-                        <p>For example, there is a three-way tie for first place. A total of 175,000 ALGO is reserved for 1st, 2nd and 3rd place, thus, each participant tied in the 1st place gets 58,300.33 ALGO.</p>
+                        <h1 class="sc_title sc_title_underline">Alpha-Stage Testing Competitions</h1>
+                        <h3><strong>Alpha version ETA: Q3, 2019</strong></h3>
+                        <h3>Alpha-stage <!--#include file="tooltips/superalgos-competitions.shtml" --> hosted by our first partner <!--#include file="tooltips/exchange.shtml" --> <a href="https://coss.io" rel="nofollow" rel="noopener" target="_blank">COSS.IO</a> will start soon. This is how your experience as an alpha-tester may look like...</h3>
 
                     </div>
                 </div>
 
                 <div class="row">
-                    <div class="col-sm-10">
-                        <h2>Getting Started</h2>
-                        <h3 id="algobotteamregistration">Registration</h3>
+                    <div class="col-sm-12">
+                        <ol>
+                            <li><p>We will provide you with a functioning <!--#include file="tooltips/algobot.shtml" --> and the <!--#include file="tooltips/strategizer.shtml" --> for you to start with. </p></li>
+                            <li><p>You will tune existing strategies or build your own from scratch, using the simulation engine built in the Strategizer to backtest your Algobot. </p></li>
+                            <li><p>When you are ready to test your Algobot against others', you will register for the next <!--#include file="tooltips/superalgos-competition.shtml" -->.</p></li>
+                            <li><p>During the Competition, you will cheer and brag about how cool your Algobot is, while hoping it beats the rest to win the prize money!</p></li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-                        <p>Registration is 100% free of charge. Follow the <a href="documentation-quick-start.shtml" rel="noopener" target="_blank">Quick Start Guide</a> to register and get started with your first bot.</p>
-
-                        <p>This is actually a good time to do just that, so go ahead and register! But still, make sure you go through the rest of the guidelines later, so that you are familiar with the details and rules.</p>
-
-                        <p><strong>For support and to interact live with the rest of participants, join the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Superalgos Community Group</a> in Telegram. Feel free to introduce yourself and let the rest know the name of your bot.</strong></p>
-
-                        <h3 id="poloniexaccount">Poloniex Account</h3>
-
-                        <p>Make sure you have an account with <a href="https://poloniex.com/" rel="nofollow" rel="noopener" target="_blank">Poloniex</a>. If you don't, go ahead and open one ASAP, as there may be a waiting period. You will need to verify your account in order to be able to trade freely; in the meantime, you can run your algobot in backtest mode. </p>
-                        <p>You will also need to create an API key to authorize the Superalgos Platform to access your account. Follow the <a href="documentation-poloniex-api-key.shtml" rel="noopener" target="_blank">instructions</a> if you don't know how to set up your key.</p>
-                        <blockquote>
-                            <p>Other exchanges may be added during the course of the 2019 Calendar.</p>
-                        </blockquote>
+        <section id="rules_section" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title ">About Algobots</h1>
+                        <h5 class="sc_title sc_title_underline">Basic rules on the code of your bots</h5>
 
                     </div>
                 </div>
+
                 <div class="row">
-                    <div class="col-sm-10">
 
-                        <h2 id="aboutalgobots">About Algobots</h2>
 
-                        <p>You are allowed to compete with one algobot. In order to guarantee transparency, registered algobots are not allowed to connect to the exchange directly; algobots should connect to the exchange only through the AACloud <em>Assistant</em> (check the documentation to learn more about <a href="documentation-algobots.shtml" rel="noopener" target="_blank">how trading bots work</a>). AACloud tracks algbots activity and makes the information available for everyone to audit.</p>
+                    <div class="col-sm-4">
+                        <h3 id="algbotslicense">Assistant</h3>
 
-                        <p><strong>Once an algobot is released in the competition it cannot be modified.</strong></p>
+                        <p>In order to guarantee transparency, registered Algobots are <strong>not</strong> allowed to connect to the <!--#include file="tooltips/exchange.shtml" --> directly; Algobots should connect to the exchange only through the <!--#include file="tooltips/assistant.shtml" --> (no need to worry about this if you are not modifying the source code). The <!--#include file="tooltips/superalgos-platform.shtml" --> tracks Algbots activity and makes the information available for everyone to audit.</p>
 
+                        <p><strong>Once an Algobot is released in the competition it cannot be modified.</strong></p>
+                    </div>
+                    <div class="col-sm-4">
                         <h3 id="algbotslicense">Algbots License</h3>
 
-                        <p>Existing algobots offered as templates or starting points for other teams to fork are released under a Restricted Open Source License to guarantee:</p>
+                        <p>Existing Algobots and strategies offered as templates for <!--#include file="tooltips/algo-makers.shtml" --> to fork are released under an Open Source License to guarantee: the freedom to use the software for any purpose, the freedom to change the software to suit your needs, the freedom to share the software with your friends and neighbors, and the freedom to share the changes you make.</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3 id="algbotslicense">License Policy</h3>
+                        <p>It is a policy of the <!--#include file="tooltips/superalgos-project.shtml" --> to require all <!--#include file="tooltips/algobots.shtml" --> participating in Competitions to be released under the same license, so as to ensure the free flow of knowledge that fosters the <a href="about-evolution.shtml" rel="noopener" target="_blank">rapid-evolution of trading intelligence</a> within the <!--#include file="tooltips/algo-ecosystem.shtml" -->. The Superalgos Platform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml" rel="noopener" target="_blank">Terms of Service</a>, which you need to agree to in order to participate in our Competitions.</p>
 
-                        <ul>
-                            <li><p>the freedom to use the software for any purpose,</p></li>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-                            <li><p>the freedom to change the software to suit your needs,</p></li>
-
-                            <li><p>the freedom to share the software with your friends and neighbors, and</p></li>
-
-                            <li><p>the freedom to share the changes you make,</p></li>
-
-                            <li><p><strong>always within the Superalgos Platform</strong>.</p></li>
-
-                        </ul>
-
-                        <p>It is a policy of Superalgos to require all algorithms running on the platform to be released under the same license, so as to insure the free flow of knowledge that fosters the <a href="about-evolution.shtml" rel="noopener" target="_blank">rapid-evolution of trading intelligence</a> within the ecosystem. The Superalgos Platform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml" rel="noopener" target="_blank">Terms of Service</a>, which you need to agree to in order to participate in our competitions.</p>
-
+        <section id="rules_section" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Trading</h1>
+                        <h5 class="sc_title sc_title_underline">Details on the trading activity</h5>
                     </div>
                 </div>
 
                 <div class="row">
-                    <div class="col-sm-10">
-                        <h2>Trading</h2>
+                    <div class="col-sm-6">
                         <h3 id="markets">Markets</h3>
 
-                        <p>The competition takes place in the <strong>USDT-BTC market</strong>.</p>
+                        <p>Alpha-stage Competition take place in the <strong>USDT-BTC market</strong>. Other markets may be added during the course of the 2019 Calendar.</p>
 
-                        <p>For the time being, the platform serves both historic and live trades data. Trades are performed at Team's accounts at the exchange, thus having an account with Poloniex is a requirement for participating.</p>
-
-                        <blockquote>
-                            <p>Other markets may be added during the course of the 2019 Calendar.</p>
-                        </blockquote>
+                        <p>Trades are performed at <!--#include file="tooltips/teams.shtml" -->' accounts at the <!--#include file="tooltips/exchange.shtml" -->, thus having an account with the Exchange in which the Competition is ran is a requirement for participating.</p>
 
                         <h3 id="TradingCapital">Trading Capital</h3>
 
                         <p>Each Team trades with their own funds within their own accounts at the exchange. Teams are fully responsible for the trading they do.</p>
 
-                        <p>Each algobot is allowed to trade up to 0.001 BTC Initial Capital (roughly equivalent to USD 3 to 6). This is in order to minimize risk at this first few pre-alpha competitions.</p>
+                        <p>In alpha-stage Competitions, each Algobot is allowed to trade up to 0.001 BTC Initial Capital.</p>
 
                         <blockquote>
-                            <p>In order to avoid unnecessary risk, we highly recommend withdrawing excess funds from the exchange or creating a new account to use exclusiveley through the platform altogether. </p>
+                            <p>In order to avoid unnecessary risk, we highly recommend withdrawing excess funds from the exchange or creating a new account to use exclusiveley through the Superalgos Platform altogether. </p>
                         </blockquote>
-
+                    </div>
+                    <div class="col-sm-6">
                         <h3 id="partialprofitstrading">Partial Profits Trading</h3>
 
-                        <p>Algobots are allowed to trade with partial profits. This is the only way in which they can legally trade with more than the Initial Capital specified above. Thus, the limit is 0.001 BTC + Partial Profits. The platform serves available balances that your algobot can check in order to make sure the limit is not exceeded.</p>
+                        <p>Algobots are allowed to trade with partial profits. This is the only way in which they can legally trade with more than the Initial Capital specified above. Thus, the actual limit is 0.001 BTC + Partial Profits. The platform serves available balances that your Algobot can check in order to make sure the limit is not exceeded.</p>
 
                         <blockquote>
                             <p>Algobots attempting to trade more than the allowed limit generate an exception that needs to be handled.</p>
@@ -316,54 +145,43 @@
 
                         <h3 id="fees">Fees</h3>
 
-                        <p>Participating in the competition and running your algobots on the AAPlatform is free of charge at this point in time.</p>
+                        <p>The competition does take Exchange Transaction Fees into consideration while calculating the ranking and results. For that reason, fees are factored in the available balance served by the platform.</p>
+                    </div>
 
-                        <p>For your information, Poloniex charges the following fees for every order filled:</p>
+                </div>
+            </div>
+        </section>
 
-                        <div class="sc_table sc_table_style_1 sc_table_size_medium sc_table_align_center">
-                            <table>
-                                <thead>
-                                    <tr>
-                                        <th>Maker</th>
-                                        <th>Taker</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>0.10%</td>
-                                        <td>0.20%</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-
-                        <p>Poloniex fees are explained <a href="https://poloniex.com/fees/" rel="nofollow" rel="noopener" target="_blank">here</a>.</p>
-
-                        <p>The competition does take fees into consideration while calculating the ranking and competition results. For that reason, fees are factored in the available balance served by the platform.</p>
-
+        <section id="rules_section" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Ranking</h1>
+                        <h5 class="sc_title sc_title_underline">How winners are determined</h5>
                     </div>
                 </div>
-
                 <div class="row">
-                    <div class="col-sm-10">
-                        <h2 id="ranking">Ranking</h2>
 
-                        <p>The ranking is determined by a very simple performance metric: <a href="https://www.investopedia.com/terms/r/returnoninvestment.asp" rel="nofollow" rel="noopener" target="_blank">Return on Investment (ROI)</a>.</p>
-
+                    <div class="col-sm-12">
                         <h3 id="formula">Formula</h3>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>The ranking is determined by a very simple performance metric: <!--#include file="tooltips/roi.shtml" --></p>
 
-                        <p><strong>ROI</strong> = (Gain from Investment - Cost of Investment) / Cost of Investment (expressed as a percentage)</p>
-
+                        <blockquote>
+                            <p><strong>ROI</strong> = (Gain from Investment - Cost of Investment) / Cost of Investment (expressed as a percentage)</p>
+                        </blockquote>
                         <h3 id="definitions">Definitions</h3>
 
                         <ul>
-                            <li><p><strong>Cost of Investment</strong> = Initial BTC Balance = 0.001 BTC. For the purpose of these competitions, this is a constant, meaning that if you use less than 0.001 BTC to do your trading, we will still use 0.001 BTC as the value for this constant.</p></li>
+                            <li><p><strong>Cost of Investment</strong> = Initial BTC Balance = 0.001 BTC. For the purpose of these Competitions, this is a constant, meaning that if you use less than 0.001 BTC to do your trading, we will still use 0.001 BTC as the value for this constant.</p></li>
                         </ul>
 
                         <blockquote>
-                            <p>It doesn't matter how much BTC you actually have in the exchange. The platform keeps track of your trades and available balances during the competition.</p>
+                            <p>It doesn't matter how much BTC you actually have in the Exchange. The platform keeps track of your trades and available balances during the Competition.</p>
                         </blockquote>
-
+                    </div>
+                    <div class="col-sm-6">
                         <ul>
                             <li><p><strong>Gain from Investment</strong> (or Losses, expressed as negative Gains) = Final BTC Balance</p></li>
                         </ul>
@@ -374,18 +192,27 @@
 
                         <h3 id="formula">Unhandled Errors</h3>
 
-                        <p>If an algobot stops running due to an unhandled error, it will not be restarted to continue the competition. Its final score will be the one achieved during the last execution.</p>
+                        <p>If an Algobot stops running due to an unhandled error, it will not be restarted to continue the Competition. Its final score will be the one achieved during the last execution. If positions are left open upon an unhandled error, they shall remain open for the purpose of the Competition, which may affect the final ranking of the corresponding Algobot.</p>
+                    </div>
 
+                </div>
+            </div>
+        </section>
+
+        <section id="rules_section" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Example</h1>
                     </div>
                 </div>
-
                 <div class="row">
-                    <div class="col-sm-10">
-                        <h2 id="winners">Winners</h2>
 
-                        <p>The result of the competition is determined by the position of each algobot in the ranking by the end of the competition.</p>
+                    <div class="col-sm-6">
 
-                        <h3 id="_example_">Example</h3>
+                        <h3 id="_example_">The Ranking Explained</h3>
+
+                        <p>The result of the Competition is determined by the position of each Algobot in the ranking at the end of the Competition. For example:</p>
 
                         <p><strong>Algobot A ends up with 0.0015 BTC</strong></p>
 
@@ -398,9 +225,11 @@
                         <p><strong>Algobot C ends up with 0.001 BTC</strong></p>
 
                         <p>Algobot B ROI = (0.001 - 0.001) / 0.001 * 100% = <strong>0%</strong></p>
+                    </div>
 
+                    <div class="col-sm-6">
                         <h3 id="_example_">Final Ranking</h3>
-
+                        &nbsp;
                         <div class="sc_table sc_table_style_1 sc_table_size_medium sc_table_align_center">
                             <table>
                                 <thead>
@@ -429,56 +258,43 @@
                                 </tbody>
                             </table>
                         </div>
+                    </div>
 
+                </div>
+            </div>
+        </section>
+
+        <section id="rules_section" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Disclaimers</h1>
                     </div>
                 </div>
-
                 <div class="row">
-                    <div class="col-sm-10">
-
-                        <h2>Final Notes</h2>
+                    <div class="col-sm-6">
                         <h3 id="NoRestrictions">No Restrictions</h3>
 
-                        <p>Because Superalgos has an open arms policy encouraging developers to join the project's development team and because the Superalgos Community is open for all people, we deliberately allow and urge everyone &ndash;including core team and project team members&mdash;to participate in all competitions. </p>
+                        <p>Because the Superalgos Project has an open arms policy encouraging developers to join the project's development team and because the <!--#include file="tooltips/community.shtml" --> is open for all people, we deliberately allow and urge everyone &ndash;including <!--#include file="tooltips/core-team.shtml" --> and project <!--#include file="tooltips/team-members.shtml" -->&mdash;to participate in all competitions. </p>
 
                         <h3 id="Disclaimer">Pre-Alpha Disclaimer</h3>
 
-                        <p>Bear in mind the platform is in a pre-alpha stage. As developers, you should expect eventual errors that may cause inconveniences. Participating in pre-alpha competitions is a way to support the Superalgos project... we very much appreciate your help!</p>
+                        <p>Bear in mind the <!--#include file="tooltips/superalgos-platform.shtml" --> is in a pre-alpha stage. As testers, you should expect eventual errors that may cause inconveniences. Participating in pre-alpha Competitions is a way to support the Superalgos Project... we very much appreciate your help!</p>
 
-                        <h3 id="Bugs">Reporting Bugs</h3>
-
-                        <p>Please report bugs by opening <em>issues</em> at the corresponding repository in the <a href="https://github.com/Superalgos" rel="nofollow" rel="noopener" target="_blank">Superalgos</a> organization in Github:</p>
-
-                        <ul>
-                            <li>
-                                <p><a href="https://github.com/Superalgos/CanvasApp" rel="nofollow" rel="noopener" target="_blank">CanvasApp</a>: issues related to the CHARTS interface, and information rendered in the CHARTS.</p>
-                            </li>
-                            <li>
-                                <p><a href="https://github.com/Superalgos/MasterApp" rel="nofollow" rel="noopener" target="_blank">MasterApp</a>: issues related to registration, login, etc.</p>
-                            </li>
-                            <li>
-                                <p><a href="https://github.com/Superalgos/UsersModule" rel="nofollow" rel="noopener" target="_blank">UsersModule</a>: issues related to managing your own profile, searching or finding other users, etc.</p>
-                            </li>
-                            <li>
-                                <p><a href="https://github.com/Superalgos/TeamsModule" rel="nofollow" rel="noopener" target="_blank">TeamsModule</a>: issues related to creating, managing or finding teams, etc.</p>
-                            </li>
-                            <li>
-                                <p><a href="https://github.com/Superalgos/KeyVaultModule" rel="nofollow" rel="noopener" target="_blank">KeyVaultModule</a>: issues related to administering your API keys.</p>
-                            </li>
-                        </ul>
-
+                    </div>
+                    <div class="col-sm-6">
                         <h3 id="RulesChanges">Rules Changes</h3>
 
-                        <p>Pretty much like with the rest of the project, competitions are in constant evolution and so are these rules, which may change at any time. Rules changes shall be announced at the top of this page, under a <em>New Rules</em> title.</p>
+                        <p>Pretty much like with the rest of the project, Competitions are in constant evolution and so are these rules, which may change at any time. Rules changes shall be announced at the top of this page, under a <em>New Rules</em> title.</p>
 
                         <h3 id="TermsOfService">Terms of Service</h3>
 
-                        <p>All of Superalgos services, including this competition, are governed by our <a href="legal-terms-of-service.shtml">Terms of Service</a>&mdash;a legally binding contract between you and Superalgos with which you agree if you decide to participate. </p>
-
+                        <p>All of Superalgos services, including alpha-stage Competitions, are governed by our <a href="legal-terms-of-service.shtml">Terms of Service</a>&mdash;a legally binding contract between you and the <!--#include file="tooltips/superalgos-organization.shtml" --> with which you agree if you decide to participate. </p>
                     </div>
+
                 </div>
             </div>
-            </div>
+
         </section>
 
         <!--#include file="includes/footer.shtml" -->

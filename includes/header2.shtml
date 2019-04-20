@@ -5,8 +5,45 @@
                                 <a href="#">THE PROJECT</a>
                                 <ul>
                                     <li>
-                                        <a href="about-contributing.shtml" class="sf-with-ul">Contributing</a>
+                                        <a href="about-ecosystem.shtml" class="sf-with-ul">ALGO Ecosystem</a>
                                     </li>
+                                    <li>
+                                        <a href="about-network.shtml" class="sf-with-ul">Superalgos Network</a>
+                                    </li>
+                                    <li style="white-space:nowrap">
+                                        <a href="about-marketplace.shtml">Trading Intelligence Marketplace</a>
+                                    </li>
+                                    <li class="menu-item-has-children">
+                                        <a href="#">ALGO Token</a>
+                                        <ul>
+                                            <li>
+                                                <a href="about-algo-overview.shtml" class="sf-with-ul">Overview</a>
+                                            </li>
+                                            <li>
+                                                <a href="about-algo-flow.shtml" class="sf-with-ul">Economic Flow</a>
+                                            </li>
+                                            <li>
+                                                <a href="about-algo-streams.shtml" class="sf-with-ul">ALGO Streams</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <!--
+                                    <li class="menu-item-has-children">
+                                        <a href="#">Social Contract</a>
+                                        <ul>
+                                            <li>
+                                                <a href="#" class="sf-with-ul">Constitution</a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="sf-with-ul">ALGO Macroeconomics</a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="sf-with-ul">ALGO Governance Charter</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    -->
+
                                     <li class="menu-item-has-children">
                                         <a href="#">Foundational Concepts</a>
                                         <ul>
@@ -22,38 +59,16 @@
                                             <li>
                                                 <a href="about-supermind.shtml" class="sf-with-ul">Supermind</a>
                                             </li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Stakeholders</a>
-                                        <ul>
                                             <li>
-                                                <a href="about-ecosystem.shtml" class="sf-with-ul">Ecosystem Overview</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-financial-beings.shtml" class="sf-with-ul">Financial Beings</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-team.shtml" class="sf-with-ul">Core Team</a>
+                                                <a href="about-financial-beings.shtml" class="sf-with-ul">Financial Life</a>
                                             </li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">ALGO Token</a>
-                                        <ul>
-                                            <li>
-                                                <a href="about-algo-overview.shtml" class="sf-with-ul">Overview</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-algo-economics.shtml" class="sf-with-ul">Economics &amp; Distribution</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-algo-flow.shtml" class="sf-with-ul">Economic Flow</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-algo-miners.shtml" class="sf-with-ul">ALGO Virtual Miners</a>
-                                            </li>
-                                        </ul>
+                                    <li>
+                                        <a href="about-team.shtml" class="sf-with-ul">Core Team</a>
+                                    </li>
+                                    <li>
+                                        <a href="about-contributing.shtml" class="sf-with-ul">Contributing</a>
                                     </li>
                                     <li>
                                         <a href="about-faqs.shtml" class="sf-with-ul">FAQs</a>
@@ -66,16 +81,21 @@
                                     <li>
                                         <a href="developers-join-dev-team.shtml"><nobr>Join the Dev Team</nobr></a>
                                     </li>
-                                    <li>
-                                        <a href="developers-breed-compete.shtml"><nobr>Breed Bots &amp; Compete</nobr></a>
-                                    </li>
-                                    <li>
-                                        <a href="documentation-quick-start.shtml">Documentation</a>
-                                    </li>
                                 </ul>
                             </li>
-                            <li>
-                                <a href="competition-guidelines.shtml">COMPETITIONS</a>
+                            <li class="menu-item-has-children">
+                                <a href="#">COMPETITIONS</a>
+                                <ul>
+                                    <li>
+                                        <a href="competition-overview.shtml">Overview</a>
+                                    </li>
+                                    <li style="white-space:nowrap">
+                                        <a href="competition-guidelines.shtml">Upcoming Alpha-stage Competitions</a>
+                                    </li>
+                                    <li>
+                                        <a href="competition-league.shtml">Future League</a>
+                                    </li>
+                                </ul>
                             </li>
                             <li>
                                 <a href="https://platform.superalgos.org">PLATFORM</a>

@@ -1,0 +1,127 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Trading Intelligence Marketplace</title>
+    <meta name="description" content="The gateway for the community to access the capital markets attracting traders, investors and asset managers">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/marketplace-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="width:85%;">
+                                                        <h2>
+                                                            The Marketplace... a gateway for the community to access the capital markets
+                                                        </h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="trading-intelligence-marketplace" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Trading Intelligence Marketplace</h1>
+                        <h3><strong>Alpha version ETA: Q3, 2020</strong></h3>
+                        <h3>The Marketplace runs as a distributed system on the <!--#include file="tooltips/superalgos-network.shtml" -->, and represents the gateway for the <!--#include file="tooltips/community.shtml" --> to access the capital markets attracting traders, investors and asset managers.</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>In general terms, investors will subscribe the services of asset managers, who in turn will hire the trading intelligence available in the network.</p>
+                        <p>Asset managers will be companies or individuals in the network and their services may vary in terms of sophistication according to the size of capitals they manage.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Asset management services may be as elaborate as available elsewhere in the industry or as simple as an application connecting the subscription directly to <!--#include file="tooltips/algorithms.shtml" -->.</p>
+                        <p>The network will offers both open source trading intelligence evolved within <!--#include file="tooltips/superalgos-competitions.shtml" -->, but also closed source intelligence black-boxed within <!--#include file="tooltips/algo-makers.shtml" -->' services, and kept private from the rest of the Community.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <br /><br />
+                        <h3>The flow of the Marketplace is the following...</h3></br>
+                        <div>
+                            <img src="img/charts/Marketplace-Flow-01.svg" width="890px" alt="Marketplace">
+                        </div>
+                        </br>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p><span class="red_text">1.</span> The <!--#include file="tooltips/superalgos-project.shtml" --> provides <!--#include file="tooltips/algo-token.shtml" --> liquidity through Exchanges.</p>
+                        <p><span class="red_text">2.</span> Investors (crypto-assets holders) buy ALGO at the Exchange.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p><span class="red_text">3.</span> Investors use ALGO to pay for Asset Managers' subscription services.</p>
+                        <p><span class="red_text">4.</span> Asset Managers acquire trading intelligence from the network, subscribing to <!--#include file="tooltips/algorithms.shtml" -->.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+
+                        <br /><br />
+                        <h3>The flow continues as follows...</h3></br>
+                        <div>
+                            <img src="img/charts/Marketplace-Flow-02.svg" width="890px" alt="Marketplace">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>The Algorithm obtaining the subscription autonomously pays for all the services it consumes, such as:</p>
+                        <ul>
+                            <li><p>Node Operators, who offer execution and data storage services to Algorithms;</p></li>
+                            <li><p>Other agents providing data, signals or other forms of trading intelligence;</p></li>
+                            <li><p>The <!--#include file="tooltips/superalgos-organization.shtml" -->, who runs part of the public infrastructure.</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>At the same time, Algorithms pay <!--#include file="tooltips/algo-makers.shtml" -->:</p>
+                        <ul>
+                            <li><p>in the case of open source Algorithms, the revenue is distributed based on a pro-rata of contributions in creating and training the respective Algorithm;</p></li>
+                            <li><p>In the case of closed source, the revenue goes to the sole proprietor of the Algorithm.</p></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>

@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 <head>
     <title>ALGO Economic Flow</title>
-    <meta name="description" content="The circulation of the ALGO Token throughout the Superalgos Ecosystem">
+    <meta name="description" content="The circulation of the ALGO Token throughout the ALGO Ecosystem">
     <meta charset="utf-8">
     <!--#include file="includes/headlinks.shtml" -->
 </head>
@@ -28,7 +28,7 @@
                                                 <div>
                                                     <div style="width:85%;">
                                                         <h2>
-                                                            The circulation of the ALGO Token throughout the Superalgos Ecosystem
+                                                            The circulation of the ALGO Token throughout the ALGO Ecosystem
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -72,10 +72,10 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-12">
-                        <p><span class="red_text">1 </span>| The Superalgos Organization issues ALGO and conducts an MEO (Micro Exchange Offering) every time an Exchange is on-boarded, and set up with its own Superalgos Trading League.</p>
-                        <p><span class="red_text">2 </span>| Investors (crypto holders) buy ALGO at the Exchange.</p>
-                        <p><span class="red_text">3 </span>| They use ALGO to pay for Asset Managers' subscription services.</p>
-                        <p><span class="red_text">4 </span>| Asset Managers acquire the Trading Intelligence at the Superalgos Network, subscribing to individual trading bots.</p>
+                        <p><span class="red_text">1 </span>| The <!--#include file="tooltips/superalgos-project.shtml" --> issues <!--#include file="tooltips/algo-tokens.shtml" --> and conducts an MEO (Micro Exchange Offering) every time an <!--#include file="tooltips/exchange.shtml" --> is on-boarded, and set up with its own <!--#include file="tooltips/superalgos-competitions.shtml" -->.</p>
+                        <p><span class="red_text">2 </span>| <!--#include file="tooltips/subscribers.shtml" --> (crypto holders) buy ALGO at the Exchange.</p>
+                        <p><span class="red_text">3 </span>| They use ALGO to pay for <!--#include file="tooltips/asset-managers.shtml" -->' subscription services.</p>
+                        <p><span class="red_text">4 </span>| Asset Managers acquire the Trading Intelligence at the <!--#include file="tooltips/superalgos-network.shtml" -->, subscribing to <!--#include file="tooltips/algorithms.shtml" -->.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -92,9 +92,9 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-12">
-                        <p><span class="red_text">5A </span>| Trading bots pay for the data they consume from Indicators and Sensors. Indicators pay for the data they consume from other Indicators and Sensors.</p>
-                        <p><span class="red_text">5B </span>| All Financial Beings pay Node Operators for execution and storage services provided by the node.</p>
-                        <p><span class="red_text">5C </span>| All Financial Beings pay their creators, including the Team who released them and other Teams that contributed to their evolution in previous iterations.</p>
+                        <p><span class="red_text">5A </span>| <!--#include file="tooltips/algorithms.shtml" --> pay for the data they consume from Indicators and Sensors. Indicators pay for the data they consume from other Indicators and Sensors.</p>
+                        <p><span class="red_text">5B </span>| All <!--#include file="tooltips/financial-beings.shtml" --> pay Node Operators for execution and storage services provided by the node.</p>
+                        <p><span class="red_text">5C </span>| All Financial Beings pay their creators, including the <!--#include file="tooltips/algo-maker.shtml" --> who released them and other Teams that contributed to their evolution in previous iterations.</p>
                         <p><span class="red_text">5D </span>| By paying a time-to-live fee, Financial Beings prove their dependencies that they are committed to providing the service (staying alive) for a certain minimum amount of time.</p>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-12">
-                        <p>People and companies working for the Superalgos Organization in Software and Project Development (including Exchanges) are incentivized via <a href="about-algo-miners.shtml">ALGO Virtual Miners</a>.</p>
+                        <p>People and companies working for the Superalgos Organization in Software and Project Development (including Exchanges) are incentivized via <!--#include file="tooltips/algo-streams.shtml" -->.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -129,7 +129,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-12">
-                        <p>ALGO is awarded as prize money to competition winners, incentivizing competitions as the engine driving evolution of Financial Beings.</p>
+                        <p>ALGO is awarded as prize money to competition winners, incentivizing <!--#include file="tooltips/superalgos-competitions.shtml" --> as the engine driving evolution of <!--#include file="tooltips/financial-beings.shtml" -->.</p>
                     </div>
                 </div>
                 <div class="row">

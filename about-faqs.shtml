@@ -56,8 +56,11 @@
                         <h5 class="sc_title sc_title_underline">Open Source, Ownership & Governance</h5>
                         <br />
                     </div>
+                </div>
+                <div class="row">
                     <div class="col-md-6 col-sm-12">
                         <div id="accordion_left" class="sc_accordion sc_accordion_style_2">
+
                             <div class="sc_accordion_item panel">
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_1" class="collapsed">
@@ -66,29 +69,28 @@
                                 </h4>
                                 <div id="accordion_left_1" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
-                                        <p><strong>Superalgos is a collaborative project open to all people.</strong> </p>
-                                        <p>Our code is available at <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">GitHub</a> for everyone to verify and audit. It is also available for contributors to fork and submit Pull Requests. </p>
-                                        <p>The project aims to decentralize the development and maintenance of the system into a worldwide network of development teams that work in coordination with the Core Team. In a similar fashion, the project welcomes contributions from people in fields such as collective intelligence, social psychology, game theory, artificial intelligence, governance, management, economy, communication, marketing, law and business. </p>
-                                        <p>All of this work is incentivized with the project's native crypto token, the ALGO. In addition, ALGO is also used to incentivize bot-makers to participate in competitions, with 25% of the total supply of tokens to be distributed in competition prizes. Finally, the ALGO token will be the medium of payment investors will use to subscribe to algorithms in the Trading Intelligence Marketplace, and the channel to transfer the corresponding fees to algo makers, who own the algo-rental business. </p>
-                                        <p><strong>Superalgos has a strong open source vocation and a commitment to a fully transparent and auditable operation.</strong> However, in order to protect the people investing substantial time and effort from bad actors, the project software has a <a href="https://github.com/Superalgos/ProjectWebsite/blob/master/LICENSE" rel="nofollow" rel="noopener" target="_blank">restrictive license</a>. </p>
-                                        <p>At this very early stage, the license allows people to fork our repositories to conduct code reviews / audits, and to contribute with the <a href="https://github.com/Superalgos" rel="nofollow" rel="noopener" target="_blank">Superalgos Organization</a>. </p>
-                                        <p>At a later stage, once the project has the resources to conduct a thorough legal analysis, Superalgos intends to open up the license to allow permissionless innovation within the ALGO token ecosystem. This means that people and companies will be able to use, modify and run Superalgos software independently of the Superalgos project, always making use of the ALGO token as the sole medium of exchange within the service. </p>
-                                        <p>For further information regarding the nature of the Superalgos operation, please see our <a href="legal-terms-of-service.shtml">Terms if Service</a>. </p>
+                                        <p><strong>Yes. Superalgos is a collaborative project open to all people.</strong> </p>
+                                        <p>Our code is available at <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">GitHub</a> for everyone to verify and audit. It is also available for the <!--#include file="tooltips/community.shtml" --> to fork and innovate in a permissionless manner within the <!--#include file="tooltips/superalgos-network.shtml" -->. </p>
+                                        <p>The project aims to decentralize the development and maintenance of the system into a worldwide network of development teams that may work in coordination with the <a href="about-team.shtml">Core Team</a> or in an independent manner. In a similar fashion, the project welcomes contributions from people in fields such as collective intelligence, social psychology, game theory, artificial intelligence, governance, management, economy, communication, marketing, law and business. </p>
+                                        <p>All of this work is incentivized with the project's native crypto token, the <!--#include file="tooltips/algo-token.shtml" -->. In addition, ALGO is also used to incentivize <!--#include file="tooltips/algo-makers.shtml" --> to participate in <!--#include file="tooltips/superalgos-competitions.shtml" -->, awarding ALGO as prize money. Finally, the ALGO Token will be the medium of payment <!--#include file="tooltips/subscribers.shtml" --> will use to pay <!--#include file="tooltips/asset-managers.shtml" --> in the <!--#include file="tooltips/marketplace.shtml" -->, and the channel to transfer the corresponding fees to Algo-Makers, who own the algo-rental business. </p>
+                                        <p>The <!--#include file="tooltips/superalgos-project.shtml" --> has a strong open source vocation and a commitment to a fully transparent and auditable operation.</p>
+                                        <p>In order to protect the people investing substantial time and effort building the ALGO Ecosystem, the project's software license features a restriction by which permissionless innovation is allowed only within the ALGO Token ecosystem.</p>
+                                        <p><strong>People and companies are granted rights to access source code, produce derived works, freely redistribute, use, modify and run the software for personal or commercial use, always making use of the ALGO Token as the sole medium of exchange, and within the Superalgos Network, while making all distributions available under the same license.</strong></p>
                                     </div>
                                 </div>
                             </div>
                             <div class="sc_accordion_item panel">
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_2" class="collapsed">
-                                        Who owns the Superalgos project?
+                                        Who owns the Superalgos Project?
                                     </a>
                                 </h4>
                                 <div id="accordion_left_2" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
                                         <p>Superalgos is a collective project owned collectively by the group of stakeholders adding value to the endeavor. At this early stage, the main stakeholders are: </p>
                                         <ul>
-                                            <li><strong>The algo-makers community</strong>; formed by a heterogeneous group of people counting mainly developers, traders and analysts, self-organizing in teams, which form organically through spontaneous relationships. </li>
-                                            <li><strong>Team Members</strong>; that is the group of people working in the following domains: Development, Business, Marketing & Management. These two pages explain how to <a href="developers-join-dev-team.shtml">join the development team</a> and how to <a href="about-contributing.shtml">join the business, marketing and management teams</a>. </li>
+                                            <li><strong>The Community</strong>; formed by a heterogeneous group of people counting mainly developers, traders and analysts, self-organizing in teams, which form organically through spontaneous relationships. </li>
+                                            <li><strong>Team Members</strong>; that is the group of people working in the following <!--#include file="tooltips/domains.shtml" -->: Development, Business, Marketing & Management. These two pages explain how to <a href="developers-join-dev-team.shtml">join the Development Team</a> and how to <a href="about-contributing.shtml">join the Business, Marketing and Management Teams</a>. </li>
                                         </ul>
                                         <p>As the project advances, more stakeholders will get involved, as described in the <a href="about-ecosystem.shtml">Ecosystem</a> page. </p>
                                     </div>
@@ -97,14 +99,14 @@
                             <div class="sc_accordion_item panel">
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_3" class="collapsed">
-                                        How is the Superalgos project governed?
+                                        How is the Superalgos Project governed?
                                     </a>
                                 </h4>
                                 <div id="accordion_left_3" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
-                                        <p>During the early stages of the project, Superalgos is governed by the <a href="about-team.shtml">Core Team</a>, to this day, consisting of the group of co-founders. The Core Team is an open horizontal organization in which decisions are made democratically through a typical open source meritocracy: the more value a person adds, the more people listens to her and the more they accompany her proposals. </p>
-                                        <p>A number of people work on other Superalgos Teams, in the following domains: Development, Business, Marketing & Management. We call these people Team Members, and the Core Team is&mdash;actually&mdash;a sub set of the Team Members group. Team Members may be invited to the Core Team after showing exceptional commitment to the project and a particular talent for leadership. </p>
-                                        <p>These two pages explain how to <a href="developers-join-dev-team.shtml">join the development team</a> and how to <a href="about-contributing.shtml">join the business, marketing and management teams</a>.</p>
+                                        <p>During the early stages of the project, Superalgos is governed by the <!--#include file="tooltips/core-team.shtml" -->, to this day, consisting of the group of co-founders. The Core Team is an open horizontal organization in which decisions are made democratically through a typical open source meritocracy: the more value a person adds, the more people listens to her and the more they accompany her proposals. </p>
+                                        <p>A number of people work on other Superalgos Teams, in the following domains: Development, Business, Marketing & Management. We call these people <!--#include file="tooltips/team-members.shtml" -->, and the Core Team is&mdash;actually&mdash;a sub set of the Team Members group. Team Members may be invited to the Core Team after showing exceptional commitment to the project and a particular talent for leadership. </p>
+                                        <p>These two pages explain how to <a href="developers-join-dev-team.shtml">join the Development Team</a> and how to <a href="about-contributing.shtml">join the Business, Marketing and Management Teams</a>.</p>
                                         <p>As the project develops further and forms of decentralized governance are tried and tested in other projects, Superalgos intends to implement some form of decentralized governance system. Projects in the decentralization space working on governance solutions are welcome to <a href="contacts.shtml">get in touch</a> with us. </p>
                                     </div>
                                 </div>
@@ -122,10 +124,10 @@
                                 </h4>
                                 <div id="accordion_right_1" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
-                                        <p>Algo-makers own the algorithms-rental business in the future Trading Intelligence Marketplace, in which investors will pay a subscription fee to have the community's algorithms trade on their behalf. </p>
-                                        <p>In order to protect the interest of the Superalgos algo-makers community, the <a href="legal-terms-of-service.shtml#7-Financial-Beings-License">Financial Beings License</a> under which algorithms are released states that: </p>
-                                        <blockquote>Using, copying, modifying, publishing, distributing and sublicensing rights are restricted to the Superalgos Platform, meaning the rights granted can only be exercised through the Superalgos Service.</blockquote>
-                                        <p>At the moment you put a Financial Being forward to participate in a competition or submit an indicator or sensor so that other algorithms can consume their services, you expressly agree to publish the work including source code under the Financial Beings License. Publication is done automatically by the Service on your behalf, to which you expressly grant permission. Please see the complete <a href="legal-terms-of-service.shtml#7-Financial-Beings-License">license language</a> for further details. </p>
+                                        <p><!--#include file="tooltips/algo-makers.shtml" --> own the <!--#include file="tooltips/algorithms.shtml" -->-rental business in the future <!--#include file="tooltips/marketplace.shtml" -->, in which investors will pay a subscription fee to have the <!--#include file="tooltips/community.shtml" -->'s algorithms trade on their behalf. </p>
+                                        <p>In order to protect the interest of Algo-Makers, the <a href="legal-terms-of-service.shtml#7-Financial-Beings-License">Financial Beings License</a> under which algorithms are released states that: </p>
+                                        <blockquote>Using, copying, modifying, publishing, distributing and sublicensing rights are restricted to the <!--#include file="tooltips/superalgos-platform.shtml" -->, meaning the rights granted can only be exercised through the Superalgos Service.</blockquote>
+                                        <p>At the moment you put an <!--#include file="tooltips/algorithm.shtml" --> forward to participate in a <!--#include file="tooltips/superalgos-competition.shtml" --> or submit an indicator or sensor so that other Algorithms can consume their services, you expressly agree to publish the work including source code under the Financial Beings License. Publication is done automatically by the Service on your behalf, to which you expressly grant permission. Please see the complete <a href="legal-terms-of-service.shtml#7-Financial-Beings-License">license language</a> for further details. </p>
 
                                     </div>
                                 </div>
@@ -133,27 +135,17 @@
                             <div class="sc_accordion_item panel">
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_right" href="#accordion_right_2" class="collapsed">
-                                        Do I need to open up my algorithms to participate?
+                                        Do I need to open up my Algorithms to participate?
                                     </a>
                                 </h4>
                                 <div id="accordion_right_2" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
                                         <p><strong>No.</strong> </p>
-                                        <p>Superalgos does not expect people to bring their algorithms and make them open source to participate in our competitions or marketplace. </p>
-                                        <p>Instead, we encourage people to come together and build algorithms in a cooperative fashion, most of the times starting off with algorithms that already exist and are openly shared within the community for everyone to be able to improve on. </p>
-                                        <p><strong>It actually is the other way round.</strong> You are not supposed to come in and share your algorithms. The way it works is that you come in, and we share our algos with you. It is up to you if you wish to become a valuable member of the community and start contributing your knowledge to improve on the community's collective wisdom, or not. </p>
-                                        <p>To further understand the spirit of the Superalgos project, please read the following extract from the founder's article <a href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" rel="noopener" target="_blank">Superalgos & The Trading Singularity</a>: </p>
-                                        <blockquote>
-                                            <i>
-                                                <p>Picture the scenario of a newcomer entering the community for the first time...</p>
-                                                <p>What this person will find is an open community offering free access to its collective intellectual property, by generously offering her to fork any of the bots. The community supports her by educating her &mdash; for free &mdash; and by welcoming her as one of its own. </p>
-                                                <p>The community then encourages the newcomer to participate and give back, adding her own knowledge to the collective wisdom, by improving the bot, putting it to compete, and setting it free for it to live a financial life. </p>
-                                                <p>Now the newcomer's creation will attempt to provide for her by winning in any of the myriad of competitions. If her bot does well, it may get forked and its seed may be passed on, along with her wisdom. </p>
-                                                <p>The community will help her iterate her creation into a marketable bot and will provide a marketplace for it to sell its services. The bot will become a worthy inhabitant of the financial biosphere, and in appreciation, will pay back her creator and everyone that helped it evolve into a successful individual. </p>
-                                                <p>It is this mix of dynamic, focused effort, together with a nourishing and supportive environment that we see as an abundant breeding ground for superalgos.</p>
-                                            </i>
-                                        </blockquote>
-                                    </div>
+                                        <p>Superalgos does not expect people to bring their <!--#include file="tooltips/algorithms.shtml" --> and make them open source to participate in our <!--#include file="tooltips/superalgos-competitions.shtml" --> or the <!--#include file="tooltips/marketplace.shtml" -->. </p>
+                                        <p>Instead, we encourage people to come together and build Algorithms in a cooperative fashion, most of the times starting off with Algorithms that already exist and are openly shared within the <!--#include file="tooltips/community.shtml" --> for everyone to be able to improve on. </p>
+                                        <p><strong>It actually is the other way round.</strong> You are not supposed to come in and share your Algorithms. The way it works is that you come in, and we share our algos with you. It is up to you if you wish to become a valuable member of the Community and start contributing your knowledge to improve on the Community's collective wisdom, or not. </p>
+                                        <p>Furthermore, the <!--#include file="tooltips/superalgos-network.shtml" --> is designed to remove trust requirements and to allow entities to run their own <!--#include file="tooltips/superalgos-node.shtml" -->, which enables running Algorithms without disclosing their source code or having to share them with anyone.</p>
+</div>
                                 </div>
                             </div>
                             <div class="sc_accordion_item panel">
@@ -164,11 +156,12 @@
                                 </h4>
                                 <div id="accordion_right_3" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
-                                        <p>Each algorithm running on the Superalgos platform is the collective property of all the people involved in creating and improving the code of the algorithm along the multiple iterations the algorithm may have gone through. </p>
-                                        <p>Every time a competition finishes, the crowd forks the best algos to try to improve them. Also, anyone at any point in time can choose to fork any bot that has participated in a competition, and whose code has been opened. </p>
-                                        <p>The platform's genealogy / ancestry system will track forking events as they happen, and establish the lineage of each bot, including details on each of the algo-maker teams that participated in training the algorithm. </p>
+                                        <p><!--#include file="tooltips/algorithms.shtml" --> participating in <!--#include file="tooltips/superalgos-competitions.shtml" --> are the collective property of all the people involved in creating and improving the code of the Algorithm along the multiple iterations the Algorithm may have gone through. </p>
+                                        <p>Every time a Competition finishes, the crowd forks the best algos to try to improve them. Also, anyone at any point in time can choose to fork any bot that has participated in a Competition, and whose code has been opened. </p>
+                                        <p>The platform's genealogy / ancestry system will track forking events as they happen, and establish the lineage of each bot, including details on each of the <!--#include file="tooltips/algo-maker.shtml" --> Teams that participated in training the Algorithm. </p>
                                         <p>At this point in time this functionality is only at the analysis stage, thus will become available later on, as the platform evolves. </p>
-                                        <p>For algorithms developed in times prior to the implementation of the genealogy features, we shall consider all active teams to be owners of all algorithms created. </p>
+                                        <p>For Algorithms developed in times prior to the implementation of the genealogy features, we shall consider all active teams to be owners of all algorithms created. </p>
+                                        <p>Closed-source Algorithms running on independent <!--#include file="tooltips/superalgos-nodes.shtml" --> are the property of their respective owners.</p>
                                     </div>
                                 </div>
                             </div>
