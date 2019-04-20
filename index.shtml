@@ -29,7 +29,7 @@
                                     <img src="img/photos/markets-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp" align="center" style="padding: 40px 20px 10px 20px;">
+                                            <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
                                                 <h2><strong>Superalgos</strong><br />An open source project implementing a framework to disrupt the reigning active investments model.</h2>
 
                                             </div>
@@ -41,7 +41,7 @@
                                     <img src="img/photos/key-vault-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp" align="center" style="padding: 50px 20px 10px 20px;">
+                                            <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
                                                 <h2><strong>The Status Quo</strong><br />No one shares their know-how, putting a cap to evolution and entry barriers to trading technology.</h2>
                                             </div>
                                         </div>
@@ -49,10 +49,10 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/connect-original.jpg" alt="">
+                                    <img src="img/photos/evolution-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp" align="center" style="padding: 60px 20px 10px 20px;">
+                                            <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
                                                 <h2><strong>Our Approach</strong><br />Challenge the silos with a global collaboration evolving a collective trading intelligence.</h2>
                                             </div>
                                         </div>
@@ -71,8 +71,16 @@
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title">The Status Quo</h1>
                         <h5 class="sc_title sc_title_underline">Trading Intelligence Evolves in Silos</h5>
+                    </div>
+                    <div class="col-sm-12">
                         <h3>
-                            Investment companies keep trading technology in absolute secrecy. The assumption is made that this gives them an edge over other market participants. It is also believed that when <!--#include file="tooltips/algorithms.shtml" -->' are used too broadly, they perform less efficiently.
+                            <ul>
+                                <li>Investment companies keep trading technology in <span class="red_text">absolute secrecy</span>.</li>
+                                <li>The assumption is made that this gives them an edge over other market participants.</li>
+                                <li>It is also assumed that algorithms lose performance when used too broadly.</li>
+                                <li>Even within a company, specialists work alone or in small groups.</li>
+                                <li>Evolution of trading intelligence is therefore <span class="red_text">capped</span> by the intelligence of small groups.</li>
+                            </ul>
                         </h3>
                     </div>
                 </div>
@@ -106,15 +114,23 @@
             </div>
         </section>
 
-        <section id="features_section" class="dark_section sc_parallax" data-parallax-speed="0.2" data-parallax-x-pos="50%" data-parallax-y-pos="50%">
+        <section id="OurApproach" class="dark_section sc_parallax" data-parallax-speed="0.2" data-parallax-x-pos="50%" data-parallax-y-pos="50%">
             <div class="sc_parallax_content">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12 text-center">
                             <h1 class="sc_title">Our Approach</h1>
                             <h5 class="sc_title sc_title_underline">Challenge the Silos with a Global Open Collaboration</h5>
-
-                            <h3 style="color:white;">A global collaboration trains <!--#include file="tooltips/algorithms.shtml" --> and puts them to compete. Once each competition ends, winners are open-sourced, improved and the new generation is put to compete again, unleashing a relentless evolutionary process that ensures the prompt replacement of algos losing their edge.</h3>
+                        </div>
+                        <div class="col-sm-12">
+                            <h3 style="color:#FFF;">
+                                <ul>
+                                    <li>A global collective creates trading algorithms <span class="red_text">&rarr;</span> uncapped group size!</li>
+                                    <li>Algorithms participate in competitions for prize money and reputation <span class="red_text">&rarr;</span> shift in incentives!</li>
+                                    <li>After each competition, algorithms are open-sourced <span class="red_text">&rarr;</span> collective knowledge levelled upwards!</li>
+                                    <li>The collective improves the best algorithms and puts them to compete again <span class="red_text">&rarr;</span> rapid evolution!</li>
+                                </ul>
+                            </h3>
                         </div>
                     </div>
                     <div style="text-align: center !important; background-color: !important ; color: #fff;">
@@ -166,7 +182,7 @@
                         <h3>As the collective trading intelligence grows, it shall be put at the service of all people: investors of all calibers will be able to rent the crowd's trading intelligence to manage their assets. Rental fees will go directly to <!--#include file="tooltips/asset-managers.shtml" --> and <!--#include file="tooltips/algo-makers.shtml" -->, with no intermediaries. </h3>
                     </div>
                 </div>
-                                <div class="text-center">
+                <div class="text-center">
                     <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
                         <a href="about-marketplace.shtml">Learn More</a>
                     </span>
