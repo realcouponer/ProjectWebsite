@@ -32,10 +32,8 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h1 style="color:white; font-size:350%; line-height:150%;">Superalgos</h1>
-                                                        <h2>
-                                                            We invented a framework to disrupt the reigning investments management model
-                                                        </h2>
+                                                        <h3>Superalgos</h3>
+                                                        <p style="text-align:center;font-size:150%;line-height:150%;">An open source project developing and implementing a framework to disrupt the reigning active investments model.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -50,11 +48,9 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="width:85%;">
-                                                        <h1 style="color:white; font-size:350%; line-height:150%;">
-                                                            The Status Quo</h2>
-                                                            <h2>
-                                                                No one shares their algorithms or know-how, putting a cap to evolution of&mdash;and an entry barrier to&mdash;trading technology
-                                                            </h2>
+                                                        <h3>The Status Quo</h3>
+                                                        <p style="text-align:center;"><strong>No one shares their algorithms or know-how, putting a cap to evolution of&mdash;and an entry barrier to&mdash;trading technology.</strong></p>
+
                                                     </div>
                                                 </div>
                                             </div>
@@ -72,8 +68,8 @@
                                                         <h1 style="color:white; font-size:350%; line-height:150%;">
                                                             Our Approach</h2>
                                                             <h2>
-                                                                Challenge the silos with a global collaboration creating a collective trading intelligence
-                                                                </h3>
+                                                                Challenge the silos with a global collaboration evolving a collective trading intelligence.
+                                                                </h2>
                                                     </div>
                                                 </div>
                                             </div>
@@ -203,7 +199,7 @@
                         <h1 class="sc_title ">Superalgos Trading League</h1>
                         <h5 class="sc_title sc_title_underline">The Driver of Evolution</h5>
 
-                        <h3 style="color:white;">The League is designed to drive evolution towards trading incresingly important value in assets. Teams may participate in amateur Minor Leagues or move to professional Major Leagues. As they progress, each league runs longer competitions with increasing capital and larger prize money.</h3>
+                        <h3 style="color:white;">The League is designed to drive evolution towards trading increasingly important value in assets. Teams may participate in amateur Minor Leagues or move to professional Major Leagues. As they progress, each league runs longer competitions with increasing capital and larger prize money.</h3>
                     </div>
                 </div>
                 <div class="text-center">
