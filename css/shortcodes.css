@@ -41,7 +41,7 @@ h2, .h2 {
 h3, .h3 {
     font-size: 25px;
     line-height: 37px;
-    padding: 25px 0 0.5em 0;
+    padding: 0 0 0.5em 0;
     font-weight: 100;
 }
 
@@ -54,7 +54,7 @@ h4, .h4 {
 
 h5, .h5 {
     font-size: 20px;
-    line-height: 19px;
+    line-height: 25px;
     font-weight: 100;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -346,7 +346,7 @@ section > .container,
 .dark_section + .dark_section[class*="with_"] > .container,
 .color_section + .color_section[class*="with_"] > .container,
 .light_section + .light_section[class*="with_"] > .container,
-.grey_section + .grey_section[class*="with_"] > .container{
+.grey_section + .grey_section[class*="with_"] > .container {
     padding-top: 70px;
 }
 
@@ -430,17 +430,11 @@ border-top: none;
         background-color: #19191c;
     }
 
+    .darkgrey_section + .darkgrey_section {
+        border-top: none;
+    }
 
 
-
-.grey_section .sc_title {
-    color: #fff;
-}
-
-
-.darkgrey_section + .darkgrey_section {
-    border-top: none;
-}
 
 /**dark section*/
 .dark_section {
@@ -6515,4 +6509,7 @@ code {
     background-color: rgba(0,0,0,0.6);
 }
 
+.bgimg-events {
+    background-image: url('../img/photos/events.jpg');
+}
 
