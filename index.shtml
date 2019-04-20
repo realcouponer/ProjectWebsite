@@ -118,19 +118,15 @@
                     <div class="row">
                         <div class="col-sm-12 text-center">
                             <h1 class="sc_title">Our Approach</h1>
-                            <h5 class="sc_title sc_title_underline">Challenge the Silos with a Global Open Collaboration</h5>
+                            <h5 class="sc_title sc_title_underline">Challenge the Silos with a Global Open Collaboration</h5><br />
                         </div>
-                        <div class="col-sm-2">
-                        </div>
-                        <div class="col-sm-8">
+                        <div class="col-sm-12">
                             <ul>
-                                <li><p>A global collective creates trading algorithms <span class="red_text">&rarr;</span> uncapped group size!</p></li>
-                                <li><p>Algorithms participate in competitions for prize money and reputation <span class="red_text">&rarr;</span> shift in incentives!</p></li>
-                                <li><p>After each competition, algorithms are open-sourced <span class="red_text">&rarr;</span> collective knowledge levelled upwards!</p></li>
-                                <li><p>The collective improves the best algorithms and puts them to compete again <span class="red_text">&rarr;</span> rapid evolution!</p></li>
+                                <li><h3 style="color:#FFF;">A global collective creates trading algorithms <span class="red_text">&rarr;</span> uncapped group size!</h3></li>
+                                <li><h3 style="color:#FFF;">Algorithms participate in competitions for prize money and reputation <span class="red_text">&rarr;</span> shift in incentives!</h3></li>
+                                <li><h3 style="color:#FFF;">After each competition, algorithms are open-sourced <span class="red_text">&rarr;</span> collective knowledge levelled upwards!</h3></li>
+                                <li><h3 style="color:#FFF;">The collective improves the best algorithms and puts them to compete again <span class="red_text">&rarr;</span> rapid evolution!</h3></li>
                             </ul>
-                        </div>
-                        <div class="col-sm-2">
                         </div>
                     </div>
                     <div style="text-align: center !important; background-color: !important ; color: #fff;">
@@ -172,6 +168,76 @@
             </div>
         </section>
 
+        <section id="TheOutcome" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">The Outcome</h1>
+                        <h5 class="sc_title sc_title_underline">A collective trading intelligence alongside closed-source providers, coexisting in a decentralized network hosting a Trading Intelligence Marketplace.</h5>
+                    </div>
+                    <div class="col-sm-12">
+                        <ul>
+                            <li><h3>Our open-source trading intelligence is distributed across a <span class="red_text">trustless</span> peer-to-peer network.</h3></li>
+                            <li><h3>The network is open to traditional investment companies and other black-boxed intelligences.</h3></li>
+                            <li><h3>A global marketplace provides various asset management services to <span class="red_text">investors of all calibers</span>.</h3></li>
+                            <li><h3>The system is glued with significant monetary incentives to participate in the network.</h3></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/events-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp">
+                                                <h3>Superalgos Trading League</h3>
+                                                <p>
+                                                    &bull; Minor leagues run short competitions, with minimal capital requirements and small prizes.<br />
+                                                    &bull; Major leagues run longer events, trade <span class="red_text">more capital</span> and offer significant prize money.<br />
+                                                    &bull; Algo-makers access state-of-the-art tech after each event, keeping entry barriers low.<br />
+                                                    &bull; Teams winning an event get enough prize money to cover the capital req. for the next league.<br />
+                                                </p>
+
+                                                <a class="revlink filled" href="#">get started</a>
+                                                <a class="revlink border">Learn More</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section id="SuperalgosTradingLeague" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title ">Superalgos Trading League</h1>
+                        <h5 class="sc_title sc_title_underline">The Driver of Evolution</h5>
+
+                        <h3 style="color:white;">The League is designed to drive evolution towards trading increasingly important value in assets. Teams may participate in amateur Minor Leagues or move to professional Major Leagues. As they progress, each league runs longer competitions with increasing capital and larger prize money.</h3>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="competition-league.shtml">Learn More</a>
+                    </span>
+                </div>
+            </div>
+        </section>
+
         <section id="TradingIntelligenceMarketplace" class="light_section">
             <div class="container">
                 <div class="row">
@@ -190,23 +256,6 @@
             </div>
         </section>
 
-        <section id="AlgorithmicTradingWorldChampionship" class="darkgrey_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title ">Superalgos Trading League</h1>
-                        <h5 class="sc_title sc_title_underline">The Driver of Evolution</h5>
-
-                        <h3 style="color:white;">The League is designed to drive evolution towards trading increasingly important value in assets. Teams may participate in amateur Minor Leagues or move to professional Major Leagues. As they progress, each league runs longer competitions with increasing capital and larger prize money.</h3>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                        <a href="competition-league.shtml">Learn More</a>
-                    </span>
-                </div>
-            </div>
-        </section>
 
         <section id="status" class="rustred_section">
             <div class="container">
