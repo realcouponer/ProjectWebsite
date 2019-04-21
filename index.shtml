@@ -30,7 +30,7 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
-                                                <h2><strong>Superalgos</strong><br />An open source project implementing a framework to disrupt the reigning active investments model.</h2>
+                                                <h2><strong>SUPERALGOS</strong><br />An open source project implementing a framework to disrupt the reigning active investments model.</h2>
 
                                             </div>
                                         </div>
@@ -42,7 +42,7 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
-                                                <h2><strong>The Status Quo</strong><br />No one shares their know-how, putting a cap to evolution and entry barriers to trading technology.</h2>
+                                                <h2><strong>THE STATUS QUO</strong><br />No one shares their know-how, putting a cap to evolution and entry barriers to trading technology.</h2>
                                             </div>
                                         </div>
                                     </div>
@@ -53,7 +53,7 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
-                                                <h2><strong>Our Approach</strong><br />Challenge the silos with a global collaboration evolving a collective trading intelligence.</h2>
+                                                <h2><strong>OUR APPROACH</strong><br />Challenge the silos with a global collaboration evolving a collective trading intelligence.</h2>
                                             </div>
                                         </div>
                                     </div>
@@ -65,104 +65,58 @@
             </div>
         </section>
 
-        <section id="StatusQuo" class="light_section">
+        <section id="SuperalgosProject" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">The Status Quo</h1>
-                        <h5 class="sc_title sc_title_underline">Trading Intelligence Evolves in Silos</h5>
+                        <h1 class="sc_title">The Superalgos Project</h1>
+                        <h5 class="sc_title sc_title_underline">Our Quest in Five Bullets</h5>
                     </div>
                     <div class="col-sm-12">
                         <ul>
-                            <li><h3>Investment companies keep trading technology in <strong>absolute secrecy</strong>.</h3></li>
-                            <li><h3>The assumption is made that this gives them an edge over other market participants.</h3></li>
-                            <li><h3>It is also assumed that <!--#include file="tooltips/algorithms.shtml" --> lose performance when used too broadly.</h3></li>
-                            <li><h3>Even within a company, specialists work alone or in small groups.</h3></li>
-                            <li><h3>Evolution of trading intelligence is therefore <strong>capped</strong> by the intelligence of small groups.</h3></li>
+                            <li><h3>We are an <strong>open collaboration</strong> of pro traders, developers, investors and experts in various fields.</h3></li>
+                            <li><h3>Our long-term vision is a global <span class="red_text">collective trading intelligence</span> at the service of all people.</h3></li>
+                            <li><h3>Our network shall be decentralized, permissionless, open source and <strong>trustless</strong>.</h3></li>
+                            <li><h3>We are building tools for everyday traders, which shall be <strong>free</strong> for everyone to use.</h3></li>
+                            <li><h3>As the project grows, these tools shall <strong>evolve</strong> into a professional-grade asset management suite.</h3></li>
                         </ul>
-                    </div>
-                </div>
-                <div class="sc_accordion_item panel" style="text-align: center !important;">
-                    <h3 class="sc_accordion_title">
-                        <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_1" class="collapsed">
-                            Learn More
-                        </a>
-                    </h3>
-                    <div id="accordion_left_1" class="panel-collapse collapse">
-                        <div class="sc_accordion_content">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <p>We believe we have identified a systemic weakness in the reigning active asset management model; a weakness that may explain why no trading intelligence developed within investment firms has ever evolved to the point of dominating the space or achieving a remarkably superior performance in the markets.</p>
-                                    <p>Companies acquire significant talent in the form of data analysts and tech resources; however, in our view, they may be failing at organizing human and machine resources in a way that would yield the best possible results.</p>
-                                </div>
-                                <div class="col-sm-4">
-                                    <p>Sometimes due to incentives structures, workflows, organizational requirements or segmentation of incumbencies&mdash;save for a few exceptions&mdash;there is <strong>little collaboration</strong> within firms.</p>
-                                    <p>In fact, small teams and many times individuals work in absolute secrecy.</p>
-                                    <p>Needless to say, there certainly is zero cooperation in between firms.</p>
-                                    <p><strong>Investment firms work in silos.</strong></p>
-                                </div>
-                                <div class="col-sm-4">
-                                    <p>Secrecy is believed to give market participants an advantage over the rest of the field. This notion is particularly entrenched among players who see the markets as a zero sum game. Also, there is the general belief that <!--#include file="tooltips/algorithms.shtml" --> and strategies lose their edge when used broadly.</p>
-                                    <p>We understand these concerns and accept they may have a root in reality. However, we believe there are <strong>alternative solutions</strong> that would render secrecy an optional feature, instead of a requirement in the system. </p>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="OurApproach" class="dark_section sc_parallax" data-parallax-speed="0.2" data-parallax-x-pos="50%" data-parallax-y-pos="50%">
-            <div class="sc_parallax_content">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12 text-center">
-                            <h1 class="sc_title">Our Approach</h1>
-                            <h5 class="sc_title sc_title_underline">Challenge the Silos with a Global Open Collaboration</h5><br />
-                        </div>
-                        <div class="col-sm-12">
-                            <ul>
-                                <li><h3 style="color:#FFF;">A global collective creates trading Algorithms <span class="red_text">&rarr;</span> uncapped group size!</h3></li>
-                                <li><h3 style="color:#FFF;">Algorithms participate in <!--#include file="tooltips/superalgos-competitions.shtml" --> for prize money and reputation <span class="red_text">&rarr;</span> shift in incentives!</h3></li>
-                                <li><h3 style="color:#FFF;">After each Competition, Algorithms are open-sourced <span class="red_text">&rarr;</span> collective knowledge levelled upwards!</h3></li>
-                                <li><h3 style="color:#FFF;">The collective improves the best Algorithms and puts them to compete again <span class="red_text">&rarr;</span> rapid evolution!</h3></li>
-                            </ul>
-                        </div>
+        <section id="StatusQuo" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Activating COSS.IO Traders</h1>
+                        <h5 class="sc_title sc_title_underline">Singapore-based COSS.IO signs-up for the alpha-stage pre-launch of the Strategizer.</h5>
                     </div>
-                    <div style="text-align: center !important; background-color: !important ; color: #fff;">
-                        <h3 class="sc_accordion_title">
-                            <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_2" class="collapsed">
-                                Learn More
-                            </a>
-                        </h3>
-                        <div id="accordion_left_2" class="panel-collapse collapse">
-                            <div class="sc_accordion_content">
-                                <div class="row">
-                                    <div class="col-sm-4">
-                                        <p>The <!--#include file="tooltips/superalgos-project.shtml" --> enables and incentivizes teams of developers, traders and analysts, both professionals and amateurs alike, to come together and train trading bots that compete on a wide array of <!--#include file="tooltips/superalgos-competitions.shtml" -->.</p>
-                                        <p>Every time a competition finishes, bots' source code is opened within the <!--#include file="tooltips/community.shtml" -->. The crowd pics the best performers and trains them for the next competition round, in the quest for fun, fame, glory and cash prizes.</p>
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <p>The expected outcome is a relentless evolution of trading algorithms and a systematic increase in collective performance through each competition cycle.</p>
-                                        <p>People are  not forced to open source their work. Instead, people may keep any number of Algorithms secret, and only those used to compete become open source. Therefore, the Superalgos Project does not negate the current paradigm but improves it with a collaborative complement.</p>
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <p>After enough iterations, a wealth of strategies will have been explored and tested. In the process, substantial experience will have been accumulated, constructing the <i>collective memory</i> that will feed and train the <!--#include file="tooltips/superalgos.shtml" --> of the future.</p>
-
-                                        <p>A superalgo is not just a high-performance trading algorithm. It is a <i>trading intelligence</i> that will <!--#include file="tooltips/emerge.shtml" --> from within this <i>evolutionary model</i>. </p>
-                                    </div>
-                                </div>
-                                <div class="text-center">
-                                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                        <a href="about-evolution.shtml">More About Evolution</a>
-                                    </span>
-                                    &nbsp;
-                                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                        <a href="about-superalgo.shtml">More About Superalgos</a>
-                                    </span>
-                                </div>
+                    <div class="col-sm-12">
+                        <ul>
+                            <div class="col-sm-6">
+                                <h3>Automating your Trading at COSS.IO</h3>
+                                <p>The Strategizer is a tool built-in the <!--#include file="tooltips/superalgos-platform.shtml" -->, allowing traders to customize pre-programmed strategies through a graphic user interface (GUI). Traders may analyze the outcome in (almost) real time through a built-in simulation engine with historical and up-to-date market data. Once happy with the strategy's output, traders may deploy it as a fully automated bot and trade live at <a a href="https://coss.io" rel="nofollow" rel="noopener" target="_blank">COSS.IO</a>.</p>
+                                <br /><h3>Try out the Prototype Demo!</h3>
+                                <p>The pre-release is an alpha-stage working prototype. User experience is in its infancy and needs to evolve dramatically as the UX design catches up with the backend functionality, now in testing phase. The functionality itself is basic too, and caters mostly to small-capital trading. Currently available strategies are specific examples of range-trading and trend-following.</p>
+                                <p>The live demo offers full access to the Strategizer, including the option to trade live. However, actual live trading capital is limited to 0.001 BTC for liability reasons. We encourage you to use the demo to start building your first strategies, but wait for the actual release to start live trading.</p>
                             </div>
-                        </div>
+                            <div class="col-sm-6">
+                                <h3>No-Limits Downloadable Release</h3>
+                                <p>This live trading capital limitation shall be removed in the upcoming release of the <!--#include file="tooltips/superalgos-node.shtml" -->, a standalone version of the Superalgos Platform carrying the Strategizer for deployment on self-hosted servers, removing the requirement to trust anyone with your Exchange API Keys. Current ETA is June 2019.</p>
+                                <br /><h3>Product Vision</h3>
+                                <p>In the mid-term, the Strategizer will evolve into a complete suite of configurable strategies covering all sorts of market conditions and will implement risk management and capital allocation criterion to automate the management of assets.</p>
+                                <br /><h3>COSS.IO Pioneering Next-Gen Trading Tools</h3>
+                                <p>COSS.IO has signed up for undertaking the pioneering role of being the first <!--#include file="tooltips/exchange.shtml" --> to introduce the <!--#include file="tooltips/strategizer.shtml" --> to its own community to ramp up trading. Such bold move has granted COSS.IO the opportunity to become the first to host alpha-stage <!--#include file="tooltips/superalgos-competitions.shtml" --> too!</p>
+                            </div>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="text-center">
+                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                            <a href="https://platform.superalgos.org">Try the Strategizer Demo!</a>
+                        </span>
                     </div>
                 </div>
             </div>
@@ -172,20 +126,172 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">The Outcome</h1>
-                        <h5 class="sc_title sc_title_underline">A collective trading intelligence alongside closed-source providers, coexisting in a decentralized network hosting a Trading Intelligence Marketplace.</h5>
+                        <h1 class="sc_title">COSS.IO Alpha-Stage Competitions</h1>
+                        <h5 class="sc_title sc_title_underline">Testing-phase competitions will start soon, hosted by COSS.IO, our first Exchange Partner.<br /><br /> <strong>Alpha-Stage Competitions ETA: Q3, 2019</strong> </h5>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>COSS.IO clients may use the <!--#include file="tooltips/strategizer.shtml" --> to create automated trading strategies and put them to compete in week-long events measuring ROI as the metric to determine the winners.</p>
+                        <p>Every action taken by each <!--#include file="tooltips/algorithm.shtml" --> is plotted over the charts, meaning that, during the <!--#include file="tooltips/superalgos-competition.shtml" -->, the community may follow the action live every step of the way, as Algorithms battle for a place in the podium with every trade.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Top-ranked traders will earn prize money payable in <!--#include file="tooltips/algo-tokens.shtml" -->, the native Superalgos token, soon to be listed at COSS.IO. Basic <a href="competition-guidelines.shtml">Rules and Guidelines</a> are available for traders to get familiar with.</p>
+                        <p>If you wish to learn more about the role of Competitions within the <!--#include file="tooltips/superalgos-project.shtml" -->, check out the <a href="competition-overview.shtml">Competitions Overview</a> page. The <a href="competition-league.shtml">Superalgos Trading League</a> page offers some insight on how Competitions will look like in the future.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="text-center">
+                        <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                            <a href="competition-guidelines.shtml">Learn More</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section id="features_section" class="dark_section sc_parallax" data-parallax-speed="0.3" data-parallax-x-pos="50%" data-parallax-y-pos="50%">
+            <div class="sc_parallax_content">
+                <div class="container">
+                    <div class="row text-center">
+                        <div class="col-sm-12">
+                            <h1 class="sc_title">Why We Compete</h1>
+                            <h5 class="sc_title sc_title_underline">A glimpse into the existing model and the Superalgos alternative</h5><br />
+                        </div>
+                    </div>
+                    <div class="row">
+
+                        <div class="col-sm-6">
+                            <h3 style="color:#FFF;text-align:center;">The Status Quo</h3>
+                            <p>
+                                Investment companies keep trading technology in absolute secrecy.
+                                The assumption is made that this gives them an edge over other market participants.
+                                It is also assumed that <!--#include file="tooltips/algorithms.shtml" --> lose performance when used too broadly.
+                                Even within a company, specialists work alone or in small groups.
+                                Evolution of trading intelligence is therefore capped by the intelligence of small groups.
+                            </p>
+                        </div>
+                        <div class="col-sm-6">
+                            <h3 style="color:#FFF;text-align:center;">Our Open Evolutionary Approach</h3>
+                            <p>
+                                A global collective creates Algorithms and puts them to compete for prize money and reputation.
+                                After each <!--#include file="tooltips/superalgos-competition.shtml" --> ends, Algorithms are open-sourced.
+                                The collective improves the best ones and puts the new generation back to compete again, unleashing a <strong> relentless evolutionary process</strong>.
+                                Algorithms loosing their edge are quickly replaced by improved evolutions.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-sm-6">
+
+
+                            <div class="features_container_left margin_top_mini margin_bottom_small">
+
+                                <div class="features_icon text-center theme_accent_1_bgc">
+                                    <i class="fa fa-backward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Work Mode</h5>
+                                    <p>Competition in absolute secrecy.</p>
+                                </div>
+                            </div>
+                            <div class="features_container_left margin_top_mini margin_bottom_small">
+                                <div class="features_icon text-center theme_accent_1_bgc">
+                                    <i class="fa fa-backward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Incentives</h5>
+                                    <p>Gaining an edge over other market participants.</p>
+                                </div>
+                            </div>
+                            <div class="features_container_left margin_top_mini margin_bottom_small">
+                                <div class="features_icon text-center theme_accent_1_bgc">
+                                    <i class="fa fa-backward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Intelligence size</h5>
+                                    <p>Capped to the size of small groups or individuals.</p>
+                                </div>
+                            </div>
+                            <div class="features_container_left margin_top_mini margin_bottom_small">
+                                <div class="features_icon text-center theme_accent_1_bgc">
+                                    <i class="fa fa-backward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Intelligence evolution</h5>
+                                    <p>Slow and costly.</p>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="col-sm-6">
+                            <div class="features_container_right margin_top_mini margin_bottom_small">
+
+                                <div class="features_icon text-center theme_accent_1_bgc">
+                                    <i class="fa fa-forward"></i>
+                                </div>
+                                <div class="features_descr">
+
+                                    <h5>Work Mode</h5>
+                                    <p>Competition within an open collaboration.</p>
+                                </div>
+                            </div>
+                            <div class="features_container_right margin_top_mini margin_bottom_small">
+                                <div class="features_icon text-center theme_accent_1_bgc">
+                                    <i class="fa fa-forward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Incentives</h5>
+                                    <p>Prize money, reputation and having fun.</p>
+                                </div>
+                            </div>
+                            <div class="features_container_right margin_top_mini margin_bottom_small">
+                                <div class="features_icon text-center theme_accent_1_bgc">
+                                    <i class="fa fa-forward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Intelligence size</h5>
+                                    <p>Uncapped due to global collaboration.</p>
+                                </div>
+                            </div>
+                            <div class="features_container_right margin_top_mini margin_bottom_small">
+                                <div class="features_icon text-center theme_accent_1_bgc">
+                                    <i class="fa fa-forward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Intelligence evolution</h5>
+                                    <p>Relentless and at zero cost.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section id="PartnershipWithExchanges" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Partnership with Exchanges</h1>
+                        <h5 class="sc_title sc_title_underline">Exchanges take a leading role hosting, sponsoring and marketing trading competitions.</h5>
                     </div>
                     <div class="col-sm-12">
                         <ul>
-                            <li><h3>Our open-source trading intelligence is distributed across a <strong>trustless</strong> peer-to-peer network.</h3></li>
-                            <li><h3>The <!--#include file="tooltips/superalgos-network.shtml" --> is open to investment companies and other black-boxed intelligences.</h3></li>
-                            <li><h3>A global <!--#include file="tooltips/marketplace.shtml" --> provides various asset management services to <strong>investors of all calibers</strong>.</h3></li>
-                            <li><h3>The system is glued with <a href="about-network.shtml#network-incentives">significant monetary incentives</a> to participate in the network.</h3></li>
+                            <li><h3><!--#include file="tooltips/exchanges.shtml" --> host <!--#include file="tooltips/superalgos-competitions.shtml" --> to drive <strong>trading volume</strong> to their own businesses.</h3></li>
+                            <li><h3>They sponsor significant prize money to incentivize Algo-maker <!--#include file="tooltips/teams.shtml" --> to compete.</h3></li>
+                            <li><h3>Price money comes at no cost to Exchanges as it emerges from standard volume discounts.</h3></li>
+                            <li><h3>Exchanges market Competitions to their clients, onboarding <strong>whole communities</strong> to Superalgos.</h3></li>
                         </ul>
                     </div>
                 </div>
             </div>
         </section>
+
 
         <section id="SuperalgosTradingLeague" class="darkgrey_section bgimg-events">
             <div class="container">
@@ -211,26 +317,9 @@
             </div>
         </section>
 
-        <section id="PartnershipWithExchanges" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Partnership with Exchanges</h1>
-                        <h5 class="sc_title sc_title_underline">Exchanges take a leading role hosting, sponsoring and marketing trading competitions.</h5>
-                    </div>
-                    <div class="col-sm-12">
-                        <ul>
-                            <li><h3><!--#include file="tooltips/exchanges.shtml" --> host Competitions to drive <strong>trading volume</strong> to their own businesses.</h3></li>
-                            <li><h3>They sponsor significant prize money to incentivize Algo-maker Teams to compete.</h3></li>
-                            <li><h3>Price money comes at no cost to exchanges as it comes from standard volume discounts.</h3></li>
-                            <li><h3>Exchanges market Competitions to their clients, onboarding <strong>whole communities</strong> to Superalgos.</h3></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
 
-        <section id="TradingIntelligenceMarketplace" class="darkgrey_section bgimg-marketplace">
+
+        <section id="TradingIntelligenceMarketplace" class="light_section ">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">

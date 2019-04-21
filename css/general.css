@@ -588,8 +588,9 @@ ul > li.share > ul.shareDrop > li > a:hover,
 .theme_accent_1_bgc,
 .theme_accent_1_bgc:before,
 .revlink.filled,
-.sc_highlight.sc_highlight_style_3
-{ background-color:#ffc455; }
+.sc_highlight.sc_highlight_style_3 {
+    background-color: #CC5835;
+}
 
 
 .theme_accent_1_bg,
