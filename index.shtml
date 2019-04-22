@@ -65,6 +65,30 @@
             </div>
         </section>
 
+        <section id="Idea" class="green_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2">
+                    </div>
+                    <div class="col-sm-8">
+                        <blockquote cite="#" class="sc_quote sc_quote_style_1">
+                            <p>We started out as a group of friends.</p>
+                            <p>We'd had enough of making millions for banks and corporations, and saw the opportunity to join forces, experience and knowledge to create technology that would benefit us instead.</p>
+                            <p>The core idea was to automate our crypto trading to increase our own crypto assets.</p>
+                            <p>Then people started joining us, and we quickly realized we needed to shift our mission so that we could onboard everyone willing to participate...</p>
+                            <p>The idea of a collective trading intelligence had emerged.</p>
+
+                            <p class="sc_quote_title">
+                                &mdash;Luis Molina, Founder
+                            </p>
+                        </blockquote>
+                    </div>
+                    <div class="col-sm-2">
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section id="SuperalgosProject" class="light_section">
             <div class="container">
                 <div class="row">
@@ -92,24 +116,20 @@
                         <h1 class="sc_title">Activating COSS.IO Traders</h1>
                         <h5 class="sc_title sc_title_underline">Singapore-based COSS.IO signs-up for the alpha-stage pre-launch of the Strategizer.</h5>
                     </div>
-                    <div class="col-sm-12">
-                        <ul>
-                            <div class="col-sm-6">
-                                <h3>Automating your Trading at COSS.IO</h3>
-                                <p>The Strategizer is a tool built-in the <!--#include file="tooltips/superalgos-platform.shtml" -->, allowing traders to customize pre-programmed strategies through a graphic user interface (GUI). Traders may analyze the outcome in (almost) real time through a built-in simulation engine with historical and up-to-date market data. Once happy with the strategy's output, traders may deploy it as a fully automated bot and trade live at <a a href="https://coss.io" rel="nofollow" rel="noopener" target="_blank">COSS.IO</a>.</p>
-                                <br /><h3>Try out the Prototype Demo!</h3>
-                                <p>The pre-release is an alpha-stage working prototype. User experience is in its infancy and needs to evolve dramatically as the UX design catches up with the backend functionality, now in testing phase. The functionality itself is basic too, and caters mostly to small-capital trading. Currently available strategies are specific examples of range-trading and trend-following.</p>
-                                <p>The live demo offers full access to the Strategizer, including the option to trade live. However, actual live trading capital is limited to 0.001 BTC for liability reasons. We encourage you to use the demo to start building your first strategies, but wait for the actual release to start live trading.</p>
-                            </div>
-                            <div class="col-sm-6">
-                                <h3>No-Limits Downloadable Release</h3>
-                                <p>This live trading capital limitation shall be removed in the upcoming release of the <!--#include file="tooltips/superalgos-node.shtml" -->, a standalone version of the Superalgos Platform carrying the Strategizer for deployment on self-hosted servers, removing the requirement to trust anyone with your Exchange API Keys. Current ETA is June 2019.</p>
-                                <br /><h3>Product Vision</h3>
-                                <p>In the mid-term, the Strategizer will evolve into a complete suite of configurable strategies covering all sorts of market conditions and will implement risk management and capital allocation criterion to automate the management of assets.</p>
-                                <br /><h3>COSS.IO Pioneering Next-Gen Trading Tools</h3>
-                                <p>COSS.IO has signed up for undertaking the pioneering role of being the first <!--#include file="tooltips/exchange.shtml" --> to introduce the <!--#include file="tooltips/strategizer.shtml" --> to its own community to ramp up trading. Such bold move has granted COSS.IO the opportunity to become the first to host alpha-stage <!--#include file="tooltips/superalgos-competitions.shtml" --> too!</p>
-                            </div>
-                        </ul>
+                    <div class="col-sm-6">
+                        <h3>Automating your Trading at COSS.IO</h3>
+                        <p>The Strategizer is a tool built-in the <!--#include file="tooltips/superalgos-platform.shtml" -->, allowing traders to customize pre-programmed strategies through a graphic user interface (GUI). Traders may analyze the outcome in (almost) real time through a built-in simulation engine with historical and up-to-date market data. Once happy with the strategy's output, traders may deploy it as a fully automated bot and trade live at <a a href="https://coss.io" rel="nofollow" rel="noopener" target="_blank">COSS.IO</a>.</p>
+                        <br /><h3>Try out the Prototype Demo!</h3>
+                        <p>The pre-release is an alpha-stage working prototype. User experience is in its infancy and needs to evolve dramatically as the UX design catches up with the backend functionality, now in testing phase. The functionality itself is basic too, and caters mostly to small-capital trading. Currently available strategies are specific examples of range-trading and trend-following.</p>
+                        <p>The live demo offers full access to the Strategizer, including the option to trade live. However, actual live trading capital is limited to 0.001 BTC for liability reasons. We encourage you to use the demo to start building your first strategies, but wait for the actual release to start live trading.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <h3>No-Limits Downloadable Release</h3>
+                        <p>This live trading capital limitation shall be removed in the upcoming release of the <!--#include file="tooltips/superalgos-node.shtml" -->, a standalone version of the Superalgos Platform carrying the Strategizer for deployment on self-hosted servers, removing the requirement to trust anyone with your Exchange API Keys. Current ETA is June 2019.</p>
+                        <br /><h3>Product Vision</h3>
+                        <p>In the mid-term, the Strategizer will evolve into a complete suite of configurable strategies covering all sorts of market conditions and will implement risk management and capital allocation criterion to automate the management of assets.</p>
+                        <br /><h3>COSS.IO Pioneering Next-Gen Trading Tools</h3>
+                        <p>COSS.IO has signed up for undertaking the pioneering role of being the first <!--#include file="tooltips/exchange.shtml" --> to introduce the <!--#include file="tooltips/strategizer.shtml" --> to its own community to ramp up trading. Such bold move has granted COSS.IO the opportunity to become the first to host alpha-stage <!--#include file="tooltips/superalgos-competitions.shtml" --> too!</p>
                     </div>
                 </div>
                 <div class="row">
