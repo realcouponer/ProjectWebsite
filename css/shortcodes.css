@@ -3348,7 +3348,6 @@ blockquote {
         line-height: 30px;
         text-transform: none;
         text-align: left;
-        padding: 0 20px 0 20px;
         font-weight:100;
     }
 
@@ -3374,7 +3373,7 @@ blockquote {
 blockquote.sc_quote .sc_quote_title { padding: 15px 0 0 0; color:#000; font-weight:normal;}
 
 
-blockquote.sc_quote_style_1, blockquote.sc_quote_style_2 { position: relative; color:#ffffff; padding: 35px 30px 55px 50px; margin-bottom: 35px; }
+blockquote.sc_quote_style_1, blockquote.sc_quote_style_2 { position: relative; color:#ffffff; padding: 35px 15px 55px 35px; margin-bottom: 35px; }
 blockquote.sc_quote_style_1 p { color:#333; position: relative; z-index: 4; }
 blockquote.sc_quote_style_1 { background-position: center top; background-size: auto auto; }
 blockquote.sc_quote_style_2 { color: #303036; border-left: 2px solid; }
