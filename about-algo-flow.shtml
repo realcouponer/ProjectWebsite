@@ -26,9 +26,9 @@
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
-                                                    <div style="width:85%;">
-                                                        <h2>
-                                                            The circulation of the ALGO Token throughout the ALGO Ecosystem
+                                                    <div style="padding: 0 15px 0 15px;">
+                                                        <h2 style="font-weight:700;">
+                                                            The Circulation of the ALGO Token throughout the ALGO Ecosystem
                                                         </h2>
                                                     </div>
                                                 </div>

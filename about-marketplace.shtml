@@ -31,9 +31,9 @@
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
-                                                    <div style="width:85%;">
-                                                        <h2>
-                                                            The Marketplace... a gateway for the community to access the capital markets
+                                                    <div style="padding: 0 15px 0 15px;">
+                                                        <h2 style="font-weight:700;">
+                                                            The Community's Gateway to Access Capital Markets
                                                         </h2>
                                                     </div>
                                                 </div>

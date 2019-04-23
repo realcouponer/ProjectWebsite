@@ -31,9 +31,9 @@
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
-                                                    <div style="width:85%;">
-                                                        <h2>
-                                                            The ALGO Ecosystem... an open, self-sustainable and self-regulating economic environment
+                                                    <div style="padding: 0 15px 0 15px;">
+                                                        <h2 style="font-weight:700;">
+                                                            An Open, Self-Sustainable and Self-Regulating Economic Environment
                                                         </h2>
                                                     </div>
                                                 </div>

@@ -30,9 +30,9 @@
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
-                                                    <div style="width:85%;">
-                                                        <h2>
-                                                            Your feedback, comments and questions are important to us.
+                                                    <div style="padding: 0 15px 0 15px;">
+                                                        <h2 style="font-weight:700;">
+                                                            Your Feedback, Comments and Questions are Important.
                                                         </h2>
                                                     </div>
                                                 </div>

@@ -31,9 +31,9 @@
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
-                                                    <div style="width:85%;">
-                                                        <h2>
-                                                            Question everything, and help us find the answers...
+                                                    <div style="padding: 0 15px 0 15px;">
+                                                        <h2 style="font-weight:700;">
+                                                            Question Everything, and Help Us Find the Answers
                                                         </h2>
                                                     </div>
                                                 </div>
