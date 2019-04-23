@@ -547,7 +547,8 @@ ul.sc_list_style_disk li:before,
 #timeline_section [class*="swiper-button-"]:hover,
 .sidemenu_wrap .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
 .sidemenu_wrap .mCSB_scrollTools_onDrag .mCSB_dragger_bar
-{ background-color:#0f75bc; }
+{ background-color:#999; }
+/*#0f75bc*/
 
 .theme_accent_2_bg,
 .theme_accent_2_bg:before

@@ -73,10 +73,10 @@
                     <div class="col-sm-8">
                         <blockquote cite="#" class="sc_quote sc_quote_style_1">
                             <p>We started out as a group of friends.</p>
-                            <p>We'd had enough of making millions for banks and corporations, and saw the opportunity to join forces, experience and knowledge to create technology that would benefit us instead.</p>
+                            <p>We'd had enough of making millions for banks and corporations, and saw the opportunity to join forces to create technology that would benefit us instead.</p>
                             <p>The core idea was to automate our crypto trading to increase our own crypto assets.</p>
-                            <p>Then people started joining us, and we quickly realized we needed to shift our mission so that we could onboard everyone willing to participate...</p>
-                            <p>The idea of a collective trading intelligence had emerged.</p>
+                            <p>Then people started joining us, and we quickly realized we needed to shift our focus...</p>
+                            <p>We are now on a mission to onboard everyone who is willing to participate in pooling the group's collective knowledge, teaching each other, and&mdash;together&mdash;building the tools that would produce the most performant collective trading intelligence.</p>
 
                             <p class="sc_quote_title">
                                 &mdash;Luis Molina, Founder
@@ -98,7 +98,7 @@
                     </div>
                     <div class="col-sm-12">
                         <ul>
-                            <li><h3>We are an <strong>open collaboration</strong> of pro traders, developers, investors and experts in various fields.</h3></li>
+                            <li><h3>We are an <strong>open collaboration</strong> of traders, developers, entrepreneurs and experts in various fields.</h3></li>
                             <li><h3>Our long-term vision is a global <span class="red_text">collective trading intelligence</span> at the service of all people.</h3></li>
                             <li><h3>Our network shall be decentralized, permissionless, open source and <strong>trustless</strong>.</h3></li>
                             <li><h3>We are building tools for everyday traders, which shall be <strong>free</strong> for everyone to use.</h3></li>
@@ -181,26 +181,187 @@
                     <div class="row">
 
                         <div class="col-sm-6">
-                            <h3 style="color:#FFF;text-align:center;">The Status Quo</h3>
-                            <p>
-                                Investment companies keep trading technology in absolute secrecy.
-                                The assumption is made that this gives them an edge over other market participants.
-                                It is also assumed that <!--#include file="tooltips/algorithms.shtml" --> lose performance when used too broadly.
-                                Even within a company, specialists work alone or in small groups.
-                                Evolution of trading intelligence is therefore capped by the intelligence of small groups.
-                            </p>
+                            <div class="features_container_left margin_bottom_mini">
+                                <div class="features_icon text-center theme_accent_2_bgc" style="margin-top:-10px;">
+                                    <i class="fa fa-backward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h3 style="color:#FFF;text-align:right;">The Status Quo</h3>
+                                    <p style="text-align:justify;">
+                                        Investment companies keep trading technology in absolute secrecy.
+                                        The assumption is made that this gives them an edge over other market participants.
+                                        It is also assumed that <!--#include file="tooltips/algorithms.shtml" --> lose performance when used too broadly.
+                                        Even within a company, specialists work alone or in small groups.
+                                        Evolution of trading intelligence is therefore capped by the intelligence of small groups.
+                                    </p>
+                                </div>
+                            </div>
                         </div>
+
                         <div class="col-sm-6">
-                            <h3 style="color:#FFF;text-align:center;">Our Open Evolutionary Approach</h3>
-                            <p>
-                                A global collective creates Algorithms and puts them to compete for prize money and reputation.
-                                After each <!--#include file="tooltips/superalgos-competition.shtml" --> ends, Algorithms are open-sourced.
-                                The collective improves the best ones and puts the new generation back to compete again, unleashing a <strong> relentless evolutionary process</strong>.
-                                Algorithms loosing their edge are quickly replaced by improved evolutions.
-                            </p>
+                            <div class="features_container_right margin_bottom_mini">
+
+                                <div class="features_icon text-center theme_accent_1_bgc" style="margin-top:-10px;">
+                                    <i class="fa fa-forward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h3 style="color:#FFF;">Our Open Evolutionary Approach</h3>
+                                    <p style="text-align:justify;">
+                                        A global collective creates Algorithms and puts them to compete for prize money, reputation and for fun!
+                                        After each <!--#include file="tooltips/superalgos-competition.shtml" --> ends, Algorithms are open-sourced.
+                                        The collective improves the best ones and puts the new generation back to compete again, unleashing a <strong> relentless evolutionary process</strong>.
+                                        Algorithms loosing performance are quickly replaced by improved evolutions.
+                                    </p>
+
+                                </div>
+                            </div>
                         </div>
                     </div>
 
+
+
+                    <div class="row">
+
+                        <div class="col-sm-12">
+                            <div>
+
+                                <div class="text-center margin_top_mini margin_bottom_small">
+                                    <h5 style="color:#fff; font-weight:700;">Work Mode</h5>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="features_container_left margin_bottom_mini">
+
+                                <div class="features_icon text-center theme_accent_2_bgc">
+                                    <i class="fa fa-backward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Status Quo</h5>
+                                    <p>Competition in absolute secrecy.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="features_container_right margin_bottom_mini">
+
+                                <div class="features_icon text-center theme_accent_1_bgc">
+                                    <i class="fa fa-forward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Evol. Model</h5>
+                                    <p>Competition within an open collaboration.</p>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="col-sm-12">
+                            <div>
+                                <div class="text-center margin_top_big margin_bottom_small">
+                                    <h5 style="color:#fff; font-weight:700;">Incentives</h5>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="features_container_left margin_bottom_mini">
+                                <div class="features_icon text-center theme_accent_2_bgc">
+                                    <i class="fa fa-backward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Status Quo</h5>
+                                    <p>Gaining an edge over other market participants.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="features_container_right margin_bottom_mini">
+                                <div class="features_icon text-center theme_accent_1_bgc">
+                                    <i class="fa fa-forward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Evol. Model</h5>
+                                    <p>Prize money, reputation and having fun.</p>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="col-sm-12">
+                            <div>
+                                <div class="text-center margin_top_big margin_bottom_small">
+                                    <h5 style="color:#fff; font-weight:700;">Intelligence size</h5>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="features_container_left margin_bottom_mini">
+                                <div class="features_icon text-center theme_accent_2_bgc">
+                                    <i class="fa fa-backward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Status Quo</h5>
+                                    <p>Capped to the size of small groups or individuals.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="features_container_right margin_bottom_mini">
+                                <div class="features_icon text-center theme_accent_1_bgc">
+                                    <i class="fa fa-forward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Evol. Model</h5>
+                                    <p>Uncapped due to global collaboration.</p>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="col-sm-12">
+                            <div>
+                                <div class="text-center margin_top_big margin_bottom_small">
+                                    <h5 style="color:#fff; font-weight:700;">Intelligence evolution</h5>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="features_container_left margin_bottom_mini">
+                                <div class="features_icon text-center theme_accent_2_bgc">
+                                    <i class="fa fa-backward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Status Quo</h5>
+                                    <p>Slow and costly.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="features_container_right margin_bottom_mini">
+                                <div class="features_icon text-center theme_accent_1_bgc">
+                                    <i class="fa fa-forward"></i>
+                                </div>
+                                <div class="features_descr">
+                                    <h5>Evol. Model</h5>
+                                    <p>Relentless and at zero cost.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--
                     <div class="row">
 
                         <div class="col-sm-6">
@@ -288,8 +449,9 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
+                !-->
+</div>
+</div>
         </section>
 
 
