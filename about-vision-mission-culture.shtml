@@ -31,9 +31,9 @@
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
-                                                    <div style="width:85%;">
-                                                        <h2>
-                                                            The foundational principles guiding the Superalgos Project
+                                                    <div style="padding: 0 15px 0 15px;">
+                                                        <h2 style="font-weight:700;">
+                                                            The Foundational Principles Guiding the Superalgos Project
                                                         </h2>
                                                     </div>
                                                 </div>

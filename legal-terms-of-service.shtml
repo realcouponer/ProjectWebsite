@@ -174,8 +174,8 @@
                     <h2 id="dusergeneratedcontent">D. User-Generated Content</h2>
 
                     <blockquote>
-                        <strong>Short version:</strong> You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.<br /><br />
-                        In the case of Financial Beings, you expressly agree that by registering your algorithms to participate in competitions run through the Service, your algorithms' code is opened and published under the Financial Beings License the moment the competition finishes.
+                        <strong>Short version:</strong> You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.
+                        <!-- In the case of Financial Beings, you expressly agree that by registering your algorithms to participate in competitions run through the Service, your algorithms' code is opened and published under the Financial Beings License the moment the competition finishes.-->
                     </blockquote>
 
                     <h3 id="1responsibilityforusergeneratedcontent">1. Responsibility for User-Generated Content</h3>
@@ -210,28 +210,28 @@
 
                     <p>To the extent this agreement is not enforceable by applicable law, you grant Superalgos the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.</p>
 
-                    <h3 id="7-Financial-Beings-License">7. Financial Beings License</h3>
+                    <!--<h3 id="7-Financial-Beings-License">7. Financial Beings License</h3>
 
-                    <p>At the moment you put a Financial Being forward to participate in a competition or submit an indicator or sensor so that other algorithms can consume their services, you expressly agree to publish the work including source code under the Financial Beings License. Publication is done automatically by the Service on your behalf, to which you expressly grant permission.</p>
+    <p>At the moment you put a Financial Being forward to participate in a competition or submit an indicator or sensor so that other algorithms can consume their services, you expressly agree to publish the work including source code under the Financial Beings License. Publication is done automatically by the Service on your behalf, to which you expressly grant permission.</p>
 
-                    <blockquote>
-                        <h4>Financial Beings License</h4><br />
+    <blockquote>
+        <h4>Financial Beings License</h4><br />
 
-                        <i>Collective Copyright by the Superalgos Community</i><br /><br />
+        <i>Collective Copyright by the Superalgos Community</i><br /><br />
 
-                        Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software including without limitation the rights to use, copy, modify, merge, publish, distribute and sublicense copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br /><br />
+        Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software including without limitation the rights to use, copy, modify, merge, publish, distribute and sublicense copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br /><br />
 
-                        <ol>
-                            <li>
-                                Using, copying, modifying, publishing, distributing and sublicensing rights are restricted to the Superalgos Platform, meaning the rights granted can only be exercised through the Superalgos Service.
-                            </li><br />
-                            <li>
-                                The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-                            </li><br />
-                        </ol>
+        <ol>
+            <li>
+                Using, copying, modifying, publishing, distributing and sublicensing rights are restricted to the Superalgos Platform, meaning the rights granted can only be exercised through the Superalgos Service.
+            </li><br />
+            <li>
+                The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+            </li><br />
+        </ol>
 
-                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-                    </blockquote>
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    </blockquote>-->
                     <h2 id="ecopyrightinfringementanddmcapolicy">E. Copyright Infringement and DMCA Policy</h2>
 
                     <p>If you believe that content on our website violates your copyright, please contact us. If you are a copyright owner and you believe that content on Superalgos violates your rights, please contact us. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.</p>

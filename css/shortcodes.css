@@ -41,7 +41,7 @@ h2, .h2 {
 h3, .h3 {
     font-size: 25px;
     line-height: 37px;
-    padding: 0 0 0.5em 0;
+    padding: 25px 0 0.5em 0;
     font-weight: 100;
 }
 
@@ -433,6 +433,10 @@ border-top: none;
     .darkgrey_section + .darkgrey_section {
         border-top: none;
     }
+
+.rustred_section blockquote {
+    background-color: #19191c;
+}
 
 
 
@@ -2727,7 +2731,7 @@ a:hover .menu_item_description { color: inherit; }
 .postAside { color:#fff; padding:30px 40px; font-size: 24px; font-weight: 100; line-height: 36px; margin:0; }
 .postQuote { margin:0; }
 .postQuote .sc_quote { margin:0; }
-.sc_quote_title, .sc_quote_title a { font-size:12px; line-height: 20px; font-weight:700; letter-spacing: 1px; text-transform: uppercase; }
+.sc_quote_title, .sc_quote_title a { font-size:22px; line-height: 30px; font-weight:700; letter-spacing: 1px; font-variant: small-caps; }
 .postChat .sc_chat:last-child { margin:0; }
 .sc_chat{ padding:0; margin:0 0 20px 0;}
 .sc_chat p{ padding:0 0 10px 0;}
@@ -3330,40 +3334,47 @@ ul.sc_list.sc_list_style_disk { margin: 0 !important; }
 blockquote {
     margin: 2em 1em 2em 1em;
     font-weight: 300;
-    border-left: 0;
+    border-left: 2;
+    border-color: #acb4b6;
     font-variant-caps: normal;
     background: #f2f2f2;
     padding: 1em 2em 1.5em;
+    border-radius: 10px;
+
 }
 
     blockquote p {
-        font-size: 18px;
+        font-size: 20px;
         line-height: 30px;
         text-transform: none;
-        font-style: italic;
         text-align: left;
+        font-weight:100;
+    }
+
+    blockquote cite {
+        display: block;
+        margin-top: 10px;
+    }
+
+    blockquote.sc_quote_style_1:before {
+        display: block;
+        position: absolute;
+        z-index: 3;
+
+        content: ' ';
+        height: 62px;
+        width: 96px;
+        background-image: url(../img/quotes.png);
+        background-position: no-repeat;
     }
 
 
 
-blockquote cite {display:block; margin-top:10px; }
-blockquote.sc_quote_style_1:before {
-    display: block;
-    position: absolute;
-    z-index: 3;
-    left: 25px;
-    top: 15px;
-    content:' ';
-    height:62px;
-    width:96px;
-    background-position: no-repeat;
-}
-blockquote.sc_quote p { padding-bottom: 20px; }
-blockquote.sc_quote .sc_quote_title { padding: 0; }
+blockquote.sc_quote .sc_quote_title { padding: 15px 0 0 0; color:#000; font-weight:normal;}
 
 
-blockquote.sc_quote_style_1, blockquote.sc_quote_style_2 { position: relative; color:#ffffff; padding: 35px 20px 35px 40px; margin-bottom: 35px; }
-blockquote.sc_quote_style_1 p { color:#ffffff; position: relative; z-index: 4; }
+blockquote.sc_quote_style_1, blockquote.sc_quote_style_2 { position: relative; color:#ffffff; padding: 35px 15px 55px 35px; margin-bottom: 35px; }
+blockquote.sc_quote_style_1 p { color:#333; position: relative; z-index: 4; }
 blockquote.sc_quote_style_1 { background-position: center top; background-size: auto auto; }
 blockquote.sc_quote_style_2 { color: #303036; border-left: 2px solid; }
 
@@ -5084,7 +5095,8 @@ a.sc_icon.bg_icon.sc_icon_round:hover:after {
   .sc_parallax .features_container_right .features_descr h5 {
     color: #fff;
     margin: 0;
-    padding-top: 5px; }
+    padding-top: 5px;
+  }
   .sc_parallax .features_container_left .features_descr p,
   .sc_parallax .features_container_right .features_descr p {
     text-align: left;

@@ -4,15 +4,22 @@
                             <li class="menu-item-has-children">
                                 <a href="#">THE PROJECT</a>
                                 <ul>
-                                    <li>
-                                        <a href="about-ecosystem.shtml" class="sf-with-ul">ALGO Ecosystem</a>
+
+                                    <li class="menu-item-has-children">
+                                        <a href="#">Social Contracts</a>
+                                        <ul>
+                                            <li>
+                                                <a href="social-constitution.shtml" class="sf-with-ul">Constitution</a>
+                                            </li>
+                                            <li style="white-space:nowrap">
+                                                <a href="social-algo-macroeconomic-guidance.shtml#" class="sf-with-ul">ALGO Macroeconomics Guidance</a>
+                                            </li>
+                                            <li>
+                                                <a href="social-algo-governance-charter.shtml" class="sf-with-ul">ALGO Governance Charter</a>
+                                            </li>
+                                        </ul>
                                     </li>
-                                    <li>
-                                        <a href="about-network.shtml" class="sf-with-ul">Superalgos Network</a>
-                                    </li>
-                                    <li style="white-space:nowrap">
-                                        <a href="about-marketplace.shtml">Trading Intelligence Marketplace</a>
-                                    </li>
+
                                     <li class="menu-item-has-children">
                                         <a href="#">ALGO Token</a>
                                         <ul>
@@ -27,22 +34,21 @@
                                             </li>
                                         </ul>
                                     </li>
-                                    <!--
+
                                     <li class="menu-item-has-children">
-                                        <a href="#">Social Contract</a>
+                                        <a href="#">Business Overview</a>
                                         <ul>
                                             <li>
-                                                <a href="#" class="sf-with-ul">Constitution</a>
+                                                <a href="about-ecosystem.shtml" class="sf-with-ul">ALGO Ecosystem</a>
                                             </li>
                                             <li>
-                                                <a href="#" class="sf-with-ul">ALGO Macroeconomics</a>
+                                                <a href="about-network.shtml" class="sf-with-ul">Superalgos Network</a>
                                             </li>
-                                            <li>
-                                                <a href="#" class="sf-with-ul">ALGO Governance Charter</a>
+                                            <li style="white-space:nowrap">
+                                                <a href="about-marketplace.shtml">Trading Intelligence Marketplace</a>
                                             </li>
                                         </ul>
                                     </li>
-                                    -->
 
                                     <li class="menu-item-has-children">
                                         <a href="#">Foundational Concepts</a>

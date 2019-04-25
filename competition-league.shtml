@@ -26,14 +26,14 @@
                         <div class="flexslider slider_height_max">
                             <ul class="slides text-center">
                                 <li>
-                                    <img src="img/photos/events-original.jpg" alt="">
+                                    <img src="img/photos/events-original3.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
-                                                    <div style="width:85%;">
-                                                        <h2>
-                                                            A trading league designed to drive evolution towards trading increasingly important value in assets
+                                                    <div style="padding: 0 15px 0 15px;">
+                                                        <h2 style="font-weight:700;">
+                                                            Driving Evolution Towards Trading Increasingly Important Value
                                                         </h2>
                                                     </div>
                                                 </div>
