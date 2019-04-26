@@ -82,17 +82,17 @@
                         <div class="col-md-3">
                             <div class="sc_team_item">
                                 <div class="sc_team_item_avatar">
-                                    <img src="img/people/Matias.jpg" alt="">
+                                    <img src="img/people/andreja.jpg" alt="">
                                     <ul class="sc_team_item_socials">
-                                        <li style="color:#FFF; font-weight: 600;">Information Systems Engineer, MBA, former Hewlett Packard and General Motors; in crypto since 2017.</li>
+                                        <li style="color:#FFF; font-weight: 600;">Pro-trader in Goldman Sachs & UBS, Portfolio Manager, cross-asset trading, equity derivatives, FX and options; in crypto since 2016. </li>
                                         <li>
-                                            <a href="https://www.linkedin.com/in/matias-e-benitez-bb4b1926/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
+                                            <a href="https://www.linkedin.com/in/andreja-cobeljic-77135b28/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="sc_team_item_info">
-                                    <h4 class="sc_team_item_title">Mat&iacute;as Benitez</h4>
-                                    <div class="sc_team_item_position">Teams: Development</div>
+                                    <h4 class="sc_team_item_title">Andreja Cobeljic</h4>
+                                    <div class="sc_team_item_position">Teams: Business</div>
                                 </div>
                             </div>
                         </div>
@@ -114,6 +114,10 @@
                                 </div>
                             </div>
                         </div>
+
+
+
+
                         <div class="col-md-1">
                         </div>
                     </div>
@@ -122,6 +126,25 @@
                 <div class="sc_team col-sm-12">
                     <div class="col-md-1">
                     </div>
+
+                    <div class="col-md-3">
+                        <div class="sc_team_item">
+                            <div class="sc_team_item_avatar">
+                                <img src="img/people/Matias.jpg" alt="">
+                                <ul class="sc_team_item_socials">
+                                    <li style="color:#FFF; font-weight: 600;">Information Systems Engineer, MBA, former Hewlett Packard and General Motors; in crypto since 2017.</li>
+                                    <li>
+                                        <a href="https://www.linkedin.com/in/matias-e-benitez-bb4b1926/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="sc_team_item_info">
+                                <h4 class="sc_team_item_title">Mat&iacute;as Benitez</h4>
+                                <div class="sc_team_item_position">Teams: Development</div>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="col-md-3">
                         <div class="sc_team_item">
                             <div class="sc_team_item_avatar">
@@ -157,23 +180,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3">
-                        <div class="sc_team_item">
-                            <div class="sc_team_item_avatar">
-                                <img src="img/people/Julian-color.jpg" alt="">
-                                <ul class="sc_team_item_socials">
-                                    <li style="color:#FFF; font-weight: 600;">Lifelong entrepreneur in fintech, arts, design, engineering and manufacturing; in crypto since 2016.</li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/in/julian-molina/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="sc_team_item_info">
-                                <h4 class="sc_team_item_title">Julian Molina</h4>
-                                <div class="sc_team_item_position">Teams: Business, Marketing, Management</div>
-                            </div>
-                        </div>
-                    </div>
+
 
                     <div class="col-md-1">
                     </div>
@@ -199,6 +206,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="col-md-3">
                         <div class="sc_team_item">
                             <div class="sc_team_item_avatar">
@@ -221,20 +229,21 @@
                     <div class="col-md-3">
                         <div class="sc_team_item">
                             <div class="sc_team_item_avatar">
-                                <img src="img/people/" alt="">
+                                <img src="img/people/Julian-color.jpg" alt="">
                                 <ul class="sc_team_item_socials">
-                                    <li style="color:#FFF; font-weight: 600;"></li>
+                                    <li style="color:#FFF; font-weight: 600;">Lifelong entrepreneur in fintech, arts, design, engineering and manufacturing; in crypto since 2016.</li>
                                     <li>
-                                        <a href="#" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
+                                        <a href="https://www.linkedin.com/in/julian-molina/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="sc_team_item_info">
-                                <h4 class="sc_team_item_title"></h4>
-                                <div class="sc_team_item_position"></div>
+                                <h4 class="sc_team_item_title">Julian Molina</h4>
+                                <div class="sc_team_item_position">Teams: Business, Marketing, Management</div>
                             </div>
                         </div>
                     </div>
+
                     <div class="col-md-1">
                     </div>
                 </div>
