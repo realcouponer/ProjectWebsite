@@ -1,0 +1,66 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Superalgos Competition Interface Overview</title>
+    <meta name="description" content="Documentation: Competition mode interface of the Superalgos Platform">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="side_menu_page landing_page header_style_1 header_wrapper_height_auto slider_style_1" style="background-color: #FFF;">
+
+        <!--#include file="includes/header-black-bg.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+        <!--#include file="includes/side-menu.shtml" -->
+
+        <section id="about_section" class="light_section">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1 id="actioninacompetitionsetting">Action in a Competition Setting</h1>
+
+                        <p>Competition related events are&ndash;too&mdash;rendered over the timeline. A thin red vertical line (<span class="red_text">1</span>) marks the start of the competition and a checkered vertical banner (<span class="red_text">2</span>) marks the end of the competition.</p>
+
+                        <div class="polaroid">
+                            <a href="#">
+                                <img src="img/doc/Interface-05-competition.png"
+                                     onmouseover="this.src='img/doc/Interface-05-dim-competition.png'"
+                                     onmouseout="this.src='img/doc/Interface-05-competition.png'"
+                                     border="0" alt="" />
+                            </a>
+                        </div>
+
+                        <p>Trading bots keep showing their trades on the charts, as usual. In addition, a new area of the timeline gains relevance: the intersection of the red vertical line with the 0% horizontal mark of the ROI scale in the left margin (<span class="red_text">3</span>). This is exactly where the competition starts.</p>
+
+                        <p>Algobots start out the competition at the 0% mark and their ROI is tracked with every single execution (every one minute) and rendered in the timeline accordingly (<span class="red_text">4</span>).</p>
+
+                        <p>In other words, the competition can be followed in real time simply by watching the timeline, as shown in the folloowing close-up screen:</p>
+
+                        <div class="polaroid">
+                            <img src="img/doc/Interface-06-competition.png" alt="Algobots Competition Platform">
+                        </div>
+
+                        <blockquote>
+                            <p>Bear in mind that trading algobots are executed in one-minute intervals and the information plotted in the timeline is refreshed every one minute as well.</p>
+                        </blockquote>
+
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>
