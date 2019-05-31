@@ -5101,7 +5101,7 @@ a.sc_icon.bg_icon.sc_icon_round:hover:after {
   .sc_parallax .features_container_right .features_descr p {
     text-align: left;
     margin-bottom: 2px;
-    overflow: hidden;
+    overflow: visible;
     color: #fff; }
 .sc_parallax .features_container_left {
   padding-right: 75px; }

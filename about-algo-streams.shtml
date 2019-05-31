@@ -118,7 +118,7 @@
                         <p><strong>In general, the yearly allocation is:</strong></p>
 <pre><code>
 
-    Stream for year n = Standard Stream * Size * 1.2 * / ( n + 1)
+    Stream for year n = Standard Stream * Size * 1.2 / ( n + 1)
 
 </code></pre>
 
