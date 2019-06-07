@@ -92,10 +92,13 @@
                         <br />
                         <div class="polaroid">
                             <a>
+                                <img src="img/captures/demo.gif" />
+                            </a>
+                            <!--<a>
                                 <img src="img/captures/play.png" style="background: url(img/captures/demo.png); background-size: cover; "
                                      onmouseover="this.src='img/captures/demo.gif'"
                                      onmouseout="this.src='img/captures/play.png'" />
-                            </a>
+                            </a>-->
                         </div>
                     </div>
                 </div>
