@@ -91,11 +91,10 @@
                         <h3>This is a pre-release in alpha stage. As such, you should expect rough edges and several blatant limitations on top of the expected instability you may find in a product that is still in development.</h3>
                         <br />
                         <div class="polaroid">
-                            <a href="#">
-                                <img src="img/captures/play.png" style="background: url(img/captures/demo.png) center center black; background-size: cover; "
+                            <a>
+                                <img src="img/captures/play.png" style="background: url(img/captures/demo.png); background-size: cover; "
                                      onmouseover="this.src='img/captures/demo.gif'"
-                                     onmouseout="this.src='img/captures/play.png'"
-                                     border="0" alt="" />
+                                     onmouseout="this.src='img/captures/play.png'" />
                             </a>
                         </div>
                     </div>
