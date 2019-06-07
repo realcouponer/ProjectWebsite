@@ -463,6 +463,14 @@ border-top: none;
     color: #fff;
 }
 
+.rustred_section a {
+    color: #bcd643;
+}
+
+    .rustred_section a:hover {
+        color: #dcf663;
+    }
+
 .green_section .sc_title {
     color: #fff;
 }
@@ -6522,7 +6530,7 @@ code {
 }
 
 .bgimg-events {
-    background-image: url('../img/photos/events.jpg');
+    background-image: url('../img/photos/bgevents.jpg');
 }
 
 .bgimg-marketplace {

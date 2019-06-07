@@ -34,7 +34,7 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
-                                                <h2><strong>SUPERALGOS</strong><br />An open source project implementing a framework to disrupt the reigning active investments model.</h2>
+                                                <h2><strong>SUPERALGOS</strong><br />An open source project challenging the reigning active investments model.</h2>
 
                                             </div>
                                         </div>
@@ -77,10 +77,9 @@
                     <div class="col-sm-8">
                         <blockquote cite="#" class="sc_quote sc_quote_style_1">
                             <p>We started out as a group of friends.</p>
-                            <p>We'd had enough of making millions for banks and corporations, and saw the opportunity to join forces to create technology that would benefit us instead.</p>
-                            <p>The core idea was to automate our crypto trading to increase our own crypto assets.</p>
-                            <p>Then people started joining us, and we quickly realized we needed to broaden our focus...</p>
-                            <p>Our current mindset is to allow everyone to benefit, particularly those willing to participate in pooling the group's collective knowledge, teaching each other, and building&mdash;together&mdash;the tools that would produce the most performant collective trading intelligence.</p>
+                            <p>We'd had enough of making millions for banks, and saw the opportunity to join forces to create technology that would benefit us instead.</p>
+                            <p>The core idea was to automate our own crypto-trading. Then people started joining us, and we realized we needed to broaden our focus...</p>
+                            <p>Our current mindset is to allow everyone to benefit, particularly those willing to participate in pooling the group's collective knowledge, and help build the tools to produce the most performant intelligence.</p>
                             <p class="sc_quote_title">
                                 &mdash;Luis Molina, Founder
                             </p>
@@ -92,7 +91,7 @@
             </div>
         </section>
 
-        <section id="SuperalgosProject" class="light_section">
+        <section id="SuperalgosProject" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -101,13 +100,37 @@
                     </div>
                     <div class="col-sm-12">
                         <ul>
-                            <li><h3>We are an <strong>open collaboration</strong> of traders, developers, entrepreneurs and experts in various fields.</h3></li>
+                            <li><h3>We are an open collaboration of traders, developers, entrepreneurs and experts in various fields.</h3></li>
                             <li><h3 style="padding: 0 0 0.5em 0 !important;">Our long-term vision is a global <span class="red_text">collective trading intelligence</span> at the service of all people.</h3></li>
                             <li><h3>Our network shall be decentralized, permissionless, open source and <strong>trustless</strong>.</h3></li>
-                            <li><h3>Our short-term focus is building tools for everyday traders, which shall be <strong>free</strong> to use.</h3></li>
-                            <li><h3>As the project grows, these tools shall <strong>evolve</strong> into a professional-grade asset management suite.</h3></li>
+                            <li><h3>Our short-term focus is building tools to automate trading, which shall be <strong>free</strong> to use.</h3></li>
+                            <li><h3>Long-term goals are <strong>evolving</strong> trading intelligence and making it <strong>accessible</strong> to all people.</h3></li>
                         </ul>
                     </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Superalgos_Platform" class="light_section ">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title ">Stage 1: Automating Trading</h1>
+                        <h5 class="sc_title sc_title_underline">We strive to help you automate your crypto-trading<br /><br /><span class="red_text">Superalgos Platform, Imminent Pre-Release</span></h5>
+                    </div>
+                    <div class="col-sm-12">
+                        <ul>
+                            <li><h3>No coding required, <!--#include file="tooltips/strategies.shtml" --> are defined with mathematical statements.</h3></li>
+                            <li><h3>Visual debugging and optimization of Strategies, with trades plotted on charts over market data.</h3></li>
+                            <li><h3>A powerful trading protocol enables sharing Strategies and collaborative development.</h3></li>
+                            <li><h3>No need to trust a third party with your funds, your exchange API keys or your Strategies.</h3></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                        <a href="tools-superalgos-platform.shtml">Learn More</a>
+                    </span>
                 </div>
             </div>
         </section>
@@ -118,15 +141,17 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title ">Superalgos Trading League</h1>
-                        <h5 class="sc_title sc_title_underline">A multi-layer league system designed to drive evolution towards trading increasingly important value in assets.<br /><br /><strong>Alpha version ETA: Q4, 2019</strong></h5>
+                        <h1 class="sc_title ">Stage 2: Evolving Intelligence</h1>
+                        <h5 class="sc_title sc_title_underline">Competition &amp; Collaboration drive a relentless evolutionary process
+                            <br /><br /><span class="red_text">Superalgos Trading League, Alpha version ETA: Q4, 2019</span>
+                        </h5>
                     </div>
                     <div class="col-sm-12">
                         <ul>
-                            <li><h3>Minor leagues run short <!--#include file="tooltips/superalgos-competitions.shtml" -->, with minimal capital requirements and small prizes.</h3></li>
-                            <li><h3>Major leagues run longer events, trade more capital and offer significant prize money.</h3></li>
-                            <li><h3><!--#include file="tooltips/algo-makers.shtml" --> access state-of-the-art tech after each event, keeping entry barriers low.</h3></li>
-                            <li><h3><!--#include file="tooltips/teams.shtml" --> winning an event get enough prize money to cover the capital req. for the next league.</h3></li>
+                            <li><h3>A global collective creates <!--#include file="tooltips/algorithms.shtml" --> <span class="red_text">&rarr;</span> unparalleled potential for collective intelligence!</h3></li>
+                            <li><h3>Algorithms participate in <!--#include file="tooltips/superalgos-competitions.shtml" --> for prize money and reputation <span class="red_text">&rarr;</span> shift in incentives!</h3></li>
+                            <li><h3>After each Competition, Algorithms are open-sourced <span class="red_text">&rarr;</span> collective knowledge levelled upwards!</h3></li>
+                            <li><h3>The collective improves the best Algorithms and puts them to compete again <span class="red_text">&rarr;</span> rapid evolution!</h3></li>
                         </ul>
                     </div>
                 </div>
@@ -144,8 +169,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title ">Trading Intelligence Marketplace</h1>
-                        <h5 class="sc_title sc_title_underline">As the network grows, intelligence is put at the service of all people.<br /><br /><strong>Alpha version ETA: Q4, 2020</strong></h5>
+                        <h1 class="sc_title ">Stage 3: Making Intelligence Accessible</h1>
+                        <h5 class="sc_title sc_title_underline">
+                            As the network grows, intelligence is put at the service of all people
+                            <br /><br /><span class="red_text">Trading Intelligence Marketplace, Alpha version ETA: Q4, 2020</span>
+                        </h5>
                     </div>
                     <div class="col-sm-12">
                         <ul>
@@ -446,27 +474,31 @@
                             <div class="sc_accordion_item panel row">
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_13">
-                                        <strong>Algorithmic Trading Suite</strong>: Demo version coming soon!
+                                        <strong>Superalgos Platform</strong>: Imminent Pre-Release!
                                     </a>
                                 </h4>
                                 <div id="accordion_left_13" class="panel-collapse collapse in">
                                     <div class="sc_accordion_content">
                                         <div class="col-sm-6">
-                                            <p>Superalgos is pre-launching a suite of open source tools and the infrastructure that allows traders (with zero coding skills) to automate <!--#include file="tooltips/strategies.shtml" --> (with a certain level of complexity) and deploy them as <!--#include file="tooltips/algorithms.shtml" --> which may trade live, directly within the user account at the <!--#include file="tooltips/exchange.shtml" --> (funds never leave users' accounts).</p>
-                                            <p>The main features available in the suite are:</p>
+                                            <p>Superalgos is pre-releasing a suite of open source tools and the infrastructure that allows traders to automate <!--#include file="tooltips/strategies.shtml" --> and deploy them as <!--#include file="tooltips/algorithms.shtml" --> which may trade live, directly within the user account at the <!--#include file="tooltips/exchange.shtml" -->.</p>
                                             <ul>
-                                                <li><p>Create Strategies following a predefined framework by entering conditions and formulas via a web app. The app generates a file in the format established by the <!--#include file="tooltips/superalgos-protocol.shtml" --> containing all the information that defines the Strategy.</p></li>
-                                                <li><p>Visualize a live simulation of your Strategy, both with backtest and up-to-date data. All of the actions taken by the Strategy may be viewed in a graphical interface right over the charts, along with indicators and market data.</p></li>
+                                                <li><p>Free to use.</p></li>
+                                                <li><p>Trustless deployment.</p></li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li><p>The Strategy is calculated and may be visualized in all possible time periods, right off the bat.</p></li>
-                                                <li><p>You may visually debug and optimize your Strategy. This is how you do it: you may navigate through every decision made by the Strategy in a visual setting, closely scrutinizing what conditions or formulas may be optimized, and go back to edit the Strategy accordingly. Once edited, you may save and refresh the simulation (takes seconds to backtest).</p></li>
-                                                <li><p>Once you are happy with your Strategy, you may deploy it as an Algorithm and trade live.</p></li>
+                                                <li><p>No coding required.</p></li>
+                                                <li><p>Visually debug and optimize Strategies.</p></li>
+                                                <li><p>Backtest and forward test simulation plotting trades over the charts.</p></li>
+                                                <li><p>Once happy with your Strategies, you may deploy them as an Algorithm and trade live.</p></li>
                                             </ul>
-                                            <p>In the mid-term, the solution will evolve into a complete trading system framework and will implement risk management and capital allocation criterion to automate the management of assets.</p>
                                         </div>
+                                        <div class="col-sm-12 text-center">
+                                            <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                <a href="tools-superalgos-platform.shtml" rel="nofollow">Learn More</a>
+                                            </span>
+                                        </div><br />&nbsp;
                                     </div>
                                 </div>
                             </div>
@@ -493,7 +525,7 @@
                             <div class="sc_accordion_item panel row">
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_16" class="collapsed">
-                                        <strong>First Micro Exchange Offering (COSS.IO)</strong>: ETA Q3 2019.
+                                        <strong>First Micro Exchange Offering</strong>: ETA Q3 2019.
                                     </a>
                                 </h4>
                                 <div id="accordion_left_16" class="panel-collapse collapse">
@@ -503,31 +535,12 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <p>This distribution strategy intends to serve Exchange's clients as they start using the <!--#include file="tooltips/superalgos-platform.shtml" -->, satisfying the organic demand for the <!--#include file="tooltips/algo-token.shtml" --> to access <!--#include file="tooltips/superalgos-network.shtml" --> services. </p>
-                                            <p>Our first Exchange Partner is COSS.IO.</p>
+                                            <p>Our first Exchange Partner will be announced soon.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-
-                            <div class="sc_accordion_item panel row">
-                                <h4 class="sc_accordion_title">
-                                    <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_14" class="collapsed">
-                                        <strong>Alpha-stage Competitions</strong>: ETA Q4 2019.
-                                    </a>
-                                </h4>
-                                <div id="accordion_left_14" class="panel-collapse collapse">
-                                    <div class="sc_accordion_content">
-                                        <div class="col-sm-6">
-                                            <p>Testing-phase <!--#include file="tooltips/superalgos-competitions.shtml" --> will start soon, hosted by COSS.IO, our first Exchange Partner. </p>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <p>COSS clients may use the Strategizer to create automated trading strategies and put them to compete in week-long events measuring ROI as the metric to determine the winners.</p>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
 
                             <div class="sc_accordion_item panel row">
                                 <h4 class="sc_accordion_title">
