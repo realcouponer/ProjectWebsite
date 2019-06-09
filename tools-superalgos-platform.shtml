@@ -2,7 +2,7 @@
 
 <head>
     <title>Superalgos Platform</title>
-    <meta name="description" content="We strive to help you automate your crypto-trading, even if you have zero coding skills.">
+    <meta name="description" content="We strive to help you automate your crypto-trading, even if you have virtually zero coding skills.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -53,7 +53,8 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">Superalgos Platform Imminent Pre-Release</h1>
-                        <h3>We strive to help you automate your crypto-trading, even if you have zero coding skills. Our solution builds on a powerful trading protocol, features a trustless deployment, is open source and is free.</h3>
+                        <h3>We strive to help you automate your crypto-trading, even if you have virtually zero coding skills. <br />
+                        Our solution builds on a powerful trading protocol, features a trustless deployment and is free.</h3>
                         <br />
                     </div>
                     <div class="col-sm-6">
@@ -104,8 +105,8 @@
                         <h3>Current Features</h3>
                         <ul>
                             <li><p>You may create any number of <!--#include file="tooltips/strategies.shtml" --> by entering conditions and formulas via a web application running on your browser. The set of Strategies constitute your Trading System.</p></li>
-                            <li><p>No coding skills are required. You define conditions and formulas with simple mathematical statements... <br /><i>(e.g. candle.close < bollingerBand.movingAverage)</i></p></li>
-                            <li><p>You may start with a template of pre-configured Strategies: examples of trend-following and range-trading Strategies.</p></li>
+                            <li><p>Virtually no coding skills are required. You define conditions and formulas with simple statements... <br /><i>(e.g. candle.close < bollingerBand.movingAverage)</i></p></li>
+                            <li><p>You may start with a template featuring a pre-configured Strategy.</p></li>
                             <li><p>You may visualize a live simulation of your Strategies, both with backtest and up-to-date data. All of the actions taken by each Strategy may be viewed in a graphical interface right over the charts, along with indicators and market data.</p></li>
                             <li><p>The Strategy simulation may be calculated and visualized in any available time period.</p></li>
                             <li><p>You may visually debug and optimize your Strategies, navigating through every decision made by each Strategy in a visual setting, closely scrutinizing what conditions or formulas may be optimized. You may later go back and edit each Strategy accordingly. Once edited, you may save and recalculate the simulation (takes a minute to backtest).</p></li>
@@ -119,10 +120,11 @@
                             <li><p>Only latest version of Chrome has been tested.</p></li>
                             <li><p>We have enabled the BTC-USDT market only. Other markets will follow later on.</p></li>
                             <li><p>Very few indicators are available. At this point in time we have: candles, volumes, Bollinger Bands and Percentage Bollinger Bands.</p></li>
-                            <li><p>The user experience is basic, as well as documentation. We expect to quickly improve UX with your feedback.</p></li>
+                            <li><p>The user experience is basic, as well as documentation. We expect to improve UX with your feedback over time.</p></li>
                             <li><p>All trades are of the same size (capital). You may define one size per Strategy only.</p></li>
-                            <li><p>The demo hosted by the project is limited to live-trading a maximum of 0.001 BTC for liability reasons.</p></li>
-                            <li><p>You may use an uncapped version by deploying your own instance of the <!--#include file="tooltips/superalgos-node.shtml" --> only when when it becomes available (Alpha-stage pre-release ETA July 2019).</p></li>
+                            <li><p>There is no fine control over execution of orders. All orders are market orders.</p></li>
+                            <li><p>The demo hosted by the project is just that: a demo. You may use the demo to trade live, but bear in mind the infrastructure on which the demo is running is not intended for the high availability, stability or scalability that you would expect from an online service. The demo is not an online service.</p></li>
+                            <li><p>To trade live with significant capital, we recommend you wait for the pre-release of the <!--#include file="tooltips/superalgos-node.shtml" --> (alpha-stage pre-release ETA July 2019). In the meantime, the demo should be good enough for getting acquainted with the platform and start building your strategies.</p></li>
                         </ul>
                     </div>
                 </div>

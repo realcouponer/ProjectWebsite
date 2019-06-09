@@ -91,7 +91,7 @@
             </div>
         </section>
 
-        <section id="SuperalgosProject" class="darkgrey_section">
+        <section id="SuperalgosProject" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -101,10 +101,28 @@
                     <div class="col-sm-12">
                         <ul>
                             <li><h3>We are an open collaboration of traders, developers, entrepreneurs and experts in various fields.</h3></li>
-                            <li><h3 style="padding: 0 0 0.5em 0 !important;">Our long-term vision is a global <span class="red_text">collective trading intelligence</span> at the service of all people.</h3></li>
+                            <li><h3>Our long-term vision is a global <strong>collective trading intelligence</strong> at the service of all people.</h3></li>
                             <li><h3>Our network shall be decentralized, permissionless, open source and <strong>trustless</strong>.</h3></li>
-                            <li><h3>Our short-term focus is building tools to automate trading, which shall be <strong>free</strong> to use.</h3></li>
+                            <li><h3><span  class="red_text">Our short-term focus is building tools to automate trading, which shall be <strong>free</strong> to use.</span></h3></li>
                             <li><h3>Long-term goals are <strong>evolving</strong> trading intelligence and making it <strong>accessible</strong> to all people.</h3></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="SuperalgosProject" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Our Mission</h1>
+                        <h5 class="sc_title sc_title_underline">To trigger the Era of Superalgos</h5>
+                    </div>
+                    <div class="col-sm-12">
+                        <ul>
+                            <li><h3><strong>Stage 1: Automate Trading</strong> <span class="red_text">&larr; Current Focus</span><br />Offer free access to state-of-the-art tech to grow the <!--#include file="tooltips/community.shtml" --> and increase its efficiency.</h3></li>
+                            <li><h3><strong>Stage 2: Evolve Trading Intelligence</strong><br />Implement an evolutionary model to relentlessly increase the Community's intelligence.</h3></li>
+                            <li><h3><strong>Stage 3: Make Intelligence Accessible</strong><br />Deploy a decentralized, permissionless, trustless network to bring trading services to all people.</h3></li>
                         </ul>
                     </div>
                 </div>
@@ -120,10 +138,10 @@
                     </div>
                     <div class="col-sm-12">
                         <ul>
-                            <li><h3>No coding required, <!--#include file="tooltips/strategies.shtml" --> are defined with mathematical statements.</h3></li>
+                            <li><h3>Virtually no coding required as <!--#include file="tooltips/strategies.shtml" --> are defined with simple, short statements.</h3></li>
                             <li><h3>Visual debugging and optimization of Strategies, with trades plotted on charts over market data.</h3></li>
                             <li><h3>A powerful trading protocol enables sharing Strategies and collaborative development.</h3></li>
-                            <li><h3>No need to trust a third party with your funds, your exchange API keys or your Strategies.</h3></li>
+                            <li><h3>No need to trust  third parties with your funds, your exchange API keys or your Strategies.</h3></li>
                         </ul>
                     </div>
                 </div>
@@ -142,8 +160,9 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title ">Stage 2: Evolving Intelligence</h1>
-                        <h5 class="sc_title sc_title_underline">Competition &amp; Collaboration drive a relentless evolutionary process
-                            <br /><br /><span class="red_text">Superalgos Trading League, Alpha version ETA: Q4, 2019</span>
+                        <h5 class="sc_title sc_title_underline">
+                            Competition &amp; Collaboration drive a relentless evolutionary process
+                            <br /><br /><strong>Superalgos Trading League, Alpha version ETA: Q4, 2019</strong>
                         </h5>
                     </div>
                     <div class="col-sm-12">
@@ -172,7 +191,7 @@
                         <h1 class="sc_title ">Stage 3: Making Intelligence Accessible</h1>
                         <h5 class="sc_title sc_title_underline">
                             As the network grows, intelligence is put at the service of all people
-                            <br /><br /><span class="red_text">Trading Intelligence Marketplace, Alpha version ETA: Q4, 2020</span>
+                            <br /><br /><strong>Trading Intelligence Marketplace, Alpha version ETA: Q4, 2020</strong>
                         </h5>
                     </div>
                     <div class="col-sm-12">
@@ -190,202 +209,6 @@
                     </span>
                 </div>
             </div>
-        </section>
-
-        <section id="features_section" class="dark_section sc_parallax" data-parallax-speed="0.3" data-parallax-x-pos="50%" data-parallax-y-pos="50%">
-            <div class="sc_parallax_content">
-                <div class="container">
-                    <div class="row text-center">
-                        <div class="col-sm-12">
-                            <h1 class="sc_title">Why We Compete</h1>
-                            <h5 class="sc_title sc_title_underline">A glimpse into the existing model and the Superalgos alternative</h5><br />
-                        </div>
-                    </div>
-                    <div class="row">
-
-                        <div class="col-sm-6">
-                            <div class="features_container_left margin_bottom_mini">
-                                <div class="features_icon text-center theme_accent_2_bgc" style="margin-top:-10px;">
-                                    <i class="fa fa-backward"></i>
-                                </div>
-                                <div class="features_descr">
-                                    <h3 style="color:#FFF;text-align:right;">The Status Quo</h3>
-                                    <p style="text-align:justify;">
-                                        Investment companies keep trading technology in absolute secrecy.
-                                        The assumption is made that this gives them an edge over other market participants.
-                                        It is also assumed that <!--#include file="tooltips/algorithms.shtml" --> lose performance when used too broadly.
-                                        Even within a company, specialists work alone or in small groups.
-                                        Evolution of trading intelligence is therefore capped by the intelligence of small groups.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <div class="features_container_right margin_bottom_mini">
-
-                                <div class="features_icon text-center theme_accent_1_bgc" style="margin-top:-10px;">
-                                    <i class="fa fa-forward"></i>
-                                </div>
-                                <div class="features_descr">
-                                    <h3 style="color:#FFF;">Our Open Evolutionary Approach</h3>
-                                    <p style="text-align:justify;">
-                                        A global collective creates Algorithms and puts them to compete for prize money, reputation and for fun!
-                                        After each <!--#include file="tooltips/superalgos-competition.shtml" --> ends, Algorithms are open-sourced.
-                                        The collective improves the best ones and puts the new generation back to compete again, unleashing a <strong> relentless evolutionary process</strong>.
-                                        Algorithms losing performance are quickly replaced by improved evolutions.
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                    <div class="row">
-
-                        <div class="col-sm-12">
-                            <div>
-
-                                <div class="text-center margin_top_mini margin_bottom_small">
-                                    <h5 style="color:#fff; font-weight:700;">Work Mode</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <div class="features_container_left margin_bottom_mini">
-
-                                <div class="features_icon text-center theme_accent_2_bgc">
-                                    <i class="fa fa-backward"></i>
-                                </div>
-                                <div class="features_descr">
-                                    <h5>Status Quo</h5>
-                                    <p>Competition in absolute secrecy.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <div class="features_container_right margin_bottom_mini">
-
-                                <div class="features_icon text-center theme_accent_1_bgc">
-                                    <i class="fa fa-forward"></i>
-                                </div>
-                                <div class="features_descr">
-                                    <h5>Evol. Model</h5>
-                                    <p>Competition within an open collaboration.</p>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-                        <div class="col-sm-12">
-                            <div>
-                                <div class="text-center margin_top_big margin_bottom_small">
-                                    <h5 style="color:#fff; font-weight:700;">Incentives</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <div class="features_container_left margin_bottom_mini">
-                                <div class="features_icon text-center theme_accent_2_bgc">
-                                    <i class="fa fa-backward"></i>
-                                </div>
-                                <div class="features_descr">
-                                    <h5>Status Quo</h5>
-                                    <p>Gaining an edge over other market participants.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <div class="features_container_right margin_bottom_mini">
-                                <div class="features_icon text-center theme_accent_1_bgc">
-                                    <i class="fa fa-forward"></i>
-                                </div>
-                                <div class="features_descr">
-                                    <h5>Evol. Model</h5>
-                                    <p>Prize money, reputation and having fun.</p>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-                        <div class="col-sm-12">
-                            <div>
-                                <div class="text-center margin_top_big margin_bottom_small">
-                                    <h5 style="color:#fff; font-weight:700;">Intelligence size</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <div class="features_container_left margin_bottom_mini">
-                                <div class="features_icon text-center theme_accent_2_bgc">
-                                    <i class="fa fa-backward"></i>
-                                </div>
-                                <div class="features_descr">
-                                    <h5>Status Quo</h5>
-                                    <p>Capped to the size of small groups or individuals.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <div class="features_container_right margin_bottom_mini">
-                                <div class="features_icon text-center theme_accent_1_bgc">
-                                    <i class="fa fa-forward"></i>
-                                </div>
-                                <div class="features_descr">
-                                    <h5>Evol. Model</h5>
-                                    <p>Uncapped due to global collaboration.</p>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-                        <div class="col-sm-12">
-                            <div>
-                                <div class="text-center margin_top_big margin_bottom_small">
-                                    <h5 style="color:#fff; font-weight:700;">Intelligence evolution</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <div class="features_container_left margin_bottom_mini">
-                                <div class="features_icon text-center theme_accent_2_bgc">
-                                    <i class="fa fa-backward"></i>
-                                </div>
-                                <div class="features_descr">
-                                    <h5>Status Quo</h5>
-                                    <p>Slow and costly.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <div class="features_container_right margin_bottom_mini">
-                                <div class="features_icon text-center theme_accent_1_bgc">
-                                    <i class="fa fa-forward"></i>
-                                </div>
-                                <div class="features_descr">
-                                    <h5>Evol. Model</h5>
-                                    <p>Relentless and at zero cost.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-    </div>
         </section>
 
 
@@ -481,14 +304,14 @@
                                     <div class="sc_accordion_content">
                                         <div class="col-sm-6">
                                             <p>Superalgos is pre-releasing a suite of open source tools and the infrastructure that allows traders to automate <!--#include file="tooltips/strategies.shtml" --> and deploy them as <!--#include file="tooltips/algorithms.shtml" --> which may trade live, directly within the user account at the <!--#include file="tooltips/exchange.shtml" -->.</p>
-                                            <ul>
-                                                <li><p>Free to use.</p></li>
-                                                <li><p>Trustless deployment.</p></li>
-                                            </ul>
+                                            <p>This is a pre-release in alpha stage. As such, you should expect rough edges and several blatant limitations on top of the expected instability you may find in a product that is still in development.</p>
+                                            <p>The main features are:</p>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li><p>No coding required.</p></li>
+                                                <li><p>Free to use.</p></li>
+                                                <li><p>Trustless deployment.</p></li>
+                                                <li><p>Virtually no coding required.</p></li>
                                                 <li><p>Visually debug and optimize Strategies.</p></li>
                                                 <li><p>Backtest and forward test simulation plotting trades over the charts.</p></li>
                                                 <li><p>Once happy with your Strategies, you may deploy them as an Algorithm and trade live.</p></li>
