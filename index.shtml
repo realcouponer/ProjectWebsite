@@ -34,19 +34,11 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
-                                                <h2><strong>SUPERALGOS</strong><br />An open source project challenging the reigning active investments model.</h2>
+                                                <h2>
+                                                    <strong>AUTOMATE YOUR CRYPTO-TRADING</strong><br />
+                                                    Access state-of-the-art tech to increase your trading efficiency.
+                                                </h2>
 
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <img src="img/photos/key-vault-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
-                                        <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
-                                                <h2><strong>THE STATUS QUO</strong><br />No one shares their know-how, putting a cap to evolution and entry barriers to trading technology.</h2>
                                             </div>
                                         </div>
                                     </div>
@@ -57,35 +49,26 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
-                                                <h2><strong>OUR APPROACH</strong><br />Challenge the silos with a global collaboration evolving a collective trading intelligence.</h2>
+                                                <h2><strong>HELP EVOLVE TRADING INTELLIGENCE</strong><br />
+                                                Take part in an evolutionary model to increase the Community's intelligence.</h2>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/marketplace-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
+                                                <h2><strong>MAKE INTELLIGENCE ACCESSIBLE</strong><br />
+                                                Rent your Algorithms over a decentralized, permissionless, trustless network.</h2>
                                             </div>
                                         </div>
                                     </div>
                                 </li>
                             </ul>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="Idea" class="green_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-2">
-                    </div>
-                    <div class="col-sm-8">
-                        <blockquote cite="#" class="sc_quote sc_quote_style_1">
-                            <p>We started out as a group of friends.</p>
-                            <p>We'd had enough of making millions for banks, and saw the opportunity to join forces to create technology that would benefit us instead.</p>
-                            <p>The core idea was to automate our own crypto-trading. Then people started joining us, and we realized we needed to broaden our focus...</p>
-                            <p>Our current mindset is to allow everyone to benefit, particularly those willing to participate in pooling the group's collective knowledge, and help build the tools to produce the most performant intelligence.</p>
-                            <p class="sc_quote_title">
-                                &mdash;Luis Molina, Founder
-                            </p>
-                        </blockquote>
-                    </div>
-                    <div class="col-sm-2">
                     </div>
                 </div>
             </div>
@@ -103,7 +86,7 @@
                             <li><h3>We are an open collaboration of traders, developers, entrepreneurs and experts in various fields.</h3></li>
                             <li><h3>Our long-term vision is a global <strong>collective trading intelligence</strong> at the service of all people.</h3></li>
                             <li><h3>Our network shall be decentralized, permissionless, open source and <strong>trustless</strong>.</h3></li>
-                            <li><h3><span  class="red_text">Our short-term focus is building tools to automate trading, which shall be <strong>free</strong> to use.</span></h3></li>
+                            <li><h3><span class="red_text">Our short-term focus is building tools to automate trading, which shall be <strong>free</strong> to use.</span></h3></li>
                             <li><h3>Long-term goals are <strong>evolving</strong> trading intelligence and making it <strong>accessible</strong> to all people.</h3></li>
                         </ul>
                     </div>
@@ -111,7 +94,7 @@
             </div>
         </section>
 
-        <section id="SuperalgosProject" class="darkgrey_section">
+        <section id="SuperalgosProject" class="darkgrey_section bgimg-mission">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -129,7 +112,7 @@
             </div>
         </section>
 
-        <section id="Superalgos_Platform" class="light_section ">
+        <section id="Superalgos_Platform" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -143,6 +126,11 @@
                             <li><h3>A powerful trading protocol enables sharing Strategies and collaborative development.</h3></li>
                             <li><h3>No need to trust  third parties with your funds, your exchange API keys or your Strategies.</h3></li>
                         </ul>
+                        <div class="polaroid">
+                            <a>
+                                <img src="img/captures/Trading-Simulation-Conditions.gif" />
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <div class="text-center">
@@ -211,9 +199,29 @@
             </div>
         </section>
 
+        <section id="Idea" class="green_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2">
+                    </div>
+                    <div class="col-sm-8">
+                        <blockquote cite="#" class="sc_quote sc_quote_style_1">
+                            <p>We started out as a group of friends.</p>
+                            <p>We'd had enough of making millions for banks, and saw the opportunity to join forces to create technology that would benefit us instead.</p>
+                            <p>The core idea was to automate our own crypto-trading. Then people started joining us, and we realized we needed to broaden our focus...</p>
+                            <p>Our current mindset is to allow everyone to benefit, particularly those willing to participate in pooling the group's collective knowledge, and help build the tools to produce the most performant intelligence.</p>
+                            <p class="sc_quote_title">
+                                &mdash;Luis Molina, Founder
+                            </p>
+                        </blockquote>
+                    </div>
+                    <div class="col-sm-2">
+                    </div>
+                </div>
+            </div>
+        </section>
 
-
-        <section id="status" class="rustred_section">
+        <section id="status" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -223,8 +231,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <h5 style="text-align: center; color:#fff;">Development Team</h5>
-                        <p>The <!--#include file="tooltips/superalgos-project.shtml" --> is developing a distributed system under a permissionless innovation paradigm: developers are free to join the project and contribute pieces of software that would add value to the <!--#include file="tooltips/algo-ecosystem.shtml" -->.</p>
-                        <p>The <!--#include file="tooltips/superalgos-platform.shtml" --> is being developed by an ever-growing group of people distributed all over the world. If you are a talented developer or part of a team and wish to contribute one module to the project, you are welcome to do so. Contributing a module earns you an <!--#include file="tooltips/algo-stream.shtml" --> and makes you a <!--#include file="tooltips/team-member.shtml" -->.</p>
+                        <p>Superalgos is an open source project at an early stage, welcoming developers who wish to participate in realizing the project's <a href="about-vision-mission-culture.shtml">vision</a>. Technical contributions may earn you an <!--#include file="tooltips/algo-stream.shtml" --> and make you a <!--#include file="tooltips/team-member.shtml" -->.</p>
                         <div class="text-center">
                             <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
                                 <a href="developers-join-dev-team.shtml">Learn More</a>
@@ -233,8 +240,7 @@
                     </div>
                     <div class="col-sm-6">
                         <h5 style="text-align: center; color:#fff;">Business &amp; Scientific Research Teams</h5>
-                        <p>Superalgos is building a team of leaders to develop each of the <!--#include file="tooltips/domains.shtml" --> we wish to excel at. We welcome experts in fields such as collective intelligence, social psychology, game theory, artificial intelligence, evolutionary theory, distributed governance, management, economics, communication, marketing, law and business.</p>
-                        <p>We work in a horizontal organization where <!--#include file="tooltips/team-members.shtml" --> assume the job of developing a specific <!--#include file="tooltips/area-of-responsibility.shtml" -->. If you wish to leave a mark on the way future generations will interact with the markets, we would be happy to have you.</p>
+                        <p>We welcome experts in fields such as collective intelligence, social psychology, game theory, artificial intelligence, evolutionary theory, distributed governance, management, economics, communication, marketing, law and business.</p>
                         <div class="text-center">
                             <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
                                 <a href="about-contributing.shtml">Learn More</a>
