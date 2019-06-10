@@ -331,8 +331,8 @@ float: left;
 
 section > .container,
 .sc_parallax_content> .container {
-    padding-top: 70px;
-    padding-bottom: 70px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 .darkgrey_section + .darkgrey_section > .container,
@@ -378,7 +378,7 @@ footer > .container > .row > [class*="col-"] {
     float: none;
 }
 
-.action_section > .container {rustred
+.action_section > .container {
     padding-top: 40px;
     padding-bottom: 40px;
 }

@@ -94,7 +94,7 @@
             </div>
         </section>
 
-        <section id="SuperalgosProject" class="darkgrey_section bgimg-mission">
+        <section id="SuperalgosProject" class="darkgrey_section bgimg-mission" style="padding-top: 150px; padding-bottom: 150px;">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -143,7 +143,7 @@
 
 
 
-        <section id="SuperalgosTradingLeague" class="darkgrey_section bgimg-events">
+        <section id="SuperalgosTradingLeague" class="darkgrey_section bgimg-events" style="padding-top: 150px; padding-bottom: 150px;">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
