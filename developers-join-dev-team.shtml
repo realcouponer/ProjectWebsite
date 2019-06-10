@@ -272,12 +272,13 @@
                     </div>
                     <div class="col-sm-6">
                         <ol start="2">
-                            <li><p>Study the following articles to get acquainted with the inner workings of the project:</p></li>
+                            <li><p>Read the following articles to get acquainted with the inner workings of the project:</p></li>
                             <ul>
                                 <li><a href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" rel="noopener" target="_blank">Superalgos, Part One:  The Trading Singularity</a></li>
                                 <li><a href="https://hackernoon.com/superalgos-part-two-building-a-trading-supermind-a47bdc73aed" rel="nofollow" rel="noopener" target="_blank">Superalgos, Part Two:  Building a Trading Supermind</a></li>
                             </ul>
-                            <li><p><a href="contacts.shtml"><strong>Contact us</strong></a> expressing your interest. Please include the Telegram handles of members of your team in your message. We will get in touch with you to start talks and get you started.</p></li>
+                            <li><p>Check the repositories at the <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">Superalgos</a>  Github organization.</p></li>
+                            <li><p>Join the <a href="https://t.me/superalgosdevelop" rel="nofollow" rel="noopener" target="_blank">Superalgos Develop</a> Telegram group and read the pinned welcome message. </p></li>
                         </ol>
                     </div>
                 </div>
