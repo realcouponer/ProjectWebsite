@@ -63,10 +63,9 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <ol>
-                            <li><p>We will provide you with a functioning <!--#include file="tooltips/algobot.shtml" --> and the <!--#include file="tooltips/strategizer.shtml" --> for you to start with. </p></li>
-                            <li><p>You will tune existing strategies or build your own from scratch, using the simulation engine built in the Strategizer to backtest your Algobot. </p></li>
-                            <li><p>When you are ready to test your Algobot against others', you will register for the next <!--#include file="tooltips/superalgos-competition.shtml" -->.</p></li>
-                            <li><p>During the Competition, you will cheer and brag about how cool your Algobot is, while hoping it beats the rest to win the prize money!</p></li>
+                            <li><p>You will use the <!--#include file="tooltips/superalgos-platform.shtml" --> to design your <!--#include file="tooltips/strategy.shtml" --> or to improve an exiting one. </p></li>
+                            <li><p>When you are ready to test your Strategy against others', you will register the resulting <!--#include file="tooltips/algorithm.shtml" --> for the next <!--#include file="tooltips/superalgos-competition.shtml" -->.</p></li>
+                            <li><p>During the Competition, you will cheer and brag about how cool your Algorithm is, while hoping it beats the rest to win the prize money!</p></li>
                         </ol>
                     </div>
                 </div>
@@ -77,7 +76,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title ">About Algobots</h1>
+                        <h1 class="sc_title ">About Algorithms</h1>
                         <h5 class="sc_title sc_title_underline">Basic rules on the code of your bots</h5>
 
                     </div>
@@ -89,18 +88,18 @@
                     <div class="col-sm-4">
                         <h3 id="algbotslicense">Assistant</h3>
 
-                        <p>In order to guarantee transparency, registered Algobots are <strong>not</strong> allowed to connect to the <!--#include file="tooltips/exchange.shtml" --> directly; Algobots should connect to the exchange only through the <!--#include file="tooltips/assistant.shtml" --> (no need to worry about this if you are not modifying the source code). The <!--#include file="tooltips/superalgos-platform.shtml" --> tracks Algbots activity and makes the information available for everyone to audit.</p>
+                        <p>In order to guarantee transparency, registered <!--#include file="tooltips/algorithms.shtml" --> are <strong>not</strong> allowed to connect to the <!--#include file="tooltips/exchange.shtml" --> directly; Algorithms should connect to the exchange only through the <!--#include file="tooltips/assistant.shtml" --> (no need to worry about this if you are not modifying the source code). The platform tracks Algorithms' activity and makes the information available for everyone to audit.</p>
 
-                        <p><strong>Once an Algobot is released in the competition it cannot be modified.</strong></p>
+                        <p><strong>Once an Algorithm is released in the Competition it cannot be modified.</strong></p>
                     </div>
                     <div class="col-sm-4">
-                        <h3 id="algbotslicense">Algbots License</h3>
+                        <h3 id="algbotslicense">Algorithms License</h3>
 
-                        <p>Existing Algobots and strategies offered as templates for <!--#include file="tooltips/algo-makers.shtml" --> to fork are released under an Open Source License to guarantee: the freedom to use the software for any purpose, the freedom to change the software to suit your needs, the freedom to share the software with your friends and neighbors, and the freedom to share the changes you make.</p>
+                        <p>Existing Algorithms and Strategies offered as templates for <!--#include file="tooltips/algo-makers.shtml" --> to fork are released under an Open Source License to guarantee: "...the freedom to use the software for any purpose, the freedom to change the software to suit your needs, the freedom to share the software with your friends and neighbors, and the freedom to share the changes you make", paraphrasing GNU.</p>
                     </div>
                     <div class="col-sm-4">
                         <h3 id="algbotslicense">License Policy</h3>
-                        <p>It is a policy of the <!--#include file="tooltips/superalgos-project.shtml" --> to require all <!--#include file="tooltips/algobots.shtml" --> participating in Competitions to be released under the same license, so as to ensure the free flow of knowledge that fosters the <a href="about-evolution.shtml" rel="noopener" target="_blank">rapid-evolution of trading intelligence</a> within the <!--#include file="tooltips/algo-ecosystem.shtml" -->. The Superalgos Platform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml" rel="noopener" target="_blank">Terms of Service</a>, which you need to agree to in order to participate in our Competitions.</p>
+                        <p>It is a policy of the <!--#include file="tooltips/superalgos-project.shtml" --> to require all <!--#include file="tooltips/algorithms.shtml" --> participating in Competitions to be released under the same license, so as to ensure the free flow of knowledge that fosters the <a href="about-evolution.shtml" rel="noopener" target="_blank">rapid-evolution of trading intelligence</a> within the <!--#include file="tooltips/algo-ecosystem.shtml" -->. The Superalgos Platform does this automatically, with your permission, as explained in our <a href="legal-terms-of-service.shtml" rel="noopener" target="_blank">Terms of Service</a>, which you need to agree to in order to participate in our Competitions.</p>
 
                     </div>
                 </div>
@@ -120,7 +119,7 @@
                     <div class="col-sm-6">
                         <h3 id="markets">Markets</h3>
 
-                        <p>Alpha-stage Competition take place in the <strong>USDT-BTC market</strong>. Other markets may be added during the course of the 2019 Calendar.</p>
+                        <p>Alpha-stage Competition take place in the <strong>USDT-BTC market</strong>. Other markets may be added later.</p>
 
                         <p>Trades are performed at <!--#include file="tooltips/teams.shtml" -->' accounts at the <!--#include file="tooltips/exchange.shtml" -->, thus having an account with the Exchange in which the Competition is ran is a requirement for participating.</p>
 
@@ -128,7 +127,7 @@
 
                         <p>Each Team trades with their own funds within their own accounts at the exchange. Teams are fully responsible for the trading they do.</p>
 
-                        <p>In alpha-stage Competitions, each Algobot is allowed to trade up to 0.001 BTC Initial Capital.</p>
+                        <p>In alpha-stage Competitions, each Algorithm is allowed to trade up to 0.001 BTC Initial Capital.</p>
 
                         <blockquote>
                             <p>In order to avoid unnecessary risk, we highly recommend withdrawing excess funds from the exchange or creating a new account to use exclusiveley through the Superalgos Platform altogether. </p>
@@ -137,10 +136,10 @@
                     <div class="col-sm-6">
                         <h3 id="partialprofitstrading">Partial Profits Trading</h3>
 
-                        <p>Algobots are allowed to trade with partial profits. This is the only way in which they can legally trade with more than the Initial Capital specified above. Thus, the actual limit is 0.001 BTC + Partial Profits. The platform serves available balances that your Algobot can check in order to make sure the limit is not exceeded.</p>
+                        <p>Algorithms are allowed to trade with partial profits. This is the only way in which they can legally trade with more than the Initial Capital specified above. Thus, the actual limit is 0.001 BTC + Partial Profits. The platform serves available balances that your Algorithm can check in order to make sure the limit is not exceeded.</p>
 
                         <blockquote>
-                            <p>Algobots attempting to trade more than the allowed limit generate an exception that needs to be handled.</p>
+                            <p>Algorithms attempting to trade more than the allowed limit generate an exception that needs to be handled.</p>
                         </blockquote>
 
                         <h3 id="fees">Fees</h3>
@@ -192,7 +191,7 @@
 
                         <h3 id="formula">Unhandled Errors</h3>
 
-                        <p>If an Algobot stops running due to an unhandled error, it will not be restarted to continue the Competition. Its final score will be the one achieved during the last execution. If positions are left open upon an unhandled error, they shall remain open for the purpose of the Competition, which may affect the final ranking of the corresponding Algobot.</p>
+                        <p>If an Algorithm stops running due to an unhandled error, it will not be restarted to continue the Competition. Its final score will be the one achieved during the last execution. If positions are left open upon an unhandled error, they shall remain open for the purpose of the Competition, which may affect the final ranking of the corresponding Algorithm.</p>
                     </div>
 
                 </div>
@@ -213,19 +212,19 @@
 
                         <h3 id="_example_">The Ranking Explained</h3>
 
-                        <p>The result of the Competition is determined by the position of each Algobot in the ranking at the end of the Competition. For example:</p>
+                        <p>The result of the Competition is determined by the position of each Algorithm in the ranking at the end of the Competition. For example:</p>
 
-                        <p><strong>Algobot A ends up with 0.0015 BTC</strong></p>
+                        <p><strong>Algorithm A ends up with 0.0015 BTC</strong></p>
 
-                        <p>Algobot A ROI = (0.0015 - 0.001) / 0.001 * 100% = <strong>50%</strong></p>
+                        <p>Algorithm A ROI = (0.0015 - 0.001) / 0.001 * 100% = <strong>50%</strong></p>
 
-                        <p><strong>Algobot B ends up with 0.0005 BTC</strong></p>
+                        <p><strong>Algorithm B ends up with 0.0005 BTC</strong></p>
 
-                        <p>Algobot B ROI = (0.00075 - 0.001) / 0.001 * 100% = <strong>-25%</strong></p>
+                        <p>Algorithm B ROI = (0.00075 - 0.001) / 0.001 * 100% = <strong>-25%</strong></p>
 
-                        <p><strong>Algobot C ends up with 0.001 BTC</strong></p>
+                        <p><strong>Algorithm C ends up with 0.001 BTC</strong></p>
 
-                        <p>Algobot B ROI = (0.001 - 0.001) / 0.001 * 100% = <strong>0%</strong></p>
+                        <p>Algorithm B ROI = (0.001 - 0.001) / 0.001 * 100% = <strong>0%</strong></p>
                     </div>
 
                     <div class="col-sm-6">
@@ -236,7 +235,7 @@
                                 <thead>
                                     <tr>
                                         <th>Position</th>
-                                        <th>Algobot</th>
+                                        <th>Algorithm</th>
                                         <th>ROI</th>
                                     </tr>
                                 </thead>

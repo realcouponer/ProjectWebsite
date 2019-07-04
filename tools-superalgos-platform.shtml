@@ -91,13 +91,7 @@
                         <h1 class="sc_title sc_title_underline">Current Features &amp; Limitations</h1>
                         <h3>This is a pre-release in alpha stage. As such, you should expect rough edges and several blatant limitations on top of the expected instability you may find in a product that is still in development.</h3>
                         <br />
-                        <div class="polaroid">
-                            <a>
-                                <img src="img/captures/play.png" style="background: url(img/captures/demo.png); background-size: cover; "
-                                     onmouseover="this.src='img/captures/Demo.gif'"
-                                     onmouseout="this.src='img/captures/play.png'" />
-                            </a>
-                        </div>
+                        <iframe width="1120" height="630" src="https://www.youtube.com/embed/euBCSH_5t9o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="row">
@@ -121,10 +115,9 @@
                             <li><p>We have enabled the BTC-USDT market only. Other markets will follow later on.</p></li>
                             <li><p>Very few indicators are available. At this point in time we have: candles, volumes, Bollinger Bands and Percentage Bollinger Bands.</p></li>
                             <li><p>The user experience is basic, as well as documentation. We expect to improve UX with your feedback over time.</p></li>
-                            <li><p>By default, all trades are of the same size (capital). You may find a workaround in the documentation.</p></li>
                             <li><p>There is no fine control over execution of orders. All orders are market orders.</p></li>
-                            <li><p>The demo hosted by the project is just that: a demo. You may use the demo to trade live, but bear in mind the infrastructure on which the demo is running is not intended for the high availability, stability or scalability that you would expect from an online service. The demo is not an online service.</p></li>
-                            <li><p>To trade live with significant capital, we recommend you wait for the pre-release of the <!--#include file="tooltips/superalgos-node.shtml" --> (alpha-stage pre-release ETA July 2019). In the meantime, the demo should be good enough for getting acquainted with the platform and start building your strategies.</p></li>
+                            <li><p>The demo hosted by the project is just that: a demo. Do not use the demo to trade live. The infrastructure on which the demo is running is not intended for the high availability, stability, scalability or security that you would expect from an online service. The demo is not an online service.</p></li>
+                            <li><p>To trade live, we recommend you deploy you own instance of the <!--#include file="tooltips/superalgos-node.shtml" -->.</p></li>
                         </ul>
                     </div>
                 </div>
