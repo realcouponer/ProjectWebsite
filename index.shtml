@@ -341,11 +341,10 @@
                                 <div id="accordion_left_15" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
                                         <div class="col-sm-6">
-                                            <p>The Superalgos Node is a standalone version of the <!--#include file="tooltips/superalgos-platform.shtml" --> carrying the <!--#include file="tooltips/strategizer.shtml" -->, which will be made available for download to be deployed on self-hosted servers, removing the requirement to trust us with your Exchange API Keys.  </p>                                          <p>Within the Superalgos Node, users may live-trade with the strategies tuned through the GUI in a fully automated fashion&mdash;autopilot&mdash;or in an assisted mode.</p>
+                                            <p>The Superalgos Node is a standalone version of the <!--#include file="tooltips/superalgos-platform.shtml" --> ready for deployment on users' own machines, hence eliminating the requirement for trusting third parties with Exchange API Keys or <!--#include file="tooltips/strategies.shtml" -->.</p>
                                         </div>
                                         <div class="col-sm-6">
-                                            <p>Also to be released with the node, a mobile app acting as the users' cockpit will be connected to the <!--#include file="tooltips/algorithm.shtml" --> placing the orders, allowing traders to confirm or decline signals before execution, or even place manual orders.</p>
-                                            <p>In future iterations this app will be used as a tool for the trader to teach the bot new conditions or refine the existing strategies at runtime.</p>
+                                            <p>Within the Superalgos Node, users may trade live with the Algorithms resulting from the Strategies designed within the Superalgos Platform in a fully automated fashion.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -360,7 +359,7 @@
                                 <div id="accordion_left_16" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
                                         <div class="col-sm-6">
-                                            <p>The <!--#include file="tooltips/superalgos-project.shtml" --> aims to issue ALGO Tokens making them available to the public by means of rolling Micro Exchange Offerings (MEO), through a network of partner <!--#include file="tooltips/exchanges.shtml" -->. Offerings will happen as each Exchange is on boarded to start its own <!--#include file="tooltips/superalgos-competitions.shtml" -->.</p>
+                                            <p>The <!--#include file="tooltips/superalgos-project.shtml" --> aims to issue <!--#include file="tooltips/algo-tokens.shtml" --> making them available to the public by means of rolling Micro Exchange Offerings (MEO), through a network of partner <!--#include file="tooltips/exchanges.shtml" -->. Offerings will happen as each Exchange is on boarded to start its own <!--#include file="tooltips/superalgos-competitions.shtml" -->.</p>
                                         </div>
                                         <div class="col-sm-6">
                                             <p>This distribution strategy intends to serve Exchange's clients as they start using the <!--#include file="tooltips/superalgos-platform.shtml" -->, satisfying the organic demand for the <!--#include file="tooltips/algo-token.shtml" --> to access <!--#include file="tooltips/superalgos-network.shtml" --> services. </p>

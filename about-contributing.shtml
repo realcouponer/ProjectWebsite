@@ -200,14 +200,77 @@
                         <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul class="columnsAnimate">
-                                    <li class="sc_pricing_data sc_pricing_title">Category 10</li>
+                                    <li class="sc_pricing_data sc_pricing_title">Category 30</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Social Media</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Design and run Twitter and Facebook campaigns and communication, in coordination with the Marketing Direction, undertaking responsibility over people's engagement and social media reach growth.</li>
+                                    <li class="sc_pricing_data">3,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(in first two years)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 20</li>
                                     <li class="sc_pricing_data sc_pricing_price">
                                         <div class="sc_price_item">
                                             <div class="sc_price_money">Telegram Group</div>
                                         </div>
                                     </li>
-                                    <li class="sc_pricing_data sc_price_item_long">Community management over the official Telegram Group. Undertake responsibility over people's engagement and group growth.</li>
-                                    <li class="sc_pricing_data">1,000,000 ALGO</li>
+                                    <li class="sc_pricing_data sc_price_item_long">Community management over the official Telegram Group, undertaking responsibility over people's engagement, group growth, basic support and liaison with Team Members. Several positions open to cover different time zones.</li>
+                                    <li class="sc_pricing_data">2,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(in first two years)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 20</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Reddit</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Undertake responsibility on official communication via Reddit, promoting the project, activities and discussing news with the community.</li>
+                                    <li class="sc_pricing_data">2,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">(in first two years)</li>
+                                    <li class="sc_pricing_data">
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
+                            <div class="sc_pricing_columns">
+                                <ul class="columnsAnimate">
+                                    <li class="sc_pricing_data sc_pricing_title">Category 20</li>
+                                    <li class="sc_pricing_data sc_pricing_price">
+                                        <div class="sc_price_item">
+                                            <div class="sc_price_money">Bitcoin Talk</div>
+                                        </div>
+                                    </li>
+                                    <li class="sc_pricing_data sc_price_item_long">Undertake responsibility on official communication via bitcointalk.org, promoting the project, activities and discussing news with the community.</li>
+                                    <li class="sc_pricing_data">2,000,000 ALGO</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="sc_button margin_bottom_mini squareButton global big">
@@ -281,7 +344,7 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-6 col-md-12 sc_pricing_dark sc_pricing_table">
+                        <div class="col-sm-6 col-md-3 sc_pricing_dark sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul>
                                     <li class="sc_pricing_data sc_pricing_title">Category 10</li>
@@ -337,27 +400,6 @@
                         <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul class="columnsAnimate">
-                                    <li class="sc_pricing_data sc_pricing_title">Category 10</li>
-                                    <li class="sc_pricing_data sc_pricing_price">
-                                        <div class="sc_price_item">
-                                            <div class="sc_price_money">Business Plan</div>
-                                        </div>
-                                    </li>
-                                    <li class="sc_pricing_data sc_price_item_long">Craft and maintain a business plan along the lifecycle of the project.</li>
-                                    <li class="sc_pricing_data">1,000,000 ALGO</li>
-                                    <li class="sc_pricing_data">(in first two years)</li>
-                                    <li class="sc_pricing_data">
-                                        <span class="sc_button margin_bottom_mini squareButton global big">
-                                            <a href="contacts.shtml" class="">Apply!</a>
-                                        </span>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
-                            <div class="sc_pricing_columns">
-                                <ul>
                                     <li class="sc_pricing_data sc_pricing_title">Category 50</li>
                                     <li class="sc_pricing_data sc_pricing_price">
                                         <div class="sc_price_item">
@@ -368,8 +410,8 @@
                                     <li class="sc_pricing_data">5,000,000 ALGO</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
-                                        <span class="margin_bottom_mini squareButton global big">
-                                            <a>Assigned</a>
+                                        <span class="sc_button margin_bottom_mini squareButton global big">
+                                            <a href="contacts.shtml" class="">Apply!</a>
                                         </span>
                                     </li>
                                 </ul>
@@ -397,7 +439,7 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-6 col-md-12 sc_pricing_light sc_pricing_table">
+                        <div class="col-sm-6 col-md-3 sc_pricing_light sc_pricing_table">
                             <div class="sc_pricing_columns">
                                 <ul>
                                     <li class="sc_pricing_data sc_pricing_title">Category 50</li>

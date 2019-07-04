@@ -189,17 +189,17 @@
                     <div class="col-sm-6">
                         <ul>
                             <li><p>Each <!--#include file="tooltips/exchange.shtml" --> runs its own league.</p></li>
-                            <li><p>Competition events across all participating Exchanges run exactly at the same datetime. This helps competing Algo-Makers to plan ahead and participate in multiple Competitions across different Exchanges.</p></li>
+                            <li><p>Competition events across all participating Exchanges run exactly at the same datetime. This helps competing <!--#include file="tooltips/algo-makers.shtml" --> to plan ahead and participate in multiple Competitions across different Exchanges.</p></li>
                             <li><p>It also allows the audience to enjoy Competitions and keep track of them across different Exchanges.<p></li>
-                            <li><p>New Community members have free access to a wealth of knowledge and trading technology.</p></li>
-                            <li><p>Adding value by improving the ecosystem's <!--#include file="tooltips/algorithms.shtml" --> is consequently incentivized. Competition winners get to multiply their capital by a factor of e.g. 10X in the 9th Division, 5X in the 8th Division, 3X in the 7th, 3X in the 6th and 2X in Major Leagues. </p></li>
+                            <li><p>Community members gain free access to a wealth of knowledge and trading technology, including state-of-the-art <!--#include file="tooltips/strategies.shtml" --> and <!--#include file="tooltips/algorithms.shtml" -->.</p></li>
                         </ul>
                     </div>
                     <div class="col-sm-6">
                         <ul>
+                            <li><p>Adding value by improving the ecosystem's Algorithms is decisively incentivized. Competition winners may multiply their capital several times depending on the division they chose to compete in.</p></li>
+
                             <li><p>Prize money for the winner of each division added to the original capital requirement is enough to meet the capital requirement of the immediate higher division, promoting mobility across the league.</p></li>
-                            <li><p>At the end of every Competition, the winning Algorithms are open-sourced within the <!--#include file="tooltips/community.shtml" --> in order to enable the upgrade of the ecosystem's intelligence. This allows <!--#include file="tooltips/algo-makers.shtml" --> to use the state-of-the-art as a starting point for building the next generation of Algorithms for the next Competitions to come. </p></li>
-                            <li><p>The ecosystem is based on a comprehensive evolutionary model involving a form of artificial life by which Algorithms become autonomous living organisms. Algorithms need to obtain ALGO from the underlying economic ecosystem&mdash;by selling data products and trading services&mdash;in order to stay alive. Algorithms in the Superalgos Platform become <!--#include file="tooltips/financial-beings.shtml" -->.</p></li>
+                            <li><p>At the end of every Competition, the winning Algorithms are open-sourced within the Community in order to enable the upgrade of the ecosystem's intelligence. This allows Algo-Makers to use the state-of-the-art as a starting point for building the next generation of Algorithms for the next Competitions to come. </p></li>
                         </ul>
                     </div>
                 </div>
