@@ -53,9 +53,12 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">Superalgos Platform Imminent Pre-Release</h1>
-                        <h3>We strive to help you automate your crypto-trading, even if you have virtually zero coding skills. <br />
-                        Our solution builds on a powerful trading protocol, features a trustless deployment and is free.</h3>
+                        <h3>
+                            We strive to help you automate your crypto-trading, even if you have virtually zero coding skills. <br />
+                            Our solution builds on a powerful trading protocol, features a trustless deployment and is free.
+                        </h3>
                         <br />
+                        <iframe width="1120" height="630" src="https://www.youtube.com/embed/uhzflZWB7dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                     <div class="col-sm-6">
                         <p>The short-term focus of the <!--#include file="tooltips/superalgos-project.shtml" --> is building and freely distributing a comprehensive set of tools to help traders automate their work. The development of such tools constitutes the ground work that will enable the project's <a href="about-vision-mission-culture.shtml">long-term vision</a>.</p>
@@ -91,7 +94,6 @@
                         <h1 class="sc_title sc_title_underline">Current Features &amp; Limitations</h1>
                         <h3>This is a pre-release in alpha stage. As such, you should expect rough edges and several blatant limitations on top of the expected instability you may find in a product that is still in development.</h3>
                         <br />
-                        <iframe width="1120" height="630" src="https://www.youtube.com/embed/euBCSH_5t9o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="row">
