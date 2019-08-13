@@ -49,8 +49,10 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
-                                                <h2><strong>HELP EVOLVE TRADING INTELLIGENCE</strong><br />
-                                                Take part in an evolutionary model to increase the Community's intelligence.</h2>
+                                                <h2>
+                                                    <strong>HELP EVOLVE TRADING INTELLIGENCE</strong><br />
+                                                    Take part in an evolutionary model to increase the Community's intelligence.
+                                                </h2>
                                             </div>
                                         </div>
                                     </div>
@@ -61,14 +63,43 @@
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
-                                                <h2><strong>MAKE INTELLIGENCE ACCESSIBLE</strong><br />
-                                                Rent your Algorithms over a decentralized, permissionless, trustless network.</h2>
+                                                <h2>
+                                                    <strong>MAKE INTELLIGENCE ACCESSIBLE</strong><br />
+                                                    Rent your Algorithms over a decentralized, permissionless, trustless network.
+                                                </h2>
                                             </div>
                                         </div>
                                     </div>
                                 </li>
                             </ul>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="pre-release" class="green_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-1">
+                    </div>
+                    <div class="col-sm-10">
+                        <blockquote>
+                            <h1 class="text-center">Superalgos Desktop App Pre-Release</h1>
+
+                            <h3>
+                                We strive to help you automate your crypto-trading, even if you have virtually zero coding skills. Our solution builds on a powerful trading protocol, features a trustless deployment and is free.
+                            </h3>
+
+                            <div class="text-center">
+                                <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                    <a href="tools-superalgos-platform.shtml">Learn More &amp; Download</a>
+                                </span>
+                            </div>
+
+                        </blockquote>
+                    </div>
+                    <div class="col-sm-1">
                     </div>
                 </div>
             </div>
@@ -83,11 +114,11 @@
                     </div>
                     <div class="col-sm-12">
                         <ul>
-                            <li><h3>We are an open collaboration of traders, developers, entrepreneurs and experts in various fields.</h3></li>
+                            <li><h3>We are an <strong>open collaboration</strong> of traders, developers, entrepreneurs and experts in various fields.</h3></li>
                             <li><h3>Our long-term vision is a global <strong>collective trading intelligence</strong> at the service of all people.</h3></li>
-                            <li><h3>Our network shall be decentralized, permissionless, open source and <strong>trustless</strong>.</h3></li>
-                            <li><h3><span class="red_text">Our short-term focus is building tools to automate trading, which shall be <strong>free</strong> to use.</span></h3></li>
-                            <li><h3>Long-term goals are <strong>evolving</strong> trading intelligence and making it <strong>accessible</strong> to all people.</h3></li>
+                            <li><h3>Our network is decentralized, permissionless, open source and <strong>trustless</strong>.</h3></li>
+                            <li><h3><span class="red_text">Our short-term focus is building tools to automate trading, which are <strong>free</strong> to use.</span></h3></li>
+                            <li><h3>Long-term goals are <strong>evolving trading intelligence and making it accessible</strong> to all people.</h3></li>
                         </ul>
                     </div>
                 </div>
@@ -117,7 +148,7 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title ">Stage 1: Automating Trading</h1>
-                        <h5 class="sc_title sc_title_underline">We strive to help you automate your crypto-trading<br /><br /><span class="red_text">Superalgos Platform, Imminent Pre-Release</span></h5>
+                        <h5 class="sc_title sc_title_underline">We strive to help you automate your crypto-trading<br /><br /><span class="red_text">Superalgos Desktop App Pre-Release</span></h5>
                     </div>
                     <div class="col-sm-12">
                         <ul>
@@ -135,7 +166,7 @@
                 </div>
                 <div class="text-center">
                     <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                        <a href="tools-superalgos-platform.shtml">Learn More</a>
+                        <a href="tools-superalgos-platform.shtml">Learn More &amp; Download</a>
                     </span>
                 </div>
             </div>
@@ -303,20 +334,20 @@
                             <div class="sc_accordion_item panel row">
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_13">
-                                        <strong>Superalgos Platform</strong>: Imminent Pre-Release!
+                                        <strong>Superalgos Desktop App</strong>: Pre-Released!
                                     </a>
                                 </h4>
                                 <div id="accordion_left_13" class="panel-collapse collapse in">
                                     <div class="sc_accordion_content">
                                         <div class="col-sm-6">
-                                            <p>Superalgos is pre-releasing a suite of open source tools and the infrastructure that allows traders to automate <!--#include file="tooltips/strategies.shtml" --> and deploy them as <!--#include file="tooltips/algorithms.shtml" --> which may trade live, directly within the user account at the <!--#include file="tooltips/exchange.shtml" -->.</p>
-                                            <p>This is a pre-release in alpha stage. As such, you should expect rough edges and several blatant limitations on top of the expected instability you may find in a product that is still in development.</p>
+                                            <p>Superalgos has pre-released a suite of open source tools and the infrastructure that allows traders to automate <!--#include file="tooltips/strategies.shtml" --> and deploy them as <!--#include file="tooltips/algorithms.shtml" --> which may trade live, directly within the user account at the <!--#include file="tooltips/exchange.shtml" -->.</p>
+                                            <p>This is a pre-release in alpha stage. As such, you should expect rough edges and several limitations on top of the expected instability you may find in a product that is still in development.</p>
                                             <p>The main features are:</p>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li><p>Free to use.</p></li>
-                                                <li><p>Trustless deployment.</p></li>
+                                                <li><p>Trustless deployment, with easy installation in your own machine.</p></li>
                                                 <li><p>Virtually no coding required.</p></li>
                                                 <li><p>Visually debug and optimize Strategies.</p></li>
                                                 <li><p>Backtest and forward test simulation plotting trades over the charts.</p></li>
@@ -325,7 +356,7 @@
                                         </div>
                                         <div class="col-sm-12 text-center">
                                             <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                <a href="tools-superalgos-platform.shtml" rel="nofollow">Learn More</a>
+                                                <a href="tools-superalgos-platform.shtml" rel="nofollow">Learn More &amp; Download</a>
                                             </span>
                                         </div><br />&nbsp;
                                     </div>
