@@ -59,12 +59,8 @@
                         </h3>
                         <br />
                         <iframe width="1120" height="630" src="https://www.youtube.com/embed/uhzflZWB7dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>The short-term focus of the <!--#include file="tooltips/superalgos-project.shtml" --> is building and freely distributing a comprehensive set of tools to help traders automate their work. The development of such tools constitutes the ground work that will enable the project's <a href="about-vision-mission-culture.shtml">long-term vision</a>.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Superalgos in pre-releasing an early set of tools in alpha stage&mdash;the Superalgos Desktop App&mdash;in the hope that early adopters will help us shape and polish the software, evolving it into a robust product. Join our <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Telegram Community</a> to get in touch with other users and to offer your feedback! </p>
+
+                        <h3>Superalgos is pre-releasing an early alpha-stage version of the Superalgos Desktop App, in the hope that early adopters will help us shape the software and evolve it into a robust product. <br/><br/>Join our <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Telegram Community</a> to get in touch with other users and to offer your feedback! </h3>
                     </div>
                 </div>
             </div>
@@ -79,13 +75,13 @@
                         <blockquote>
                             <h1 class="text-center">Downloads</h1>
 
-                            <p>Always download from the official <a href="https://github.com/Superalgos/Releases/releases" rel="nofollow" rel="noopener" target="_blank">Releases</a> repository.</p>
+                            <p>Always download from the official <a href="https://github.com/Superalgos/DesktopApp/releases" rel="nofollow" rel="noopener" target="_blank">releases</a> page in the DesktopApp repository.</p>
 
                         </blockquote>
                         <blockquote>
                             <h1 class="text-center">Documentation &amp; Tutorials</h1>
 
-                            <p>Installation instructions and basic user documentation may be found in the <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md" rel="nofollow" rel="noopener" target="_blank">Desktop App README</a> file.</p>
+                            <p>Installation instructions and documentation may be found in the <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md" rel="nofollow" rel="noopener" target="_blank">Desktop App README</a>.</p>
 
                             <p>Fundamental reading on the conceptual framework for automating your Trading System:</p>
 
@@ -125,27 +121,27 @@
                     <div class="col-sm-6">
                         <h3>Current Features</h3>
                         <ul>
-                            <li><p>You may create any number of <!--#include file="tooltips/strategies.shtml" --> by entering conditions and formulas via a web application running on your browser. The set of Strategies constitute your Trading System.</p></li>
-                            <li><p>Virtually no coding skills are required. You define conditions and formulas with simple statements... <br /><i>(e.g. candle.close < bollingerBand.movingAverage)</i></p></li>
-                            <li><p>You may start out with any of the Strategies shared at the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Telegram Community</a>, or from scratch.</p></li>
+                            <li><p>You may create any number of <!--#include file="tooltips/strategies.shtml" --> by entering conditions and formulas via a web application. The set of Strategies constitute your Trading System.</p></li>
+                            <li><p>Virtually no coding skills are required. You define conditions and formulas with simple statements... <br /><i>(e.g. <code>candle.close < bollingerBand.movingAverage</code>)</i></p></li>
+                            <li><p>You may start with any of the Strategies shared at the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Telegram Community</a>, or from scratch.</p></li>
                             <li><p>You may run live simulations of your Strategies, both with historic and up-to-date data. All of the actions taken by each Strategy may be viewed in a graphical interface right over the charts, along with indicators and market data.</p></li>
-                            <li><p>The Strategy simulation may be calculated and visualized in any available time periods (5, 10, 15 and 60 minutes)</p></li>
+                            <li><p>The Strategy simulation may be calculated and visualized in any of the available time periods (1, 2, 3, 4, 5, 10, 15, 20, 30, 40 and 45 minutes, as well as 1, 2, 3, 4, 6, 8, 12 and 24 hours)</p></li>
                             <li><p>You may visually debug and optimize your Strategies, navigating through every decision made by each Strategy in a visual setting, closely scrutinizing what conditions or formulas may be optimized. You may later go back and edit each Strategy accordingly. Once edited, you may save and recalculate the simulation (takes seconds to simulate).</p></li>
                             <li><p>You may share Strategies or even bits of Strategies with your friends, and participate in group efforts to improve the collective results.</p></li>
-                            <li><p>Once you are happy with your Trading System, you may deploy it as a trading bot and trade live, right within the app.</p></li>
-                            <li><p>You may run the app on your own machine or on a VPS (a server in the cloud). Installation is as simple as it gets: download a .zip file, decompress and run an executable file (.exe). The app will open up in your browser.</p></li>
+                            <li><p>Once you are happy with your Trading System, you may deploy it as a trading bot and trade live, right within the app, with a single click of a button.</p></li>
+                            <li><p>You may run the app on your machine or a VPS (a server in the cloud). Installation is as simple as it may be: download a .zip file, decompress and run an executable file (.exe). The app will open in your browser.</p></li>
                         </ul>
                     </div>
                     <div class="col-sm-6">
                         <h3>Current Limitations</h3>
                         <ul>
-                            <li><p>Only latest version of Chrome has been tested.</p></li>
+                            <li><p>Only the latest version of Chrome is currently being tested.</p></li>
                             <li><p>The App is exchange-agnostic, but only Poloniex is enabled at the moment. You may create Strategies and use simulations without a Poloniex account, but will need an account to trade live. Other exchanges will follow later on.</p></li>
                             <li><p>We have enabled the BTC-USDT market only. Other markets will follow later on.</p></li>
-                            <li><p>Very few indicators are available. At this point in time we have: candles, volumes, Bollinger Bands and Percentage Bollinger Bands. Other indicators will follow later on.</p></li>
+                            <li><p>Very few indicators are available. At this point we have: candles, volumes, Bollinger Bands and Percentage Bollinger Bands. Other indicators will follow later on.</p></li>
                             <li><p>The user experience is basic, as well as documentation. We expect to improve UX with your feedback over time.</p></li>
-                            <li><p>The interface operation / navigation is designed mostly for mouse use. Keyboard and pads do not offer a comfortable experience yet.</p></li>
-                            <li><p>There is no advanced control over execution of orders <i>(e.g. no order fragmentation)</i>. All orders are limit orders.</p></li>
+                            <li><p>The interface operation/navigation is designed mostly for mouse use. Keyboard and pads do not offer a comfortable experience yet.</p></li>
+                            <li><p>There is no advanced control over the execution of orders <i>(e.g. no order fragmentation)</i>. All orders are limit orders.</p></li>
                         </ul>
                     </div>
                 </div>
@@ -169,17 +165,17 @@
                         <p>We strive to enable all traders to automate their work, even those who can't code. As humans, we have a limited capacity to mentally process raw data, but we have evolved strong <strong>visual</strong> capabilities. Our tools are designed to take advantage of such evolutionary qualities.</p>
 
                         <h3>A Powerful Trading Protocol</h3>
-                        <p>The Superalgos Platform is built on the <!--#include file="tooltips/superalgos-protocol.shtml" -->, the implementation of a framework that standardizes the way in which a Trading System and its Strategies are described. The protocol enables Strategies to be portable and sets the foundation for developing all sorts of applications capable of working with all Strategies alike.</p>
+                        <p>The Superalgos Platform is built on the <!--#include file="tooltips/superalgos-protocol.shtml" -->, the implementation of a framework that standardizes how a Trading System and its Strategies are described. The protocol enables Strategies to be portable and sets the foundation for developing all sorts of applications capable of working with all Strategies alike.</p>
                     </div>
                     <div class="col-sm-6">
                         <h3>Open Source + Permissionless Innovation</h3>
-                        <p>The <!--#include file="tooltips/superalgos-platform.shtml" --> is open source software and the Superalgos Project is framed on a permissionless innovation paradigm. We expect these two principles combined will enable the growth of the <!--#include file="tooltips/community.shtml" --> and pave the way for the continuous development of the platform by an ever growing group of contributors.</p>
+                        <p>The <!--#include file="tooltips/superalgos-platform.shtml" --> is open-source software and the Superalgos Project is framed on a permissionless innovation paradigm. We expect these two principles combined will enable the growth of the <!--#include file="tooltips/community.shtml" --> and pave the way for the continuous development of the platform by an ever-growing group of contributors.</p>
 
                         <h3>Trustless Deployment</h3>
-                        <p>The Superalgos Platform is soon to be released as the <!--#include file="tooltips/superalgos-node.shtml" -->, a standalone package that will enable traders to deploy their own instance of the platform, removing all trust requirements. You shouldn't need to trust a third party with your funds, your exchange API keys or your Strategies.</p>
+                        <p>The Superalgos Desktop App is a standalone package that enables you to deploy your instance of the platform, removing all trust requirements. You shouldn't need to trust a third party with your funds, your exchange API keys or your Strategies.</p>
 
                         <h3>Collaborative Trading</h3>
-                        <p>The standardization provided by the Superalgos Protocol allows traders to seamlessly share Strategies, or their individual components. This design principle sets the foundations for the collaboration expected to emerge within the <!--#include file="tooltips/community.shtml" -->.</p>
+                        <p>The standardization provided by the Superalgos Protocol allows traders to seamlessly share Strategies or their components. This design principle sets the foundations for the collaboration expected to emerge within the <!--#include file="tooltips/community.shtml" -->.</p>
                     </div>
                 </div>
             </div>
@@ -199,14 +195,14 @@
                     </div>
                     <div class="col-sm-6">
                         <h3>Strategy Engine</h3>
-                        <p>The engine backtests and forward tests the instructions defined on its protocol file input. In coordination with the Strategy Executor, the engine can also live trade.</p>
+                        <p>The engine backtests and forward-tests the instructions defined on its protocol file input. In coordination with Strategy Executor, the engine can also live trade.</p>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-sm-6">
                         <h3>Superalgos Node</h3>
-                        <p>The node is standalone package of the Superalgos Platform that will soon be available for download, to be deployed in any computer or server. Deploying your own instance of the Superalgos Platform removes all trust requirements, in the sense that you will not need to share your API keys or <!--#include file="tooltips/strategies.shtml" --> with any third parties.</p>
+                        <p>The node is a subset of the Superalgos Platform that will allow <!--#include file="tooltips/node-operators.shtml" --> to provide platform and <!--#include file="tooltips/algorithms.shtml" --> hosting services. Traders who decide to trust Node Operators will have an alternative to managing their own VPS.</p>
                     </div>
                     <div class="col-sm-6">
                         <h3>Strategy Executor</h3>

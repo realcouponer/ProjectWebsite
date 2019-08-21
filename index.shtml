@@ -116,7 +116,7 @@
                         <ul>
                             <li><h3>We are an <strong>open collaboration</strong> of traders, developers, entrepreneurs and experts in various fields.</h3></li>
                             <li><h3>Our long-term vision is a global <strong>collective trading intelligence</strong> at the service of all people.</h3></li>
-                            <li><h3>Our network is decentralized, permissionless, open source and <strong>trustless</strong>.</h3></li>
+                            <li><h3>Our network is decentralized, permissionless, open-source and <strong>trustless</strong>.</h3></li>
                             <li><h3><span class="red_text">Our short-term focus is building tools to automate trading, which are <strong>free</strong> to use.</span></h3></li>
                             <li><h3>Long-term goals are <strong>evolving trading intelligence and making it accessible</strong> to all people.</h3></li>
                         </ul>
@@ -188,7 +188,7 @@
                         <ul>
                             <li><h3>A global collective creates <!--#include file="tooltips/algorithms.shtml" --> <span class="red_text">&rarr;</span> unparalleled potential for collective intelligence!</h3></li>
                             <li><h3>Algorithms participate in <!--#include file="tooltips/superalgos-competitions.shtml" --> for prize money and reputation <span class="red_text">&rarr;</span> shift in incentives!</h3></li>
-                            <li><h3>After each Competition, Algorithms are open-sourced <span class="red_text">&rarr;</span> collective knowledge levelled upwards!</h3></li>
+                            <li><h3>After each Competition, Algorithms are open-sourced <span class="red_text">&rarr;</span> collective knowledge leveled upwards!</h3></li>
                             <li><h3>The collective improves the best Algorithms and puts them to compete again <span class="red_text">&rarr;</span> rapid evolution!</h3></li>
                         </ul>
                     </div>
@@ -217,7 +217,7 @@
                         <ul>
                             <li><h3>Investors of all calibers may rent asset management services offered throughout the network.</h3></li>
                             <li><h3><!--#include file="tooltips/asset-managers.shtml" --> range from professionals to automated solutions renting intelligence too.</h3></li>
-                            <li><h3><!--#include file="tooltips/algo-makers.shtml" --> counting traders, developers and analysist are paid for the use of their <!--#include file="tooltips/algorithms.shtml" -->.</h3></li>
+                            <li><h3><!--#include file="tooltips/algo-makers.shtml" --> counting traders, developers, and analysist are paid for the use of their <!--#include file="tooltips/algorithms.shtml" -->.</h3></li>
                             <li><h3>Constant evolution guarantees the prompt replacement of Algorithms that lose their edge.</h3></li>
                         </ul>
                     </div>
@@ -237,10 +237,10 @@
                     </div>
                     <div class="col-sm-8">
                         <blockquote cite="#" class="sc_quote sc_quote_style_1">
-                            <p>We started out as a group of friends.</p>
+                            <p>We started as a group of friends.</p>
                             <p>We'd had enough of making millions for banks, and saw the opportunity to join forces to create technology that would benefit us instead.</p>
-                            <p>The core idea was to automate our own crypto-trading. Then people started joining us, and we realized we needed to broaden our focus...</p>
-                            <p>Our current mindset is to allow everyone to benefit, particularly those willing to participate in pooling the group's collective knowledge, and help build the tools to produce the most performant intelligence.</p>
+                            <p>The core idea was to automate our crypto-trading. Then people started joining us, and we realized we needed to broaden our focus...</p>
+                            <p>Our current mindset is to allow everyone to benefit, particularly those willing to participate in pooling the group's collective knowledge and help build the tools to produce the most performant intelligence.</p>
                             <p class="sc_quote_title">
                                 &mdash;Luis Molina, Founder
                             </p>
@@ -262,7 +262,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <h5 style="text-align: center; color:#fff;">Development Team</h5>
-                        <p>Superalgos is an open source project at an early stage, welcoming developers who wish to participate in realizing the project's <a href="about-vision-mission-culture.shtml">vision</a>. Technical contributions may earn you an <!--#include file="tooltips/algo-stream.shtml" --> and make you a <!--#include file="tooltips/team-member.shtml" -->.</p>
+                        <p>Superalgos is an open-source project at an early stage, welcoming developers who wish to participate in realizing the project's <a href="about-vision-mission-culture.shtml">vision</a>. Technical contributions may earn you an <!--#include file="tooltips/algo-stream.shtml" --> and make you a <!--#include file="tooltips/team-member.shtml" -->.</p>
                         <div class="text-center">
                             <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
                                 <a href="developers-join-dev-team.shtml">Learn More</a>
@@ -271,7 +271,7 @@
                     </div>
                     <div class="col-sm-6">
                         <h5 style="text-align: center; color:#fff;">Business &amp; Scientific Research Teams</h5>
-                        <p>We welcome experts in fields such as collective intelligence, social psychology, game theory, artificial intelligence, evolutionary theory, distributed governance, management, economics, communication, marketing, law and business.</p>
+                        <p>We welcome experts in fields such as collective intelligence, social psychology, game theory, artificial intelligence, evolutionary theory, distributed governance, management, economics, communication, marketing, law, and business.</p>
                         <div class="text-center">
                             <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
                                 <a href="about-contributing.shtml">Learn More</a>
@@ -347,7 +347,7 @@
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li><p>Free to use.</p></li>
-                                                <li><p>Trustless deployment, with easy installation in your own machine.</p></li>
+                                                <li><p>Trustless deployment, with easy installation in your machine.</p></li>
                                                 <li><p>Virtually no coding required.</p></li>
                                                 <li><p>Visually debug and optimize Strategies.</p></li>
                                                 <li><p>Backtest and forward test simulation plotting trades over the charts.</p></li>
