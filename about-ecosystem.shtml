@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>ALGO Ecosystem</title>
+    <title>Intelli Ecosystem</title>
     <meta name="description" content="An open, self-sustainable and self-regulating economic environment">
     <meta charset="utf-8">
 
@@ -52,18 +52,18 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">The ALGO Ecosystem</h1>
+                        <h1 class="sc_title">The Intelli Ecosystem</h1>
                         <h5 class="sc_title sc_title_underline">A permissionless business hub</h5>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The ALGO Ecosystem is the network of economic relationships embodied by the activities of numerous stakeholders of the <!--#include file="tooltips/superalgos-project.shtml" -->, participating in a joint business.</p>
+                        <p>The Intelli Ecosystem is the network of economic relationships embodied by the activities of numerous stakeholders of the <!--#include file="tooltips/superalgos-project.shtml" -->, participating in a joint business.</p>
                         <p>The main purpose of the ecosystem is to enable a decentralized, self-sustainable and self-regulating economic environment. Participants are exposed to business opportunities and the profits obtained through the ecosystem's output are systematically distributed and channeled to entities according to their individual contributions.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>The <!--#include file="tooltips/algo-token.shtml" --> is the medium of payment within the ecosystem, and the project's native token.</p>
-                        <p>In the long run, the output of the ALGO Ecosystem will be a <!--#include file="tooltips/marketplace.shtml" --> of automated asset management and trading services, to be exposed to the general public.</p>
+                        <p>The <!--#include file="tooltips/intelli-token.shtml" --> is the medium of payment within the ecosystem, and the project's native token.</p>
+                        <p>In the long run, the output of the Intelli Ecosystem will be a <!--#include file="tooltips/marketplace.shtml" --> of automated asset management and trading services, to be exposed to the general public.</p>
                         <p>The ecosystem is composed of several stakeholders. We shall briefly introduce them in order to provide context to deeper explanations coming afterwards.</p>
                     </div>
                 </div>
@@ -126,7 +126,7 @@
                         <h2>Exchanges</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>All crypto exchanges offering APIs to trade on their listed markets are able to participate in the <!--#include file="tooltips/algo-ecosystem.shtml" -->. The Superalgos Platform is exchange-agnostic.</p>
+                        <p>All crypto exchanges offering APIs to trade on their listed markets are able to participate in the <!--#include file="tooltips/intelli-ecosystem.shtml" -->. The Superalgos Platform is exchange-agnostic.</p>
                         <p>Exchanges play a crucial role in the ecosystem as they are the actor hosting and incentivizing <!--#include file="tooltips/superalgos-competitions.shtml" -->&mdash;the ultimate driver of evolution&mdash;by offering significant prize money to winners.</p>
                     </div>
                     <div class="col-sm-6">

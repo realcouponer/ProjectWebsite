@@ -12,25 +12,25 @@
                                                 <a href="social-constitution.shtml" class="sf-with-ul">Constitution</a>
                                             </li>
                                             <li style="white-space:nowrap">
-                                                <a href="social-algo-macroeconomic-guidance.shtml" class="sf-with-ul">ALGO Macroeconomics Guidance</a>
+                                                <a href="social-intelli-macroeconomic-guidance.shtml" class="sf-with-ul">Intelli Macroeconomics Guidance</a>
                                             </li>
                                             <li>
-                                                <a href="social-algo-governance-charter.shtml" class="sf-with-ul">ALGO Governance Charter</a>
+                                                <a href="social-intelli-governance-charter.shtml" class="sf-with-ul">Intelli Governance Charter</a>
                                             </li>
                                         </ul>
                                     </li>
 
                                     <li class="menu-item-has-children">
-                                        <a href="#">ALGO Token</a>
+                                        <a href="#">Intelli Token</a>
                                         <ul>
                                             <li>
-                                                <a href="about-algo-overview.shtml" class="sf-with-ul">Overview</a>
+                                                <a href="about-intelli-overview.shtml" class="sf-with-ul">Overview</a>
                                             </li>
                                             <li>
-                                                <a href="about-algo-flow.shtml" class="sf-with-ul">Economic Flow</a>
+                                                <a href="about-intelli-flow.shtml" class="sf-with-ul">Economic Flow</a>
                                             </li>
                                             <li>
-                                                <a href="about-algo-streams.shtml" class="sf-with-ul">ALGO Streams</a>
+                                                <a href="about-intelli-streams.shtml" class="sf-with-ul">Intelli Streams</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -39,7 +39,7 @@
                                         <a href="#">Business Overview</a>
                                         <ul>
                                             <li>
-                                                <a href="about-ecosystem.shtml" class="sf-with-ul">ALGO Ecosystem</a>
+                                                <a href="about-ecosystem.shtml" class="sf-with-ul">Intelli Ecosystem</a>
                                             </li>
                                             <li>
                                                 <a href="about-network.shtml" class="sf-with-ul">Superalgos Network</a>
@@ -86,7 +86,7 @@
                                 <a href="#">TOOLS</a>
                                 <ul>
                                     <li>
-                                        <a href="tools-superalgos-platform.shtml"><nobr>Superalgos Platform</nobr></a>
+                                        <a href="tools-superalgos-desktop-app.shtml"><nobr>Superalgos Desktop App</nobr></a>
                                     </li>
                                 </ul>
                             </li>

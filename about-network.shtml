@@ -53,7 +53,7 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">The Superalgos Network</h1>
-                        <h3><strong>Alpha version ETA: Q4, 2019</strong></h3>
+                        <h3><strong>Alpha version ETA: Q3, 2020</strong></h3>
                         <h3>A P2P Network consisting of <!--#include file="tooltips/superalgos-nodes.shtml" --> running both part of the <!--#include file="tooltips/superalgos-platform.shtml" --> and <!--#include file="tooltips/algorithms.shtml" -->.</h3>
                     </div>
                 </div>
@@ -65,7 +65,7 @@
                     </div>
                     <div class="col-sm-6">
                         <p>Superalgos Nodes work mostly on a stand-alone, independent basis in terms of their core activities, but may speak with each other to consume data and services from other nodes, and to relay relevant network information.</p>
-                        <p>The data and services an Algorithm running in a node can consume from other nodes may be black-boxed (offered on an input / output basis, without revealing how the output is obtained) and sold for micro fees, payable in <!--#include file="tooltips/algo-tokens.shtml" --> in between Algorithms. The transactions may include indicator data, signals or any form of trading intelligence that lives distributed across the network.</p>
+                        <p>The data and services an Algorithm running in a node can consume from other nodes may be black-boxed (offered on an input / output basis, without revealing how the output is obtained) and sold for micro fees, payable in <!--#include file="tooltips/intelli-tokens.shtml" --> in between Algorithms. The transactions may include indicator data, signals or any form of trading intelligence that lives distributed across the network.</p>
                     </div>
                 </div>
             </div>

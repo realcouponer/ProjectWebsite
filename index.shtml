@@ -262,7 +262,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <h5 style="text-align: center; color:#fff;">Development Team</h5>
-                        <p>Superalgos is an open-source project at an early stage, welcoming developers who wish to participate in realizing the project's <a href="about-vision-mission-culture.shtml">vision</a>. Technical contributions may earn you an <!--#include file="tooltips/algo-stream.shtml" --> and make you a <!--#include file="tooltips/team-member.shtml" -->.</p>
+                        <p>Superalgos is an open-source project at an early stage, welcoming developers who wish to participate in realizing the project's <a href="about-vision-mission-culture.shtml">vision</a>. Technical contributions may earn you an <!--#include file="tooltips/intelli-stream.shtml" --> and make you a <!--#include file="tooltips/team-member.shtml" -->.</p>
                         <div class="text-center">
                             <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
                                 <a href="developers-join-dev-team.shtml">Learn More</a>
@@ -366,16 +366,17 @@
                             <div class="sc_accordion_item panel row">
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_15" class="collapsed">
-                                        <strong>Superalgos Node</strong>: Alpha version ETA Q3 2019.
+                                        <strong>First Micro Exchange Offering</strong>: ETA Q3 2019.
                                     </a>
                                 </h4>
                                 <div id="accordion_left_15" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
                                         <div class="col-sm-6">
-                                            <p>The Superalgos Node is a standalone version of the <!--#include file="tooltips/superalgos-platform.shtml" --> ready for deployment on users' own machines, hence eliminating the requirement for trusting third parties with Exchange API Keys or <!--#include file="tooltips/strategies.shtml" -->.</p>
+                                            <p>The <!--#include file="tooltips/superalgos-project.shtml" --> aims to issue <!--#include file="tooltips/intelli-tokens.shtml" --> making them available to the public by means of rolling Micro Exchange Offerings (MEO), through a network of partner <!--#include file="tooltips/exchanges.shtml" -->. Offerings will happen as each Exchange is on boarded to start its own <!--#include file="tooltips/superalgos-competitions.shtml" -->.</p>
                                         </div>
                                         <div class="col-sm-6">
-                                            <p>Within the Superalgos Node, users may trade live with the Algorithms resulting from the Strategies designed within the Superalgos Platform in a fully automated fashion.</p>
+                                            <p>This distribution strategy intends to serve Exchange's clients as they start using the <!--#include file="tooltips/superalgos-platform.shtml" -->, satisfying the organic demand for the <!--#include file="tooltips/intelli-token.shtml" --> to access <!--#include file="tooltips/superalgos-network.shtml" --> services. </p>
+                                            <p>Our first Exchange Partner will be announced soon.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -384,58 +385,28 @@
                             <div class="sc_accordion_item panel row">
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_16" class="collapsed">
-                                        <strong>First Micro Exchange Offering</strong>: ETA Q3 2019.
+                                        <strong>Superalgos Node</strong>: Alpha version ETA Q1 2020.
                                     </a>
                                 </h4>
                                 <div id="accordion_left_16" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
                                         <div class="col-sm-6">
-                                            <p>The <!--#include file="tooltips/superalgos-project.shtml" --> aims to issue <!--#include file="tooltips/algo-tokens.shtml" --> making them available to the public by means of rolling Micro Exchange Offerings (MEO), through a network of partner <!--#include file="tooltips/exchanges.shtml" -->. Offerings will happen as each Exchange is on boarded to start its own <!--#include file="tooltips/superalgos-competitions.shtml" -->.</p>
+                                            <p>A software package containing the Superalgos Platform freely available for deployment on any server/computer. Entities running a Superalgos Node become Node Operators.</p>
                                         </div>
                                         <div class="col-sm-6">
-                                            <p>This distribution strategy intends to serve Exchange's clients as they start using the <!--#include file="tooltips/superalgos-platform.shtml" -->, satisfying the organic demand for the <!--#include file="tooltips/algo-token.shtml" --> to access <!--#include file="tooltips/superalgos-network.shtml" --> services. </p>
-                                            <p>Our first Exchange Partner will be announced soon.</p>
+                                            <p>Node Operators may run the software for their use or offer a hosted solution for users who chose to trust the operator with their Strategies/Algorithms and/or Exchange API Keys.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
 
                             <div class="sc_accordion_item panel row">
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_17" class="collapsed">
-                                        <strong>Superalgos Network</strong>: Alpha version ETA Q4 2019.
+                                        <strong>Superalgos Trading League</strong>: Alpha version ETA Q2 2020.
                                     </a>
                                 </h4>
                                 <div id="accordion_left_17" class="panel-collapse collapse">
-                                    <div class="sc_accordion_content">
-                                        <div class="col-sm-6">
-                                            <p>The Superalgos Network is a P2P Network consisting of <!--#include file="tooltips/superalgos-nodes.shtml" --> running both part of the <!--#include file="tooltips/superalgos-platform.shtml" --> and <!--#include file="tooltips/algorithms.shtml" -->.</p>
-                                            <p>The main purpose of the Superalgos Network is to remove trust requirements by allowing all stakeholders to run their own instances of the Superalgos Platform.</p>
-                                            <p>Anyone may download the Superalgos Node and deploy it in their own server, becoming a Node Operator.</p>
-                                            <p>Node Operators may run the software for their own use or offer a hosted solution for users who chose to trust the operator (with their Algorithms' code and / or Exchange API Keys).</p>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <p>Superalgos Nodes work mostly on a stand-alone, independent basis in terms of their core activities, but may speak with each other to consume data and services from other nodes, and to relay relevant network information.</p>
-                                            <p>The data and services offered among nodes may be black-boxed (offered on an input / output basis, without revealing how the output is obtained) and sold for micro fees, payable in <!--#include file="tooltips/algo-tokens.shtml" --> in between Algorithms. The transactions may include indicator data, signals or any form of trading intelligence that lives distributed across the network.</p>
-                                            <p>Exchanges shall give back discounts on transaction fees charged on the network's bundled trading volume, constituting a significant incentive to run Algorithms within the network instead of running them otherwise.</p>
-                                        </div>
-                                        <div class="col-sm-12 text-center">
-                                            <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                                <a href="about-network.shtml" rel="nofollow">Learn More</a>
-                                            </span>
-                                        </div><br />&nbsp;
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="sc_accordion_item panel row">
-                                <h4 class="sc_accordion_title">
-                                    <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_18" class="collapsed">
-                                        <strong>Superalgos Trading League</strong>: Alpha version ETA Q4 2019.
-                                    </a>
-                                </h4>
-                                <div id="accordion_left_18" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
                                         <div class="col-sm-6">
                                             <p>The <!--#include file="tooltips/superalgos-project.shtml" --> is developing the system to run an elaborate multi-league tournament designed to promote evolution towards trading increasingly larger value in assets.</p>
@@ -456,6 +427,34 @@
 
                             <div class="sc_accordion_item panel row">
                                 <h4 class="sc_accordion_title">
+                                    <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_18" class="collapsed">
+                                        <strong>Superalgos Network</strong>: Alpha version ETA Q3 2020.
+                                    </a>
+                                </h4>
+                                <div id="accordion_left_18" class="panel-collapse collapse">
+                                    <div class="sc_accordion_content">
+                                        <div class="col-sm-6">
+                                            <p>The Superalgos Network is a P2P Network consisting of <!--#include file="tooltips/superalgos-nodes.shtml" --> running both part of the <!--#include file="tooltips/superalgos-platform.shtml" --> and <!--#include file="tooltips/algorithms.shtml" -->.</p>
+                                            <p>The main purpose of the Superalgos Network is to remove trust requirements by allowing all stakeholders to run their own instances of the Superalgos Platform.</p>
+                                            <p>Anyone may download the Superalgos Node and deploy it in their own server, becoming a Node Operator.</p>
+                                            <p>Node Operators may run the software for their own use or offer a hosted solution for users who chose to trust the operator (with their Algorithms' code and / or Exchange API Keys).</p>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p>Superalgos Nodes work mostly on a stand-alone, independent basis in terms of their core activities, but may speak with each other to consume data and services from other nodes, and to relay relevant network information.</p>
+                                            <p>The data and services offered among nodes may be black-boxed (offered on an input / output basis, without revealing how the output is obtained) and sold for micro fees, payable in <!--#include file="tooltips/intelli-tokens.shtml" --> in between Algorithms. The transactions may include indicator data, signals or any form of trading intelligence that lives distributed across the network.</p>
+                                            <p>Exchanges shall give back discounts on transaction fees charged on the network's bundled trading volume, constituting a significant incentive to run Algorithms within the network instead of running them otherwise.</p>
+                                        </div>
+                                        <div class="col-sm-12 text-center">
+                                            <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                                <a href="about-network.shtml" rel="nofollow">Learn More</a>
+                                            </span>
+                                        </div><br />&nbsp;
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="sc_accordion_item panel row">
+                                <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_19" class="collapsed">
                                         <strong>Trading Intelligence Marketplace</strong>: Alpha version ETA Q4 2020.
                                     </a>
@@ -463,7 +462,7 @@
                                 <div id="accordion_left_19" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
                                         <div class="col-sm-6">
-                                            <p>The <!--#include file="tooltips/marketplace.shtml" --> is the business of the crowd creating and training <!--#include file="tooltips/algorithms.shtml" -->. In the beginning, the crowd is incentivized solely by <!--#include file="tooltips/superalgos-competition.shtml" --> dynamics, cash prizes and <!--#include file="tooltips/algo-tokens.shtml" -->.</p>
+                                            <p>The <!--#include file="tooltips/marketplace.shtml" --> is the business of the crowd creating and training <!--#include file="tooltips/algorithms.shtml" -->. In the beginning, the crowd is incentivized solely by <!--#include file="tooltips/superalgos-competition.shtml" --> dynamics, cash prizes and <!--#include file="tooltips/intelli-tokens.shtml" -->.</p>
                                         </div>
                                         <div class="col-sm-6">
                                             <p>However, as soon as the collective trading intelligence becomes marketable, the crowds' intelligence shall be open to the public, constituting a direct line of business for <!--#include file="tooltips/algo-makers.shtml" -->.</p>

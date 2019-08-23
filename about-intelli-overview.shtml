@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>ALGO Token Overview</title>
+    <title>Intelli Token Overview</title>
     <meta name="description" content="A medium of exchange and the energy necessary for financial life.">
     <meta charset="utf-8">
 
@@ -26,7 +26,7 @@
                         <div class="flexslider slider_height_max">
                             <ul class="slides text-center">
                                 <li>
-                                    <img src="img/photos/ALGO-energy-food-original.jpg" alt="">
+                                    <img src="img/photos/Intelli-energy-food-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
@@ -56,12 +56,12 @@
                         <br />
                     </div>
                     <div class="col-sm-6">
-                        <p>The ALGO Token is the medium of exchange within the <!--#include file="tooltips/algo-ecosystem.shtml" -->, by which stakeholders transfer value in exchange for products or services. Stakeholders may be humans or machines, and products and services range from trading <!--#include file="tooltips/superalgos-competitions.shtml" --> or actual automated trading services, to data products that trading <!--#include file="tooltips/algorithms.shtml" --> consume to make decisions.</p>
-                        <p>ALGO also represents a form of energy turning bots into beings with a <!--#include file="tooltips/financial-life.shtml" --> of their own. It represents a scarce resource&mdash;like food&mdash;in the financial biosphere which <!--#include file="tooltips/financial-beings.shtml" --> need to obtain in order to stay alive.</p>
+                        <p>The Intelli Token is the medium of exchange within the <!--#include file="tooltips/intelli-ecosystem.shtml" -->, by which stakeholders transfer value in exchange for products or services. Stakeholders may be humans or machines, and products and services range from trading <!--#include file="tooltips/superalgos-competitions.shtml" --> or actual automated trading services, to data products that trading <!--#include file="tooltips/algorithms.shtml" --> consume to make decisions.</p>
+                        <p>Intelli also represents a form of energy turning bots into beings with a <!--#include file="tooltips/financial-life.shtml" --> of their own. It represents a scarce resource&mdash;like food&mdash;in the financial biosphere which <!--#include file="tooltips/financial-beings.shtml" --> need to obtain in order to stay alive.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>The scarce nature of the ALGO Token along with its floating price in the markets turns this resource into a regulating feature of the environment in which financial beings live in.</p>
-                        <p>If ALGO price increases, the resource becomes more scarce, putting the population of financial beings under pressure, thus conditioning the life of the less efficient ones; in turn, decreasing ALGO prices favor the proliferation of financial beings, incentivizing <!--#include file="tooltips/algo-makers.shtml" --> to try out ideas in the wild.</p>
+                        <p>The scarce nature of the Intelli Token along with its floating price in the markets turns this resource into a regulating feature of the environment in which financial beings live in.</p>
+                        <p>If Intelli price increases, the resource becomes more scarce, putting the population of financial beings under pressure, thus conditioning the life of the less efficient ones; in turn, decreasing Intelli prices favor the proliferation of financial beings, incentivizing <!--#include file="tooltips/algo-makers.shtml" --> to try out ideas in the wild.</p>
                     </div>
                 </div>
             </div>
@@ -73,7 +73,7 @@
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">Technical Details</h1>
                         <h3>
-                            ALGO is an ERC 20 token soon to be deployed on the Ethereum platform. If you are interested in the technicalities and code, please visit our <a href="https://smartcontracts.superalgos.org/" rel="noopener" target="_blank">ALGO Smart Contracts</a> site.
+                            Intelli is an ERC 20 token soon to be deployed on the Ethereum platform. If you are interested in the technicalities and code, please visit our <a href="https://github.com/Superalgos/IntelliToken" rel="noopener" target="_blank">Intelli Smart Contracts</a> repository.
                         </h3>
                         <br />
                     </div>

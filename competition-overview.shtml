@@ -296,14 +296,14 @@
                     <ul>
                         <li><p>The <!--#include file="tooltips/superalgos-project.shtml" --> enables ongoing Competitions running on the <!--#include file="tooltips/superalgos-platform.shtml" --> while doing the actual trading on <!--#include file="tooltips/exchanges.shtml" -->.</p></li>
                         <li><p>Competitions are designed to direct the evolution of the ecosystem's intelligence towards trading increasingly important value in assets, thus, are expected to generate substantial trading volume at Exchanges.</p></li>
-                        <li><p>Exchanges promote Competitions among their own clients and award <!--#include file="tooltips/algo-tokens.shtml" --> to the winner as prize money to incentivize participation and thus grow their own trading volume.</p></li>
+                        <li><p>Exchanges promote Competitions among their own clients and award <!--#include file="tooltips/intelli-tokens.shtml" --> to the winner as prize money to incentivize participation and thus grow their own trading volume.</p></li>
                     </ul>
                 </div>
                 <div class="col-sm-6">
                     <ul>
-                        <li><p>The Superalgos Project adds to the incentives by offering ALGO tokens as prize money for runners-up.</p></li>
-                        <li><p>As each Exchange is onboarded and set with its own Competition, the Exchange lists the ALGO token so that the Exchange's clients can cash out awarded ALGO tokens if they wish so. </p></li>
-                        <li><p>Once the clients of each newly onboarded Exchange become aware of the Superalgos Project, a small exchange offering of ALGO tokens is launched at the Exchange.</p></li>
+                        <li><p>The Superalgos Project adds to the incentives by offering Intelli tokens as prize money for runners-up.</p></li>
+                        <li><p>As each Exchange is onboarded and set with its own Competition, the Exchange lists the Intelli token so that the Exchange's clients can cash out awarded Intelli tokens if they wish so. </p></li>
+                        <li><p>Once the clients of each newly onboarded Exchange become aware of the Superalgos Project, a small exchange offering of Intelli tokens is launched at the Exchange.</p></li>
                     </ul>
                 </div>
             </div>
@@ -317,7 +317,7 @@
                     <ul>
                         <li><p>Competitions drive trading volume on which Exchanges charge Transaction Fees.</p></li>
                         <li><p>Transaction Fees finance the prize money awarded by Exchanges to incentivize Competitions and also generate  profits for the respective Exchange.</p></li>
-                        <li><p>Exchanges become invested stakeholders and get an <!--#include file="tooltips/algo-stream.shtml" -->&mdash;a smart contract that allocates ALGO Tokens at a certain rate, in compensation for the value added to the project.</p></li>
+                        <li><p>Exchanges become invested stakeholders and get an <!--#include file="tooltips/intelli-stream.shtml" -->&mdash;a smart contract that allocates Intelli Tokens at a certain rate, in compensation for the value added to the project.</p></li>
                     </ul>
                 </div>
                 <div class="col-sm-6">
@@ -341,7 +341,7 @@
                 </div>
                 <div class="col-sm-6">
                     <ul>
-                        <li><p>Exchanges contribute to the funding and growth of the Superalgos Project by listing, marketing and conducting exchange offerings of the ALGO Token.</p></li>
+                        <li><p>Exchanges contribute to the funding and growth of the Superalgos Project by listing, marketing and conducting exchange offerings of the Intelli Token.</p></li>
                     </ul>
                 </div>
             </div>

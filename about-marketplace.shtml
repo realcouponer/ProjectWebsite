@@ -80,11 +80,11 @@
 
                 <div class="row">
                     <div class="col-sm-6">
-                        <p><span class="red_text">1.</span> The <!--#include file="tooltips/superalgos-project.shtml" --> provides <!--#include file="tooltips/algo-token.shtml" --> liquidity through Exchanges.</p>
-                        <p><span class="red_text">2.</span> Investors (crypto-assets holders) buy ALGO at the Exchange.</p>
+                        <p><span class="red_text">1.</span> The <!--#include file="tooltips/superalgos-project.shtml" --> provides <!--#include file="tooltips/intelli-token.shtml" --> liquidity through Exchanges.</p>
+                        <p><span class="red_text">2.</span> Investors (crypto-assets holders) buy Intelli at the Exchange.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p><span class="red_text">3.</span> Investors use ALGO to pay for Asset Managers' subscription services.</p>
+                        <p><span class="red_text">3.</span> Investors use Intelli to pay for Asset Managers' subscription services.</p>
                         <p><span class="red_text">4.</span> Asset Managers acquire trading intelligence from the network, subscribing to <!--#include file="tooltips/algorithms.shtml" -->.</p>
                     </div>
                 </div>

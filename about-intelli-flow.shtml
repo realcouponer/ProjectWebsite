@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 <head>
-    <title>ALGO Economic Flow</title>
-    <meta name="description" content="The circulation of the ALGO Token throughout the ALGO Ecosystem">
+    <title>Intelli Economic Flow</title>
+    <meta name="description" content="The circulation of the Intelli Token throughout the Intelli Ecosystem">
     <meta charset="utf-8">
     <!--#include file="includes/headlinks.shtml" -->
 </head>
@@ -28,7 +28,7 @@
                                                 <div>
                                                     <div style="padding: 0 15px 0 15px;">
                                                         <h2 style="font-weight:700;">
-                                                            The Circulation of the ALGO Token throughout the ALGO Ecosystem
+                                                            The Circulation of the Intelli Token throughout the Intelli Ecosystem
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -47,14 +47,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">The ALGO Economic Flow</h1>
+                        <h1 class="sc_title">The Intelli Economic Flow</h1>
                         <h5 class="sc_title sc_title_underline">REFERENCES</h5>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <div>
-                            <img src="img/charts/ALGO-Flow-References.svg" width="710px" alt="References">
+                            <img src="img/charts/Intelli-Flow-References.svg" width="710px" alt="References">
                         </div>
                     </div>
                 </div>
@@ -66,15 +66,15 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <div>
-                            <img src="img/charts/ALGO-Flow-Marketplace.svg" width="890px" alt="Marketplace">
+                            <img src="img/charts/Intelli-Flow-Marketplace.svg" width="890px" alt="Marketplace">
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-12">
-                        <p><span class="red_text">1 </span>| The <!--#include file="tooltips/superalgos-project.shtml" --> issues <!--#include file="tooltips/algo-tokens.shtml" --> and conducts an MEO (Micro Exchange Offering) every time an <!--#include file="tooltips/exchange.shtml" --> is on-boarded, and set up with its own <!--#include file="tooltips/superalgos-competitions.shtml" -->.</p>
-                        <p><span class="red_text">2 </span>| <!--#include file="tooltips/subscribers.shtml" --> (crypto holders) buy ALGO at the Exchange.</p>
-                        <p><span class="red_text">3 </span>| They use ALGO to pay for <!--#include file="tooltips/asset-managers.shtml" -->' subscription services.</p>
+                        <p><span class="red_text">1 </span>| The <!--#include file="tooltips/superalgos-project.shtml" --> issues <!--#include file="tooltips/intelli-tokens.shtml" --> and conducts an MEO (Micro Exchange Offering) every time an <!--#include file="tooltips/exchange.shtml" --> is on-boarded, and set up with its own <!--#include file="tooltips/superalgos-competitions.shtml" -->.</p>
+                        <p><span class="red_text">2 </span>| <!--#include file="tooltips/subscribers.shtml" --> (crypto holders) buy Intelli at the Exchange.</p>
+                        <p><span class="red_text">3 </span>| They use Intelli to pay for <!--#include file="tooltips/asset-managers.shtml" -->' subscription services.</p>
                         <p><span class="red_text">4 </span>| Asset Managers acquire the Trading Intelligence at the <!--#include file="tooltips/superalgos-network.shtml" -->, subscribing to <!--#include file="tooltips/algorithms.shtml" -->.</p>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <div>
-                            <img src="img/charts/ALGO-Flow-Evolution.svg" width="920px" alt="Evolution">
+                            <img src="img/charts/Intelli-Flow-Evolution.svg" width="920px" alt="Evolution">
                         </div>
                     </div>
                 </div>
@@ -95,7 +95,6 @@
                         <p><span class="red_text">5A </span>| <!--#include file="tooltips/algorithms.shtml" --> pay for the data they consume from Indicators and Sensors. Indicators pay for the data they consume from other Indicators and Sensors.</p>
                         <p><span class="red_text">5B </span>| All <!--#include file="tooltips/financial-beings.shtml" --> pay Node Operators for execution and storage services provided by the node.</p>
                         <p><span class="red_text">5C </span>| All Financial Beings pay their creators, including the <!--#include file="tooltips/algo-maker.shtml" --> who released them and other Teams that contributed to their evolution in previous iterations.</p>
-                        <p><span class="red_text">5D </span>| By paying a time-to-live fee, Financial Beings prove their dependencies that they are committed to providing the service (staying alive) for a certain minimum amount of time.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -106,13 +105,13 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <div>
-                            <img src="img/charts/ALGO-Flow-Miners.svg" width="730px" alt="Miners">
+                            <img src="img/charts/Intelli-Flow-Streams.svg" width="730px" alt="Miners">
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-12">
-                        <p>People and companies working for the Superalgos Organization in Software and Project Development (including Exchanges) are incentivized via <!--#include file="tooltips/algo-streams.shtml" -->.</p>
+                        <p>People and companies working for the Superalgos Organization in Software and Project Development (including Exchanges) are incentivized via <!--#include file="tooltips/intelli-streams.shtml" -->.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -123,24 +122,24 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <div>
-                            <img src="img/charts/ALGO-Flow-Competitions.svg" width="900px" alt="Competitions">
+                            <img src="img/charts/Intelli-Flow-Competitions.svg" width="900px" alt="Competitions">
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-12">
-                        <p>ALGO is awarded as prize money to competition winners, incentivizing <!--#include file="tooltips/superalgos-competitions.shtml" --> as the engine driving evolution of <!--#include file="tooltips/financial-beings.shtml" -->.</p>
+                        <p>Intelli is awarded as prize money to competition winners, incentivizing <!--#include file="tooltips/superalgos-competitions.shtml" --> as the engine driving evolution of <!--#include file="tooltips/financial-beings.shtml" -->.</p>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h5 class="sc_title sc_title_underline"><br /><br /><br />Complete ALGO Flow</h5>
+                        <h5 class="sc_title sc_title_underline"><br /><br /><br />Complete Intelli Flow</h5>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <div>
-                            <img src="img/charts/ALGO-Flow-Diagram.svg" width="1260px" alt="Diagram">
+                            <img src="img/charts/Intelli-Flow-Diagram.svg" width="1260px" alt="Diagram">
                         </div>
                     </div>
                 </div>
