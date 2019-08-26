@@ -79,8 +79,8 @@
                         <div class="col-sm-6">
                             <h2>Stage 2: Competitions</h2>
                             <ul>
-                                <li><p>Paying for Official Competition Tickets;</p></li>
-                                <li><p>Paying for Official Competition Prizes.</p></li>
+                                <li><p>Paying for <!--#include file="tooltips/official-competitions.shtml" --> <!--#include file="tooltips/tickets.shtml" -->;</p></li>
+                                <li><p>Paying for Official Competition <!--#include file="tooltips/prizes.shtml" -->.</p></li>
                             </ul>
                                 <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
                                     <a href="competition-league.shtml">Learn More About Competitions</a>
