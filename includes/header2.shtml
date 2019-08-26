@@ -9,37 +9,37 @@
                                         <a href="#">Social Contracts</a>
                                         <ul>
                                             <li>
-                                                <a href="social-constitution.shtml" class="sf-with-ul">Constitution</a>
+                                                <a href="social-constitution.shtml" class="sf-with-ul">Superalgos Constitution</a>
                                             </li>
                                             <li style="white-space:nowrap">
-                                                <a href="social-algo-macroeconomic-guidance.shtml" class="sf-with-ul">ALGO Macroeconomics Guidance</a>
+                                                <a href="social-intelli-macroeconomic-guidance.shtml" class="sf-with-ul">Intelli Macroeconomics Guidance</a>
                                             </li>
                                             <li>
-                                                <a href="social-algo-governance-charter.shtml" class="sf-with-ul">ALGO Governance Charter</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-
-                                    <li class="menu-item-has-children">
-                                        <a href="#">ALGO Token</a>
-                                        <ul>
-                                            <li>
-                                                <a href="about-algo-overview.shtml" class="sf-with-ul">Overview</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-algo-flow.shtml" class="sf-with-ul">Economic Flow</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-algo-streams.shtml" class="sf-with-ul">ALGO Streams</a>
+                                                <a href="social-intelli-governance-charter.shtml" class="sf-with-ul">Intelli Governance Charter</a>
                                             </li>
                                         </ul>
                                     </li>
 
                                     <li class="menu-item-has-children">
-                                        <a href="#">Business Overview</a>
+                                        <a href="#">STAGE 2: Competitions</a>
                                         <ul>
                                             <li>
-                                                <a href="about-ecosystem.shtml" class="sf-with-ul">ALGO Ecosystem</a>
+                                                <a href="competition-overview.shtml">Overview</a>
+                                            </li>
+                                            <li style="white-space:nowrap">
+                                                <a href="competition-guidelines.shtml">Alpha-stage Competitions</a>
+                                            </li>
+                                            <li>
+                                                <a href="competition-league.shtml">Trading League</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="menu-item-has-children">
+                                        <a href="#">STAGE 3: Marketplace</a>
+                                        <ul>
+                                            <li>
+                                                <a href="about-ecosystem.shtml" class="sf-with-ul">Intelli Ecosystem</a>
                                             </li>
                                             <li>
                                                 <a href="about-network.shtml" class="sf-with-ul">Superalgos Network</a>
@@ -77,6 +77,9 @@
                                         <a href="about-contributing.shtml" class="sf-with-ul">Contributing</a>
                                     </li>
                                     <li>
+                                        <a href="developers-join-dev-team.shtml"><nobr>Join the Dev Team</nobr></a>
+                                    </li>
+                                    <li>
                                         <a href="about-faqs.shtml" class="sf-with-ul">FAQs</a>
                                     </li>
                                 </ul>
@@ -86,31 +89,22 @@
                                 <a href="#">TOOLS</a>
                                 <ul>
                                     <li>
-                                        <a href="tools-superalgos-platform.shtml"><nobr>Superalgos Platform</nobr></a>
+                                        <a href="tools-superalgos-desktop-app.shtml"><nobr>Superalgos Desktop App</nobr></a>
                                     </li>
                                 </ul>
                             </li>
 
                             <li class="menu-item-has-children">
-                                <a href="#">DEVELOPERS</a>
+                                <a href="#">INTELLI TOKEN</a>
                                 <ul>
                                     <li>
-                                        <a href="developers-join-dev-team.shtml"><nobr>Join the Dev Team</nobr></a>
-                                    </li>
-                                </ul>
-                            </li>
-
-                            <li class="menu-item-has-children">
-                                <a href="#">COMPETITIONS</a>
-                                <ul>
-                                    <li>
-                                        <a href="competition-overview.shtml">Overview</a>
-                                    </li>
-                                    <li style="white-space:nowrap">
-                                        <a href="competition-guidelines.shtml">Upcoming Alpha-stage Competitions</a>
+                                        <a href="about-intelli-overview.shtml" class="sf-with-ul">Overview &amp; Utility</a>
                                     </li>
                                     <li>
-                                        <a href="competition-league.shtml">Future Trading League</a>
+                                        <a href="about-intelli-flow.shtml" class="sf-with-ul">Economy &amp; Distribution</a>
+                                    </li>
+                                    <li>
+                                        <a href="about-intelli-streams.shtml" class="sf-with-ul">Intelli Streams</a>
                                     </li>
                                 </ul>
                             </li>

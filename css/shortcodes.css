@@ -391,7 +391,9 @@ footer > .container > .row > [class*="col-"] {
 
 
 /**light section*/
-.light_section { background-color: #fff; }
+.light_section {
+    background-color: #fff;
+}
 .light_section .sc_content { color: #5a6266; }
 
 /**grey section*/
@@ -408,6 +410,7 @@ border-top: none;
 .darkgrey_section {
     background-color: #303036;
     color: #fff;
+    box-shadow: 0px 10px 40px #000 inset;
 }
 
 .darkgrey_section .sc_title {
@@ -480,6 +483,7 @@ border-top: none;
 .indigolight_section {
     background-color: #3a236d;
     color: #fff;
+
 }
 .indigolight_section .sc_title {
   color: #fff;
@@ -510,6 +514,7 @@ background-color: #EAE2DE;
 .green_section {
     background-color: #bcd643;
     color: #303036;
+    box-shadow: 0px 10px 40px #666 inset;
 }
 
 .yellow_section {

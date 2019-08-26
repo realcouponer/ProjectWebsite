@@ -58,7 +58,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>Understanding the inner workings of the Superalgos Ecosystem is not mired in considerations of just business or technology, but also the pivotal notion of <!--#include file="tooltips/financial-life.shtml" -->&mdash;where the participation in the <!--#include file="tooltips/algo-ecosystem.shtml" --> evolves autonomous agents into becoming living stakeholders known as <i>Financial Beings</i>. This transformation of financial life occurs within the environment of the <!--#include file="tooltips/superalgos-platform.shtml" --> connecting the <!--#include file="tooltips/algo-token.shtml" --> to autonomous agents as a form of energy essential to their life sustainability.</p>
+                        <p>Understanding the inner workings of the Superalgos Ecosystem is not mired in considerations of just business or technology, but also the pivotal notion of <!--#include file="tooltips/financial-life.shtml" -->&mdash;where the participation in the <!--#include file="tooltips/intelli-ecosystem.shtml" --> evolves autonomous agents into becoming living stakeholders known as <i>Financial Beings</i>. This transformation of financial life occurs within the environment of the <!--#include file="tooltips/superalgos-platform.shtml" --> connecting the <!--#include file="tooltips/intelli-token.shtml" --> to autonomous agents as a form of energy essential to their life sustainability.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>This paradigm of financial life gives birth to a <i>financial biosphere</i> filled with a diversity of living financial beings such as <i>sensors</i>, <i>indicators</i>, <i>algobots</i>, <i>algonets</i> and <i>advanced algos</i>. Sensors and indicators are <i>data organisms</i> specializing in processing data for others to consume. Algobots, algonets and advanced algos are <i>trading organisms</i>, trading on the markets and participating in <!--#include file="tooltips/superalgos-competitions.shtml" -->.</p>
@@ -110,13 +110,13 @@
                         <ul>
                             <li><p>they are born out of other beings;</p></li>
                             <li><p>they go through a development process until they come of age;</p></li>
-                            <li><p>they need ALGO tokens to exist, meaning, to stay alive;</p></li>
-                            <li><p>they also need ALGO to pay for the resources they consume;</p></li>
+                            <li><p>they need Intelli tokens to exist, meaning, to stay alive;</p></li>
+                            <li><p>they also need Intelli to pay for the resources they consume;</p></li>
                             <li><p>they perform jobs meant to produce value;</p></li>
-                            <li><p>in exchange of which they receive ALGO from whoever finds their work valuable;</p></li>
-                            <li><p>if they receive enough ALGO, they stay alive and keep working;</p></li>
+                            <li><p>in exchange of which they receive Intelli from whoever finds their work valuable;</p></li>
+                            <li><p>if they receive enough Intelli, they stay alive and keep working;</p></li>
                             <li><p>the most successful individuals reproduce;</p></li>
-                            <li><p>if they don't receive enough ALGO, they die.</p></li>
+                            <li><p>if they don't receive enough Intelli, they die.</p></li>
                         </ul>
 
                         <h2>Types</h2>
@@ -132,7 +132,7 @@
                             <li><p><strong>Newborn</strong>: This is financial beings' immediate state after their <i>birth</i>. Once the first change on their source code or configuration is saved, they turn into <i>youngsters</i>.</p></li>
                             <li><p><strong>Youngster</strong>: At this stage of their life, they live in the development environment. Their source code and configuration are open for changes and they can be in development for as long as needed.</p></li>
                             <li><p><strong>Adult</strong>: Becoming an adult entails a freeze of their source code and configuration, which can not be edited anymore, along with moving to the production environment for their first competition.</p></li>
-                            <li><p><strong>Dead</strong>: Financial beings die when they run out of ALGO tokens. Even after death, their history remains in storage.</p></li>
+                            <li><p><strong>Dead</strong>: Financial beings die when they run out of Intelli tokens. Even after death, their history remains in storage.</p></li>
                         </ol>
 
                         <h2>Reproduction</h2>
@@ -154,7 +154,7 @@
 
                         <h2>Autonomy</h2>
                         <p>Adult financial beings are not owned by anyone, not even by their creators. They are independent entities and do their best to keep themselves alive as well as to have as many offspring as possible.</p>
-                        <p>The ALGO they collect as a result of their work belongs to them and cannot be taken away or confiscated, not even by their team.</p>
+                        <p>The Intelli they collect as a result of their work belongs to them and cannot be taken away or confiscated, not even by their team.</p>
                         <p>You may notice throughout these pages that we may sometimes refer to "financial beings and <i>their teams</i>". Bear in mind we don't mean ownership but instead may be referring to the team that created it.</p>
 
                         <h2>Technical Traits</h2>
@@ -164,7 +164,7 @@
                         <h2>Death</h2>
                         <p>There are four different situations that may cause a financial being to die:</p>
                         <ol>
-                            <li><p><strong>Low energy</strong>: When the ALGO balance reaches a certain low threshold, the financial being dies due to low energy.</p></li>
+                            <li><p><strong>Low energy</strong>: When the Intelli balance reaches a certain low threshold, the financial being dies due to low energy.</p></li>
                             <li><p><strong>Insolvency</strong>: When the financial being doesn't have enough balance to pay for the products or services it needs to consume, it dies from insolvency causes.</p></li>
                             <li><p><strong>Time-to-live</strong>: When a financial being runs out of time-to-live, it dies. The notion of time-to-live shall be explained later on.</p></li>
                             <li><p><strong>Low performance</strong>: This last cause of death is only relevant to trading organisms. When a trading organism performs under a configured minimum target, it dies due to low performance.</p></li>
@@ -248,13 +248,13 @@
                     <div class="col-sm-6">
                         <p>An algobot is the basic structural and functional unit, and the smallest unit displaying the common traits of financial life within trading organisms.</p>
                         <p>Algobots are coded to implement a single trading strategy. </p>
-                        <p>When working under the commands of an algonet they are allocated a certain amount of working capital to trade with and are supplied with ALGO to pay for their existence and the resources they need to do their job.</p>
-                        <p>When working on their own, they interface directly with the subscriber, collecting ALGO for their services.</p>
+                        <p>When working under the commands of an algonet they are allocated a certain amount of working capital to trade with and are supplied with Intelli to pay for their existence and the resources they need to do their job.</p>
+                        <p>When working on their own, they interface directly with the subscriber, collecting Intelli for their services.</p>
                         <p>They consume data from sensors and indicators and use their built-in logic to make trading decisions such as opening, moving or closing positions. They connect to exchanges through the platform using subscribers' exchange keys and trade directly from within the subscriber's account at the exchange.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>If an Algobot is not successful in its trading job and its performance drops below a predefined threshold, it dies. What may be left of the allocated working capital in the exchange account gets back in control of the algonet (in case the algobot was working under an algonet) or the subscriber (in case the algobot was working for the subscriber directly), as well as the ALGO it holds.</p>
-                        <p>On the other hand, if the algobot is successful and increases its performance above a certain threshold an <i>Algobot Subdivision Process</i> is triggered by which the algobot splits into two different entities with a random mutation of its genes (within a small range), each copy being allocated part of the working capital and receiving part of the ALGO tokens available.</p>
+                        <p>If an Algobot is not successful in its trading job and its performance drops below a predefined threshold, it dies. What may be left of the allocated working capital in the exchange account gets back in control of the algonet (in case the algobot was working under an algonet) or the subscriber (in case the algobot was working for the subscriber directly), as well as the Intelli it holds.</p>
+                        <p>On the other hand, if the algobot is successful and increases its performance above a certain threshold an <i>Algobot Subdivision Process</i> is triggered by which the algobot splits into two different entities with a random mutation of its genes (within a small range), each copy being allocated part of the working capital and receiving part of the Intelli tokens available.</p>
                     </div>
                 </div>
 
@@ -264,16 +264,16 @@
                     </div>
                     <div class="col-sm-6">
                         <p>An algonet is an algorithm with a financial life of its own but at the same time may take part &ndash;along with its algobots&mdash;in a higher order organism such as an advanced algo.</p>
-                        <p>When operating within an advanced algo, algonets are allocated working capital to trade on the markets and supplied with ALGO to pay for their expenses. When operating without an advanced algo, it interfaces directly with subscribers, collecting ALGO for its services.</p>
+                        <p>When operating within an advanced algo, algonets are allocated working capital to trade on the markets and supplied with Intelli to pay for their expenses. When operating without an advanced algo, it interfaces directly with subscribers, collecting Intelli for its services.</p>
                         <p>Algonets main activities are:</p>
                         <ul>
                             <li><p>dynamically deploying swarms of algobot clones, assigning each one a unique set of genes within predefined ranges;</p></li>
-                            <li><p>allocating a percentage of working capital and supplying enough ALGO for algobots to live by and pay their expenses;</p></li>
+                            <li><p>allocating a percentage of working capital and supplying enough Intelli for algobots to live by and pay their expenses;</p></li>
                         </ul>
                     </div>
                     <div class="col-sm-6">
                         <ul>
-                            <li><p>monitoring algobots performance over time and deciding which algobots to keep alive and which to let die, by continuing or suspending the allocation of ALGO.</p></li>
+                            <li><p>monitoring algobots performance over time and deciding which algobots to keep alive and which to let die, by continuing or suspending the allocation of Intelli.</p></li>
                         </ul>
                         <p>Each algonet is made out of algobot clones of the same master, meaning algobots implementing the same trading strategy, with minor variations in their genes. As a result, each algonet is expected to trade with a specific strategy.</p>
                         <p>With all this in mind, the job of an algonet is to administer the resources it gets either from its associated advanced algo or directly from the subscriber, and to find the best possible structure of algobots to do the trading. As such, the logic behind an algonet is open for teams to develop further control and learning mechanisms.</p>
@@ -288,15 +288,15 @@
                         <p>An advanced algo is an algorithm with a financial life of its own but at the same time depends on other financial beings living within it.</p>
                         <p>Advanced algos function as the <i>machine room</i> of complex trading organisms, and their main activities are:</p>
                         <ul>
-                            <li><p>interfacing with subscribers, collecting ALGO for its services;</p></li>
+                            <li><p>interfacing with subscribers, collecting Intelli for its services;</p></li>
                             <li><p>deploying algonet clones appropriate for the job according to the strategies each of them implement;</p></li>
                         </ul>
                     </div>
                     <div class="col-sm-6">
                         <ul>
-                            <li><p>supplying algonets with ALGO for them to administer;</p></li>
+                            <li><p>supplying algonets with Intelli for them to administer;</p></li>
                             <li><p>allocating algonets a specific percentage of the available trading capital;</p></li>
-                            <li><p>monitoring the performance of algonets and eventually deciding which ones to keep and which ones to let die by continuing or suspending the supply of ALGO respectively.</p></li>
+                            <li><p>monitoring the performance of algonets and eventually deciding which ones to keep and which ones to let die by continuing or suspending the supply of Intelli respectively.</p></li>
                         </ul>
                     </div>
                 </div>

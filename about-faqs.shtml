@@ -62,6 +62,7 @@
                         <div id="accordion_left" class="sc_accordion sc_accordion_style_2">
 
                             <div class="sc_accordion_item panel">
+                                <h3>Project</h3>
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_1" class="collapsed">
                                         Is Superalgos an open source project?
@@ -72,9 +73,9 @@
                                         <p><strong>Yes. Superalgos is a collaborative project open to all people.</strong> </p>
                                         <p>Our code is available at <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">GitHub</a> for everyone to verify and audit. It is also available for the <!--#include file="tooltips/community.shtml" --> to fork and innovate in a permissionless manner within the <!--#include file="tooltips/superalgos-network.shtml" -->. </p>
                                         <p>The project aims to decentralize the development and maintenance of the system into a worldwide network of development teams that may work in coordination with the <a href="about-team.shtml">Core Team</a> or in an independent manner. In a similar fashion, the project welcomes contributions from people in fields such as collective intelligence, social psychology, game theory, artificial intelligence, governance, management, economy, communication, marketing, law and business. </p>
-                                        <p>All of this work is incentivized with the project's native crypto token, the <!--#include file="tooltips/algo-token.shtml" -->. In addition, ALGO is also used to incentivize <!--#include file="tooltips/algo-makers.shtml" --> to participate in <!--#include file="tooltips/superalgos-competitions.shtml" -->, awarding ALGO as prize money. Finally, the ALGO Token will be the medium of payment <!--#include file="tooltips/subscribers.shtml" --> will use to pay <!--#include file="tooltips/asset-managers.shtml" --> in the <!--#include file="tooltips/marketplace.shtml" -->, and the channel to transfer the corresponding fees to Algo-Makers, who own the algo-rental business. </p>
+                                        <p>All of this work is incentivized with the project's native crypto token, the <!--#include file="tooltips/intelli-token.shtml" -->. In addition, Intelli is also used to incentivize <!--#include file="tooltips/algo-makers.shtml" --> to participate in <!--#include file="tooltips/superalgos-competitions.shtml" -->, awarding Intelli as prize money. Finally, the Intelli Token will be the medium of payment <!--#include file="tooltips/subscribers.shtml" --> will use to pay <!--#include file="tooltips/asset-managers.shtml" --> in the <!--#include file="tooltips/marketplace.shtml" -->, and the channel to transfer the corresponding fees to Algo-Makers, who own the algo-rental business. </p>
                                         <p>The <!--#include file="tooltips/superalgos-project.shtml" --> has a strong open source vocation and a commitment to a fully transparent and auditable operation.</p>
-                                        <p>In order to protect the people investing substantial time and effort building the ALGO Ecosystem, the Community if bound to the <!--#include file="tooltips/constitution.shtml" -->, which prescribes that "...the single most important aspect of the Social Contract binding the people and companies participating in the Superalgos Project is that the ALGO Token shall be the sole medium of payment to be used in the network for the use cases that tie the Superalgos Network together"</p>
+                                        <p>In order to protect the people investing substantial time and effort building the Intelli Ecosystem, the Community if bound to the <!--#include file="tooltips/constitution.shtml" -->, which prescribes that "...the single most important aspect of the Social Contract binding the people and companies participating in the Superalgos Project is that the Intelli Token shall be the sole medium of payment to be used in the network for the use cases that tie the Superalgos Network together"</p>
                                     </div>
                                 </div>
                             </div>
@@ -103,10 +104,10 @@
                                 </h4>
                                 <div id="accordion_left_3" class="panel-collapse collapse">
                                     <div class="sc_accordion_content">
-                                        <p>The <!--#include file="tooltips/superalgos-project.shtml" --> does not require a governance system, as it is based on permissionless innovation principles: anyone may add value to the <!--#include file="tooltips/algo-ecosystem.shtml" --> in whatever way.</p>
-                                        <p>The <!--#include file="tooltips/constitution.shtml" --> explains that "Project stakeholders do not need to reach consensus on the direction of development or the kind of products and services that shall be offered within the ALGO Ecosystem, as the principles of permissionless innovation allow for different entities or groups of stakeholders to explore and develop solutions addressing their own interests by producing their own Distributions of the software."</p>
-                                        <p>On the other hand, the <!--#include file="tooltips/algo-token.shtml" --> does require governance. As per the mandates of the Constitution, during this initial phase of the project, the ALGO Token is governed by <!--#include file="tooltips/team-members.shtml" -->.</p>
-                                        <p>For further information, the <!--#include file="tooltips/algo-macroeconomic-guidance.shtml" --> explains the macroeconomic aspects of the ALGO Economy and provides binding guidance to the Governing Body; the <!--#include file="tooltips/algo-governance-charter.shtml" --> details the implementation of the governance system.</p>
+                                        <p>The <!--#include file="tooltips/superalgos-project.shtml" --> does not require a governance system, as it is based on permissionless innovation principles: anyone may add value to the <!--#include file="tooltips/intelli-ecosystem.shtml" --> in whatever way.</p>
+                                        <p>The <!--#include file="tooltips/constitution.shtml" --> explains that "Project stakeholders do not need to reach consensus on the direction of development or the kind of products and services that shall be offered within the Intelli Ecosystem, as the principles of permissionless innovation allow for different entities or groups of stakeholders to explore and develop solutions addressing their own interests by producing their own Distributions of the software."</p>
+                                        <p>On the other hand, the <!--#include file="tooltips/intelli-token.shtml" --> does require governance. As per the mandates of the Constitution, during this initial phase of the project, the Intelli Token is governed by <!--#include file="tooltips/team-members.shtml" -->.</p>
+                                        <p>For further information, the <!--#include file="tooltips/intelli-macroeconomic-guidance.shtml" --> explains the macroeconomic aspects of the Intelli Economy and provides binding guidance to the Governing Body; the <!--#include file="tooltips/intelli-governance-charter.shtml" --> details the implementation of the governance system.</p>
                                     </div>
                                 </div>
                             </div>
@@ -116,6 +117,7 @@
                     <div class="col-md-6 col-sm-12">
                         <div id="accordion_right" class="sc_accordion sc_accordion_style_2">
                             <div class="sc_accordion_item panel">
+                                <h3>Algorithms</h3>
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_right" href="#accordion_right_1" class="collapsed">
                                         Are algorithms running on Superalgos open source?

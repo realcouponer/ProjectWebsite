@@ -79,7 +79,7 @@
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">Incentives</h1>
                         <h3>
-                            We have devised a scheme that aims to incentivize Team Members both in the short term and in the long run. Team Members earn a continuous stream of <!--#include file="tooltips/algo-tokens.shtml" --> for as long as they keep contributing to the project. To learn more about our incentives, please see the <a href="about-algo-streams.shtml">ALGO Streams</a> page.
+                            We have devised a scheme that aims to incentivize Team Members both in the short term and in the long run. Team Members earn a continuous stream of <!--#include file="tooltips/intelli-tokens.shtml" --> for as long as they keep contributing to the project. To learn more about our incentives, please see the <a href="about-intelli-streams.shtml">Intelli Streams</a> page.
                         </h3>
                         <br />
                     </div>
@@ -96,11 +96,11 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>Our work in the <!--#include file="tooltips/superalgos-project.shtml" --> is characterized as volunteer work. In order to incentivize contributions, the project awards <!--#include file="tooltips/algo-streams.shtml" --> to people and companies contributing to its development.</p>
+                        <p>Our work in the <!--#include file="tooltips/superalgos-project.shtml" --> is characterized as volunteer work. In order to incentivize contributions, the project awards <!--#include file="tooltips/intelli-streams.shtml" --> to people and companies contributing to its development.</p>
                         <p>Areas of responsibility are categorized in numbers, from 1 to 50. The category number is a reflection of the perceived level of criticality, urgency or scope entailed in the particular area. The higher the number, the more critical, urgent or the largest the scope the area is recognized to have. </p>
                     </div>
                     <div class="col-sm-6">
-                        <p>In terms of incentives, the category number of the <!--#include file="tooltips/area-of-responsibility.shtml" --> is mapped with the size of the ALGO Stream associated to the area, meaning for example that if you assume responsibility over a Category 30 area, you will get a size 30 ALGO Stream in compensation. </p>
+                        <p>In terms of incentives, the category number of the <!--#include file="tooltips/area-of-responsibility.shtml" --> is mapped with the size of the Intelli Stream associated to the area, meaning for example that if you assume responsibility over a Category 30 area, you will get a size 30 Intelli Stream in compensation. </p>
                         <p><!--#include file="tooltips/domains.shtml" --> and specific areas of responsibility are dynamically identified and assigned by the <!--#include file="tooltips/superalgos-organization.shtml" --> as the project advances. The table below shows the existing areas of responsibility grouped by domain. The ones with an <i>Apply!</i> button indicate the areas available for new leaders to undertake. </p>
                     </div>
                 </div>
@@ -123,7 +123,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Craft overall marketing strategies and tactics. Coordinate marketing areas of responsibility to monitor implementation and maintain consistency across the board.</li>
-                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">5,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="sc_button margin_bottom_mini squareButton global big">
@@ -144,7 +144,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Lead PR Campaigns, managing relationships with the media and pursuing exposure opportunities.</li>
-                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">5,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="sc_button margin_bottom_mini squareButton global big">
@@ -165,7 +165,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Produce video tutorials walking users through system's functionality, bot's programming, competitions and so on. Undertake responsibility over channel promotion.</li>
-                                    <li class="sc_pricing_data">4,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">4,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="sc_button margin_bottom_mini squareButton global big">
@@ -186,7 +186,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Craft system-wide technical documentation. Undertake responsibility over maintenance of documentation and maintain integrity across the system.</li>
-                                    <li class="sc_pricing_data">4,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">4,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="sc_button margin_bottom_mini squareButton global big">
@@ -207,7 +207,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Design and run Twitter and Facebook campaigns and communication, in coordination with the Marketing Direction, undertaking responsibility over people's engagement and social media reach growth.</li>
-                                    <li class="sc_pricing_data">3,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">3,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="sc_button margin_bottom_mini squareButton global big">
@@ -228,7 +228,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Community management over the official Telegram Group, undertaking responsibility over people's engagement, group growth, basic support and liaison with Team Members. Several positions open to cover different time zones.</li>
-                                    <li class="sc_pricing_data">2,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">2,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="sc_button margin_bottom_mini squareButton global big">
@@ -249,7 +249,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Undertake responsibility on official communication via Reddit, promoting the project, activities and discussing news with the community.</li>
-                                    <li class="sc_pricing_data">2,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">2,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="sc_button margin_bottom_mini squareButton global big">
@@ -270,7 +270,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Undertake responsibility on official communication via bitcointalk.org, promoting the project, activities and discussing news with the community.</li>
-                                    <li class="sc_pricing_data">2,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">2,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="sc_button margin_bottom_mini squareButton global big">
@@ -291,7 +291,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Develop and maintain the website, undertaking responsibility over content (copy and visuals), SEO and technical development.</li>
-                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">5,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="margin_bottom_mini squareButton global big">
@@ -312,7 +312,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Craft and maintain the project's main conceptual communication instrument covering all relevant conceptual aspects of the project.</li>
-                                    <li class="sc_pricing_data">4,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">4,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="margin_bottom_mini squareButton global big">
@@ -333,7 +333,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Craft and maintain a number of target-customized pitch decks along the lifecycle of the project.</li>
-                                    <li class="sc_pricing_data">1,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">1,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="margin_bottom_mini squareButton global big">
@@ -354,7 +354,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Craft and maintain a number of target-customized one and two-pagers along the lifecycle of the project.</li>
-                                    <li class="sc_pricing_data">1,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">1,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="margin_bottom_mini squareButton global big">
@@ -386,7 +386,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Craft overall business strategies. Undertake responsibility in business development, strategic partnerships and investors relations.</li>
-                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">5,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="sc_button margin_bottom_mini squareButton global big">
@@ -407,7 +407,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Lead the legal analysis in all aspects concerning the project's development and operation, coordinating with external counsel when required.</li>
-                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">5,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="sc_button margin_bottom_mini squareButton global big">
@@ -428,7 +428,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Craft strategies to engage with exchanges at the levels that have already been identified and move on developing and maintaining the required relationships.</li>
-                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">5,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="margin_bottom_mini squareButton global big">
@@ -449,7 +449,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Lead the efforts to steer the project towards developing internal trading intelligence to match and surpass existing intelligence in the shortest possible span of time.</li>
-                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">5,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="margin_bottom_mini squareButton global big">
@@ -481,7 +481,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Craft overall strategies to maximize CI across the supermind. Devise studies and proposals to implement best practices.</li>
-                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">5,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="sc_button margin_bottom_mini squareButton global big">
@@ -513,7 +513,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Enable, organize and coordinate works in all areas. Undertake responsibility in starting up development of unassigned areas.</li>
-                                    <li class="sc_pricing_data">5,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">5,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="margin_bottom_mini squareButton global big">
@@ -534,7 +534,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Undertake responsibility to operate the business legally, coordinating with legal counsel to ensure compliance with local and international regulation, adopting custom measures for each market as well as internal ecosystem policies to ensure collective compliance.</li>
-                                    <li class="sc_pricing_data">4,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">4,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="margin_bottom_mini squareButton global big">
@@ -555,7 +555,7 @@
                                         </div>
                                     </li>
                                     <li class="sc_pricing_data sc_price_item_long">Devise and manage the project's accounting needs, covering all fundamentals required by law.</li>
-                                    <li class="sc_pricing_data">3,000,000 ALGO</li>
+                                    <li class="sc_pricing_data">3,000,000 Intelli</li>
                                     <li class="sc_pricing_data">(in first two years)</li>
                                     <li class="sc_pricing_data">
                                         <span class="margin_bottom_mini squareButton global big">
@@ -580,7 +580,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>In order to be granted the assignment of an <!--#include file="tooltips/area-of-responsibility.shtml" -->, Candidate Team Members need to show the community that they are the right person or team for the job. To do that, they apply for a specific area and start working. After some time, they will have produced a body of work consisting of a usable first version of whatever their area requires. Once the piece of work satisfies the community of <!--#include file="tooltips/team-members.shtml" -->, the candidate acquires the corresponding <!--#include file="tooltips/algo-stream.shtml" --> and becomes a Team Member.</p>
+                        <p>In order to be granted the assignment of an <!--#include file="tooltips/area-of-responsibility.shtml" -->, Candidate Team Members need to show the community that they are the right person or team for the job. To do that, they apply for a specific area and start working. After some time, they will have produced a body of work consisting of a usable first version of whatever their area requires. Once the piece of work satisfies the community of <!--#include file="tooltips/team-members.shtml" -->, the candidate acquires the corresponding <!--#include file="tooltips/intelli-stream.shtml" --> and becomes a Team Member.</p>
                         <p>If at any point in time an individual Team Member wishes to step aside, or fails to deliver as per the expectations of the rest of the community, the project will help the person make a clean exit by delegating responsibilities into:</p>
                     </div>
                     <div class="col-sm-6">
@@ -589,7 +589,7 @@
                             <li><p>other individuals or teams.</p></li>
                         </ul>
                         <p>In the first case, the team's relationship with the rest of the community remains the same and the team shall keep all of its responsibilities and entitlements through an internal change in management.</p>
-                        <p>In the second case, the departing team will keep all the ALGO it may have been allocated up to that point in time. However, it will resign entitlements to further ALGO deliveries.</p>
+                        <p>In the second case, the departing team will keep all the Intelli it may have been allocated up to that point in time. However, it will resign entitlements to further Intelli deliveries.</p>
                     </div>
                 </div>
             </div>
@@ -616,7 +616,7 @@
                     </div>
                     <div class="col-sm-6">
                         <p>By that time, a part of the community has become acquainted with the candidate team, having interacted frequently and followed their work closely. The constant revisions through regular meetings helped the candidate team stay on course, remain focused in priorities and producing the tutorial following agreed best practices.</p>
-                        <p>This initial piece of work along with the human interactions experienced along the way are enough to show the Team Members community that the candidate team is a worthy acquisition. Without further due and through an express voting session, the new team is granted the corresponding <!--#include file="tooltips/algo-stream.shtml" --> and becomes a Team Member. A few days later the team starts getting ALGO tokens in their ALGO wallet.</p>
+                        <p>This initial piece of work along with the human interactions experienced along the way are enough to show the Team Members community that the candidate team is a worthy acquisition. Without further due and through an express voting session, the new team is granted the corresponding <!--#include file="tooltips/intelli-stream.shtml" --> and becomes a Team Member. A few days later the team starts getting Intelli tokens in their Intelli wallet.</p>
                         <p>The new team is now a key part of the community. It keeps producing tutorials, promoting the Tutorials Youtube Channel and integrating their material with the rest of the marketing mix. </p>
                         <p>Along the way, the system evolves and some tutorials need adjustments or become obsolete. The team is fully responsible for staying on top of the system's progress in order to keep their material up to date.</p>
                     </div>
