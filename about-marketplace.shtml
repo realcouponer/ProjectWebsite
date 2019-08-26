@@ -53,7 +53,6 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">Trading Intelligence Marketplace</h1>
-                        <h3><strong>Alpha version ETA: Q4, 2020</strong></h3>
                         <h3>The Marketplace runs as a distributed system on the <!--#include file="tooltips/superalgos-network.shtml" -->, and represents the gateway for the <!--#include file="tooltips/community.shtml" --> to access the capital markets attracting traders, investors and asset managers.</h3>
                     </div>
                 </div>
@@ -64,7 +63,7 @@
                     </div>
                     <div class="col-sm-6">
                         <p>Asset management services may be as elaborate as available elsewhere in the industry or as simple as an application connecting the subscription directly to <!--#include file="tooltips/algorithms.shtml" -->.</p>
-                        <p>The network will offers both open source trading intelligence evolved within <!--#include file="tooltips/superalgos-competitions.shtml" -->, but also closed source intelligence black-boxed within <!--#include file="tooltips/algo-makers.shtml" -->' services, and kept private from the rest of the Community.</p>
+                        <p>The network will offers both open source trading intelligence evolved within <!--#include file="tooltips/superalgos-competitions.shtml" -->, but also close-source intelligence black-boxed within <!--#include file="tooltips/algo-makers.shtml" -->' services, and kept private from the rest of the Community.</p>
                     </div>
                 </div>
                 <div class="row">

@@ -62,6 +62,7 @@
                         <div id="accordion_left" class="sc_accordion sc_accordion_style_2">
 
                             <div class="sc_accordion_item panel">
+                                <h3>Project</h3>
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_1" class="collapsed">
                                         Is Superalgos an open source project?
@@ -116,6 +117,7 @@
                     <div class="col-md-6 col-sm-12">
                         <div id="accordion_right" class="sc_accordion sc_accordion_style_2">
                             <div class="sc_accordion_item panel">
+                                <h3>Algorithms</h3>
                                 <h4 class="sc_accordion_title">
                                     <a data-toggle="collapse" data-parent="#accordion_right" href="#accordion_right_1" class="collapsed">
                                         Are algorithms running on Superalgos open source?

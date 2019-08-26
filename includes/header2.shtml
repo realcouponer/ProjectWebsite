@@ -9,7 +9,7 @@
                                         <a href="#">Social Contracts</a>
                                         <ul>
                                             <li>
-                                                <a href="social-constitution.shtml" class="sf-with-ul">Constitution</a>
+                                                <a href="social-constitution.shtml" class="sf-with-ul">Superalgos Constitution</a>
                                             </li>
                                             <li style="white-space:nowrap">
                                                 <a href="social-intelli-macroeconomic-guidance.shtml" class="sf-with-ul">Intelli Macroeconomics Guidance</a>
@@ -21,22 +21,22 @@
                                     </li>
 
                                     <li class="menu-item-has-children">
-                                        <a href="#">Intelli Token</a>
+                                        <a href="#">STAGE 2: Competitions</a>
                                         <ul>
                                             <li>
-                                                <a href="about-intelli-overview.shtml" class="sf-with-ul">Overview</a>
+                                                <a href="competition-overview.shtml">Overview</a>
+                                            </li>
+                                            <li style="white-space:nowrap">
+                                                <a href="competition-guidelines.shtml">Alpha-stage Competitions</a>
                                             </li>
                                             <li>
-                                                <a href="about-intelli-flow.shtml" class="sf-with-ul">Economic Flow</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-intelli-streams.shtml" class="sf-with-ul">Intelli Streams</a>
+                                                <a href="competition-league.shtml">Trading League</a>
                                             </li>
                                         </ul>
                                     </li>
 
                                     <li class="menu-item-has-children">
-                                        <a href="#">Business Overview</a>
+                                        <a href="#">STAGE 3: Marketplace</a>
                                         <ul>
                                             <li>
                                                 <a href="about-ecosystem.shtml" class="sf-with-ul">Intelli Ecosystem</a>
@@ -77,6 +77,9 @@
                                         <a href="about-contributing.shtml" class="sf-with-ul">Contributing</a>
                                     </li>
                                     <li>
+                                        <a href="developers-join-dev-team.shtml"><nobr>Join the Dev Team</nobr></a>
+                                    </li>
+                                    <li>
                                         <a href="about-faqs.shtml" class="sf-with-ul">FAQs</a>
                                     </li>
                                 </ul>
@@ -92,25 +95,16 @@
                             </li>
 
                             <li class="menu-item-has-children">
-                                <a href="#">DEVELOPERS</a>
+                                <a href="#">INTELLI TOKEN</a>
                                 <ul>
                                     <li>
-                                        <a href="developers-join-dev-team.shtml"><nobr>Join the Dev Team</nobr></a>
-                                    </li>
-                                </ul>
-                            </li>
-
-                            <li class="menu-item-has-children">
-                                <a href="#">COMPETITIONS</a>
-                                <ul>
-                                    <li>
-                                        <a href="competition-overview.shtml">Overview</a>
-                                    </li>
-                                    <li style="white-space:nowrap">
-                                        <a href="competition-guidelines.shtml">Upcoming Alpha-stage Competitions</a>
+                                        <a href="about-intelli-overview.shtml" class="sf-with-ul">Overview &amp; Utility</a>
                                     </li>
                                     <li>
-                                        <a href="competition-league.shtml">Future Trading League</a>
+                                        <a href="about-intelli-flow.shtml" class="sf-with-ul">Economy &amp; Distribution</a>
+                                    </li>
+                                    <li>
+                                        <a href="about-intelli-streams.shtml" class="sf-with-ul">Intelli Streams</a>
                                     </li>
                                 </ul>
                             </li>

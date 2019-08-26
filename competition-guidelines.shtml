@@ -33,7 +33,7 @@
                                                 <div>
                                                     <div style="padding: 0 15px 0 15px;">
                                                         <h2 style="font-weight:700;">
-                                                            General Guidelines for Upcoming Alpha-Stage Trading Competitions
+                                                            General Guidelines for Alpha-Stage Trading Competitions
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -54,7 +54,6 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">Alpha-Stage Testing Competitions</h1>
-                        <h3><strong>Alpha version ETA: Q1, 2020</strong></h3>
                         <h3>Alpha-stage <!--#include file="tooltips/superalgos-competitions.shtml" --> hosted by our first partner <!--#include file="tooltips/exchange.shtml" --> <!--<a href="https://coss.io" rel="nofollow" rel="noopener" target="_blank">COSS.IO</a> -->will start soon. This is how your experience as an alpha-tester may look like...</h3>
 
                     </div>

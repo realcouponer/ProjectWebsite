@@ -52,7 +52,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Utility</h1>
+                        <h1 class="sc_title sc_title_underline">Overview</h1>
                         <br />
                     </div>
                     <div class="col-sm-6">
@@ -68,6 +68,40 @@
         </section>
 
         <section id="rules_section" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Utility</h1>
+                        <h5 class="sc_title sc_title_underline">Specific Use Cases</h5>
+                        <br />
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <h2>Stage 2: Competitions</h2>
+                            <ul>
+                                <li><p>Paying for Official Competition Tickets;</p></li>
+                                <li><p>Paying for Official Competition Prizes.</p></li>
+                            </ul>
+                                <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
+                                    <a href="competition-league.shtml">Learn More About Competitions</a>
+                                </span>
+                        </div>
+                        <div class="col-sm-6">
+                            <h2>Stage 3: Network &amp; Marketplace</h2>
+                            <ul>
+                                <li><p>Paying for computational resources rented at a <!--#include file="tooltips/superalgos-node.shtml" -->, like processing time, memory and storage;</p></li>
+                                <li><p>Paying for <!--#include file="tooltips/data-services.shtml" --> provided by Algo-Makers at the <!--#include file="tooltips/marketplace.shtml" -->;</p></li>
+                                <li><p>Paying for <!--#include file="tooltips/trading-services.shtml" --> provided by Algo-Makers at the Marketplace;</p></li>
+                                <li><p>Paying for <!--#include file="tooltips/asset-management-services.shtml" --> provided by Asset Managers at the Marketplace;</p></li>
+                                <li><p>Paying <!--#include file="tooltips/bundled-volume-discounts.shtml" --> distributed back to Node Operators by <!--#include file="tooltips/exchanges.shtml" -->.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="rules_section" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
