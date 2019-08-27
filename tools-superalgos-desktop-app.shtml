@@ -48,54 +48,66 @@
             </div>
         </section>
 
+        <section id="purchase_section" class="color_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>Go straight to Getting Started Guide!</span>
+                            <span class="sc_button sc_button_size_big squareButton accent_2 big">
+                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md#getting-started" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Take Me Fast!</a>
+                            </span>
+                        </h3>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
         <section id="trading_suite" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Superalgos Desktop App Pre-Release</h1>
-                        <h3>
-                            We strive to help you automate your crypto-trading, even if you have virtually zero coding skills. <br />
+
+                        <h2 class="sc_title">Superalgos Desktop App</h2>
+                        <h5 class="sc_title sc_title_underline">Pre-Release</h5>
+                        <p class="sc_content text-center">
+                            We strive to help you automate your crypto-trading, even if you have virtually zero coding skills.
                             Our solution builds on a powerful trading protocol, features a trustless deployment and is free.
-                        </h3>
+                        </p>
                         <br />
                         <iframe width="1120" height="630" src="https://www.youtube.com/embed/uhzflZWB7dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-                        <h3>Superalgos is pre-releasing an early alpha-stage version of the Superalgos Desktop App, in the hope that early adopters will help us shape the software and evolve it into a robust product. <br/><br/>Join our <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Telegram Community</a> to get in touch with other users and to offer your feedback! </h3>
+                        <p class="sc_content text-center">Superalgos is pre-releasing an early alpha-stage version of the Superalgos Desktop App, in the hope that early adopters will help us shape the software and evolve it into a robust product. Join our <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Telegram Community</a> to get in touch with other users and to offer your feedback! </p>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="downloads" class="green_section">
+        <section id="status" class="darkgrey_section">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-1">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Getting Started</h1>
                     </div>
-                    <div class="col-sm-10">
-                        <blockquote>
-                            <h1 class="text-center">Downloads</h1>
-
-                            <p>Always download from the official <a href="https://github.com/Superalgos/DesktopApp/releases" rel="nofollow" rel="noopener" target="_blank">releases</a> page in the DesktopApp repository.</p>
-
-                        </blockquote>
-                        <blockquote>
-                            <h1 class="text-center">Documentation &amp; Tutorials</h1>
-
-                            <p>Installation instructions and documentation may be found in the <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md" rel="nofollow" rel="noopener" target="_blank">Desktop App README</a>.</p>
-
-                            <p>Fundamental reading on the conceptual framework for automating your Trading System:</p>
-
-                            <ul>
-                                <li><p><a href="https://medium.com/@julian_superalgos/superalgos-protocol-v0-1-the-short-version-for-experienced-traders-86c3fa43f1c0" rel="nofollow" rel="noopener" target="_blank">Superalgos Protocol V0.1 &mdash; The Short Version, for Experienced Traders.</a></p></li>
-                                <li><p><a href="https://medium.com/@julian_superalgos/superalgos-protocol-v0-1-the-long-version-for-beginner-traders-f293f1cc6c13" rel="nofollow" rel="noopener" target="_blank">Superalgos Protocol V0.1 &mdash; The Long Version, for Beginner Traders.</a></p></li>
-                            </ul>
-
-                            <p>Browse our <a href="https://www.youtube.com/channel/UCmYSGbB151xFQPNxj7KfKBg" rel="nofollow" rel="noopener" target="_blank">YouTube Channel</a> for video tutorials.</p>
-
-                        </blockquote>
-
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h5 style="text-align: center; color:#fff;">Installation Instructions</h5>
+                        <p>Deploying complex systems in a user-friendly manner is a huge challenge. The button below will take you to the instructions that will guide you in the process of downloading and running the app in your machine. Feel free to direct questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> should you run into any issues. The same page provides complete documentation, so keep it at hand once you are up and running.</p>
+                        <br />
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md#getting-started" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Documentation</a>
+                            </span>
+                        </div>
                     </div>
-                    <div class="col-sm-1">
+                    <div class="col-sm-6">
+                        <h5 style="text-align: center; color:#fff;">Other Resources</h5>
+                        <ul>
+                            <li><p>Fundamental reading on the conceptual framework for automating your Trading System: Superalgos Protocol V0.1 &mdash; <a href="https://medium.com/@julian_superalgos/superalgos-protocol-v0-1-the-short-version-for-experienced-traders-86c3fa43f1c0" rel="nofollow" rel="noopener" target="_blank">the short version</a>, for experienced traders and <a href="https://medium.com/@julian_superalgos/superalgos-protocol-v0-1-the-long-version-for-beginner-traders-f293f1cc6c13" rel="nofollow" rel="noopener" target="_blank">the long version</a>, for beginner traders.</p></li>
+                            <li><p>Browse our <a href="https://www.youtube.com/channel/UCmYSGbB151xFQPNxj7KfKBg" rel="nofollow" rel="noopener" target="_blank">YouTube Channel</a> for video tutorials.</p></li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -105,8 +117,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Current Features &amp; Limitations</h1>
-                        <h3>This is a pre-release in alpha stage. As such, you should expect rough edges and several blatant limitations on top of the expected instability you may find in a product that is still in development.</h3>
+                        <h2 class="sc_title sc_title_underline">Current Features &amp; Limitations</h2>
+                        <p class="sc_content text-center">This is a pre-release in alpha stage. As such, you may find rough edges and limitations on top of the instability you should expect in a product that is still in development.</p>
                         <br />
                     </div>
                 </div>
@@ -146,7 +158,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Design Principles</h1>
+                        <h2 class="sc_title sc_title_underline">Design Principles</h2>
                     </div>
                 </div>
                 <div class="row">
@@ -178,7 +190,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Architecture</h1>
+                        <h2 class="sc_title sc_title_underline">Architecture</h2>
                     </div>
                 </div>
                 <div class="row">
@@ -187,19 +199,8 @@
                         <p>The platform is the collection of software and tech-infrastructure that encompasses all of the Superalgos tools described below.</p>
                     </div>
                     <div class="col-sm-6">
-                        <h3>Strategy Engine</h3>
-                        <p>The engine backtests and forward-tests the instructions defined on its protocol file input. In coordination with Strategy Executor, the engine can also live trade.</p>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-sm-6">
-                        <h3>Superalgos Node</h3>
-                        <p>The node is a subset of the Superalgos Platform that will allow <!--#include file="tooltips/node-operators.shtml" --> to provide platform and <!--#include file="tooltips/algorithms.shtml" --> hosting services. Traders who decide to trust Node Operators will have an alternative to managing their own VPS.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <h3>Strategy Executor</h3>
-                        <p>This software interprets the execution instructions embedded at a protocol file. The instructions determine the type of order to use, and what to do in every possible situation that could emerge during the placement and management of Exchange orders.</p>
+                        <h3>Trading Engine</h3>
+                        <p>The engine backtests and forward-tests and live-trades interpreting the instructions defined on its protocol file input. </p>
                     </div>
                 </div>
 
@@ -209,19 +210,30 @@
                         <p>The Superalgos Protocol is a file with a specific format capable of holding all the information concerning any number and variety of Strategies. In its current early version, the protocol is simply the description of a JSON object which defines the desired automation.</p>
                     </div>
                     <div class="col-sm-6">
-                        <h3>Charting System</h3>
-                        <p>The Charting System plots indicators data along with the actions taken by the Strategy Engine and the Executor, integrated with market data.</p>
+                        <h3>Designer</h3>
+                        <p>The Designer is a visual tool resembling a mind map that allows users to create their Strategies directly within the charts. The Strategy Designer allows users to input the formulas, situations and conditions describing a Strategy, and outputs the protocol format for other tools to interpret.</p>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-sm-6">
-                        <h3>Strategy Designer</h3>
-                        <p>The Strategy Designer is a visual tool resembling a mind map that allows users to create their Strategies directly within the charts. The Strategy Designer allows users to input the formulas, situations and conditions describing a Strategy, and outputs the protocol format for other tools to interpret.</p>
+                        <h3>Charting System</h3>
+                        <p>The Charting System plots indicators data along with the actions taken by the Trading Engine, integrated with market data. This is where you can see the result of your simulations and live trading operations.</p>
+
                     </div>
+                    <div class="col-sm-6">
+                        <h3>Superalgos Node</h3>
+                        <p>The node is a subset of the Superalgos Platform that will allow <!--#include file="tooltips/node-operators.shtml" --> to provide platform and <!--#include file="tooltips/algorithms.shtml" --> hosting services. Traders who decide to trust Node Operators will have an alternative to managing their own VPS.</p>
+
+                    </div>
+                </div>
+
+                <div class="row">
                     <div class="col-sm-6">
                         <h3>Backend</h3>
                         <p>Several modules handle a number of concepts that run in the background, out of sight of the common user, which set the foundations for developing the broader system that will make possible the existence of financial beings, the Intelli Ecosystem, the Trading Intelligence Marketplace and the Superalgos Trading League, to name a few of the envisioned milestones that lead to our long-term vision.</p>
+                    </div>
+                    <div class="col-sm-6">
                     </div>
                 </div>
             </div>
