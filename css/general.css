@@ -556,8 +556,9 @@ ul.sc_list_style_disk li:before,
 
 .swiper-scrollbar-drag,
 a.sc_icon.bg_icon.sc_icon_round:hover,
-a.sc_icon.no_bg_icon.sc_icon_round:hover
-{ background-color:#0f75bc !important; }
+a.sc_icon.no_bg_icon.sc_icon_round:hover {
+    background-color: #0295aa !important;
+}
 
 .theme_accent_3_bgc,
 .theme_accent_3_bgc:before,
@@ -576,8 +577,9 @@ ul > li.share > ul.shareDrop > li > a:hover,
 .sc_team .sc_team_item .sc_team_item_avatar:after,
 .calendar tbody td a:hover,
 .calendar tbody td.today > span,
-.footerStyleDark .widget_socials .socPage ul li a:hover
-{ background-color:#05d1d4; }
+.footerStyleDark .widget_socials .socPage ul li a:hover {
+    background-color: #4acfd9;
+}
 
 .theme_accent_3_bg,
 .theme_accent_3_bg:before
@@ -633,7 +635,7 @@ ul > li.share > ul.shareDrop,
 .squareButton.accent_2 > button:active,
 .user-popUp .formItems .formList li .sendEnter:hover,
 .user-popUp .formItems .formList li .sendEnter:active
-{ background-color: rgba(57, 32, 113, 0.7) !important; }
+{ background-color: rgba(2, 149, 170, 0.7) !important; }
 
 
 .squareButton.accent_3 > a:hover,
