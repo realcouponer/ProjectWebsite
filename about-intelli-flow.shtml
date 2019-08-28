@@ -47,8 +47,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Intelli Token (INTI) Economy</h1>
-                        <h3>In summary, a hard cap of no more than 1.5 billion Intelli tokens issued during the first five years is set. For the sixth year and on, an issuing cap of 150 million Intelli per year is permitted. This allows for continuous expansion after the fifth year, but with a declining inflation rate.</h3>
+                        <h2 class="sc_title sc_title_underline">Intelli Token (INTI) Economy</h2>
+                        <h3>In summary, a hard cap of no more than 1.5 billion Intelli tokens issued during the first five years is set. For the sixth year and on, an issuing cap of 150 million Intelli per year is permitted. This allows for continuous expansion after the fifth year, but with a declining inflation rate.</p>
                         <br />
                     </div>
                     <div class="col-sm-6">
@@ -73,7 +73,7 @@
                         <p><strong>The token is therefore issued in exchange for intelligence, which is spread across the ecosystem as winning Strategies are open-sourced.</strong></p>
                     </div>
                     <div class="col-sm-12 text-center">
-                        <h3>In conclusion, the issuance of Intelli tokens carefully matches the growth of the ecosystem. Indeed, the design of the economy allows for and incentivizes rapid growth. In all instances, issuance is governed by a decentralized Governing Body, as detailed in the  Intelli Governance Charter.</h3>
+                        <br/><p class="sc_content text-center">In conclusion, the issuance of Intelli tokens carefully matches the growth of the ecosystem. Indeed, the design of the economy allows for and incentivizes rapid growth. In all instances, issuance is governed by a decentralized Governing Body, as detailed in the  Intelli Governance Charter.</p>
 
                     </div>
                 </div>

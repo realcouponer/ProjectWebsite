@@ -52,7 +52,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Motivation</h1>
+                        <h2 class="sc_title sc_title_underline">Motivation</h2>
                         <h3>What kind of new disruptive system could produce <i>zero cost, ever-evolving trading intelligence</i>, that would sooner or later outperform the intelligence produced in silos by investment companies?</h3>
                         <br />
                     </div>
@@ -66,8 +66,8 @@
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-sm-12">
-                            <h1 class="sc_title">Why We Compete</h1>
-                            <h5 class="sc_title sc_title_underline">A glimpse into the existing model and the Superalgos alternative</h5><br />
+                            <h2 class="sc_title sc_title_underline">Why We Compete</h2>
+                            <h3 style="color:#FFF;">A glimpse into the existing model and the Superalgos alternative</h3><br />
                         </div>
                     </div>
                     <div class="row">
@@ -92,19 +92,17 @@
 
                         <div class="col-sm-6">
                             <div class="features_container_right margin_bottom_mini">
-
                                 <div class="features_icon text-center theme_accent_1_bgc" style="margin-top:-10px;">
                                     <i class="fa fa-forward"></i>
                                 </div>
                                 <div class="features_descr">
                                     <h3 style="color:#FFF;">Our Open Evolutionary Approach</h3>
                                     <p style="text-align:justify;">
-                                        A global collective creates Algorithms and puts them to compete for prize money, reputation and for fun!
+                                        A global collective creates Algorithms and puts them to compete for prize money, reputation and fun!
                                         After each <!--#include file="tooltips/superalgos-competition.shtml" --> ends, Algorithms are open-sourced.
                                         The collective improves the best ones and puts the new generation back to compete again, unleashing a <strong> relentless evolutionary process</strong>.
                                         Algorithms losing performance are quickly replaced by improved evolutions.
                                     </p>
-
                                 </div>
                             </div>
                         </div>
@@ -261,22 +259,21 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <h1 class="sc_title sc_title_underline">Superalgos Trading League</h1>
-                    <h3>A shift in incentives drives the <!--#include file="tooltips/community.shtml" --> to relentlessly evolve trading intelligence. Instead of focusing <i>only</i> on profits obtained from trading, the Community participates in <!--#include file="tooltips/superalgos-competitions.shtml" -->, attracted by the following essential traits...</h3>
+                    <h2 class="sc_title sc_title_underline">Superalgos Trading League</h2>
+                    <h3>The mid-term goal of the project is producing the required shift in incentives that will drive the <!--#include file="tooltips/community.shtml" --> to openly collaborate and evolve trading intelligence. Instead of focusing only on profits obtained from trading, the Community participates in <!--#include file="tooltips/superalgos-competitions.shtml" -->, attracted by several incentives...</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-6">
                     <ul>
-                        <li><p>By entering Competitions, Community members access the collective's state-of-the-art trading technology.</p></li>
-                        <li><p>On top of making profits with trading, Competitions offer the potential of trading profits as well as the ability to earn <i>substantial cash prizes</i>.</p></li>
-                        <li><p>Community members may take the best <!--#include file="tooltips/algorithms.shtml" --> and try to improve them, which saves the effort of producing Algorithms from scratch.</p></li>
+                        <li><p>On top of the profits that may be obtained via trading during the event&mdash;trading is for real&mdash;Competitions offer the potential for earning substantial cash prizes.</p></li>
+                        <li><p>Community members&mdash;including non-coders&mdash;may take the best open-source Strategies and try to improve them, which saves the effort of producing Strategies from scratch.</p></li>
                     </ul>
                 </div>
                 <div class="col-sm-6">
                     <ul>
-                        <li><p>Participants compete for the ludic and entertainment value, for the challenge, for fame and glory, to feel honor and pride, to measure their skills, to be a part of a Community, or simply, to win.</p></li>
-                        <li><p>Performing well in Competitions allow participants to build up their reputation which enhances their ability to offer automated trading services in the <!--#include file="tooltips/marketplace.shtml" -->.</p></li>
+                        <li><p>Besides, the Community develops strong collaborative relationships through teamwork, spontaneously forming Teams.</p></li>
+                        <li><p>Performing well in Competitions allow participants to build up their reputation which enhances their ability to&mdash;eventually, on Stage 3&mdash;offer automated trading services in the <!--#include file="tooltips/marketplace.shtml" -->.</p></li>
                     </ul>
                 </div>
             </div>
@@ -287,23 +284,22 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <h1 class="sc_title sc_title_underline">Partnership with Exchanges</h1>
-                    <h3>The Superalgos Organization partners with Exchanges in the following terms...</h3>
+                    <h2 class="sc_title sc_title_underline">Partnership with Exchanges</h2>
+                    <h3>The Superalgos Organization partners with Exchanges in the following terms...</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-6">
                     <ul>
-                        <li><p>The <!--#include file="tooltips/superalgos-project.shtml" --> enables ongoing Competitions running on the <!--#include file="tooltips/superalgos-platform.shtml" --> while doing the actual trading on <!--#include file="tooltips/exchanges.shtml" -->.</p></li>
-                        <li><p>Competitions are designed to direct the evolution of the ecosystem's intelligence towards trading increasingly important value in assets, thus, are expected to generate substantial trading volume at Exchanges.</p></li>
-                        <li><p>Exchanges promote Competitions among their own clients and award <!--#include file="tooltips/intelli-tokens.shtml" --> to the winner as prize money to incentivize participation and thus grow their own trading volume.</p></li>
+                        <li><p>The <!--#include file="tooltips/superalgos-project.shtml" --> enables Exchanges to run their own Trading Leagues.</p></li>
+                        <li><p>Competitions are expected to generate substantial trading volume at Exchanges.</p></li>
+                        <li><p>Exchanges promote Competitions among their clients and award <!--#include file="tooltips/intelli-tokens.shtml" --> to the winner as prize money to incentivize participation and thus grow trading volume.</p></li>
                     </ul>
                 </div>
                 <div class="col-sm-6">
                     <ul>
-                        <li><p>The Superalgos Project adds to the incentives by offering Intelli tokens as prize money for runners-up.</p></li>
-                        <li><p>As each Exchange is onboarded and set with its own Competition, the Exchange lists the Intelli token so that the Exchange's clients can cash out awarded Intelli tokens if they wish so. </p></li>
-                        <li><p>Once the clients of each newly onboarded Exchange become aware of the Superalgos Project, a small exchange offering of Intelli tokens is launched at the Exchange.</p></li>
+                        <li><p>As each Exchange is on-boarded and set up with its Competition, the Exchange lists the Intelli token so that clients can cash out awarded Intelli tokens if they wish so. </p></li>
+                        <li><p>Once clients of each newly on-boarded Exchange become aware of the Superalgos Project, a small Exchange offering of Intelli tokens is launched at the Exchange. </p></li>
                     </ul>
                 </div>
             </div>
@@ -316,14 +312,14 @@
                 <div class="col-sm-6">
                     <ul>
                         <li><p>Competitions drive trading volume on which Exchanges charge Transaction Fees.</p></li>
-                        <li><p>Transaction Fees finance the prize money awarded by Exchanges to incentivize Competitions and also generate  profits for the respective Exchange.</p></li>
-                        <li><p>Exchanges become invested stakeholders and get an <!--#include file="tooltips/intelli-stream.shtml" -->&mdash;a smart contract that allocates Intelli Tokens at a certain rate, in compensation for the value added to the project.</p></li>
+                        <li><p>Transaction Fees finance the prize money awarded by Exchanges to incentivize Competitions and also generate profits.</p></li>
+                        <li><p>Exchanges have the opportunity to raise and increase awareness within the growing Superalgos Community, and compete for new customers.</p></li>
                     </ul>
                 </div>
                 <div class="col-sm-6">
                     <ul>
-                        <li><p>Exchanges have the opportunity to raise and increase awareness within the growing <!--#include file="tooltips/community.shtml" --> and acquire new customers.</p></li>
-                        <li><p>The gamification (Competitions) and trading toolbox provided by the Superalgos Platform activates traders and drives an increase of trading volume within the existing Exchange clients.</p></li>
+                        <li><p>Exchanges become invested stakeholders and get an <!--#include file="tooltips/intelli-streams.shtml" -->&mdash;a device that issues Intelli tokens to the Stream beneficiary address at a certain rate&mdash;in compensation for the value added to the project.</p></li>
+                        <li><p>The gamification (Competitions) and algorithmic-trading toolbox provided by the Superalgos Platform activate traders and drive an increase of trading volume within the existing Exchange clients.</p></li>
                     </ul>
                 </div>
             </div>
@@ -336,12 +332,12 @@
             <div class="row">
                 <div class="col-sm-6">
                     <ul>
-                        <li><p>Exchanges contribute to bootstrapping the Community driving new members to the Superalgos Project and incentivizing the Community to compete.</p></li>
+                        <li><p>Exchanges contribute to bootstrapping the <!--#include file="tooltips/community.shtml" --> driving new members to the Superalgos Project and incentivizing the Community to compete by awarding significant prize money to competition winners.</p></li>
                     </ul>
                 </div>
                 <div class="col-sm-6">
                     <ul>
-                        <li><p>Exchanges contribute to the funding and growth of the Superalgos Project by listing, marketing and conducting exchange offerings of the Intelli Token.</p></li>
+                        <li><p>Exchanges contribute to the funding and growth of the Superalgos Project by listing, marketing and conducting Exchange offerings of the Intelli token.</p></li>
                     </ul>
                 </div>
             </div>

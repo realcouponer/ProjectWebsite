@@ -89,7 +89,6 @@
                             </span>
                         </h3>
                     </div>
-
                 </div>
             </div>
         </section>
@@ -99,15 +98,16 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h2 class="sc_title sc_title_underline">The Superalgos Project</h2>
-                        <p class="sc_content text-center">We are an open collaboration of traders, developers, entrepreneurs and experts in various fields with the vision of a global Collective Trading Intelligence at the service of all people.</p>
+                        <p class="sc_content text-center"><strong>We are an open-source project with the vision of a global Collective Trading Intelligence at the service of all people.</strong></p>
+                        <p class="sc_content text-center">We build towards our vision with a bottom-up approach, in 3 stages, and are currently delivering Stage 1. At this point, only a fraction of the technology that enables the functionality described in these pages is implemented. Check the <a href="#roadmap">Progress Log & Roadmap</a>.</p>
                     </div>
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4 col-sm-12">
                         <div class="sc_column">
                             <a href="tools-superalgos-desktop-app.shtml" class="sc_icon fa fa-robot sc_icon_round bg_icon margin_bottom_mini"></a>
-                            <h5 class="sc_title ">Automate Trading</h5>
-                            <p>We build towards our vision with a bottom-up approach. In stage 1, we empower traders with full automation and collaboration capabilities to help them realize their potential. This stage will see the growth of the <!--#include file="tooltips/community.shtml" --> and culture of cooperation in trading.</p>
+                            <h5 class="sc_title ">Stage 1:<br/>Automate Trading</h5>
+                            <p>In stage 1, we empower traders with free, open-source tools that enable full trading automation and collaboration. This stage will see the growth of the <!--#include file="tooltips/community.shtml" --> and culture of cooperation in trading&mdash;an essential trait that will set the foundations for a Collective Trading Intelligence.</p>
                         </div>
                         <div class="text-center">
                             <br /><br />
@@ -119,8 +119,8 @@
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
                             <a href="competition-overview.shtml" class="sc_icon fa fa-dna sc_icon_round bg_icon margin_bottom_mini"></a>
-                            <h5 class="sc_title ">Evolve Trading Intelligence</h5>
-                            <p>In stage 2 comes engaging the Community in an evolutionary model. <!--#include file="tooltips/algorithms.shtml" --> participate in <!--#include file="tooltips/superalgos-competitions.shtml" --> for cash prizes (shift in incentives). Winners are open-sourced (knowledge dissemination) for the collective to improve and put back to compete again (rapid evolution).</p>
+                            <h5 class="sc_title ">Stage 2:<br />Evolve Trading Intelligence</h5>
+                            <p>Stage 2 is about engaging the Community in an evolutionary model. <!--#include file="tooltips/algorithms.shtml" --> participate in <!--#include file="tooltips/superalgos-competitions.shtml" --> for cash prizes (shift in incentives). Winners are open-sourced (knowledge dissemination) for the collective to improve and put back to compete again (rapid evolution).</p>
                         </div>
                         <div class="text-center">
                             <br /><br />
@@ -132,8 +132,8 @@
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
                             <a href="about-marketplace.shtml" class="sc_icon fa fa-handshake sc_icon_round bg_icon margin_bottom_mini"></a>
-                            <h5 class="sc_title ">Make Intelligence Accessible</h5>
-                            <p>In stage 3, counting with highly-evolved Algorithms, the project will deploy a Trading Intelligence Marketplace over a permissionless network. Investors of all calibers will hire Asset Management Services, renting Algorithms from the Community to actively manage funds.</p>
+                            <h5 class="sc_title ">Stage 1:<br />Make Intelligence Accessible</h5>
+                            <p>In stage 3, then counting with highly-evolved Algorithms, the project will deploy a Trading Intelligence Marketplace over a permissionless network. Investors will hire Asset Management Services, which, in turn, will rent Algorithms from the Community to manage funds.</p>
                         </div>
                         <div class="text-center">
                             <br /><br />
@@ -173,7 +173,7 @@
 
 
 
-        <section id="status" class="light_section">
+        <section id="roadmap" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -251,7 +251,7 @@
                                         <div class="col-sm-12 text-center">
                                             <br />&nbsp;
                                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                                <a href="tools-superalgos-desktop-app.shtml">Learn More</a>
+                                                <a href="tools-superalgos-desktop-app.shtml">Superalgos Desktop App</a>
                                             </span><br />&nbsp;
                                         </div>
                                     </div>
