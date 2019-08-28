@@ -52,16 +52,16 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Overview</h1>
+                        <h2 class="sc_title sc_title_underline">Overview</h2>
                         <br />
                     </div>
                     <div class="col-sm-6">
-                        <p>The Intelli Token is the medium of exchange within the <!--#include file="tooltips/intelli-ecosystem.shtml" -->, by which stakeholders transfer value in exchange for products or services. Stakeholders may be humans or machines, and products and services range from trading <!--#include file="tooltips/superalgos-competitions.shtml" --> or actual automated trading services, to data products that trading <!--#include file="tooltips/algorithms.shtml" --> consume to make decisions.</p>
-                        <p>Intelli also represents a form of energy turning bots into beings with a <!--#include file="tooltips/financial-life.shtml" --> of their own. It represents a scarce resource&mdash;like food&mdash;in the financial biosphere which <!--#include file="tooltips/financial-beings.shtml" --> need to obtain in order to stay alive.</p>
+                        <p>The Intelli Token is the medium of exchange within the <!--#include file="tooltips/intelli-ecosystem.shtml" -->, by which stakeholders transfer value in exchange for products or services. Stakeholders may be humans or machines. Products and services range from trading <!--#include file="tooltips/superalgos-competitions.shtml" --> or automated trading services to data products that trading <!--#include file="tooltips/algorithms.shtml" --> consume to make decisions.</p>
+                        <p>Intelli also represents a form of energy turning bots into beings with a <!--#include file="tooltips/financial-life.shtml" -->. It represents a scarce resource&mdash;like food&mdash;in the financial biosphere which <!--#include file="tooltips/financial-beings.shtml" --> need to obtain to stay alive.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>The scarce nature of the Intelli Token along with its floating price in the markets turns this resource into a regulating feature of the environment in which financial beings live in.</p>
-                        <p>If Intelli price increases, the resource becomes more scarce, putting the population of financial beings under pressure, thus conditioning the life of the less efficient ones; in turn, decreasing Intelli prices favor the proliferation of financial beings, incentivizing <!--#include file="tooltips/algo-makers.shtml" --> to try out ideas in the wild.</p>
+                        <p>If Intelli price increases, the resource becomes more scarce, putting the population of financial beings under pressure, thus conditioning the life of the less efficient ones. Decreasing Intelli prices favor the proliferation of financial beings, incentivizing <!--#include file="tooltips/algo-makers.shtml" --> to try out new ideas in the wild.</p>
                     </div>
                 </div>
             </div>
@@ -71,23 +71,21 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title">Utility</h1>
+                        <h2 class="sc_title">Utility</h2>
                         <h5 class="sc_title sc_title_underline">Specific Use Cases</h5>
                         <br />
                     </div>
                     <div class="row">
                         <div class="col-sm-6">
-                            <h2>Stage 2: Competitions</h2>
+                            <h3>Stage 2: Competitions</h3>
                             <ul>
                                 <li><p>Paying for <!--#include file="tooltips/official-competitions.shtml" --> <!--#include file="tooltips/tickets.shtml" -->;</p></li>
                                 <li><p>Paying for Official Competition <!--#include file="tooltips/prizes.shtml" -->.</p></li>
                             </ul>
-                                <span class="sc_button sc_button_style_global sc_button_size_big squareButton global big">
-                                    <a href="competition-league.shtml">Learn More About Competitions</a>
-                                </span>
+
                         </div>
                         <div class="col-sm-6">
-                            <h2>Stage 3: Network &amp; Marketplace</h2>
+                            <h3>Stage 3: Network &amp; Marketplace</h3>
                             <ul>
                                 <li><p>Paying for computational resources rented at a <!--#include file="tooltips/superalgos-node.shtml" -->, like processing time, memory and storage;</p></li>
                                 <li><p>Paying for <!--#include file="tooltips/data-services.shtml" --> provided by Algo-Makers at the <!--#include file="tooltips/marketplace.shtml" -->;</p></li>
@@ -105,7 +103,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Technical Details</h1>
+                        <h2 class="sc_title sc_title_underline">Technical Details</h2>
                         <h3>
                             Intelli is an ERC 20 token soon to be deployed on the Ethereum platform. If you are interested in the technicalities and code, please visit our <a href="https://github.com/Superalgos/IntelliToken" rel="noopener" target="_blank">Intelli Smart Contracts</a> repository.
                         </h3>

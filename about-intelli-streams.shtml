@@ -52,23 +52,23 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Proof of Worth</h1>
+                        <h2 class="sc_title sc_title_underline">Proof of Worth</h2>
                         <h3>
                             People and companies adding value to the <!--#include file="tooltips/superalgos-project.shtml" --> become <!--#include file="tooltips/team-members.shtml" --> and earn Intelli Streams as incentives. An Intelli Stream delivers a continuous flow of Intelli for as long as the contribution lasts, and entitles Team Members with rights over the governance of the <!--#include file="tooltips/intelli-token.shtml" -->.
-                        </h3>
+                        </p>
                         <br />
                     </div>
                     <div class="col-sm-6">
                         <p>Bitcoin borrowed the mining analogy from the mining industry as a way to convey the notion that securing the network requires significant investments of various resources, starting with the initial cost of the mining rig and infrastructure along with ongoing operational costs.</p>
-                        <p>Entities willing to make such investments and provide such valuable service to the network would in turn be compensated with newly minted bitcoin.</p>
-                        <p>It is in that same spirit that we invent our own concept of earning and keeping an Intelli Stream. The analogy describes how any person or company may help secure the success of the Superalgos Project, and obtain Intelli Tokens in reward, on a continuous basis.</p>
-                        <p>In nature the water springs up in places that connect to the abundant water source, and forms streams that flow and promote life along their path.</p>
+                        <p>Entities willing to make such investments and provide such valuable service to the network would, in turn, be compensated with newly minted bitcoin.</p>
+                        <p>It is in that same spirit that we invent our concept of earning and keeping an Intelli Stream. The analogy describes how any person or company may help secure the success of the Superalgos Project, and obtain Intelli Tokens in reward, continuously.</p>
+                        <p>In nature, water springs up in places that connect to the abundant water source and forms streams that flow and promote life along their path.</p>
                         <p>We imagine the Intelli source as the source of energy in the <!--#include file="tooltips/intelli-ecosystem.shtml" -->, connecting to an entity that proves its willingness to reach out by contributing value. In return, the ecosystem offers a spring from which a stream of Intelli will flow.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p><strong>The Intelli Stream is potentially endless and will last for as long as the contributor's pledges are honoured.</strong></p>
+                        <p><strong>The Intelli Stream is potentially endless and will last for as long as the contributor's pledges are honored.</strong></p>
                         <p>We wish to form lasting and mutually rewarding connections. </p>
-                        <p>Like with bitcoin miners, earning an Intelli Stream requires an upfront investment, in our case, mostly of time and effort, along with an ongoing commitment of similar resources in the long run.</p>
+                        <p>Like with bitcoin miners, earning an Intelli Stream requires an upfront investment, in our case, the investment is mostly of time and effort, along with an ongoing commitment of similar resources in the long run.</p>
                         <p>Beyond being <a href="about-intelli-overview.shtml">the medium of exchange within the ecosystem and a form of energy enabling financial life</a>, Intelli is also the backbone of the <!--#include file="tooltips/superalgos-project.shtml" --> incentives scheme.</p>
                         <p>People and companies working with the project, starting with the Core Team, the Dev Team and <!--#include file="tooltips/team-members.shtml" --> as a whole are all incentivized with Intelli Streams, for as long as they keep adding value to the project.</p>
                     </div>
@@ -80,7 +80,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Intelli Streams</h1>
+                        <h2 class="sc_title sc_title_underline">Intelli Streams</h2>
                         <h3>
                             An Intelli Stream is a soon to be deployed Ethereum smart contract, and the instrument to be used to distribute Intelli among all the entities that add value to the Superalgos Project.
                         </h3>
@@ -95,7 +95,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Intelli Allocation</h1>
+                        <h2 class="sc_title sc_title_underline">Intelli Allocation</h2>
                         <br />
                     </div>
                     <div class="col-sm-6">
@@ -106,10 +106,10 @@
                                 <p>allocate a perpetual stream of tokens to a beneficiary Intelli address;</p>
                             </li>
                             <li>
-                                <p>grant a number of votes in the governance of the Intelli Token.</p>
+                                <p>grant votes in the governance of the Intelli Token.</p>
                             </li>
                         </ul>
-                        <p>The Standard Stream features a 100,000 Intelli allocation. It relates to the amount of tokens allocated in the first 2 years and is the base for the calculations for subsequent years.</p>
+                        <p>The Standard Stream features a 100,000 Intelli allocation. It relates to the number of tokens allocated in the first 2 years and is the base for the calculations for subsequent years.</p>
                         <div>Intelli Streams come in different Sizes, numbered from 1 to 50.</div>
                         <p>A Size 1 Intelli Stream delivers the Standard Stream, that is, 100,000 Intelli during the first two years. Each increment in Size reflects a linear increment in the amount of Intelli delivered in the first two years.</p>
                     </div>
@@ -122,7 +122,7 @@
 
 </code></pre>
 
-                        <p>The number of Intelli Tokens to be allocated during the period of one year as per the above formula are actually delivered on a daily basis, in equal daily payments throughout the year.</p>
+                        <p>The number of Intelli Tokens to be allocated during one year as per the above formula are actually delivered daily, in equal daily payments throughout the year.</p>
                     </div>
                 </div>
             </div>
@@ -132,7 +132,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Voting Rights</h1>
+                        <h2 class="sc_title sc_title_underline">Voting Rights</h2>
                         <h3>
                             Each Intelli Stream is entitled to as many votes as the numeric Size of the Intelli Stream. Therefore, each <!--#include file="tooltips/team-member.shtml" --> is entitled to as many votes as the sum of the Sizes of all Intelli Streams the Team Member may hold.
                         </h3>

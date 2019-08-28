@@ -70,15 +70,13 @@
                     <div class="col-sm-12 text-center">
 
                         <h2 class="sc_title">Superalgos Desktop App</h2>
-                        <h5 class="sc_title sc_title_underline">Pre-Release</h5>
+                        <h5 class="sc_title sc_title_underline">Alpha-Stage Pre-Release</h5>
                         <p class="sc_content text-center">
                             We strive to help you automate your crypto-trading, even if you have virtually zero coding skills.
-                            Our solution builds on a powerful trading protocol, features a trustless deployment and is free.
+                            Our solution is open source, builds on a powerful trading protocol, features a trustless deployment and is free.
                         </p>
                         <br />
                         <iframe width="1120" height="630" src="https://www.youtube.com/embed/uhzflZWB7dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-                        <p class="sc_content text-center">Superalgos is pre-releasing an early alpha-stage version of the Superalgos Desktop App, in the hope that early adopters will help us shape the software and evolve it into a robust product. Join our <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Telegram Community</a> to get in touch with other users and to offer your feedback! </p>
                     </div>
                 </div>
             </div>
@@ -95,10 +93,11 @@
                     <div class="col-sm-6">
                         <h5 style="text-align: center; color:#fff;">Installation Instructions</h5>
                         <p>Deploying complex systems in a user-friendly manner is a huge challenge. The button below will take you to the instructions that will guide you in the process of downloading and running the app in your machine. Feel free to direct questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> should you run into any issues. The same page provides complete documentation, so keep it at hand once you are up and running.</p>
+                        <p>Before you dive in, we highly recommend that you read the next two sections of this page, to better understand what you are getting into.</p>
                         <br />
                         <div class="text-center">
                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md#getting-started" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Documentation</a>
+                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md#getting-started" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
                             </span>
                         </div>
                     </div>
@@ -113,7 +112,35 @@
             </div>
         </section>
 
-        <section id="features_limitations" class="light_section">
+        <section id="status" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title sc_title_underline">Setting the Right Expectations</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h5 class="text-center">What to Expect</h5>
+                        <p>Beyond the list of Current Features & Limitations you will find below, what you will get is a client application that runs entirely on users' machines. This is to fulfill the design principle of a trustless deployment: you don't need to trust any third party with your Strategies, API Keys, personal information, or funds. </p>
+                        <p>Traders rely on data sets for backtesting. The app retrieves raw trades data directly from Exchanges and processes data to produce candles and a few indicators, which are stored in your local machine.</p>
+                        <p>The volume of trades data generated at Exchanges is massive. Exchanges APIs impose limits on the bandwidth of data you may retrieve from your machine per unit of time. To save you from spending days or weeks running processes to retrieve the data you will need for backtesting, we include historic market data in our releases. </p>
+                        <p>This has a small non-monetary cost associated: the zip files you will download are quite heavy and highly compressed. As a result, it may take several hours for your machine to decompress the files. Also, a second small cost is that this adds a step in the process to fire up the app the first time.</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <h5 class="text-center">Motivation</h5>
+                        <p>Superalgos is pre-releasing an early alpha-stage version of the Superalgos Desktop App, in the hope that early adopters will help us shape the software and evolve it into a robust product. We try our best to make installation and operation easy, but at this point, the app is directed at tech-savvy individuals with a knack for learning a few PC operator tricks while installing and using the app.</p>
+                        <p>If you don't consider yourself an early adopter and usually go to your 10-year-old for advice on using your PC, you may still give it a shot. Developers and users in the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> will be happy to give you a hand and get you up and running.</p>
+                        <p>We value highly all feedback. We are listening and actively participating in the various Superalgos Community groups.</p>
+                        <p>We keep a wish list for new features in the form of <a href="https://github.com/Superalgos/DesktopApp/issues" rel="nofollow" rel="noopener" target="_blank">issues in our Github repository</a>. If you are missing a key feature, feel free to open an issue using the <code>improvement</code> label.</p>
+                        <p>However, bear in mind that the app is at an early stage of development and that the current priority is stabilization and delivery of core features.</p>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="features_limitations" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -124,7 +151,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <h3>Current Features</h3>
+                        <h5 class="text-center" style="color:#fff">Current Features</h5>
                         <ul>
                             <li><p>You may create any number of <!--#include file="tooltips/strategies.shtml" --> by entering conditions and formulas via a web application. The set of Strategies constitute your Trading System.</p></li>
                             <li><p>Virtually no coding skills are required. You define conditions and formulas with simple statements... <br /><i>(e.g. <code>candle.close < bollingerBand.movingAverage</code>)</i></p></li>
@@ -138,7 +165,7 @@
                         </ul>
                     </div>
                     <div class="col-sm-6">
-                        <h3>Current Limitations</h3>
+                        <h5 class="text-center" style="color:#fff">Current Limitations</h5>
                         <ul>
                             <li><p>Only the latest version of Chrome is currently being tested.</p></li>
                             <li><p>The App is exchange-agnostic, but only Poloniex is enabled at the moment. You may create Strategies and use simulations without a Poloniex account, but will need an account to trade live. Other exchanges will follow later on.</p></li>
@@ -154,7 +181,7 @@
             </div>
         </section>
 
-        <section id="design_principles" class="darkgrey_section">
+        <section id="design_principles" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -186,7 +213,7 @@
             </div>
         </section>
 
-        <section id="architecture" class="light_section">
+        <section id="architecture" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
