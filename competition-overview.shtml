@@ -48,18 +48,20 @@
             </div>
         </section>
 
-        <section id="project-business" class="light_section">
+        <section id="purchase_section" class="color_section no_padding_container">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">Motivation</h2>
-                        <h3>What kind of new disruptive system could produce <i>zero cost, ever-evolving trading intelligence</i>, that would sooner or later outperform the intelligence produced in silos by investment companies?</h3>
-                        <br />
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>At this point, only a fraction of the technology described in this page is implemented.<br /></span>
+                            <span class="sc_button sc_button_size_big squareButton accent_2 big">
+                                <a href="index.shtml#roadmap">Progress Log & Roadmap</a>
+                            </span>
+                        </h3>
                     </div>
                 </div>
             </div>
         </section>
-
 
         <section id="features_section" class="dark_section sc_parallax" data-parallax-speed="0.3" data-parallax-x-pos="50%" data-parallax-y-pos="50%">
             <div class="sc_parallax_content">
@@ -67,7 +69,7 @@
                     <div class="row text-center">
                         <div class="col-sm-12">
                             <h2 class="sc_title sc_title_underline">Why We Compete</h2>
-                            <h3 style="color:#FFF;">A glimpse into the existing model and the Superalgos alternative</h3><br />
+                            <h3 style="color:#FFF;">What kind of new disruptive system could produce <i>zero cost, ever-evolving trading intelligence</i>, that would sooner or later outperform the intelligence produced in silos by investment companies? A glimpse into the existing model and the Superalgos alternative...</h3><br />
                         </div>
                     </div>
                     <div class="row">

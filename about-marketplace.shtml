@@ -48,22 +48,40 @@
             </div>
         </section>
 
+        <section id="purchase_section" class="color_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>At this point, only a fraction of the technology described in this page is implemented.<br /></span>
+                            <span class="sc_button sc_button_size_big squareButton accent_2 big">
+                                <a href="index.shtml#roadmap">Progress Log & Roadmap</a>
+                            </span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section id="trading-intelligence-marketplace" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">Trading Intelligence Marketplace</h1>
-                        <h3>The Marketplace runs as a distributed system on the <!--#include file="tooltips/superalgos-network.shtml" -->, and represents the gateway for the <!--#include file="tooltips/community.shtml" --> to access the capital markets attracting traders, investors and asset managers.</h3>
+                        <h3>
+                            The long-term vision of the Superalgos Project is a Marketplace running as a distributed system on the Superalgos Network&mdash;the gateway for the Community to access capital markets, attracting traders, investors, and asset managers.
+                        </h3>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>In general terms, investors will subscribe the services of asset managers, who in turn will hire the trading intelligence available in the network.</p>
-                        <p>Asset managers will be companies or individuals in the network and their services may vary in terms of sophistication according to the size of capitals they manage.</p>
+                        <p>In general terms, investors subscribe to the services of asset managers, who in turn hire the trading intelligence available in the network.</p>
+                        <p>Asset managers are companies or individuals in the network and their services may vary in terms of sophistication according to the size of capitals they manage. Asset management services may be as elaborate as available elsewhere in the industry or as simple as an application connecting the subscription directly to Algorithms.</p>
+                        <p>The network offers both open-source trading intelligence evolved within Competitions, but also offers close-source intelligence black-boxed within Algo-Maker Teams' services, and kept private from the rest of the Community.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>Asset management services may be as elaborate as available elsewhere in the industry or as simple as an application connecting the subscription directly to <!--#include file="tooltips/algorithms.shtml" -->.</p>
-                        <p>The network will offers both open source trading intelligence evolved within <!--#include file="tooltips/superalgos-competitions.shtml" -->, but also close-source intelligence black-boxed within <!--#include file="tooltips/algo-makers.shtml" -->' services, and kept private from the rest of the Community.</p>
+                        <p>As such, the Trading Intelligence Marketplace does not negate the existing model in which trading technology is developed in secret. Instead, it challenges proprietary intelligence with an open, collective alternative that&mdash;due to its built-in evolutionary model&mdash;may eventually perform better than the closed solutions.</p>
+                        <p>Both closed, proprietary intelligence and open, collective intelligence services compete on a free-market basis. Algo-Makers, asset managers and investors are free to source the intelligence they need from anywhere in the Superalgos Network.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -71,7 +89,7 @@
                         <br /><br />
                         <h3>The flow of the Marketplace is the following...</h3></br>
                         <div>
-                            <img src="img/charts/Marketplace-Flow-01.svg" width="890px" alt="Marketplace">
+                            <img src="img/charts/Intelli-Flow-Marketplace.svg" width="890px" alt="Marketplace">
                         </div>
                         </br>
                     </div>
@@ -93,7 +111,7 @@
                         <br /><br />
                         <h3>The flow continues as follows...</h3></br>
                         <div>
-                            <img src="img/charts/Marketplace-Flow-02.svg" width="890px" alt="Marketplace">
+                            <img src="img/charts/Intelli-Flow-Evolution.svg" width="920px" alt="Evolution">
                         </div>
                     </div>
                 </div>
@@ -103,14 +121,13 @@
                         <ul>
                             <li><p>Node Operators, who offer execution and data storage services to Algorithms;</p></li>
                             <li><p>Other agents providing data, signals or other forms of trading intelligence;</p></li>
-                            <li><p>The <!--#include file="tooltips/superalgos-organization.shtml" -->, who runs part of the public infrastructure.</p></li>
                         </ul>
                     </div>
                     <div class="col-sm-6">
                         <p>At the same time, Algorithms pay <!--#include file="tooltips/algo-makers.shtml" -->:</p>
                         <ul>
-                            <li><p>in the case of open source Algorithms, the revenue is distributed based on a pro-rata of contributions in creating and training the respective Algorithm;</p></li>
-                            <li><p>In the case of closed source, the revenue goes to the sole proprietor of the Algorithm.</p></li>
+                            <li><p>in the case of open-source Algorithms, the revenue is distributed based on a pro-rata of contributions in creating and training the respective Algorithm;</p></li>
+                            <li><p>In the case of closed-source, the revenue goes to the sole proprietor of the Algorithm.</p></li>
                         </ul>
                     </div>
                 </div>

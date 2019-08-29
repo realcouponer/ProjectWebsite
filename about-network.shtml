@@ -48,23 +48,38 @@
             </div>
         </section>
 
+        <section id="purchase_section" class="color_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>At this point, only a fraction of the technology described in this page is implemented.<br /></span>
+                            <span class="sc_button sc_button_size_big squareButton accent_2 big">
+                                <a href="index.shtml#roadmap">Progress Log & Roadmap</a>
+                            </span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section id="superalgos-network" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">The Superalgos Network</h1>
-                        <h3>A P2P Network consisting of <!--#include file="tooltips/superalgos-nodes.shtml" --> running both part of the <!--#include file="tooltips/superalgos-platform.shtml" --> and <!--#include file="tooltips/algorithms.shtml" -->.</h3>
+                        <h3>A P2P Network of <!--#include file="tooltips/superalgos-nodes.shtml" --> running both part of the <!--#include file="tooltips/superalgos-platform.shtml" --> and <!--#include file="tooltips/algorithms.shtml" -->.</h3>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The main purpose of the Superalgos Network is to remove trust requirements by allowing all stakeholders to run their own instances of the Superalgos Platform.</p>
-                        <p>Anyone may download the Superalgos Node and deploy it in their own server, becoming a Node Operator.</p>
-                        <p>Node Operators may run the software for their own use or offer a hosted solution for users who chose to trust the operator (with their <!--#include file="tooltips/algorithms.shtml" -->' code and / or <!--#include file="tooltips/exchanges.shtml" -->' API Keys).</p>
+                        <p>The main purpose of the Superalgos Network is to remove trust requirements by allowing all stakeholders to run their instances of the Superalgos Platform, as a network node.</p>
+                        <p>Anyone may download the Superalgos Node and deploy it in their server, becoming a Node Operator.</p>
+                        <p>Node Operators may run the software for their use or offer a hosted solution for users who chose to trust the operator with their Strategies/Algorithms and/or Exchange API Keys.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>Superalgos Nodes work mostly on a stand-alone, independent basis in terms of their core activities, but may speak with each other to consume data and services from other nodes, and to relay relevant network information.</p>
-                        <p>The data and services an Algorithm running in a node can consume from other nodes may be black-boxed (offered on an input / output basis, without revealing how the output is obtained) and sold for micro fees, payable in <!--#include file="tooltips/intelli-tokens.shtml" --> in between Algorithms. The transactions may include indicator data, signals or any form of trading intelligence that lives distributed across the network.</p>
+                        <p>Superalgos Nodes work mostly on a stand-alone, independent basis in terms of their core activities, but may speak with each other to consume data and services from other nodes and to relay relevant network information.</p>
+                        <p>The data and services a <!--#include file="tooltips/strategy.shtml" --> running in a node may consume from other nodes, may be black-boxed (offered on an input/output basis, without revealing how the output is obtained) and sold for micro fees, payable in <!--#include file="tooltips/intelli-tokens.shtml" --> in between Algorithms. The transactions may include indicator data, signals or any form of trading intelligence that lives distributed across the network.</p>
                     </div>
                 </div>
             </div>
@@ -75,21 +90,21 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title sc_title_underline">Network Incentives</h1>
-                        <h3>Exchanges shall give back discounts on transaction fees charged on the network's bundled trading volume.</h3>
+                        <h3>Exchanges will give back discounts on fees charged on the network's bundled trading volume.</h3>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The <!--#include file="tooltips/superalgos-organization.shtml" --> enters in contractual relationships with <!--#include file="tooltips/exchanges.shtml" --> to ensure the best possible level of service to all parties involved in the <!--#include file="tooltips/marketplace.shtml" -->.</p>
-                        <p>The agreement with Exchanges extend to the implementation of a built-in incentives mechanism designed to encourage Node Operators and <!--#include file="tooltips/algo-makers.shtml" --> to run their <!--#include file="tooltips/algorithms.shtml" --> in the Superalgos Network instead of running them in any other possible way (stand alone, other platforms, etc.).</p>
-                        <p>Under such contractual agreement, each Exchange runs a Superalgos Exchange Node, which creates a <i>federation</i> with all <!--#include file="tooltips/superalgos-nodes.shtml" --> trading on the said Exchange.</p>
-                        <p>Exchanges charge Transaction Fees on every trade, and usually offer discounts to clients trading substantial volumes.</p>
-                        <p><strong>The agreement provisions for all of the volume originating at federated nodes to be bundled and computed for additional discounts on top of the discounts each Exchange grants to individual accounts within the said Exchange.</strong></p>
+                        <p>The <!--#include file="tooltips/superalgos-organization.shtml" --> will enter into contractual relationships with <!--#include file="tooltips/exchanges.shtml" --> to ensure the best possible level of service to all parties involved in the <!--#include file="tooltips/marketplace.shtml" -->.</p>
+                        <p>The agreement with Exchanges extends to the implementation of a built-in incentive mechanism designed to encourage Node Operators and <!--#include file="tooltips/algo-makers.shtml" --> to run their Algorithms in the Superalgos Network instead of running them in any other possible way (stand-alone, other platforms, etc.).</p>
+                        <p>Under such contractual agreement, each Exchange runs a Superalgos Exchange Node, which creates a federation with all Superalgos Nodes trading on the said Exchange, while running the latest unmodified official release version of the software.</p>
+                        <p>Exchanges charge Transaction Fees on every trade and usually offer discounts to clients trading substantial volumes.</p>
                     </div>
                     <div class="col-sm-6">
+                        <p>The agreement provisions for all of the volume originating at federated nodes to be bundled and computed for additional discounts on top of discounts each Exchange grants to individual accounts within the said Exchange.</p>
                         <p>In technical terms, federated nodes route their orders through the Exchange Node so that the Exchange may account for the volume coming from each node and to enable the Superalgos Organization to audit the said volume.</p>
-                        <p>Then, additional discounts are automatically distributed back to Node Operators of federated nodes on a pro-rata basis of the volume contributed to the bundle. Node Operators may choose to pass on the benefit to the users of the node, as a means to promote the use of the said node.</p>
-                        <p>Existing agreements confirm that, until the network's business evolves into a more mature state in which there will be real numbers to analyze, Exchanges may give back 50% of the gross profit generated from Transaction Fees, in the form of additional discounts.</p>
+                        <p>Then, additional discounts are automatically distributed back to Node Operators of federated nodes on a pro-rata basis of the volume contributed to the bundle. Node Operators may choose to pass on the benefit to users of the node, as a means to promote the use of the said node.</p>
+                        <p>Existing talks confirm that, until the network’s business evolves into a more mature state in which there will be real numbers to analyze, Exchanges may give back 50% of the gross profit generated from Transaction Fees in the form of additional discounts.</p>
                     </div>
                 </div>
             </div>

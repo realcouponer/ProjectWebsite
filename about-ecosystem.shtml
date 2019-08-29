@@ -48,6 +48,21 @@
             </div>
         </section>
 
+        <section id="purchase_section" class="color_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>At this point, only a fraction of the technology described in this page is implemented.<br /></span>
+                            <span class="sc_button sc_button_size_big squareButton accent_2 big">
+                                <a href="index.shtml#roadmap">Progress Log & Roadmap</a>
+                            </span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section id="ecosystem" class="light_section">
             <div class="container">
                 <div class="row">
@@ -59,12 +74,12 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <p>The Intelli Ecosystem is the network of economic relationships embodied by the activities of numerous stakeholders of the <!--#include file="tooltips/superalgos-project.shtml" -->, participating in a joint business.</p>
-                        <p>The main purpose of the ecosystem is to enable a decentralized, self-sustainable and self-regulating economic environment. Participants are exposed to business opportunities and the profits obtained through the ecosystem's output are systematically distributed and channeled to entities according to their individual contributions.</p>
+                        <p>The main purpose of the ecosystem is to enable a decentralized, self-sustainable and self-regulating economic environment. Participants are exposed to business opportunities and the profits obtained through the ecosystem's output are systematically distributed and channeled to entities according to their contributions.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>The <!--#include file="tooltips/intelli-token.shtml" --> is the medium of payment within the ecosystem, and the project's native token.</p>
                         <p>In the long run, the output of the Intelli Ecosystem will be a <!--#include file="tooltips/marketplace.shtml" --> of automated asset management and trading services, to be exposed to the general public.</p>
-                        <p>The ecosystem is composed of several stakeholders. We shall briefly introduce them in order to provide context to deeper explanations coming afterwards.</p>
+                        <p>The ecosystem is composed of several stakeholders. We shall briefly introduce them in to provide context to deeper explanations coming afterward.</p>
                     </div>
                 </div>
             </div>
@@ -84,10 +99,10 @@
                         <h2>Superalgos Organization</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>A not-for-profit organization with the main purpose to promote the Superalgos Project. The organization aims to make trading technology readily available to ever-increasing numbers of market participants by lowering the barriers of entry as well as promoting open source collaboration.</p>
+                        <p>The Superalgos Organization is a not-for-profit organization, with the main purpose to promote the <!--#include file="tooltips/superalgos-project.shtml" -->. The organization aims to make trading technology readily available to ever-increasing numbers of market participants by lowering the barriers to entry as well as promoting open-source collaboration.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>The Superalgos Organization is the legal entity representing the Superalgos Project in front of <!--#include file="tooltips/exchanges.shtml" -->, entering legal agreements with the latter to ensure a meaningful and profitable  business relationship for all parties involved.</p>
+                        <p>The Superalgos Organization is the legal entity representing the Superalgos Project in front of <!--#include file="tooltips/exchanges.shtml" -->, entering legal agreements with the latter to ensure a meaningful and profitable business relationship for all parties involved.</p>
                     </div>
                 </div>
 
@@ -113,7 +128,7 @@
                         <h2>Node Operators</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>Node operators are people or companies running <!--#include file="tooltips/superalgos-nodes.shtml" --> and potentially offering hosting services for <!--#include file="tooltips/algo-makers.shtml" --> to run their <!--#include file="tooltips/algorithms.shtml" -->.</p>
+                        <p>Node operators are people or companies running <!--#include file="tooltips/superalgos-nodes.shtml" --> and potentially offering hosting services for <!--#include file="tooltips/algo-makers.shtml" --> to run their Algorithms.</p>
                         <p>Everyone has the option to run Superalgos Nodes&mdash;that is, instances of the <!--#include file="tooltips/superalgos-platform.shtml" -->&mdash;which removes the need to trust other parties on the network with Algorithms code and/or <!--#include file="tooltips/exchanges.shtml" -->' API Keys.</p>
                     </div>
                     <div class="col-sm-6">
