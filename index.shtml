@@ -132,7 +132,7 @@
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
                             <a href="about-marketplace.shtml" class="sc_icon fa fa-handshake sc_icon_round bg_icon margin_bottom_mini"></a>
-                            <h5 class="sc_title ">Stage 1:<br />Make Intelligence Accessible</h5>
+                            <h5 class="sc_title ">Stage 3:<br />Make Intelligence Accessible</h5>
                             <p>In stage 3, then counting with highly-evolved Algorithms, the project will deploy a Trading Intelligence Marketplace over a permissionless network. Investors will hire Asset Management Services, which, in turn, will rent Algorithms from the Community to manage funds.</p>
                         </div>
                         <div class="text-center">
@@ -240,12 +240,13 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
+                                                <li><p>It's free, open-source software.</p></li>
                                                 <li><p>No coding required.</p></li>
                                                 <li><p>Visually debug and optimize Strategies.</p></li>
                                                 <li><p>Backtest and forward-test, plotting trades over the charts.</p></li>
                                                 <li><p>Deploy Strategies as fully-automated Algorithms to trade live.</p></li>
                                                 <li><p>Share and engage in collaborations with the Community.</p></li>
-                                                <li><p>Trustless deployment, with easy installation in your machine.</p></li>
+                                                <li><p>Easy installation in your machine; no need to trust third-parties.</p></li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-12 text-center">

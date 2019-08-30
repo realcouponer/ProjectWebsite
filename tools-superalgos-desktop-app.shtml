@@ -125,7 +125,7 @@
                         <p>Beyond the list of Current Features & Limitations you will find below, what you will get is a client application that runs entirely on users' machines. This is to fulfill the design principle of a trustless deployment: you don't need to trust any third party with your Strategies, API Keys, personal information, or funds. </p>
                         <p>Traders rely on data sets for backtesting. The app retrieves raw trades data directly from Exchanges and processes data to produce candles and a few indicators, which are stored in your local machine.</p>
                         <p>The volume of trades data generated at Exchanges is massive. Exchanges APIs impose limits on the bandwidth of data you may retrieve from your machine per unit of time. To save you from spending days or weeks running processes to retrieve the data you will need for backtesting, we include historic market data in our releases. </p>
-                        <p>This has a small non-monetary cost associated: the zip files you will download are quite heavy and highly compressed. As a result, it may take several hours for your machine to decompress the files. Also, a second small cost is that this adds a step in the process to fire up the app the first time.</p>
+                        <p>This has a small non-monetary cost associated: the zip files you will download are a bit heavy and highly compressed. As a result, it may take 30 to 60 minutes for your machine to decompress the files. Also, a second small cost is that this adds a step in the process to fire up the app the first time.</p>
                     </div>
                     <div class="col-sm-6">
                         <h5 class="text-center">Motivation</h5>
@@ -170,7 +170,7 @@
                             <li><p>Only the latest version of Chrome is currently being tested.</p></li>
                             <li><p>The App is exchange-agnostic, but only Poloniex is enabled at the moment. You may create Strategies and use simulations without a Poloniex account, but will need an account to trade live. Other exchanges will follow later on.</p></li>
                             <li><p>We have enabled the BTC-USDT market only. Other markets will follow later on.</p></li>
-                            <li><p>Very few indicators are available. At this point we have: candles, volumes, Bollinger Bands and Percentage Bollinger Bands. Other indicators will follow later on.</p></li>
+                            <li><p>Very few indicators are available. At this point we have: candles, volumes, Bollinger Bands, Percentage Bollinger Bands, Bollinger Channels, and Sub-Channels. Other indicators will follow later on.</p></li>
                             <li><p>The user experience is basic. We expect to improve UX with your feedback over time.</p></li>
                             <li><p>The interface operation/navigation is designed mostly for mouse use. Keyboard and pads do not offer a comfortable experience yet.</p></li>
                             <li><p>There is no advanced control over the execution of orders <i>(e.g. no order fragmentation)</i>. All orders are market orders.</p></li>
@@ -220,25 +220,15 @@
                         <h2 class="sc_title sc_title_underline">Architecture</h2>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <h3>Superalgos Platform</h3>
-                        <p>The platform is the collection of software and tech-infrastructure that encompasses all of the Superalgos tools described below.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <h3>Trading Engine</h3>
-                        <p>The engine backtests and forward-tests and live-trades interpreting the instructions defined on its protocol file input. </p>
-                    </div>
-                </div>
 
                 <div class="row">
                     <div class="col-sm-6">
                         <h3>Superalgos Protocol</h3>
-                        <p>The Superalgos Protocol is a file with a specific format capable of holding all the information concerning any number and variety of Strategies. In its current early version, the protocol is simply the description of a JSON object which defines the desired automation.</p>
+                        <p>The Superalgos Protocol is a specification capable of holding all the information concerning any number and variety of Strategies. In its current early version, the protocol is simply the description of a JSON object which defines the desired automation.</p>
                     </div>
                     <div class="col-sm-6">
                         <h3>Designer</h3>
-                        <p>The Designer is a visual tool resembling a mind map that allows users to create their Strategies directly within the charts. The Strategy Designer allows users to input the formulas, situations and conditions describing a Strategy, and outputs the protocol format for other tools to interpret.</p>
+                        <p>The Designer is a visual tool resembling a mind map that allows users to create their Strategies directly within the charts. The Strategy Designer allows users to input the formulas, situations, and conditions describing a Strategy, and outputs the protocol format for other tools to interpret.</p>
                     </div>
                 </div>
 
@@ -246,12 +236,10 @@
                     <div class="col-sm-6">
                         <h3>Charting System</h3>
                         <p>The Charting System plots indicators data along with the actions taken by the Trading Engine, integrated with market data. This is where you can see the result of your simulations and live trading operations.</p>
-
                     </div>
                     <div class="col-sm-6">
-                        <h3>Superalgos Node</h3>
-                        <p>The node is a subset of the Superalgos Platform that will allow <!--#include file="tooltips/node-operators.shtml" --> to provide platform and <!--#include file="tooltips/algorithms.shtml" --> hosting services. Traders who decide to trust Node Operators will have an alternative to managing their own VPS.</p>
-
+                        <h3>Trading Engine</h3>
+                        <p>The engine backtests, forward-tests, and live-trades, interpreting the instructions defined on its protocol file input. </p>
                     </div>
                 </div>
 
