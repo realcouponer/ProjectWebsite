@@ -53,7 +53,7 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
-                            <span>Go straight to Getting Started Guide!</span>
+                            <span>Go straight to the Getting Started Guide!</span>
                             <span class="sc_button sc_button_size_big squareButton accent_2 big">
                                 <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md#getting-started" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Take Me Fast!</a>
                             </span>
@@ -112,7 +112,7 @@
             </div>
         </section>
 
-        <section id="status" class="light_section">
+        <section id="expectations" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">

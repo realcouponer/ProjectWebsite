@@ -23,8 +23,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   -ms-word-wrap: break-word;
   word-wrap: break-word; }
 
-h1,
-.h1 {
+h1, .h1 {
     font-size: 45px;
     line-height: 55px;
     padding: 40px 0 0.5em 0;
@@ -42,7 +41,7 @@ h3, .h3 {
     font-size: 25px;
     line-height: 37px;
     padding: 10px 0 0.5em 0;
-    font-weight: 100;
+
 }
 
 h4, .h4 {
@@ -457,6 +456,10 @@ border-top: none;
     .red_section .sc_title {
         color: #fff;
     }
+
+.turquoise_section .sc_title {
+    color: #fff;
+}
 
     .rustred_section .sc_title {
         color: #fff;
