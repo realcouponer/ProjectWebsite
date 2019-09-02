@@ -99,7 +99,7 @@
                     <div class="col-sm-12 text-center">
                         <h2 class="sc_title sc_title_underline">The Superalgos Project</h2>
                         <p class="sc_content text-center"><strong>We are an open-source project with the vision of a global Collective Trading Intelligence at the service of all people.</strong></p>
-                        <p class="sc_content text-center">We build towards our vision with a bottom-up approach, in 3 stages, and are currently delivering Stage 1. At this point, only a fraction of the technology that enables the functionality described in these pages is implemented. Check the <a href="#roadmap">Progress Log & Roadmap</a>.</p>
+                        <p class="sc_content text-center">We build towards our vision with a bottom-up approach, in 3 stages... and are currently delivering Stage 1. At this point, only a fraction of the technology that enables the functionality described in these pages is implemented. Check the <a href="#roadmap">Progress Log & Roadmap</a>.</p>
                     </div>
                 </div>
                 <div class="row text-center">
