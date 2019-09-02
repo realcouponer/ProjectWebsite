@@ -46,20 +46,6 @@
                                     </div>
                                 </li>
 
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
-
                                 <li>
                                     <img src="img/photos/key-vault-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
@@ -98,20 +84,6 @@
                                     </div>
                                 </li>
 
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
-
                                 <li>
                                     <img src="img/photos/connect-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
@@ -146,20 +118,6 @@
                                         </div>
                                     </div>
                                 </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
 
                                 <li>
                                     <img src="img/photos/supermind-original.jpg" alt="">
@@ -196,20 +154,6 @@
                                     </div>
                                 </li>
 
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
-
                                 <li>
                                     <img src="img/photos/strategizer-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
@@ -241,20 +185,6 @@
                                         </div>
                                     </div>
                                 </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
 
                                 <li>
                                     <img src="img/photos/automation-original.jpg" alt="">
@@ -291,20 +221,6 @@
                                     </div>
                                 </li>
 
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
-
                                 <li>
                                     <img src="img/photos/events-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
@@ -339,20 +255,6 @@
                                         </div>
                                     </div>
                                 </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
 
                                 <li>
                                     <img src="img/photos/teams-original.jpg" alt="">
@@ -389,20 +291,6 @@
                                     </div>
                                 </li>
 
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
-
                                 <li>
                                     <img src="img/photos/marketplace-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
@@ -437,20 +325,6 @@
                                         </div>
                                     </div>
                                 </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
 
                                 <li>
                                     <img src="img/photos/network-original.jpg" alt="">
@@ -487,20 +361,6 @@
                                     </div>
                                 </li>
 
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
-
                                 <li>
                                     <img src="img/photos/incentives-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
@@ -535,20 +395,6 @@
                                         </div>
                                     </div>
                                 </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
 
                                 <li>
                                     <img src="img/photos/ecosystem-original.jpg" alt="">
@@ -585,20 +431,6 @@
                                     </div>
                                 </li>
 
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
-
                                 <li>
                                     <img src="img/photos/business-plan-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
@@ -634,20 +466,6 @@
                                         </div>
                                     </div>
                                 </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
 
                                 <li>
                                     <img src="img/photos/platform-original.jpg" alt="">
@@ -701,20 +519,6 @@
                                     </div>
                                 </li>
 
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
-
                                 <li>
                                     <img src="img/photos/intelli-token-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
@@ -754,20 +558,6 @@
                                     </div>
                                 </li>
 
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
-
                                 <li>
                                     <img src="img/photos/Intelli-energy-food-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay-deck">
@@ -802,20 +592,6 @@
                                         </div>
                                     </div>
                                 </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
 
                                 <li>
                                     <img src="img/photos/flow-original.jpg" alt="">
@@ -879,20 +655,6 @@
                                     </div>
                                 </li>
 
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="flexslider slider_height_max">
-                            <ul class="slides text-center">
 
 
                                 <li>
