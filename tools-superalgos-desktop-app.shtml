@@ -104,7 +104,7 @@
                     <div class="col-sm-6">
                         <h5 style="text-align: center; color:#fff;">Other Resources</h5>
                         <ul>
-                            <li><p>Fundamental reading on the conceptual framework for automating your Trading System: Superalgos Protocol V0.1 &mdash; <a href="https://medium.com/@julian_superalgos/superalgos-protocol-v0-1-the-short-version-for-experienced-traders-86c3fa43f1c0" rel="nofollow" rel="noopener" target="_blank">the short version</a>, for experienced traders and <a href="https://medium.com/@julian_superalgos/superalgos-protocol-v0-1-the-long-version-for-beginner-traders-f293f1cc6c13" rel="nofollow" rel="noopener" target="_blank">the long version</a>, for beginner traders.</p></li>
+                            <li><p>Fundamental reading on the conceptual framework for automating your Trading System: Superalgos Protocol V0.1 &mdash; <a href="https://medium.com/superalgos/superalgos-protocol-v0-1-the-short-version-for-experienced-traders-86c3fa43f1c0" rel="nofollow" rel="noopener" target="_blank">the short version</a>, for experienced traders and <a href="https://medium.com/superalgos/superalgos-protocol-v0-1-the-long-version-for-beginner-traders-f293f1cc6c13" rel="nofollow" rel="noopener" target="_blank">the long version</a>, for beginner traders.</p></li>
                             <li><p>Browse our <a href="https://www.youtube.com/channel/UCmYSGbB151xFQPNxj7KfKBg" rel="nofollow" rel="noopener" target="_blank">YouTube Channel</a> for video tutorials.</p></li>
                         </ul>
                     </div>
@@ -112,29 +112,33 @@
             </div>
         </section>
 
-        <section id="expectations" class="light_section">
+        <section id="design_principles" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Setting the Right Expectations</h1>
+                        <h2 class="sc_title sc_title_underline">Design Principles</h2>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <h5 class="text-center">What to Expect</h5>
-                        <p>Beyond the list of Current Features & Limitations you will find below, what you will get is a client application that runs entirely on users' machines. This is to fulfill the design principle of a trustless deployment: you don't need to trust any third party with your Strategies, API Keys, personal information, or funds. </p>
-                        <p>Traders rely on data sets for backtesting. The app retrieves raw trades data directly from Exchanges and processes data to produce candles and a few indicators, which are stored in your local machine.</p>
-                        <p>The volume of trades data generated at Exchanges is massive. Exchanges APIs impose limits on the bandwidth of data you may retrieve from your machine per unit of time. To save you from spending days or weeks running processes to retrieve the data you will need for backtesting, we include historic market data in our releases. </p>
-                        <p>This has a small non-monetary cost associated: the zip files you will download are a bit heavy and highly compressed. As a result, it may take 30 to 60 minutes for your machine to decompress the files. Also, a second small cost is that this adds a step in the process to fire up the app the first time.</p>
+                        <h3>Entire Trading System Automation</h3>
+                        <p>We know that building a superior trading intelligence requires a lot more than automating <!--#include file="tooltips/strategies.shtml" --> or creating one-size-fits-all <!--#include file="tooltips/algorithms.shtml" -->. Our approach is to build a platform that will automate your entire Trading System. While the current features are modest, the system is being architected to grow into a comprehensive solution.</p>
+
+                        <h3>Zero-Coding / Visual Design of Strategies</h3>
+                        <p>We strive to enable all traders to automate their work, even those who can't code. As humans, we have a limited capacity to mentally process raw data, but we have evolved strong <strong>visual</strong> capabilities. Our tools are designed to take advantage of such evolutionary qualities.</p>
+
+                        <h3>A Powerful Trading Protocol</h3>
+                        <p>The Superalgos Platform is built on the <!--#include file="tooltips/superalgos-protocol.shtml" -->, the implementation of a framework that standardizes how a Trading System and its Strategies are described. The protocol enables Strategies to be portable and sets the foundation for developing all sorts of applications capable of working with all Strategies alike.</p>
                     </div>
                     <div class="col-sm-6">
-                        <h5 class="text-center">Motivation</h5>
-                        <p>Superalgos is pre-releasing an early alpha-stage version of the Superalgos Desktop App, in the hope that early adopters will help us shape the software and evolve it into a robust product. We try our best to make installation and operation easy, but at this point, the app is directed at tech-savvy individuals with a knack for learning a few PC operator tricks while installing and using the app.</p>
-                        <p>If you don't consider yourself an early adopter and usually go to your 10-year-old for advice on using your PC, you may still give it a shot. Developers and users in the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> will be happy to give you a hand and get you up and running.</p>
-                        <p>We value highly all feedback. We are listening and actively participating in the various Superalgos Community groups.</p>
-                        <p>We keep a wish list for new features in the form of <a href="https://github.com/Superalgos/DesktopApp/issues" rel="nofollow" rel="noopener" target="_blank">issues in our Github repository</a>. If you are missing a key feature, feel free to open an issue using the <code>improvement</code> label.</p>
-                        <p>However, bear in mind that the app is at an early stage of development and that the current priority is stabilization and delivery of core features.</p>
+                        <h3>Open Source + Permissionless Innovation</h3>
+                        <p>The <!--#include file="tooltips/superalgos-platform.shtml" --> is open-source software and the Superalgos Project is framed on a permissionless innovation paradigm. We expect these two principles combined will enable the growth of the <!--#include file="tooltips/community.shtml" --> and pave the way for the continuous development of the platform by an ever-growing group of contributors.</p>
 
+                        <h3>Trustless Deployment</h3>
+                        <p>The Superalgos Desktop App is a standalone package that enables you to deploy your instance of the platform, removing all trust requirements. You shouldn't need to trust a third party with your funds, your exchange API keys or your Strategies.</p>
+
+                        <h3>Collaborative Trading</h3>
+                        <p>The standardization provided by the Superalgos Protocol allows traders to seamlessly share Strategies or their components. This design principle sets the foundations for the collaboration expected to emerge within the <!--#include file="tooltips/community.shtml" -->.</p>
                     </div>
                 </div>
             </div>
@@ -180,81 +184,6 @@
 
             </div>
         </section>
-
-        <section id="design_principles" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">Design Principles</h2>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <h3>Entire Trading System Automation</h3>
-                        <p>We know that building a superior trading intelligence requires a lot more than automating <!--#include file="tooltips/strategies.shtml" --> or creating one-size-fits-all <!--#include file="tooltips/algorithms.shtml" -->. Our approach is to build a platform that will automate your entire Trading System. While the current features are modest, the system is being architected to grow into a comprehensive solution.</p>
-
-                        <h3>Zero-Coding / Visual Design of Strategies</h3>
-                        <p>We strive to enable all traders to automate their work, even those who can't code. As humans, we have a limited capacity to mentally process raw data, but we have evolved strong <strong>visual</strong> capabilities. Our tools are designed to take advantage of such evolutionary qualities.</p>
-
-                        <h3>A Powerful Trading Protocol</h3>
-                        <p>The Superalgos Platform is built on the <!--#include file="tooltips/superalgos-protocol.shtml" -->, the implementation of a framework that standardizes how a Trading System and its Strategies are described. The protocol enables Strategies to be portable and sets the foundation for developing all sorts of applications capable of working with all Strategies alike.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <h3>Open Source + Permissionless Innovation</h3>
-                        <p>The <!--#include file="tooltips/superalgos-platform.shtml" --> is open-source software and the Superalgos Project is framed on a permissionless innovation paradigm. We expect these two principles combined will enable the growth of the <!--#include file="tooltips/community.shtml" --> and pave the way for the continuous development of the platform by an ever-growing group of contributors.</p>
-
-                        <h3>Trustless Deployment</h3>
-                        <p>The Superalgos Desktop App is a standalone package that enables you to deploy your instance of the platform, removing all trust requirements. You shouldn't need to trust a third party with your funds, your exchange API keys or your Strategies.</p>
-
-                        <h3>Collaborative Trading</h3>
-                        <p>The standardization provided by the Superalgos Protocol allows traders to seamlessly share Strategies or their components. This design principle sets the foundations for the collaboration expected to emerge within the <!--#include file="tooltips/community.shtml" -->.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="architecture" class="darkgrey_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">Architecture</h2>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-sm-6">
-                        <h3>Superalgos Protocol</h3>
-                        <p>The Superalgos Protocol is a specification capable of holding all the information concerning any number and variety of Strategies. In its current early version, the protocol is simply the description of a JSON object which defines the desired automation.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <h3>Designer</h3>
-                        <p>The Designer is a visual tool resembling a mind map that allows users to create their Strategies directly within the charts. The Strategy Designer allows users to input the formulas, situations, and conditions describing a Strategy, and outputs the protocol format for other tools to interpret.</p>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-sm-6">
-                        <h3>Charting System</h3>
-                        <p>The Charting System plots indicators data along with the actions taken by the Trading Engine, integrated with market data. This is where you can see the result of your simulations and live trading operations.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <h3>Trading Engine</h3>
-                        <p>The engine backtests, forward-tests, and live-trades, interpreting the instructions defined on its protocol file input. </p>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-sm-6">
-                        <h3>Backend</h3>
-                        <p>Several modules handle a number of concepts that run in the background, out of sight of the common user, which set the foundations for developing the broader system that will make possible the existence of financial beings, the Intelli Ecosystem, the Trading Intelligence Marketplace and the Superalgos Trading League, to name a few of the envisioned milestones that lead to our long-term vision.</p>
-                    </div>
-                    <div class="col-sm-6">
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
 
 
         <!--#include file="includes/footer.shtml" -->
