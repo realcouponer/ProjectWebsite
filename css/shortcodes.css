@@ -540,6 +540,16 @@ background-color: #EAE2DE;
     font-weight:600;
 }
 
+.turq_text {
+    color: #4acfd9;
+    font-weight: 600;
+}
+
+.darkturq_text {
+    color: #0295aa;
+    font-weight: 600;
+}
+
 .rustred_section {
     background-color: #CC5835;
     color: #FFF;
@@ -553,7 +563,7 @@ background-color: #EAE2DE;
 
 
 /*page preloader*/
-.preloader {
+    .preloader {
   position: fixed;
   top: 0;
   left: 0;
@@ -4475,17 +4485,18 @@ table.calendar th, table.calendar td,
     margin-bottom: 20px;
 }
 .sc_pricing_table > div {
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  border-left: 1px solid transparent;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-left: 1px solid transparent;
 }
 .sc_pricing_table .sc_pricing_columns ul {
-  margin: 0;
-  padding: 2px;
-  width: 100%;
-  position: relative;
-  z-index: 1;
-  border: 2px solid transparent;
+    margin: 0;
+    padding: 2px;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+    border: 2px solid transparent;
+    min-height: 600px;
 }
 .sc_pricing_dark .sc_pricing_columns ul {
   background: #1b222a;
@@ -4520,7 +4531,8 @@ table.calendar th, table.calendar td,
   height: auto;
 }
 .sc_pricing_data{
-    font-size: 14px;
+    font-size: 16px;
+    margin: 5px 5px 5px 5px;
 }
 
 .sc_price_item {
@@ -4553,7 +4565,7 @@ table.calendar th, table.calendar td,
 .sc_price_item .sc_price_money {
     font-size: 35px;
     height: 55px;
-    line-height: 35px;
+    line-height: 45px;
     font-weight: 100;
     float: left;
 }
@@ -4950,8 +4962,8 @@ body.fullscreen .sc_skills_item .sc_skills_total,
 
 .sc_column a {
     font-size: 38px;
-    color: #303036;
-    background-color: #f2fdfd;
+    color: #fff;
+    background-color: #0295aa;
     display: inline-block;
     width: 114px;
     height: 114px;
@@ -5006,8 +5018,7 @@ a.sc_icon.bg_icon.sc_icon_round:hover:after {
 }
 
 /*= History section ==================================================================================================================================================================*/
-
-#history_section {
+    #history_section {
     overflow: hidden;
     vertical-align: middle
 }

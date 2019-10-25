@@ -32,8 +32,8 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="padding: 0 15px 0 15px;">
-                                                        <h2 style="font-weight:700;">
-                                                            Automate Your Crypto-Trading
+                                                        <h2>
+                                                            <strong>A free, open-source and trustless trading bots platform<br />to up your game in cryptocurrency trading</strong>
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -53,9 +53,9 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
-                            <span>Go straight to the Getting Started Guide!</span>
+                            <span>Can't wait to try the app?</span>
                             <span class="sc_button sc_button_size_big squareButton accent_2 big">
-                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md#getting-started" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Take Me Fast!</a>
+                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md#getting-started" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Download &amp; Install</a>
                             </span>
                         </h3>
                     </div>
@@ -64,25 +64,188 @@
             </div>
         </section>
 
-        <section id="trading_suite" class="light_section">
+        <section id="intro_video" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
 
                         <h2 class="sc_title">Superalgos Desktop App</h2>
-                        <h5 class="sc_title sc_title_underline">Alpha-Stage Pre-Release</h5>
-                        <p class="sc_content text-center">
-                            We strive to help you automate your crypto-trading, even if you have virtually zero coding skills.
-                            Our solution is open source, builds on a powerful trading protocol, features a trustless deployment and is free.
-                        </p>
+                        <h5 class="sc_title sc_title_underline">A quick intro to get up to speed</h5>
+
                         <br />
-                        <iframe width="1120" height="630" src="https://www.youtube.com/embed/uhzflZWB7dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <div  style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; max-width: 1120px; max-height: 630px;">
+                            <iframe width="1120" height="630" src="https://www.youtube.com/embed/uhzflZWB7dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="status" class="darkgrey_section">
+        <section id="design_principles" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title">Design Principles</h2>
+                        <h5 class="sc_title sc_title_underline">Built to fit your trading style and needs</h5>
+                    </div>
+                </div>
+                <div class="row text-center">
+                    <div class="col-md-4 col-sm-12">
+                        <div class="sc_column">
+                            <a href="" class="sc_icon fa fa-bezier-curve sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <h5 class="sc_title ">Flexibility</h5>
+                            <ul>
+                                <li><p><span class="turq_text">It's a rules-based system</span> that will do whatever you tell it to do.</p></li>
+                                <li><p><span class="turq_text">You may freely design</span> both highly complex and simple strategies alike.</p></li>
+                                <li><p><span class="turq_text">You decide how to use the app</span>, be it to test your strategies, to get signals while trading manually, or to fully automate your trading.</p></li>
+                                <li><p><span class="turq_text">The app is cross platform</span> thus works on Windows, Mac OS and Linux systems.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <a href="" class="sc_icon fa fa-lock-open sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <h5 class="sc_title ">Accessibility</h5>
+                            <ul>
+                                <li><p><span class="turq_text">No coding is required</span> as you set rules using simple math and logical statements.</p></li>
+                                <li><p><span class="turq_text">It's a visual app</span> displaying strategies in action directly over the charts.</p></li>
+                                <li><p><span class="turq_text">You may use shared strategies</span> to get up and running in no time.</p></li>
+                                <li><p><span class="turq_text">A logical framework guides you</span> in designing your strategies.</p></li>
+                                <li><p><span class="turq_text">Installation is easy</span>, with quality documentation and educational material.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <a href="" class="sc_icon fa fa-map sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <h5 class="sc_title ">Extendibility</h5>
+                            <ul>
+                                <li><p><span class="turq_text">Strategies are portable</span> and conform to a trading protocol.</p></li>
+                                <li><p><span class="turq_text">You may seamlessly collaborate</span> with colleagues and share your work.</p></li>
+                                <li><p><span class="turq_text">If you can code you'll dive deeper</span> and come up with your own hacks!</p></li>
+                                <li><p><span class="turq_text">Developers may add functionality</span> and build complementary apps.</p></li>
+                                <li><p><span class="turq_text">An ecosystem of complementary apps</span> will eventually grow around the protocol.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3>Did we mention the app is <!--#include file="tooltips/tools-free.shtml" -->, <!--#include file="tooltips/tools-open-source.shtml" --> and <!--#include file="tooltips/tools-trustless.shtml" -->?</h3>
+                        <br />
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">How do I get started?</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </section>
+
+        <section id="execution_modes" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title">Execution Modes</h2>
+                        <h5 class="sc_title sc_title_underline">Top Testing and Live Trading Capabilitites</h5>
+                    </div>
+                </div>
+                <div class="row text-center">
+                    <div class="col-md-4 col-sm-12">
+                        <div class="sc_column">
+                            <img src="img/icons/png150/session-backtesting.png" /><br /><br />
+                            <h5 class="sc_title ">Advanced Backtests</h5>
+                            <ul>
+                                <li><p><span class="darkturq_text">Set up unlimited backtesting sessions</span>, each with their own parameters including time range, fees and slippage assumptions, time period, and more.</p></li>
+                                <li><p><span class="darkturq_text">Visualize and analyze</span> individual trades right on the charts.</p></li>
+                                <li><p><span class="darkturq_text">Test multiple rule variations</span> all at once and compare results visually over the charts.</p></li>
+                                <li><p><span class="darkturq_text">Avoid overfitting</span> exercising full control over how you use your data sets.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <img src="img/icons/png150/session-paper-trading.png" /> <img src="img/icons/png150/session-forward-testing.png" /><br /><br />
+                            <h5 class="sc_title ">Paper Trade &amp; Forward-Tests</h5>
+                            <ul>
+                                <li><p><span class="darkturq_text">Run strategies forwards</span> without placing orders at the exchange to verify efficacy.</p></li>
+                                <li><p><span class="darkturq_text">Test strategies forward placing orders</span> at the exchange for a configurable fraction of your balance to validate slippage assumptions and overall execution.</p></li>
+                                <li><p><span class="darkturq_text">Enjoy the same visual aides</span> as with backtesting to analyze trades right over the charts.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <img src="img/icons/png150/session-live-trading.png" /><br /><br />
+                            <h5 class="sc_title ">Live Trading</h5>
+                            <ul>
+                                <li><p><span class="darkturq_text">Live-trade with multiple strategies</span> from within the same instance of the app and the same machine.</p></li>
+                                <li><p><span class="darkturq_text">Use multiple accounts</span> or sub-accounts at the exchange, each with their own API keys.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3>Did we mention you can run all of these testing and live trading modes simultaneously?</h3>
+                        <br />
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
+                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Cool! Get me started!</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </section>
+
+        <section id="design_principles" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title">Cool Features</h2>
+                        <h5 class="sc_title sc_title_underline">Tools to Maximize Productivity</h5>
+                    </div>
+                </div>
+                <div class="row text-center">
+                    <div class="col-md-4 col-sm-12">
+                        <div class="sc_column text-center">
+                            <a href="" class="sc_icon fa fa-chart-line sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <h5 class="sc_title ">Smart Access<br />to All Charts</h5>
+                            <p><span class="turq_text">Your strategies may access all charts</span> including 1, 2, 3, 4, 5, 10, 15, 20, 30, 45 minutes and 1, 2, 3, 4, 6, 8, 12, 24 hs, on each decision-making instance.</p>
+                            <img src="img/illustrations/Tall-Multiple-Charts.gif" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <a href="" class="sc_icon fa fa-eye sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <h5 class="sc_title ">Visual Validation of Conditions and Formulas</h5>
+                            <p><span class="turq_text">See which of your rules are met</span> along with the value of your formulas on each candle, simply by hovering your mouse pointer across the charts.</p>
+                            <img src="img/illustrations/Tall-Visual-Validation.gif" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <a href="" class="sc_icon fa fa-file-import sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <h5 class="sc_title ">Drag &amp; Drop Imports and<br />One-click Exports</h5>
+                            <p><span class="turq_text">Back up and share any part of your work</span> with a single mouse-click, and import work seamlessly, dropping the file on the Designer.</p>
+                            <img src="img/illustrations/Tall-Backup-Import.gif" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3>And the app is <!--#include file="tooltips/tools-free.shtml" -->, <!--#include file="tooltips/tools-open-source.shtml" --> and <!--#include file="tooltips/tools-trustless.shtml" -->!</h3>
+                        <br />
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">How do I get started?</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </section>
+
+        <section id="status" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -91,97 +254,25 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <h5 style="text-align: center; color:#fff;">Installation Instructions</h5>
+                        <h5 style="text-align: center;">Installation Instructions</h5>
                         <p>Deploying complex systems in a user-friendly manner is a huge challenge. The button below will take you to the instructions that will guide you in the process of downloading and running the app in your machine. Feel free to direct questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> should you run into any issues. The same page provides complete documentation, so keep it at hand once you are up and running.</p>
-                        <p>Before you dive in, we highly recommend that you read the next two sections of this page, to better understand what you are getting into.</p>
-                        <br />
-                        <div class="text-center">
-                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md#getting-started" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
-                            </span>
-                        </div>
+
                     </div>
                     <div class="col-sm-6">
-                        <h5 style="text-align: center; color:#fff;">Other Resources</h5>
+                        <h5 style="text-align: center;">Other Resources</h5>
                         <ul>
                             <li><p>Fundamental reading on the conceptual framework for automating your Trading System: Superalgos Protocol V0.1 &mdash; <a href="https://medium.com/superalgos/superalgos-protocol-v0-1-the-short-version-for-experienced-traders-86c3fa43f1c0" rel="nofollow" rel="noopener" target="_blank">the short version</a>, for experienced traders and <a href="https://medium.com/superalgos/superalgos-protocol-v0-1-the-long-version-for-beginner-traders-f293f1cc6c13" rel="nofollow" rel="noopener" target="_blank">the long version</a>, for beginner traders.</p></li>
                             <li><p>Browse our <a href="https://www.youtube.com/channel/UCmYSGbB151xFQPNxj7KfKBg" rel="nofollow" rel="noopener" target="_blank">YouTube Channel</a> for video tutorials.</p></li>
                         </ul>
                     </div>
                 </div>
-            </div>
-        </section>
-
-        <section id="design_principles" class="light_section">
-            <div class="container">
                 <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">Design Principles</h2>
+                    <div class="text-center">
+                        <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
+                            <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
+                        </span>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <h3>Entire Trading System Automation</h3>
-                        <p>We know that building a superior trading intelligence requires a lot more than automating <!--#include file="tooltips/strategies.shtml" --> or creating one-size-fits-all <!--#include file="tooltips/algorithms.shtml" -->. Our approach is to build a platform that will automate your entire Trading System. While the current features are modest, the system is being architected to grow into a comprehensive solution.</p>
-
-                        <h3>Zero-Coding / Visual Design of Strategies</h3>
-                        <p>We strive to enable all traders to automate their work, even those who can't code. As humans, we have a limited capacity to mentally process raw data, but we have evolved strong <strong>visual</strong> capabilities. Our tools are designed to take advantage of such evolutionary qualities.</p>
-
-                        <h3>A Powerful Trading Protocol</h3>
-                        <p>The Superalgos Platform is built on the <!--#include file="tooltips/superalgos-protocol.shtml" -->, the implementation of a framework that standardizes how a Trading System and its Strategies are described. The protocol enables Strategies to be portable and sets the foundation for developing all sorts of applications capable of working with all Strategies alike.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <h3>Open Source + Permissionless Innovation</h3>
-                        <p>The <!--#include file="tooltips/superalgos-platform.shtml" --> is open-source software and the Superalgos Project is framed on a permissionless innovation paradigm. We expect these two principles combined will enable the growth of the <!--#include file="tooltips/community.shtml" --> and pave the way for the continuous development of the platform by an ever-growing group of contributors.</p>
-
-                        <h3>Trustless Deployment</h3>
-                        <p>The Superalgos Desktop App is a standalone package that enables you to deploy your instance of the platform, removing all trust requirements. You shouldn't need to trust a third party with your funds, your exchange API keys or your Strategies.</p>
-
-                        <h3>Collaborative Trading</h3>
-                        <p>The standardization provided by the Superalgos Protocol allows traders to seamlessly share Strategies or their components. This design principle sets the foundations for the collaboration expected to emerge within the <!--#include file="tooltips/community.shtml" -->.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="features_limitations" class="darkgrey_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">Current Features &amp; Limitations</h2>
-                        <p class="sc_content text-center">This is a pre-release in alpha stage. As such, you may find rough edges and limitations on top of the instability you should expect in a product that is still in development.</p>
-                        <br />
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <h5 class="text-center" style="color:#fff">Current Features</h5>
-                        <ul>
-                            <li><p>You may create any number of <!--#include file="tooltips/strategies.shtml" --> by entering conditions and formulas via a web application. The set of Strategies constitute your Trading System.</p></li>
-                            <li><p>Virtually no coding skills are required. You define conditions and formulas with simple statements... <br /><i>(e.g. <code>candle.close < bollingerBand.movingAverage</code>)</i></p></li>
-                            <li><p>You may start with any of the Strategies shared with the pre-release and at the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Telegram Community</a>, or from scratch.</p></li>
-                            <li><p>You may run live simulations of your Strategies, both with historic and up-to-date data. All of the actions taken by each Strategy may be viewed in a graphical interface right over the charts, along with indicators and market data.</p></li>
-                            <li><p>The Strategy simulation may be calculated and visualized in any of the available time periods (1, 2, 3, 4, 5, 10, 15, 20, 30, 40 and 45 minutes, as well as 1, 2, 3, 4, 6, 8, 12 and 24 hours)</p></li>
-                            <li><p>You may visually debug and optimize your Strategies, navigating through every decision made by each Strategy in a visual setting, closely scrutinizing what conditions or formulas may be optimized. You may later go back and edit each Strategy accordingly. Once edited, you may save and recalculate the simulation (takes seconds to simulate).</p></li>
-                            <li><p>You may share Strategies or even bits of Strategies with your friends, and participate in group efforts to improve the collective results.</p></li>
-                            <li><p>Once you are happy with your Trading System, you may deploy it as a trading bot and trade live, right within the app, with a single click of a button.</p></li>
-                            <li><p>You may run the app on your machine or a VPS (a server in the cloud). Installation is as simple as it may be: download a .zip file, decompress and run an executable file (.exe). The app will open in your browser.</p></li>
-                        </ul>
-                    </div>
-                    <div class="col-sm-6">
-                        <h5 class="text-center" style="color:#fff">Current Limitations</h5>
-                        <ul>
-                            <li><p>Only the latest version of Chrome is currently being tested.</p></li>
-                            <li><p>The App is exchange-agnostic, but only Poloniex is enabled at the moment. You may create Strategies and use simulations without a Poloniex account, but will need an account to trade live. Other exchanges will follow later on.</p></li>
-                            <li><p>We have enabled the BTC-USDT market only. Other markets will follow later on.</p></li>
-                            <li><p>Very few indicators are available. At this point we have: candles, volumes, Bollinger Bands, Percentage Bollinger Bands, Bollinger Channels, and Sub-Channels. Other indicators will follow later on.</p></li>
-                            <li><p>The user experience is basic. We expect to improve UX with your feedback over time.</p></li>
-                            <li><p>The interface operation/navigation is designed mostly for mouse use. Keyboard and pads do not offer a comfortable experience yet.</p></li>
-                            <li><p>There is no advanced control over the execution of orders <i>(e.g. no order fragmentation)</i>. All orders are market orders.</p></li>
-                        </ul>
-                    </div>
-                </div>
-
             </div>
         </section>
 

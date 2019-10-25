@@ -557,7 +557,7 @@ ul.sc_list_style_disk li:before,
 .swiper-scrollbar-drag,
 a.sc_icon.bg_icon.sc_icon_round:hover,
 a.sc_icon.no_bg_icon.sc_icon_round:hover {
-    background-color: #0295aa !important;
+    background-color: #4acfd9 !important;
 }
 
 .theme_accent_3_bgc,
@@ -578,7 +578,7 @@ ul > li.share > ul.shareDrop > li > a:hover,
 .calendar tbody td a:hover,
 .calendar tbody td.today > span,
 .footerStyleDark .widget_socials .socPage ul li a:hover {
-    background-color: #4acfd9;
+    background-color: #0295aa;
 }
 
 .theme_accent_3_bg,

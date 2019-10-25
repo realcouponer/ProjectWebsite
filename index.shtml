@@ -35,23 +35,8 @@
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
                                                 <h2>
-                                                    <strong>AUTOMATE YOUR CRYPTO-TRADING</strong><br />
-                                                    Access state-of-the-art tech to increase your trading efficiency.
-                                                </h2>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <img src="img/photos/evolution-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
-                                        <div class="slide_description to_animate">
-                                            <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
-                                                <h2>
-                                                    <strong>EVOLVE TRADING INTELLIGENCE</strong><br />
-                                                    Take part in an evolutionary model to increase the Community's intelligence.
+                                                    <strong>AUTOMATE YOUR CRYPTO-TRADING AT ZERO COST</strong><br />
+                                                    Why spend money on licenses, datasets or execution time?<br />
                                                 </h2>
                                             </div>
                                         </div>
@@ -59,13 +44,27 @@
                                 </li>
 
                                 <li>
-                                    <img src="img/photos/marketplace-original.jpg" alt="">
+                                    <img src="img/photos/supermind-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center bg-overlay">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
                                                 <h2>
-                                                    <strong>MAKE INTELLIGENCE ACCESSIBLE</strong><br />
-                                                    Rent your Algorithms over a decentralized, permissionless, trustless network.
+                                                    <strong>LEVERAGE OPEN-SOURCE TECHNOLOGY</strong><br />
+                                                    Why rely on obscure software to run your bots?
+                                                </h2>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <img src="img/photos/developers.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
+                                                <h2>
+                                                    <strong>TRUST NO ONE BUT YOURSELF</strong><br />
+                                                    Why trust exchange keys to a centralized service that may be hacked?
                                                 </h2>
                                             </div>
                                         </div>
@@ -83,14 +82,86 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
-                            <span>Superalgos Desktop App Pre-Release (Alpha)</span>
+                            <span>Looking for our crypto-trading automation app?</span>
                             <span class="sc_button sc_button_size_big squareButton accent_2 big">
-                                <a href="tools-superalgos-desktop-app.shtml">Learn More</a>
+                                <a href="tools-superalgos-desktop-app.shtml">Yes, how do I get started?</a>
                             </span>
                         </h3>
                     </div>
                 </div>
             </div>
+        </section>
+
+        <section id="SuperalgosProject" class="light_section">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title">Superalgos Desktop App</h2>
+                        <h5 class="sc_title sc_title_underline">Crypto-Trading Automation in Your Machine</h5>
+                        <p class="sc_content text-center">We are building a free, open-source and trustless trading automation system<br /> so that you may up your game in cryptocurrency trading.</p>
+
+                        <div class="polaroid">
+                            <a>
+                                <img src="img/captures/Illustration.gif" />
+                            </a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Superalgos_Platform" class="darkgrey_section">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-md-4 col-sm-12">
+                        <div class="sc_column">
+                            <a href="tools-superalgos-desktop-app.shtml" class="sc_icon fa fa-piggy-bank sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <h5 class="sc_title ">Free of Charge</h5>
+                            <ul>
+                                <li><p><span class="turq_text">Use all functionality for free</span> with no tiered or gated access, and no premium plans.</p></li>
+                                <li><p><span class="turq_text">Run the app in your own machine</span> so that you pay nothing for execution time.</p></li>
+                                <li><p><span class="turq_text">Own your data sets</span> by downloading and keeping market data up-to-date in your machine.</p></li>
+                                <li><p><span class="turq_text">Accept no limits</span> and run as many bots or backtests as you need.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <a href="competition-overview.shtml" class="sc_icon fa fa-lock-open sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <h5 class="sc_title ">Open-source</h5>
+                            <ul>
+                                <li><p><span class="turq_text">Stay away from malware</span> trusting only transparent and public, auditable code.</p></li>
+                                <li><p><span class="turq_text">Invest your time wisely</span> with a license-based legal guarantee that the software will not be gated in the future.</p></li>
+                                <li><p><span class="turq_text">Become a part of the community</span> that will drive the development of the platform to the state-of-the-art.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <a href="about-marketplace.shtml" class="sc_icon fa fa-exclamation-triangle sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <h5 class="sc_title ">Trustless</h5>
+                            <ul>
+                                <li><p><span class="turq_text">Trust nobody with your funds</span> in this crypto-wild west!</p></li>
+                                <li><p><span class="turq_text">Keep your strategies safe</span> from service providers who may want to front-run you or monetize your algos behind your back.</p></li>
+                                <li><p><span class="turq_text">Lock your exchange keys away</span> from centralized services who may be hacked!</p></li>
+                                <li><p><span class="turq_text">Keep your trading history safe</span> from prying eyes, and personal data for yourself.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3>Free, open-source and trustless... Got it!</h3>
+                        <br />
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                <a href="tools-superalgos-desktop-app.shtml">Now show me the app!</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
         </section>
 
         <section id="SuperalgosProject" class="light_section">
@@ -106,12 +177,12 @@
                     <div class="col-md-4 col-sm-12">
                         <div class="sc_column">
                             <a href="tools-superalgos-desktop-app.shtml" class="sc_icon fa fa-robot sc_icon_round bg_icon margin_bottom_mini"></a>
-                            <h5 class="sc_title ">Stage 1:<br/>Automate Trading</h5>
+                            <h5 class="sc_title ">Stage 1:<br />Automate Trading</h5>
                             <p>In stage 1, we empower traders with free, open-source tools that enable full trading automation and collaboration. This stage will see the growth of the <!--#include file="tooltips/community.shtml" --> and culture of cooperation in trading&mdash;an essential trait that will set the foundations for a Collective Trading Intelligence.</p>
                         </div>
                         <div class="text-center">
                             <br /><br />
-                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
+                            <span class="squareButton accent_3 big">
                                 <a href="tools-superalgos-desktop-app.shtml">Automate it!</a>
                             </span>
                         </div>
@@ -147,31 +218,38 @@
             </div>
         </section>
 
-        <section id="Superalgos_Platform" class="darkgrey_section">
+
+        <section id="status" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">Build Bots Without Coding</h2>
-                        <p class="sc_content text-center">Configure your Strategies with simple, short statements. See the results in simulations directly over the charts... and&mdash;when you are ready&mdash;deploy them as fully automated trading bots. All from your machine and your account at the exchange... for free!</p>
-
-                        <div class="polaroid">
-                            <a>
-                                <img src="img/captures/Illustration.gif" />
-                            </a>
-                        </div>
-
-                        <h3>Superalgos Desktop App <span class="red_text">&#10004; Checked!</span></h3>
+                        <h1 class="sc_title sc_title_underline">Join the Team</h1>
                     </div>
-                </div><br />
-                <div class="text-center">
-                    <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                        <a href="tools-superalgos-desktop-app.shtml">Automate it!</a>
-                    </span>
-                </div><br />
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h5 style="text-align: center; color:#fff;">Development Team</h5>
+                        <p>Superalgos is an open-source project at an early stage, welcoming developers who wish to participate in realizing the project's vision. Technical contributions may earn you an <!--#include file="tooltips/intelli-stream.shtml" --> and make you a <!--#include file="tooltips/team-member.shtml" -->.</p>
+                        <br />
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                <a href="developers-join-dev-team.shtml">Join the Dev Team</a>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <h5 style="text-align: center; color:#fff;">Business &amp; Research Teams</h5>
+                        <p>We welcome experts in fields such as collective intelligence, social psychology, game theory, artificial intelligence, evolutionary theory, distributed governance, management, economics, communication, marketing, law, and business.</p>
+                        <br />
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                <a href="about-contributing.shtml">Get Involved</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
-
-
 
         <section id="roadmap" class="light_section">
             <div class="container">
@@ -259,10 +337,13 @@
                                 </div>
                             </div>
 
+                            <div class="sc_line sc_line_style_solid_dark  margin_top_mini"></div>
+
                             <div class="sc_accordion_item panel row">
+                                <h3><br />STAGE 2: Evolve Trading Intelligence</h3>
                                 <h4 class="sc_accordion_title" style="position: relative; left: 30px;">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_14" class="collapsed">
-                                        <strong>First Micro Exchange Offering</strong>: ETA Q3 2019.
+                                        <strong>First Micro Exchange Offering</strong>: ETA Q1 2020.
                                     </a>
                                 </h4>
                                 <div id="accordion_left_14" class="panel-collapse collapse" style="position: relative; left: 30px;">
@@ -284,13 +365,11 @@
                                 </div>
                             </div>
 
-                            <div class="sc_line sc_line_style_solid_dark  margin_top_mini"></div>
-
                             <div class="sc_accordion_item panel row">
-                                <h3><br />STAGE 2: Evolve Trading Intelligence</h3>
+
                                 <h4 class="sc_accordion_title" style="position: relative; left: 30px;">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_15" class="collapsed">
-                                        <strong>Alpha-stage Competitions</strong>: ETA Q2 2020.
+                                        <strong>Alpha-stage Competitions</strong>: ETA Q3 2020.
                                     </a>
                                 </h4>
                                 <div id="accordion_left_15" class="panel-collapse collapse" style="position: relative; left: 30px;">
@@ -416,37 +495,6 @@
             </div>
         </section>
 
-        <section id="status" class="turquoise_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Join the Team</h1>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <h5 style="text-align: center; color:#fff;">Development Team</h5>
-                        <p>Superalgos is an open-source project at an early stage, welcoming developers who wish to participate in realizing the project's vision. Technical contributions may earn you an <!--#include file="tooltips/intelli-stream.shtml" --> and make you a <!--#include file="tooltips/team-member.shtml" -->.</p>
-                        <br />
-                        <div class="text-center">
-                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                                <a href="developers-join-dev-team.shtml">Join the Dev Team</a>
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col-sm-6">
-                        <h5 style="text-align: center; color:#fff;">Business &amp; Research Teams</h5>
-                        <p>We welcome experts in fields such as collective intelligence, social psychology, game theory, artificial intelligence, evolutionary theory, distributed governance, management, economics, communication, marketing, law, and business.</p>
-                        <br />
-                        <div class="text-center">
-                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                                <a href="about-contributing.shtml">Get Involved</a>
-                            </span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
 
 
 
