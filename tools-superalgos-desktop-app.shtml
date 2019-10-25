@@ -70,7 +70,7 @@
                     <div class="col-sm-12 text-center">
 
                         <h2 class="sc_title">Superalgos Desktop App</h2>
-                        <h5 class="sc_title sc_title_underline">A quick intro to get up to speed</h5>
+                        <h5 class="sc_title sc_title_underline">A quick intro to get you up to speed</h5>
 
                         <br />
                         <div  style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; max-width: 1120px; max-height: 630px;">
@@ -92,7 +92,7 @@
                 <div class="row text-center">
                     <div class="col-md-4 col-sm-12">
                         <div class="sc_column">
-                            <a href="" class="sc_icon fa fa-bezier-curve sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <a class="sc_icon fa fa-bezier-curve sc_icon_round bg_icon margin_bottom_mini"></a>
                             <h5 class="sc_title ">Flexibility</h5>
                             <ul>
                                 <li><p><span class="turq_text">It's a rules-based system</span> that will do whatever you tell it to do.</p></li>
@@ -104,7 +104,7 @@
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
-                            <a href="" class="sc_icon fa fa-lock-open sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <a class="sc_icon fa fa-lock-open sc_icon_round bg_icon margin_bottom_mini"></a>
                             <h5 class="sc_title ">Accessibility</h5>
                             <ul>
                                 <li><p><span class="turq_text">No coding is required</span> as you set rules using simple math and logical statements.</p></li>
@@ -117,7 +117,7 @@
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
-                            <a href="" class="sc_icon fa fa-map sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <a class="sc_icon fa fa-map sc_icon_round bg_icon margin_bottom_mini"></a>
                             <h5 class="sc_title ">Extendibility</h5>
                             <ul>
                                 <li><p><span class="turq_text">Strategies are portable</span> and conform to a trading protocol.</p></li>
@@ -209,7 +209,7 @@
                 <div class="row text-center">
                     <div class="col-md-4 col-sm-12">
                         <div class="sc_column text-center">
-                            <a href="" class="sc_icon fa fa-chart-line sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <a class="sc_icon fa fa-chart-line sc_icon_round bg_icon margin_bottom_mini"></a>
                             <h5 class="sc_title ">Smart Access<br />to All Charts</h5>
                             <p><span class="turq_text">Your strategies may access all charts</span> including 1, 2, 3, 4, 5, 10, 15, 20, 30, 45 minutes and 1, 2, 3, 4, 6, 8, 12, 24 hs, on each decision-making instance.</p>
                             <img src="img/illustrations/Tall-Multiple-Charts.gif" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
@@ -217,7 +217,7 @@
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
-                            <a href="" class="sc_icon fa fa-eye sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <a class="sc_icon fa fa-eye sc_icon_round bg_icon margin_bottom_mini"></a>
                             <h5 class="sc_title ">Visual Validation of Conditions and Formulas</h5>
                             <p><span class="turq_text">See which of your rules are met</span> along with the value of your formulas on each candle, simply by hovering your mouse pointer across the charts.</p>
                             <img src="img/illustrations/Tall-Visual-Validation.gif" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
@@ -225,7 +225,7 @@
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
-                            <a href="" class="sc_icon fa fa-file-import sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <a class="sc_icon fa fa-file-import sc_icon_round bg_icon margin_bottom_mini"></a>
                             <h5 class="sc_title ">Drag &amp; Drop Imports and<br />One-click Exports</h5>
                             <p><span class="turq_text">Back up and share any part of your work</span> with a single mouse-click, and import work seamlessly, dropping the file on the Designer.</p>
                             <img src="img/illustrations/Tall-Backup-Import.gif" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
