@@ -255,7 +255,7 @@ jQuery(window).load(function(){
 		    prevText: "previous",
 		    nextText: "next",
 			smoothHeight: false,
-			slideshowSpeed:8000,
+			slideshowSpeed:6000,
 			animationSpeed:300,
 			start: function( slider ) {
 				slider.find('.slide_description').children().css({'visibility': 'hidden'});
@@ -292,7 +292,7 @@ jQuery(window).load(function(){
 		    nextText: "",
 			//animationLoop: false,
 			smoothHeight: true,
-			slideshowSpeed:5000,
+			slideshowSpeed:4000,
 			animationSpeed:800,
 			after :function( slider ){
 				//console.log(slider.find('.slide_description').children());

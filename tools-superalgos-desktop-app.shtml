@@ -48,7 +48,7 @@
             </div>
         </section>
 
-        <section id="purchase_section" class="color_section no_padding_container">
+        <section id="PurchaseSection" class="color_section no_padding_container">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -64,7 +64,7 @@
             </div>
         </section>
 
-        <section id="intro_video" class="light_section">
+        <section id="IntroVideo" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -73,15 +73,119 @@
                         <h5 class="sc_title sc_title_underline">A quick intro to get you up to speed</h5>
 
                         <br />
-                        <div  style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; max-width: 1120px; max-height: 630px;">
+                        <div style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; max-width: 1120px; max-height: 630px;">
                             <iframe width="1120" height="630" src="https://www.youtube.com/embed/uhzflZWB7dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+        
+        <section id="Features" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title">Cool Features</h2>
+                        <h5 class="sc_title sc_title_underline">Tools to Maximize Productivity</h5>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <div class="sc_column text-center">
+                            <a class="sc_icon fa fa-chart-line sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
+                            <h5 class="sc_title ">Smart Access<br />to All Charts</h5>
+                            <p><span class="turq_text">Your strategies may access all charts</span> including 1, 2, 3, 4, 5, 10, 15, 20, 30, 45 minutes and 1, 2, 3, 4, 6, 8, 12, 24 hs, on each decision-making instance.</p>
+                            <img src="img/illustrations/Tall-Multiple-Charts.gif" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <a class="sc_icon fa fa-eye sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
+                            <h5 class="sc_title ">Visual Validation of Conditions and Formulas</h5>
+                            <p><span class="turq_text">See which of your rules are met</span> along with the value of your formulas on each candle, simply by hovering your mouse pointer across the charts.</p>
+                            <img src="img/illustrations/Tall-Visual-Validation.gif" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <a class="sc_icon fa fa-file-import sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
+                            <h5 class="sc_title ">Drag &amp; Drop Imports and<br />One-click Exports</h5>
+                            <p><span class="turq_text">Back up and share any part of your work</span> with a single mouse-click, and import work seamlessly, dropping the file on the Designer.</p>
+                            <img src="img/illustrations/Tall-Backup-Import.gif" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3>And the app is <!--#include file="tooltips/tools-free.shtml" -->, <!--#include file="tooltips/tools-open-source.shtml" --> and <!--#include file="tooltips/tools-trustless.shtml" -->!</h3>
+                        <br />
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">How do I get started?</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </section>
 
-        <section id="design_principles" class="darkgrey_section">
+        <section id="ExecutionModes" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title">Execution Modes</h2>
+                        <h5 class="sc_title sc_title_underline">Top Testing and Live Trading Capabilitites</h5>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <div class="sc_column margin_top_mini">
+                            <img src="img/icons/png150/session-backtesting.png" /><br /><br />
+                            <h5 class="sc_title ">Advanced Backtests</h5>
+                            <ul>
+                                <li><p><span class="darkturq_text">Set up unlimited backtesting sessions</span>, each with their own parameters including time range, fees and slippage assumptions, time period, and more.</p></li>
+                                <li><p><span class="darkturq_text">Visualize and analyze</span> individual trades right on the charts.</p></li>
+                                <li><p><span class="darkturq_text">Test multiple rule variations</span> all at once and compare results visually over the charts.</p></li>
+                                <li><p><span class="darkturq_text">Avoid overfitting</span> exercising full control over how you use your data sets.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column margin_top_mini">
+                            <img src="img/icons/png150/session-paper-trading.png" /> <img src="img/icons/png150/session-forward-testing.png" /><br /><br />
+                            <h5 class="sc_title ">Paper Trade &amp; Forward-Tests</h5>
+                            <ul>
+                                <li><p><span class="darkturq_text">Run strategies forwards</span> without placing orders at the exchange to verify efficacy.</p></li>
+                                <li><p><span class="darkturq_text">Test strategies forward placing orders</span> at the exchange for a configurable fraction of your balance to validate slippage assumptions and overall execution.</p></li>
+                                <li><p><span class="darkturq_text">Enjoy the same visual aides</span> as with backtesting to analyze trades right over the charts.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column margin_top_mini">
+                            <img src="img/icons/png150/session-live-trading.png" /><br /><br />
+                            <h5 class="sc_title ">Live Trading</h5>
+                            <ul>
+                                <li><p><span class="darkturq_text">Live-trade with multiple strategies</span> from within the same instance of the app and the same machine.</p></li>
+                                <li><p><span class="darkturq_text">Use multiple accounts</span> or sub-accounts at the exchange, each with their own API keys.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3>Did we mention you can run all of these testing and live trading modes simultaneously?</h3>
+                        <br />
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
+                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Cool! Get me started!</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </section>
+
+
+        <section id="DesignPrinciples" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -89,10 +193,10 @@
                         <h5 class="sc_title sc_title_underline">Built to fit your trading style and needs</h5>
                     </div>
                 </div>
-                <div class="row text-center">
+                <div class="row text-center" style="margin-top: -20px;">
                     <div class="col-md-4 col-sm-12">
                         <div class="sc_column">
-                            <a class="sc_icon fa fa-bezier-curve sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <a class="sc_icon fa fa-bezier-curve sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
                             <h5 class="sc_title ">Flexibility</h5>
                             <ul>
                                 <li><p><span class="turq_text">It's a rules-based system</span> that will do whatever you tell it to do.</p></li>
@@ -104,7 +208,7 @@
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
-                            <a class="sc_icon fa fa-lock-open sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <a class="sc_icon fa fa-lock-open sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
                             <h5 class="sc_title ">Accessibility</h5>
                             <ul>
                                 <li><p><span class="turq_text">No coding is required</span> as you set rules using simple math and logical statements.</p></li>
@@ -117,7 +221,7 @@
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
-                            <a class="sc_icon fa fa-map sc_icon_round bg_icon margin_bottom_mini"></a>
+                            <a class="sc_icon fa fa-map sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
                             <h5 class="sc_title ">Extendibility</h5>
                             <ul>
                                 <li><p><span class="turq_text">Strategies are portable</span> and conform to a trading protocol.</p></li>
@@ -142,110 +246,8 @@
                 </div>
         </section>
 
-        <section id="execution_modes" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h2 class="sc_title">Execution Modes</h2>
-                        <h5 class="sc_title sc_title_underline">Top Testing and Live Trading Capabilitites</h5>
-                    </div>
-                </div>
-                <div class="row text-center">
-                    <div class="col-md-4 col-sm-12">
-                        <div class="sc_column">
-                            <img src="img/icons/png150/session-backtesting.png" /><br /><br />
-                            <h5 class="sc_title ">Advanced Backtests</h5>
-                            <ul>
-                                <li><p><span class="darkturq_text">Set up unlimited backtesting sessions</span>, each with their own parameters including time range, fees and slippage assumptions, time period, and more.</p></li>
-                                <li><p><span class="darkturq_text">Visualize and analyze</span> individual trades right on the charts.</p></li>
-                                <li><p><span class="darkturq_text">Test multiple rule variations</span> all at once and compare results visually over the charts.</p></li>
-                                <li><p><span class="darkturq_text">Avoid overfitting</span> exercising full control over how you use your data sets.</p></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="sc_column">
-                            <img src="img/icons/png150/session-paper-trading.png" /> <img src="img/icons/png150/session-forward-testing.png" /><br /><br />
-                            <h5 class="sc_title ">Paper Trade &amp; Forward-Tests</h5>
-                            <ul>
-                                <li><p><span class="darkturq_text">Run strategies forwards</span> without placing orders at the exchange to verify efficacy.</p></li>
-                                <li><p><span class="darkturq_text">Test strategies forward placing orders</span> at the exchange for a configurable fraction of your balance to validate slippage assumptions and overall execution.</p></li>
-                                <li><p><span class="darkturq_text">Enjoy the same visual aides</span> as with backtesting to analyze trades right over the charts.</p></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="sc_column">
-                            <img src="img/icons/png150/session-live-trading.png" /><br /><br />
-                            <h5 class="sc_title ">Live Trading</h5>
-                            <ul>
-                                <li><p><span class="darkturq_text">Live-trade with multiple strategies</span> from within the same instance of the app and the same machine.</p></li>
-                                <li><p><span class="darkturq_text">Use multiple accounts</span> or sub-accounts at the exchange, each with their own API keys.</p></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h3>Did we mention you can run all of these testing and live trading modes simultaneously?</h3>
-                        <br />
-                        <div class="text-center">
-                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Cool! Get me started!</a>
-                            </span>
-                        </div>
-                    </div>
-                </div>
-        </section>
 
-        <section id="design_principles" class="darkgrey_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h2 class="sc_title">Cool Features</h2>
-                        <h5 class="sc_title sc_title_underline">Tools to Maximize Productivity</h5>
-                    </div>
-                </div>
-                <div class="row text-center">
-                    <div class="col-md-4 col-sm-12">
-                        <div class="sc_column text-center">
-                            <a class="sc_icon fa fa-chart-line sc_icon_round bg_icon margin_bottom_mini"></a>
-                            <h5 class="sc_title ">Smart Access<br />to All Charts</h5>
-                            <p><span class="turq_text">Your strategies may access all charts</span> including 1, 2, 3, 4, 5, 10, 15, 20, 30, 45 minutes and 1, 2, 3, 4, 6, 8, 12, 24 hs, on each decision-making instance.</p>
-                            <img src="img/illustrations/Tall-Multiple-Charts.gif" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="sc_column">
-                            <a class="sc_icon fa fa-eye sc_icon_round bg_icon margin_bottom_mini"></a>
-                            <h5 class="sc_title ">Visual Validation of Conditions and Formulas</h5>
-                            <p><span class="turq_text">See which of your rules are met</span> along with the value of your formulas on each candle, simply by hovering your mouse pointer across the charts.</p>
-                            <img src="img/illustrations/Tall-Visual-Validation.gif" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="sc_column">
-                            <a class="sc_icon fa fa-file-import sc_icon_round bg_icon margin_bottom_mini"></a>
-                            <h5 class="sc_title ">Drag &amp; Drop Imports and<br />One-click Exports</h5>
-                            <p><span class="turq_text">Back up and share any part of your work</span> with a single mouse-click, and import work seamlessly, dropping the file on the Designer.</p>
-                            <img src="img/illustrations/Tall-Backup-Import.gif" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h3>And the app is <!--#include file="tooltips/tools-free.shtml" -->, <!--#include file="tooltips/tools-open-source.shtml" --> and <!--#include file="tooltips/tools-trustless.shtml" -->!</h3>
-                        <br />
-                        <div class="text-center">
-                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="https://github.com/Superalgos/DesktopApp/blob/master/README.md" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">How do I get started?</a>
-                            </span>
-                        </div>
-                    </div>
-                </div>
-        </section>
-
-        <section id="status" class="light_section">
+        <section id="Installation" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
