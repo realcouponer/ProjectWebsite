@@ -54,13 +54,13 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <p>The <!--#include file="tooltips/superalgos-project.shtml" --> distributes the development and maintenance of the system on a global network of Dev Teams, in the quest to create a highly resilient body of talent in charge of both producing and maintaining the technology required to run the project.</p>
-                        <p>We aim to create a superior trading intelligence capable of outperforming every other participant in the markets. Such intelligence will certainly enable a number of businesses, which will depend on the project's systems to run successfully. </p>
-                        <p>The system is subdivided in tens of components consisting of frontend and backend modules along with some infrastructure and blockchain components.</p>
+                        <p>We aim to create a superior trading intelligence capable of outperforming every other participant in the markets. Such intelligence will certainly enable many businesses, which will depend on the project's systems to run successfully. </p>
+                        <p>The system is subdivided into tens of components consisting of frontend and backend modules along with some infrastructure and blockchain components.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>In order to achieve maximum resilience, Dev Teams develop one or two components each only, with the exception of a few pioneer teams who may have developed more than two in early stages. </p>
+                        <p>To achieve maximum resilience, Dev Teams develop one or two components each only, except for a few pioneer teams who may have developed more than two in early stages. </p>
                         <p>This means that only a few dozens of Dev Teams contributing early on will be able to participate in this role. </p>
-                        <p>The <!--#include file="tooltips/core-team.shtml" --> maintains the <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">Superalgos organization</a> on GitHub. Each part of the system has its own repository to which Dev Teams contribute to.</p>
+                        <p>The <!--#include file="tooltips/core-team.shtml" --> maintains the <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">Superalgos organization</a> on GitHub. Each part of the system has its repository to which Dev Teams contribute to.</p>
                     </div>
                 </div>
             </div>
@@ -91,10 +91,10 @@
                     <div class="col-sm-6">
                         <p>When developers approach the project with an interest in contributing, the first step is becoming familiar with the system. To do that, they need to become power users of the Superalgos Desktop App. They help with testing and debugging existing code and new functionality as it becomes available.</p>
                         <p>Developers may collaborate and form teams. They may continue their progression building indicators and even trading strategies which they may choose to open-source and share, under their own Github organizations.</p>
-                        <p>After a period of time, their contributions build their reputation and make them elligible for a long term relationship with the project, becoming a Superalgos Dev Team and aspiring to earn an incentive in the form of an Intelli Stream.</p>
+                        <p>After some time, their contributions build their reputation and make them eligible for a long term relationship with the project, becoming a Superalgos Dev Team and aspiring to earn an incentive in the form of an Intelli Stream.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>The long-term work of Dev Teams is based on undertaking responsibility over specific concepts, which usually map to one or more system components. For instance, the concept of <i>events</i> is handled by the Events Server Module. </p>
+                        <p>The long-term work of Dev Teams is based on undertaking responsibility for specific concepts, which usually map to one or more system components. For instance, the concept of <i>events</i> is handled by the Events Server Module. </p>
                         <p>Each concept is assigned a category, which is a function of the perceived level of criticality, urgency and difficulty entailed in the particular concept. There are fifty categories, from 1 to 50.</p>
                         <p>The more critical, urgent or difficult the concept is perceived to be, the higher the category number, which is pegged to an <!--#include file="tooltips/intelli-stream.shtml" --> of the size corresponding to the concept's category. </p>
                     </div>
@@ -111,12 +111,12 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>Dev Teams are expected to assume <i>full responsibility</i> over a specific <i>concept</i>, for instance, users, teams or events. Many times, a concept maps directly to one or more specific components, but is not necessarily limited to that.</p>
-                        <p>This distinction is instrumental to understanding the scope of the responsibility of Dev Teams, in particular because the Superalgos system is meant to evolve over time. Evolution of the system may entail the need to integrate new components or even new requirements that may emerge resulting from the expansion of business needs.</p>
+                        <p>Dev Teams are expected to assume <i>full responsibility</i> for a specific <i>concept</i>, for instance, users, teams or events. Many times, a concept maps directly to one or more specific components but is not necessarily limited to that.</p>
+                        <p>This distinction is instrumental in understanding the scope of the responsibility of Dev Teams, in particular because the Superalgos system is meant to evolve. The evolution of the system may entail the need to integrate new components or even new requirements that may emerge resulting from the expansion of business needs.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>Assuming full responsibility implies that Dev Teams are in charge of producing their own requirements, developing the components and maintaining them in the long term. As such, teams are expected to get truly close to the project, becoming a fundamental piece of the machinery.</p>
-                        <p>While we foresee components stabilizing after a period of time, the truth is the project is in constant evolution. Any new piece of functionality or requirement falling within the scope of a certain concept, requires the prompt attention of the Dev Team responsible for that concept.</p>
+                        <p>While we foresee components stabilizing after some time, the truth is the project is in constant evolution. Any new piece of functionality or requirement falling within the scope of a certain concept requires the prompt attention of the Dev Team responsible for that concept.</p>
                     </div>
                 </div>
         </section>
@@ -130,10 +130,10 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>As general requirements, Dev Teams are expected to maintain a clear README.md file and a thorough change log. We also encourage proper use of git comments and maintaining a clean git workflow.</p>
-                        <p>Depending on the component, the first working version is estimated to require roughly 1 to 2 months of development effort for a senior developer working full time or a similar time for a team of two developers working part time. Should your team count with more resources, it shouldn't be a problem to deliver the component much faster.</p>
+                        <p>As general requirements, Dev Teams are expected to maintain a clear README.md file and a thorough changelog. We also encourage proper use of git comments and maintaining a clean git workflow.</p>
+                        <p>Depending on the component, the first working version is estimated to require roughly 1 to 2 months of development effort for a senior developer working full time or a similar time for a team of two developers working part-time. Should your team count with more resources, it shouldn't be a problem to deliver the component much faster.</p>
                         <p>The development workflow exhibits two distinct phases: <i>open requirements</i> and <i>free development</i>.</p>
-                        <p>The first task Dev Teams face after getting acquainted with the system and the functionality falling within the concept on which they are assuming responsibility is to draft their own requirements sheet, kick starting the open requirements phase.</p>
+                        <p>The first task Dev Teams face after getting acquainted with the system and the functionality falling within the concept on which they are assuming responsibility is to draft their own requirements sheet, kick-starting the open requirements phase.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>Requirements are then discussed with the <!--#include file="tooltips/core-team.shtml" --> and the rest of the teams, in particular those responsible for adjacent or intersecting functionality, and are eventually approved, after any number of iterations.</p>
@@ -177,14 +177,14 @@
                         <p>A team of three developers has been contributing with testing, bug removal and documentation for some time. They have built a couple of indicators and know the system at heart.</p>
                         <p>The team wishes to contribute to the development of the core systems. They meet the technical Core Team maintaining the Superalgos organization in Github, discuss priorities and apply to work on a specific concept. The selected concept becomes their <!--#include file="tooltips/area-of-responsibility.shtml" -->. </p>
                         <p>Every piece of functionality identified (or to be identified) that logically falls within the scope of that particular concept becomes the team's responsibility. Their mission is to develop the corresponding components, refine them and maintain them.</p>
-                        <p>The team starts out by joining regular developer meetings, at least once per week; they discuss their concept with other developers, and gather initial definitions. </p>
+                        <p>The team starts by joining regular developer meetings, at least once per week; they discuss their concept with other developers and gather initial definitions. </p>
                         <p>They present a requirements sheet and agree with the community on the scope of a first usable version of the components, and start programming.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>While developing version one of the components, they stay in touch with other developers and the Core Team, consulting on any issues that may arise, while showcasing their progress at developer meetings. </p>
                         <p>Eventually, they start integrating the module into the overall system, polishing the rough edges until the functionality becomes usable.</p>
-                        <p>By that time, the rest of developers have become acquainted with the new team, having interacted frequently and followed their work closely. The constant revisions through regular meetings help the new team stay on course, remain focused in priorities and programing following agreed best practices.</p>
-                        <p>This initial piece of work is enough to show the rest of developers that the new team is a worthy acquisition. As soon as the software is up and running in the production environment, the team's <!--#include file="tooltips/intelli-stream.shtml" --> is readily activated and started.</p>
+                        <p>By that time, the rest of the developers have become acquainted with the new team, having interacted frequently and followed their work closely. The constant revisions through regular meetings help the new team stay on course, remain focused on priorities and programing following agreed best practices.</p>
+                        <p>This initial piece of work is enough to show the rest of the developers that the new team is a worthy acquisition. As soon as the software is up and running in the production environment, the team's <!--#include file="tooltips/intelli-stream.shtml" --> is readily activated and started.</p>
                         <p>The new team is now a key part of the community. It keeps developing their module until the last bit of functionality is integrated. People report bugs until the module stabilizes and requires less and less work. The team stays alert, updating the module every time a new requirement arises.</p>
                     </div>
                 </div>
@@ -200,7 +200,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>If at any point in time an individual contributor wishes to step aside, or fails to deliver as per the expectations of the rest of the Dev Teams, the project will help the person make a clean exit by delegating responsibilities into:</p>
+                        <p>If at any point in time an individual contributor wishes to step aside or fails to deliver as per the expectations of the rest of the Dev Teams, the project will help the person make a clean exit by delegating responsibilities into:</p>
                         <ul>
                             <li><p>other members of the same team;</p></li>
                             <li><p>other teams.</p></li>
