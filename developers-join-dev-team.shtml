@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 <head>
     <title>Join the Superalgos Development Team</title>
-    <meta name="description" content="Co-creating the system that will serve the businesses running on Superalgos.org">
+    <meta name="description" content="Contribute to building the systems that will serve the businesses enabled by the Superalgos Project">
     <meta charset="utf-8">
     <!--#include file="includes/headlinks.shtml" -->
 </head>
@@ -28,7 +28,7 @@
                                                 <div>
                                                     <div style="padding: 0 15px 0 15px;">
                                                         <h2 style="font-weight:700;">
-                                                            Co-Creating the System Serving the Superalgos Project
+                                                            Contribute to Building the Systems Behind the Superalgos Project
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -43,7 +43,7 @@
             </div>
         </section>
 
-        <section id="intro" class="light_section">
+        <section id="role" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -61,20 +61,12 @@
                         <p>In order to achieve maximum resilience, Dev Teams develop one or two components each only, with the exception of a few pioneer teams who may have developed more than two in early stages. </p>
                         <p>This means that only a few dozens of Dev Teams contributing early on will be able to participate in this role. </p>
                         <p>The <!--#include file="tooltips/core-team.shtml" --> maintains the <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">Superalgos organization</a> on GitHub. Each part of the system has its own repository to which Dev Teams contribute to.</p>
-                        <p>The chart below is an indication of the current progress on the concepts that have been so far identified.</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <div class="polaroid">
-                            <img src="img/charts/status-of-concepts.png" alt="Status of Modules">
-                        </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="mining_algo_section" class="darkgrey_section">
+        <section id="incentives" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -88,41 +80,29 @@
             </div>
         </section>
 
-        <section id="intro" class="light_section">
+        <section id="getting-in" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Concepts</h1>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <div class="polaroid">
-                            <img src="img/charts/concepts-by-team.png" alt="Modules by Team">
-                        </div>
+                        <h1 class="sc_title sc_title_underline">Getting in the Superalgos Dev Team</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The chart above shows the current allocation of concepts per Development Team. </p>
-                        <p>The work of Dev Teams is based on undertaking responsibility over specific concepts, which usually map to one or more system components. For instance, the concept of users is handled by the Users Backend Module and the Users Frontend Module. </p>
+                        <p>When developers approach the project with an interest in contributing, the first step is becoming familiar with the system. To do that, they need to become power users of the Superalgos Desktop App. They help with testing and debugging existing code and new functionality as it becomes available.</p>
+                        <p>Developers may collaborate and form teams. They may continue their progression building indicators and even trading strategies which they may choose to open-source and share, under their own Github organizations.</p>
+                        <p>After a period of time, their contributions build their reputation and make them elligible for a long term relationship with the project, becoming a Superalgos Dev Team and aspiring to earn an incentive in the form of an Intelli Stream.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>Each concept is assigned a category, which is a function of the perceived level of criticality, urgency and difficulty entailed in the particular concept. There are fifty categories, from 1 to 50. The more critical, urgent or difficult the concept is perceived to be, the higher the category number, which is pegged to an <!--#include file="tooltips/intelli-stream.shtml" --> of the size corresponding to the concept's category. </p>
-                        <p>The Chart below shows the category of the concepts identified so far. </p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <div class="polaroid">
-                            <img src="img/charts/concepts-category.png" alt="Intelli Budget per Module">
-                        </div>
+                        <p>The long-term work of Dev Teams is based on undertaking responsibility over specific concepts, which usually map to one or more system components. For instance, the concept of <i>events</i> is handled by the Events Server Module. </p>
+                        <p>Each concept is assigned a category, which is a function of the perceived level of criticality, urgency and difficulty entailed in the particular concept. There are fifty categories, from 1 to 50.</p>
+                        <p>The more critical, urgent or difficult the concept is perceived to be, the higher the category number, which is pegged to an <!--#include file="tooltips/intelli-stream.shtml" --> of the size corresponding to the concept's category. </p>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="development" class="darkgrey_section">
+        <section id="scope" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -136,32 +116,12 @@
                     </div>
                     <div class="col-sm-6">
                         <p>Assuming full responsibility implies that Dev Teams are in charge of producing their own requirements, developing the components and maintaining them in the long term. As such, teams are expected to get truly close to the project, becoming a fundamental piece of the machinery.</p>
-                        <p>While we foresee components stabilizing after a period of time, as explained earlier, the project is in constant evolution. Any new piece of functionality or requirement falling within the scope of a certain concept, requires the prompt attention of the Dev Team responsible for that concept.</p>
+                        <p>While we foresee components stabilizing after a period of time, the truth is the project is in constant evolution. Any new piece of functionality or requirement falling within the scope of a certain concept, requires the prompt attention of the Dev Team responsible for that concept.</p>
                     </div>
                 </div>
         </section>
 
-        <section id="intro" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Web Technology</h1>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <p>As hinted earlier, the core of the system is web-based. There is only one web app loaded at the browser&mdash;the Master App&mdash;and the rest of the system modules are transformed into NPM JavaScript libraries, listed as dependencies. </p>
-                        <p>In terms of implementation, the Master App is a React / Redux app, which accesses a GraphQL backend API via Apollo. </p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>The Master App API is actually an API Router, forwarding incoming requests to the backend of each individual module. </p>
-                        <p>A module backend consists of a Node.js / Express app, with either MongoDB or Postgre databases depending on the preferences of each individual developer. </p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="development" class="darkgrey_section">
+        <section id="development" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -184,7 +144,7 @@
                 </div>
         </section>
 
-        <section id="compensation" class="light_section">
+        <section id="compensation" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -198,13 +158,13 @@
 
                     </div>
                     <div class="col-sm-6">
-                        <p>The <!--#include file="tooltips/superalgos-organization.shtml" --> supervises the Intelli Stream throughout the life of the project. The Intelli Stream may be paused in cases when a team becomes unresponsive or does not satisfy the service level agreements established for maintenance. Should a Dev Team become a liability for the project for whatever reason, the Intelli Stream Supervisor may decide to stop the miner and find a replacement for the team at fault.</p>
+                        <p>The <!--#include file="tooltips/superalgos-organization.shtml" --> supervises the Intelli Stream throughout the life of the project. The Intelli Stream may be paused in cases when a team becomes unresponsive or does not satisfy the service level agreements established for maintenance. Should a Dev Team become a liability for the project for whatever reason, the Intelli Stream Supervisor may decide to stop the stream and find a replacement for the team at fault.</p>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="compensation" class="darkgrey_section">
+        <section id="example" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -214,10 +174,10 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <p>Let's use an example to bring everything said so far down to earth.</p>
-                        <p>A team of three developers wishes to contribute to the development of the Superalgos system. They get in touch with the project, meet the technical Core Team maintaining the <a href="https://github.com/Superalgos" rel="nofollow" rel="noopener" target="_blank">Superalgos organization in Github</a>, discuss priorities and apply to work on a specific concept.</p>
-                        <p>The selected concept becomes their <!--#include file="tooltips/area-of-responsibility.shtml" -->. </p>
+                        <p>A team of three developers has been contributing with testing, bug removal and documentation for some time. They have built a couple of indicators and know the system at heart.</p>
+                        <p>The team wishes to contribute to the development of the core systems. They meet the technical Core Team maintaining the Superalgos organization in Github, discuss priorities and apply to work on a specific concept. The selected concept becomes their <!--#include file="tooltips/area-of-responsibility.shtml" -->. </p>
                         <p>Every piece of functionality identified (or to be identified) that logically falls within the scope of that particular concept becomes the team's responsibility. Their mission is to develop the corresponding components, refine them and maintain them.</p>
-                        <p>The team starts out by joining regular developer meetings, at least once per week; they discuss their concept with other developers, getting acquainted with the system architecture and gathering initial definitions. </p>
+                        <p>The team starts out by joining regular developer meetings, at least once per week; they discuss their concept with other developers, and gather initial definitions. </p>
                         <p>They present a requirements sheet and agree with the community on the scope of a first usable version of the components, and start programming.</p>
                     </div>
                     <div class="col-sm-6">
@@ -231,7 +191,7 @@
             </div>
         </section>
 
-        <section id="covenants" class="light_section">
+        <section id="exit" class="darkgrey_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -250,36 +210,6 @@
                         <p>In the first case, the team's relationship with the rest of the ecosystem remains the same and the team shall keep all of its responsibilities and entitlements through an internal change in management.</p>
                         <p>In the second case, the departing team will keep all the Intelli it may have been allocated up to that point in time.</p>
                         <p>However, the departing team will resign entitlements to any further Intelli allocations.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section id="onboarding" class="darkgrey_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Onboarding Steps</h1>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <p>If you are a talented developer and would like to join the project's Development Team, we would be happy to have you on board. </p>
-                        <p>It is in fact the best way to support the ecosystem that aims to disrupt the trading space.</p>
-                        <p>Please follow these steps:</p>
-                        <ol>
-                            <li><p>Study this website thoroughly to gain the best possible understanding of the project.</p></li>
-                        </ol>
-                    </div>
-                    <div class="col-sm-6">
-                        <ol start="2">
-                            <li><p>Read the following articles to get acquainted with the inner workings of the project:</p></li>
-                            <ul>
-                                <li><a href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" rel="noopener" target="_blank">Superalgos, Part One:  The Trading Singularity</a></li>
-                                <li><a href="https://hackernoon.com/superalgos-part-two-building-a-trading-supermind-a47bdc73aed" rel="nofollow" rel="noopener" target="_blank">Superalgos, Part Two:  Building a Trading Supermind</a></li>
-                            </ul>
-                            <li><p>Check the repositories at the <a href="https://github.com/Superalgos/" rel="nofollow" rel="noopener" target="_blank">Superalgos</a>  Github organization.</p></li>
-                            <li><p>Join the <a href="https://t.me/superalgosdevelop" rel="nofollow" rel="noopener" target="_blank">Superalgos Develop</a> Telegram group and read the pinned welcome message. </p></li>
-                        </ol>
                     </div>
                 </div>
             </div>
