@@ -94,7 +94,7 @@
                     <div class="col-md-4 col-sm-12">
                         <div class="sc_column">
                             <a class="sc_icon fa fa-robot sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
-                            <h5 class="sc_title ">STAGE 1<br/>AutomateTrading</h5>
+                            <h5 class="sc_title ">STAGE 1<br/>Automate Trading</h5>
                         </div>
                         <div>
                             <ul>
@@ -125,7 +125,7 @@
                             <ul>
                                 <li><p>Paying for <!--#include file="tooltips/trading-services.shtml" --> provided by Algo-Makers at the Marketplace;</p></li>
                                 <li><p>Paying for <!--#include file="tooltips/asset-management-services.shtml" --> provided by Asset Managers at the Marketplace;</p></li>
-                                <li><p>Paying <!--#include file="tooltips/bundled-volume-discounts.shtml" --> distributed back to Node Operators by <!--#include file="tooltips/exchanges.shtml" -->.</p></li>
+                                <li><p><!--#include file="tooltips/exchanges.shtml" --> pay <!--#include file="tooltips/bundled-volume-discounts.shtml" -->, back to Node Operators.</p></li>
                             </ul>
                         </div>
                     </div>

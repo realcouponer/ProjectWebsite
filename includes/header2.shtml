@@ -21,6 +21,15 @@
                                     </li>
 
                                     <li class="menu-item-has-children">
+                                        <a href="#">STAGE 1: Automation</a>
+                                        <ul>
+                                            <li>
+                                                <a href="tools-superalgos-desktop-app.shtml"><nobr>Superalgos Desktop App</nobr></a>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="menu-item-has-children">
                                         <a href="#">STAGE 2: Competitions</a>
                                         <ul>
                                             <li>
@@ -70,15 +79,22 @@
                                             </li>
                                         </ul>
                                     </li>
-                                    <li>
-                                        <a href="about-team.shtml" class="sf-with-ul">Core Team</a>
+
+                                    <li class="menu-item-has-children">
+                                        <a href="#">People</a>
+                                        <ul>
+                                            <li>
+                                                <a href="about-team.shtml" class="sf-with-ul">Core Team</a>
+                                            </li>
+                                            <li>
+                                                <a href="about-contributing.shtml" class="sf-with-ul">Work With Us</a>
+                                            </li>
+                                            <li>
+                                                <a href="developers-join-dev-team.shtml"><nobr>Join the Dev Team</nobr></a>
+                                            </li>
+                                        </ul>
                                     </li>
-                                    <li>
-                                        <a href="about-contributing.shtml" class="sf-with-ul">Contributing</a>
-                                    </li>
-                                    <li>
-                                        <a href="developers-join-dev-team.shtml"><nobr>Join the Dev Team</nobr></a>
-                                    </li>
+
                                     <li>
                                         <a href="about-faqs.shtml" class="sf-with-ul">FAQs</a>
                                     </li>

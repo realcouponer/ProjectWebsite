@@ -6471,7 +6471,7 @@ code {
         width: 300px;
         /* Position the tooltip */
         position: absolute;
-        z-index: 0;
+        z-index: 1000;
         bottom: 125%;
         right: -50px;
         opacity: 0;
