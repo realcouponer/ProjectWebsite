@@ -547,8 +547,7 @@ ul.sc_list_style_disk li:before,
 #timeline_section [class*="swiper-button-"]:hover,
 .sidemenu_wrap .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
 .sidemenu_wrap .mCSB_scrollTools_onDrag .mCSB_dragger_bar
-{ background-color:#999; }
-/*#0f75bc*/
+{ background-color:#0295aa; } /*#999, #0f75bc*/
 
 .theme_accent_2_bg,
 .theme_accent_2_bg:before
@@ -556,9 +555,8 @@ ul.sc_list_style_disk li:before,
 
 .swiper-scrollbar-drag,
 a.sc_icon.bg_icon.sc_icon_round:hover,
-a.sc_icon.no_bg_icon.sc_icon_round:hover {
-    background-color: #4acfd9 !important;
-}
+a.sc_icon.no_bg_icon.sc_icon_round:hover 
+{ background-color: #4acfd9 !important;}
 
 .theme_accent_3_bgc,
 .theme_accent_3_bgc:before,

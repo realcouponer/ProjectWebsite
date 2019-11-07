@@ -1,0 +1,354 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Articles on the Superalgos Project</title>
+    <meta name="description" content="Discussing the context and extent of the project through a curated collection of articles.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/connect-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding: 0 15px 0 15px;">
+                                                        <h2>
+                                                            <strong>Wise men speak because they have something to say;<br />fools because they have to say something. &mdash;Plato</strong>
+                                                        </h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="articles" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+
+                        <h2 class="sc_title">We Have Things to Say</h2>
+                        <h5 class="sc_title sc_title_underline">Learn more about the project and it's context</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 col-sm-12">
+                        <div class="portfolioWrap">
+
+                            <article class="excerptSmall post bg_post">
+                                <div class="thumb hoverIncrease hoverTwo inited" data-link="#" data-image="img/shore.jpg" data-title="New Post With Image">
+                                    <div class="isotopePadding">
+                                        <img alt="New Post With Image" src="img/photos/chess-surfer.jpg">
+                                        <span class="hoverShadow"></span>
+                                        <div class="wrap_hover">
+                                            <a href="img/photos/chess-surfer.jpg" title="Trading Bitcoin: Chess Masters vs. Surfers&mdash;Who's Keeping Score?" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                                <span class="hoverIcon"></span>
+                                            </a>
+                                            <a title="Trading Bitcoin: Chess Masters vs. Surfers&mdash;Who's Keeping Score?" href="https://hackernoon.com/chess-masters-vs-surfers-trading-bitcoin-wkk2gx3" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                                <span class="hoverLink"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post_wrap">
+                                    <h4>
+                                        <a href="https://hackernoon.com/chess-masters-vs-surfers-trading-bitcoin-wkk2gx3" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Trading Bitcoin: Chess Masters vs. Surfers&mdash;Who's Keeping Score?</a>
+                                    </h4>
+                                    <div class="post_format_wrap postImage">
+                                        <p>Ever wondered why some bitcoin traders are drawn to go out scalping every fast-rolling wave gliding across the screen while others will sit in the comfort of the beach club&mdash;mojito in hand&mdash;and play the tide instead?</p>
+                                    </div>
+                                    <div class="bog_post_info infoPost">
+                                        <span class="datePost">
+                                            November 6, 2019&mdash;Hacker Noon
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="excerptSmall post bg_post">
+                                <div class="thumb hoverIncrease hoverTwo inited">
+                                    <div class="isotopePadding">
+                                        <img alt="New Post With Image" src="img/photos/financial-beings.jpg">
+                                        <span class="hoverShadow"></span>
+                                        <div class="wrap_hover">
+                                            <a href="img/photos/financial-beings.jpg" title="The Starter's Guide to Coding Killer Crypto-Trading Bots" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                                <span class="hoverIcon"></span>
+                                            </a>
+                                            <a title="The Starter's Guide to Coding Killer Crypto-Trading Bots" href="https://hackernoon.com/the-starters-guide-to-coding-killer-trading-bots-r21a2gzh" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                                <span class="hoverLink"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post_wrap">
+                                    <h4>
+                                        <a href="https://hackernoon.com/the-starters-guide-to-coding-killer-trading-bots-r21a2gzh" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">The Starter's Guide to Coding Killer Crypto-Trading Bots</a>
+                                    </h4>
+                                    <div class="post_format_wrap postImage">
+                                        <p>So you can code, got into crypto, found out about crypto-trading, and knew that&mdash;sooner or later&mdash;you would give it a shot at building a trading bot. Good. This is where you learn where to start, how to approach the process, and the dos and don'ts of coding trading bots.</p>
+                                    </div>
+                                    <div class="bog_post_info infoPost">
+                                        <span class="datePost">
+                                            October 14, 2019&mdash;Hacker Noon
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="excerptSmall post bg_post">
+                                <div class="thumb hoverIncrease hoverTwo inited">
+                                    <div class="isotopePadding">
+                                        <img alt="New Post With Image" src="img/photos/angel-luciano-unsplash.jpg">
+                                        <span class="hoverShadow"></span>
+                                        <div class="wrap_hover">
+                                            <a href="img/photos/angel-luciano-unsplash-featured-1400.jpg" title="How to Increase your Bitcoin Holdings in a Bear Market - Part I" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                                <span class="hoverIcon"></span>
+                                            </a>
+                                            <a title="How to Increase your Bitcoin Holdings in a Bear Market - Part I" href="https://hackernoon.com/how-to-increase-your-bitcoin-holdings-in-a-bear-market-part-1-kjwp2gwu" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                                <span class="hoverLink"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post_wrap">
+                                    <h4>
+                                        <a href="https://hackernoon.com/how-to-increase-your-bitcoin-holdings-in-a-bear-market-part-1-kjwp2gwu" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">How to Increase your Bitcoin Holdings in a Bear Market</a>
+                                    </h4>
+                                    <div class="post_format_wrap postImage">
+                                        <p>Our strategy hit a 26% ROI trade during last week's bitcoin crash. If you pay attention you might be able to catch the next ride too. What happened at 5 PM UTC on September 6th that made the Weak-hands buster strategy decide to take a short position on bitcoin?</p>
+                                    </div>
+                                    <div class="bog_post_info infoPost">
+                                        <span class="datePost">
+                                            October 4, 2019&mdash;Hacker Noon
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="excerptSmall post bg_post">
+                                <div class="thumb hoverIncrease hoverTwo inited">
+                                    <div class="isotopePadding">
+                                        <img alt="New Post With Image" src="img/photos/automation-original.jpg">
+                                        <span class="hoverShadow"></span>
+                                        <div class="wrap_hover">
+                                            <a href="img/photos/automation-original.jpg" title="Switching From Manual to Automated Crypto-Trading in 3 Steps" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                                <span class="hoverIcon"></span>
+                                            </a>
+                                            <a title="How to Increase your Bitcoin Holdings in a Bear Market - Part I" href="https://hackernoon.com/switching-from-manual-to-automated-crypto-trading-874gw2cji" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                                <span class="hoverLink"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post_wrap">
+                                    <h4>
+                                        <a href="https://hackernoon.com/switching-from-manual-to-automated-crypto-trading-874gw2cji" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Switching From Manual to Automated Crypto-Trading in 3 Steps</a>
+                                    </h4>
+                                    <div class="post_format_wrap postImage">
+                                        <p>Trading crypto manually sucks and you know it. Stop wasting your potential and make the transition once and for good. Before we start, rest assured I'm not advocating throwing year's worth of accumulated knowledge and experience down the drain to go out and find the latest hyper-hyped AI bot promising to take over your duties while you sleep.</p>
+                                    </div>
+                                    <div class="bog_post_info infoPost">
+                                        <span class="datePost">
+                                            September 30, 2019&mdash;Hacker Noon
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="excerptSmall post bg_post">
+                                <div class="thumb hoverIncrease hoverTwo inited">
+                                    <div class="isotopePadding">
+                                        <img alt="New Post With Image" src="img/photos/puzzle-original.jpg">
+                                        <span class="hoverShadow"></span>
+                                        <div class="wrap_hover">
+                                            <a href="img/photos/puzzle-original.jpg" title="Why Crypto-Trading Will Get Social in 2020" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                                <span class="hoverIcon"></span>
+                                            </a>
+                                            <a title="Why Crypto-Trading Will Get Social in 2020" href="https://hackernoon.com/when-crypto-trading-gets-social-p43ba2c2w" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                                <span class="hoverLink"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post_wrap">
+                                    <h4>
+                                        <a href="https://hackernoon.com/when-crypto-trading-gets-social-p43ba2c2w" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Why Crypto-Trading Will Get Social in 2020</a>
+                                    </h4>
+                                    <div class="post_format_wrap postImage">
+                                        <p>Few traders join forces spontaneously, but industry trends may push collective trading to the forefront sooner than later. Long gone are the times when an incipient industry was driven by idealist souls sharing the values of freedom and power to the people that transpire from the libertarian interpretation of the potential of cryptocurrencies. Nowadays, the suits are taking over.</p>
+                                    </div>
+                                    <div class="bog_post_info infoPost">
+                                        <span class="datePost">
+                                            September 13, 2019&mdash;Hacker Noon
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="excerptSmall post bg_post">
+                                <div class="thumb hoverIncrease hoverTwo inited">
+                                    <div class="isotopePadding">
+                                        <img alt="New Post With Image" src="img/photos/strategizer-original.jpg">
+                                        <span class="hoverShadow"></span>
+                                        <div class="wrap_hover">
+                                            <a href="img/photos/strategizer-original.jpg" title="Developing Your Trading System: A Step by Step Logical Guide" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                                <span class="hoverIcon"></span>
+                                            </a>
+                                            <a title="How to Increase your Bitcoin Holdings in a Bear Market - Part I" href="https://hackernoon.com/crypto-trading-systems-101-qh8jv2cch" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                                <span class="hoverLink"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post_wrap">
+                                    <h4>
+                                        <a href="https://hackernoon.com/crypto-trading-systems-101-qh8jv2cch" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Developing Your Trading System: A Step by Step Logical Guide</a>
+                                    </h4>
+                                    <div class="post_format_wrap postImage">
+                                        <p>I'm sure you've heard before that trading is all about developing your system and sticking to it. This article lays out a rational framework for developing your trading system by dissecting trading logic, step by step.</p>
+                                    </div>
+                                    <div class="bog_post_info infoPost">
+                                        <span class="datePost">
+                                            September 9, 2019&mdash;Hacker Noon
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="excerptSmall post bg_post">
+                                <div class="thumb hoverIncrease hoverTwo inited">
+                                    <div class="isotopePadding">
+                                        <img alt="New Post With Image" src="img/photos/developers.jpg">
+                                        <span class="hoverShadow"></span>
+                                        <div class="wrap_hover">
+                                            <a href="img/photos/developers.jpg" title="Top Tips for Freelance Developers Chasing Financial Independence" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                                <span class="hoverIcon"></span>
+                                            </a>
+                                            <a title="Top Tips for Freelance Developers Chasing Financial Independence" href="https://medium.com/hackernoon/top-tips-for-freelance-developers-chasing-financial-independence-975d8f49300b" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                                <span class="hoverLink"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post_wrap">
+                                    <h4>
+                                        <a href="https://medium.com/hackernoon/top-tips-for-freelance-developers-chasing-financial-independence-975d8f49300b" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Top Tips for Freelance Developers Chasing Financial Independence</a>
+                                    </h4>
+                                    <div class="post_format_wrap postImage">
+                                        <p>As a lifelong entrepreneur with a background running a software company, I've always seen freelancing as a stepping stone to financial independence. Freelance developers have the entrepreneurial gene, but may be aiming too low in a market hungry for talent.</p>
+                                    </div>
+                                    <div class="bog_post_info infoPost">
+                                        <span class="datePost">
+                                            March 19, 2019&mdash;Hacker Noon
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="excerptSmall post bg_post">
+                                <div class="thumb hoverIncrease hoverTwo inited">
+                                    <div class="isotopePadding">
+                                        <img alt="New Post With Image" src="img/photos/supermind-original.jpg">
+                                        <span class="hoverShadow"></span>
+                                        <div class="wrap_hover">
+                                            <a href="img/photos/supermind-original.jpg" title="Superalgos, Part Two: Building a Trading Supermind" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                                <span class="hoverIcon"></span>
+                                            </a>
+                                            <a title="Superalgos, Part Two:  Building a Trading Supermind" href="https://hackernoon.com/superalgos-part-two-building-a-trading-supermind-a47bdc73aed" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                                <span class="hoverLink"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post_wrap">
+                                    <h4>
+                                        <a href="https://hackernoon.com/superalgos-part-two-building-a-trading-supermind-a47bdc73aed" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Superalgos, Part Two:  Building a Trading Supermind</a>
+                                    </h4>
+                                    <div class="post_format_wrap postImage">
+                                        <p>A supermind of humans and machines thinking and working together, doing everything required to maximize the group's collective intelligence so as to minimize the time needed for superalgos to emerge is being built right now.</p>
+                                    </div>
+                                    <div class="bog_post_info infoPost">
+                                        <span class="datePost">
+                                            January 14, 2019&mdash;Hacker Noon
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="excerptSmall post bg_post">
+                                <div class="thumb hoverIncrease hoverTwo inited">
+                                    <div class="isotopePadding">
+                                        <img alt="New Post With Image" src="img/photos/markets-original.jpg">
+                                        <span class="hoverShadow"></span>
+                                        <div class="wrap_hover">
+                                            <a href="img/photos/markets-original.jpg" title="Superalgos, Part One: The Trading Singularity" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                                <span class="hoverIcon"></span>
+                                            </a>
+                                            <a title="Superalgos, Part One: The Trading Singularity" href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                                <span class="hoverLink"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post_wrap">
+                                    <h4>
+                                        <a href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Superalgos, Part One: The Trading Singularity</a>
+                                    </h4>
+                                    <div class="post_format_wrap postImage">
+                                        <p>One day in the future, a trading intelligence capable of outperforming every other entity at the markets will emerge. Both humans and current algorithms will be surpassed by Superalgos.</p>
+                                    </div>
+                                    <div class="bog_post_info infoPost">
+                                        <span class="datePost">
+                                            January 14, 2019&mdash;Hacker Noon
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+
+                        </div>
+                    </div>
+                </div>
+</section>
+
+
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>

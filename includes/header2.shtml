@@ -6,21 +6,6 @@
                                 <ul>
 
                                     <li class="menu-item-has-children">
-                                        <a href="#">Social Contracts</a>
-                                        <ul>
-                                            <li>
-                                                <a href="social-constitution.shtml" class="sf-with-ul">Superalgos Constitution</a>
-                                            </li>
-                                            <li style="white-space:nowrap">
-                                                <a href="social-intelli-macroeconomic-guidance.shtml" class="sf-with-ul">Intelli Macroeconomics Guidance</a>
-                                            </li>
-                                            <li>
-                                                <a href="social-intelli-governance-charter.shtml" class="sf-with-ul">Intelli Governance Charter</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-
-                                    <li class="menu-item-has-children">
                                         <a href="#">STAGE 1: Automation</a>
                                         <ul>
                                             <li>
@@ -55,6 +40,21 @@
                                             </li>
                                             <li style="white-space:nowrap">
                                                 <a href="about-marketplace.shtml">Trading Intelligence Marketplace</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="menu-item-has-children">
+                                        <a href="#">Social Contracts</a>
+                                        <ul>
+                                            <li>
+                                                <a href="social-constitution.shtml" class="sf-with-ul">Superalgos Constitution</a>
+                                            </li>
+                                            <li style="white-space:nowrap">
+                                                <a href="social-intelli-macroeconomic-guidance.shtml" class="sf-with-ul">Intelli Macroeconomics Guidance</a>
+                                            </li>
+                                            <li>
+                                                <a href="social-intelli-governance-charter.shtml" class="sf-with-ul">Intelli Governance Charter</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -95,8 +95,16 @@
                                         </ul>
                                     </li>
 
-                                    <li>
-                                        <a href="about-faqs.shtml" class="sf-with-ul">FAQs</a>
+                                    <li class="menu-item-has-children">
+                                        <a href="#">Expanding Knowledge</a>
+                                        <ul>
+                                            <li>
+                                                <a href="media-articles.shtml" class="sf-with-ul">Articles &amp; Context</a>
+                                            </li>
+                                            <li>
+                                                <a href="about-faqs.shtml" class="sf-with-ul">FAQs</a>
+                                            </li>
+                                        </ul>
                                     </li>
                                 </ul>
                             </li>
