@@ -97,9 +97,9 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
-                            <span>Looking for our crypto-trading automation app?</span>
+                            <span>Looking for our crypto-trading automation platform?</span>
                             <span class="sc_button sc_button_size_big squareButton accent_2 big">
-                                <a href="tools-superalgos-desktop-app.shtml">Yes, how do I get started?</a>
+                                <a href="tools-superalgos-platform.shtml">Yes, how do I get started?</a>
                             </span>
                         </h3>
                     </div>
@@ -107,12 +107,12 @@
             </div>
         </section>
 
-        <section id="SuperalgosDesktopApp" class="light_section">
+        <section id="SuperalgosPlatform" class="light_section">
             <div class="container">
 
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h2 class="sc_title">Superalgos Desktop App</h2>
+                        <h2 class="sc_title">Superalgos Platform</h2>
                         <h5 class="sc_title sc_title_underline">Crypto-Trading Automation in Your Machine</h5>
                         <p class="sc_content text-center">We are building a free, open-source and trustless trading automation system<br /> so that you may up your game in cryptocurrency trading.</p>
 
@@ -136,7 +136,7 @@
                             <h5 class="sc_title ">Free of Charge</h5>
                             <ul>
                                 <li><p><span class="turq_text">Use all functionality for free</span> with no tiered or gated access, and no premium plans.</p></li>
-                                <li><p><span class="turq_text">Run the app in your own machine</span> so that you pay nothing for execution time.</p></li>
+                                <li><p><span class="turq_text">Run the platform in your own machine</span> so that you pay nothing for execution time.</p></li>
                                 <li><p><span class="turq_text">Own your data sets</span> by downloading and keeping market data up-to-date in your machine.</p></li>
                                 <li><p><span class="turq_text">Accept no limits</span> and run as many bots or backtests as you need.</p></li>
                             </ul>
@@ -172,7 +172,7 @@
                         <br />
                         <div class="text-center">
                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="tools-superalgos-desktop-app.shtml">Now show me the app!</a>
+                                <a href="tools-superalgos-platform.shtml">Now show me the platform!</a>
                             </span>
                         </div>
                     </div>
@@ -191,14 +191,14 @@
                 <div class="row text-center" style="margin-top: -20px;">
                     <div class="col-md-4 col-sm-12">
                         <div class="sc_column">
-                            <a href="tools-superalgos-desktop-app.shtml" class="sc_icon fa fa-robot sc_icon_round bg_icon margin_bottom_mini margin_top_small"></a>
+                            <a href="tools-superalgos-platform.shtml" class="sc_icon fa fa-robot sc_icon_round bg_icon margin_bottom_mini margin_top_small"></a>
                             <h5 class="sc_title ">Stage 1:<br />Automate Trading</h5>
                             <p>In stage 1, we empower traders with free, open-source tools that enable full trading automation and collaboration. This stage will see the growth of the <!--#include file="tooltips/community.shtml" --> and culture of cooperation in trading&mdash;an essential trait that will set the foundations for a Collective Trading Intelligence.</p>
                         </div>
                         <div class="text-center">
                             <br /><br />
                             <span class="squareButton accent_3 big">
-                                <a href="tools-superalgos-desktop-app.shtml">Automate it!</a>
+                                <a href="tools-superalgos-platform.shtml">Automate it!</a>
                             </span>
                         </div>
                     </div>
@@ -321,14 +321,14 @@
                                 <h3><br />STAGE 1: Automate Trading</h3>
                                 <h4 class="sc_accordion_title" style="position: relative; left: 30px;">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_13">
-                                        <strong>Superalgos Desktop App</strong>: Pre-Released, August 2019! <span class="red_text">&#10004; Checked!</span>
+                                        <strong>Superalgos Platform</strong>: Pre-Released, August 2019! <span class="red_text">&#10004; Checked!</span>
                                     </a>
                                 </h4>
                                 <div id="accordion_left_13" class="panel-collapse collapse in" style="position: relative; left: 30px;">
                                     <div class="sc_accordion_content">
                                         <div class="col-sm-6">
                                             <p>Superalgos has pre-released a suite of open source tools and the infrastructure that allows traders to automate <!--#include file="tooltips/strategies.shtml" --> and deploy them as <!--#include file="tooltips/algorithms.shtml" --> which may trade live, directly within the user account at the <!--#include file="tooltips/exchange.shtml" -->.</p>
-                                            <p>This is a pre-release in alpha stage. As such, you should expect rough edges, limitations and the instability typical a product that is still in development.</p>
+                                            <p>This is a pre-release in beta stage. As such, you should expect rough edges, limitations and the instability typical a product that is still in development.</p>
                                             <p>The main features are:</p>
                                         </div>
                                         <div class="col-sm-6">
@@ -345,7 +345,7 @@
                                         <div class="col-sm-12 text-center">
                                             <br />&nbsp;
                                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                                <a href="tools-superalgos-desktop-app.shtml">Superalgos Desktop App</a>
+                                                <a href="tools-superalgos-platform.shtml">Superalgos Platform</a>
                                             </span><br />&nbsp;
                                         </div>
                                     </div>
@@ -362,7 +362,7 @@
                                 <div id="accordion_left_14" class="panel-collapse collapse" style="position: relative; left: 30px;">
                                     <div class="sc_accordion_content">
                                         <div class="col-sm-6">
-                                            <p>The project aims to issue <!--#include file="tooltips/intelli-tokens.shtml" --> making them available to the public by means of rolling Micro Exchange Offerings (MEO), through a network of partner <!--#include file="tooltips/exchanges.shtml" -->. Offerings will happen as each Exchange is on boarded to support trading via the Superalgos Desktop App.</p>
+                                            <p>The project aims to issue <!--#include file="tooltips/intelli-tokens.shtml" --> making them available to the public by means of rolling Micro Exchange Offerings (MEO), through a network of partner <!--#include file="tooltips/exchanges.shtml" -->. Offerings will happen as each Exchange is on boarded to support trading via the Superalgos Platform.</p>
                                         </div>
                                         <div class="col-sm-6">
                                             <p>This distribution strategy intends to serve Exchange's clients as they start using the <!--#include file="tooltips/superalgos-platform.shtml" -->, satisfying the organic demand for the <!--#include file="tooltips/intelli-token.shtml" --> to access <!--#include file="tooltips/superalgos-network.shtml" --> services. </p>

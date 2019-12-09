@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Superalgos Desktop App</title>
+    <title>Superalgos Platform</title>
     <meta name="description" content="Automate your crypto-trading, even if you have literally zero coding skills. It's free, open-source and trustless.">
     <meta charset="utf-8">
 
@@ -53,9 +53,9 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
-                            <span>Can't wait to try the app?</span>
+                            <span>Can't wait to try the platform?</span>
                             <span class="sc_button sc_button_size_big squareButton accent_2 big">
-                                <a href="https://github.com/Superalgos/DesktopApp/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Download &amp; Install</a>
+                                <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Download &amp; Install</a>
                             </span>
                         </h3>
                     </div>
@@ -69,7 +69,7 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
 
-                        <h2 class="sc_title">Superalgos Desktop App</h2>
+                        <h2 class="sc_title">Superalgos Platform</h2>
                         <h5 class="sc_title sc_title_underline">A quick intro to get you up to speed</h5>
 
                         <br />
@@ -117,11 +117,11 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h3>And the app is <!--#include file="tooltips/tools-free.shtml" -->, <!--#include file="tooltips/tools-open-source.shtml" --> and <!--#include file="tooltips/tools-trustless.shtml" -->!</h3>
+                        <h3>And the platform is <!--#include file="tooltips/tools-free.shtml" -->, <!--#include file="tooltips/tools-open-source.shtml" --> and <!--#include file="tooltips/tools-trustless.shtml" -->!</h3>
                         <br />
                         <div class="text-center">
                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="https://github.com/Superalgos/DesktopApp/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">How do I get started?</a>
+                                <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">How do I get started?</a>
                             </span>
                         </div>
                     </div>
@@ -165,7 +165,7 @@
                             <img src="img/icons/png150/session-live-trading.png" /><br /><br />
                             <h5 class="sc_title ">Live Trading</h5>
                             <ul>
-                                <li><p><span class="darkturq_text">Live-trade with multiple strategies</span> from within the same instance of the app and the same machine.</p></li>
+                                <li><p><span class="darkturq_text">Live-trade with multiple strategies</span> from within the same instance of the platform and the same machine.</p></li>
                                 <li><p><span class="darkturq_text">Use multiple accounts</span> or sub-accounts at the exchange, each with their own API keys.</p></li>
                             </ul>
                         </div>
@@ -177,7 +177,7 @@
                         <br />
                         <div class="text-center">
                             <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                                <a href="https://github.com/Superalgos/DesktopApp/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Cool! Get me started!</a>
+                                <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Cool! Get me started!</a>
                             </span>
                         </div>
                     </div>
@@ -201,8 +201,8 @@
                             <ul>
                                 <li><p><span class="turq_text">It's a rules-based system</span> that will do whatever you tell it to do.</p></li>
                                 <li><p><span class="turq_text">You may freely design</span> both highly complex and simple strategies alike.</p></li>
-                                <li><p><span class="turq_text">You decide how to use the app</span>, be it to test your strategies, to get signals while trading manually, or to fully automate your trading.</p></li>
-                                <li><p><span class="turq_text">The app is cross platform</span> thus works on Windows, Mac OS and Linux systems.</p></li>
+                                <li><p><span class="turq_text">You decide how to use the platform</span>, be it to test your strategies, to get signals while trading manually, or to fully automate your trading.</p></li>
+                                <li><p><span class="turq_text">The platform is cross platform</span> thus works on Windows, Mac OS and Linux systems.</p></li>
                             </ul>
                         </div>
                     </div>
@@ -212,7 +212,7 @@
                             <h5 class="sc_title ">Accessibility</h5>
                             <ul>
                                 <li><p><span class="turq_text">No coding is required</span> as you set rules using simple math and logical statements.</p></li>
-                                <li><p><span class="turq_text">It's a visual app</span> displaying strategies in action directly over the charts.</p></li>
+                                <li><p><span class="turq_text">It's a visual platform</span> displaying strategies in action directly over the charts.</p></li>
                                 <li><p><span class="turq_text">You may use shared strategies</span> to get up and running in no time.</p></li>
                                 <li><p><span class="turq_text">A logical framework guides you</span> in designing your strategies.</p></li>
                                 <li><p><span class="turq_text">Installation is easy</span>, with quality documentation and educational material.</p></li>
@@ -235,11 +235,11 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h3>Did we mention the app is <!--#include file="tooltips/tools-free.shtml" -->, <!--#include file="tooltips/tools-open-source.shtml" --> and <!--#include file="tooltips/tools-trustless.shtml" -->?</h3>
+                        <h3>Did we mention the platform is <!--#include file="tooltips/tools-free.shtml" -->, <!--#include file="tooltips/tools-open-source.shtml" --> and <!--#include file="tooltips/tools-trustless.shtml" -->?</h3>
                         <br />
                         <div class="text-center">
                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="https://github.com/Superalgos/DesktopApp/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">I WANT IT!</a>
+                                <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">I WANT IT!</a>
                             </span>
                         </div>
                     </div>
@@ -257,13 +257,13 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <h5 style="text-align: center;">Installation Instructions</h5>
-                        <p>Deploying complex systems in a user-friendly manner is a huge challenge. The button below will take you to the instructions that will guide you in the process of downloading and running the app in your machine. Feel free to direct questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> should you run into any issues. The same page provides complete documentation, so keep it at hand once you are up and running.</p>
+                        <p>Deploying complex systems in a user-friendly manner is a huge challenge. The button below will take you to the instructions that will guide you in the process of downloading and running the platform in your machine. Feel free to direct questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> should you run into any issues. The same page provides complete documentation, so keep it at hand once you are up and running.</p>
 
                     </div>
                     <div class="col-sm-6">
                         <h5 style="text-align: center;">Other Resources</h5>
                         <ul>
-                            <li><p>Fundamental reading on the conceptual framework for automating your Trading System: Superalgos Protocol V0.1 &mdash; <a href="https://medium.com/superalgos/superalgos-protocol-v0-1-the-short-version-for-experienced-traders-86c3fa43f1c0" rel="nofollow" rel="noopener" target="_blank">the short version</a>, for experienced traders and <a href="https://medium.com/superalgos/superalgos-protocol-v0-1-the-long-version-for-beginner-traders-f293f1cc6c13" rel="nofollow" rel="noopener" target="_blank">the long version</a>, for beginner traders.</p></li>
+                            <li><p>Fundamental reading on the conceptual framework for automating your Trading System: Superalgos Trading Protocol V0.1 &mdash; <a href="https://medium.com/superalgos/superalgos-protocol-v0-1-the-short-version-for-experienced-traders-86c3fa43f1c0" rel="nofollow" rel="noopener" target="_blank">the short version</a>, for experienced traders and <a href="https://medium.com/superalgos/superalgos-protocol-v0-1-the-long-version-for-beginner-traders-f293f1cc6c13" rel="nofollow" rel="noopener" target="_blank">the long version</a>, for beginner traders.</p></li>
                             <li><p>Browse our <a href="https://www.youtube.com/channel/UCmYSGbB151xFQPNxj7KfKBg" rel="nofollow" rel="noopener" target="_blank">YouTube Channel</a> for video tutorials.</p></li>
                         </ul>
                     </div>
@@ -271,7 +271,7 @@
                 <div class="row">
                     <div class="text-center">
                         <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                            <a href="https://github.com/Superalgos/DesktopApp/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
+                            <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
                         </span>
                     </div>
                 </div>
