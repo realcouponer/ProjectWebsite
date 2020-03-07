@@ -1,51 +1,90 @@
                     <a href="#" class="openResponsiveMenu">Menu</a>
                     <nav id="mainmenu_wrapper" class="menuTopWrap topMenuStyleLine">
                         <ul id="mainmenu" class="nav sf-menu inited">
+
+                                <li class="menu-item-has-children">
+                                    <a href="index.shtml">SUPERALGOS SUITE</a>
+                                    <ul>
+                                        <li>
+                                            <a href="suite-systematic-trading.shtml"><nobr>Systematic Trading</nobr></a>
+                                        </li>
+                                        <li>
+                                            <a href="suite-algorithmic-trading.shtml"><nobr>Algorithmic Trading</nobr></a>
+                                        </li>
+                                        <li>
+                                            <a href="suite-discretionary-trading.shtml"><nobr>Discretionary Trading</nobr></a>
+                                        </li>
+                                        <li>
+                                            <a href="suite-smart-holding.shtml"><nobr>Smart Holding</nobr></a>
+                                        </li>
+                                        <li>
+                                            <a href="suite-trading-coach.shtml"><nobr>Trading Coach</nobr></a>
+                                        </li>
+                                        <li>
+                                            <a href="suite-signals-broadcast.shtml"><nobr>Signals Broadcast</nobr></a>
+                                        </li>
+                                        <li>
+                                            <a href="suite-markets-research.shtml"><nobr>Markets Research</nobr></a>
+                                        </li>
+                                        <li>
+                                            <a href="suite-data-mining.shtml"><nobr>Data Mining</nobr></a>
+                                        </li>
+                                    </ul>
+                                </li>
+
                             <li class="menu-item-has-children">
-                                <a href="#">THE PROJECT</a>
+                                <a href="about-project.shtml">THE PROJECT</a>
                                 <ul>
-
                                     <li class="menu-item-has-children">
-                                        <a href="#">STAGE 1: Automation</a>
+                                        <a href="about-project.shtml">Masterplan</a>
                                         <ul>
                                             <li>
-                                                <a href="tools-superalgos-platform.shtml"><nobr>Superalgos Platform</nobr></a>
+                                                <a href="about-project.shtml"><nobr>Overview &amp; Roadmap</nobr></a>
+                                            </li>
+
+                                            <li class="menu-item-has-children">
+                                                <a href="index.shtml">STAGE 1: Automation</a>
+                                                <ul>
+                                                    <li>
+                                                        <a href="index.shtml"><nobr>Superalgos Suite</nobr></a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+
+                                            <li class="menu-item-has-children">
+                                                <a href="competition-overview.shtml">STAGE 2: Competitions</a>
+                                                <ul>
+                                                    <li>
+                                                        <a href="competition-overview.shtml">Overview</a>
+                                                    </li>
+                                                    <li style="white-space:nowrap">
+                                                        <a href="competition-guidelines.shtml">Alpha-stage Competitions</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="competition-league.shtml">Trading League</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+
+                                            <li class="menu-item-has-children">
+                                                <a href="Intelli Ecosystem">STAGE 3: Marketplace</a>
+                                                <ul>
+                                                    <li>
+                                                        <a href="about-ecosystem.shtml" class="sf-with-ul">Intelli Ecosystem</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="about-network.shtml" class="sf-with-ul">Superalgos Network</a>
+                                                    </li>
+                                                    <li style="white-space:nowrap">
+                                                        <a href="about-marketplace.shtml">Trading Intelligence Marketplace</a>
+                                                    </li>
+                                                </ul>
                                             </li>
                                         </ul>
                                     </li>
 
                                     <li class="menu-item-has-children">
-                                        <a href="#">STAGE 2: Competitions</a>
-                                        <ul>
-                                            <li>
-                                                <a href="competition-overview.shtml">Overview</a>
-                                            </li>
-                                            <li style="white-space:nowrap">
-                                                <a href="competition-guidelines.shtml">Alpha-stage Competitions</a>
-                                            </li>
-                                            <li>
-                                                <a href="competition-league.shtml">Trading League</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-
-                                    <li class="menu-item-has-children">
-                                        <a href="#">STAGE 3: Marketplace</a>
-                                        <ul>
-                                            <li>
-                                                <a href="about-ecosystem.shtml" class="sf-with-ul">Intelli Ecosystem</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-network.shtml" class="sf-with-ul">Superalgos Network</a>
-                                            </li>
-                                            <li style="white-space:nowrap">
-                                                <a href="about-marketplace.shtml">Trading Intelligence Marketplace</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Social Contracts</a>
+                                        <a href="social-constitution.shtml">Social Contracts</a>
                                         <ul>
                                             <li>
                                                 <a href="social-constitution.shtml" class="sf-with-ul">Superalgos Constitution</a>
@@ -60,7 +99,7 @@
                                     </li>
 
                                     <li class="menu-item-has-children">
-                                        <a href="#">Foundational Concepts</a>
+                                        <a href="about-vision-mission-culture.shtml">Foundational Concepts</a>
                                         <ul>
                                             <li>
                                                 <a href="about-vision-mission-culture.shtml" class="sf-with-ul">Vision, Mission, Culture</a>
@@ -81,7 +120,7 @@
                                     </li>
 
                                     <li class="menu-item-has-children">
-                                        <a href="#">People</a>
+                                        <a href="about-team.shtml">People</a>
                                         <ul>
                                             <li>
                                                 <a href="about-team.shtml" class="sf-with-ul">Core Team</a>
@@ -96,7 +135,7 @@
                                     </li>
 
                                     <li class="menu-item-has-children">
-                                        <a href="#">Expanding Knowledge</a>
+                                        <a href="media-articles.shtml">Expanding Knowledge</a>
                                         <ul>
                                             <li>
                                                 <a href="media-articles.shtml" class="sf-with-ul">Articles &amp; Context</a>
@@ -110,16 +149,7 @@
                             </li>
 
                             <li class="menu-item-has-children">
-                                <a href="#">TRADING APP</a>
-                                <ul>
-                                    <li>
-                                        <a href="tools-superalgos-platform.shtml"><nobr>Superalgos Platform</nobr></a>
-                                    </li>
-                                </ul>
-                            </li>
-
-                            <li class="menu-item-has-children">
-                                <a href="#">INTELLI TOKEN</a>
+                                <a href="about-intelli-overview.shtml">INTELLI TOKEN</a>
                                 <ul>
                                     <li>
                                         <a href="about-intelli-overview.shtml" class="sf-with-ul">Overview &amp; Utility</a>

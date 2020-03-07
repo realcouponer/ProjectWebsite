@@ -1,0 +1,347 @@
+﻿<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Superalgos Systematic Crypto-Trading</title>
+    <meta name="description" content="A free, open-source and trustless systematic trading platform to trade cryptocurrencies.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+    <style>
+        h3, .h3 {padding: 0 0 0.5em 0 !important;}
+    </style>
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+
+                                <li>
+                                    <img src="img/photos/suite-systematic-trading.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+
+                                    </div>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="SeeOurHomepage" class="color_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <p class="sc_content margin_top_small margin_bottom_mini sc_purchase text-center">
+                            <span><strong>It's open-source, trustless, and free of charge. Learn more about the features common to the whole suite...</strong></span>
+                            <span class="sc_button sc_button_size_big squareButton accent_2 big">
+                                <a href="index.shtml">Home</a>
+                            </span>
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <section id="SystematicTrading" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center margin_bottom_mini">
+                        <h2 class="sc_title sc_title_underline">Superalgos Systematic Trading</h2>
+                        <p class="sc_content text-center"><strong>Superalgos Systematic Trading helps you develop, test, deploy, and, if so you wish, automate comprehensive trading systems.</strong></p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>Superalgos Systematic Trading provides a reliable framework to develop, test and deploy trading strategies, along with the tools to keep track of all trades&mdash;an essential feature to help evaluate your effectiveness and profitability, both in the short and long-term.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>The systematic approach to trading crypto assets is particularly well suited for automation. The platform implements the Superalgos Trading Protocol standardizing how strategies are built by providing a framework that guides you throughout the process.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>We believe trading automation offers significant competitive advantages and that manual trading will sooner or later become obsolete. That said, it's important to clarify that automated trading is optional. Superalgos Systematic Trading will be an essential companion either way.</p>
+                    </div>
+                </div>
+
+                <div class="portfolioWrap margin_top_mini">
+                    <article class="excerptSmall post bg_post">
+                        <div class="thumb hoverIncrease hoverTwo inited">
+                            <div class="isotopePadding">
+                                <img alt="New Post With Image" src="img/photos/automation-original.jpg">
+                                <span class="hoverShadow"></span>
+                                <div class="wrap_hover">
+                                    <a href="img/photos/automation-original.jpg" title="Switching From Manual to Automated Crypto-Trading" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                        <span class="hoverIcon"></span>
+                                    </a>
+                                    <a title="Switching From Manual to Automated Crypto-Trading" href="https://hackernoon.com/switching-from-manual-to-automated-crypto-trading-874gw2cji" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                        <span class="hoverLink"></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="post_wrap">
+                            <h4>
+                                <a href="https://hackernoon.com/switching-from-manual-to-automated-crypto-trading-874gw2cji" rel="nofollow" rel="noopener" target="_blank"><strong>Switching From Manual to Automated Crypto-Trading</strong></a>
+                            </h4>
+                            <div class="post_format_wrap postImage">
+                                <p>Learn the basic principles of trading automation and grasp how automating your trading positively affects your performance, health and lifestyle. </p>
+                            </div>
+                            <div class="bog_post_info infoPost" style="margin-top: -20px;">
+                                <span class="datePost">
+                                    September 30, 2019&mdash;Hacker Noon
+                                </span>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="BuildingTradingStrategies" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center margin_bottom_mini" ">
+                        <h2 class="sc_title sc_title_underline">Building Trading Strategies</h2>
+                        <p class="sc_content text-center"><strong>With Superalgos Systematic Trading, you may develop both simple and complex strategies, following a logical framework, writing simple statements to create rules, and using all available market data and indicators.</strong></p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>The Superalgos Suite features a robust backtesting and trading engine that renders a graphic simulation of each trade directly over the charts. Simulations are an integral part of the paradigm on which you build strategies, as they allow to see exactly what strategies do.</p>
+                        <p>But before you may use these simulations, you need to carefully describe the rules that make up your trading system.</p>
+                        <p>As mentioned earlier, the platform guides you throughout the process of building strategies. The framework is made up of four stages:</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <ul>
+                            <li><p><strong>Trigger Stage</strong>: You define the rules for triggering the strategy and the rules for taking a position.</p></li>
+                            <li><p><strong>Open Stage</strong>: You define the position size along with the initial stop loss and take profit target.</p></li>
+                            <li><p><strong>Manage Stage</strong>: You define the rules to dynamically manage your stop loss and take profit targets.</p></li>
+                            <li><p><strong>Close Stage</strong>: The last stage is not fully implemented yet, but will eventually include execution-related rules.</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>These rules are defined with simple statements, which may constitute mathematical comparisons or conditional statements. These statements are used to define <i>conditions</i> that, when true, describe a specific market <i>situation</i>.</p>
+                        <p> Put in other words, you identify in which market situations you wish to trigger a strategy, take a position, and set new or move an existing stop or a take profit target.</p>
+                        <p>Situations are evaluated with any number of conditions that need to be true for the situation to be validated.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="ConditionCode" class="rustred_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>Conditions are built with simple statements, such as:<br /><strong>chart.at01hs.candle.close > chart.at01hs.bollingerBand.MovingAverage</strong></span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="SystematicTrading2" class="darkgrey_section">
+            <div class="container">
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>The statement above is true when the candle at the 1-hour chart closes above the Bollinger Bands moving average.</p>
+                        <p>Statements have a clear structure and syntax, carefully explained in the <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank">User Manual</a>, along with the variables provided by indicators.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>The beauty of Superalgos Systematic Trading becomes apparent when you realize that you may define highly elaborate strategies without writing a single line of computer code.</p>
+                        <p>All you need to do is follow the framework and define rules with simple math statements. </p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>But that is just the start! What truly sets the Superalgos Suite apart is the ability to see the results of each of the rules, directly over the charts&mdash;trade by trade&mdash;as you build and tune your strategy!</p>
+                        <p>Moreover, tuning a strategy is a fun process! </p>
+                    </div>
+                </div>
+                <div class="row text-center polaroid margin_top_small">
+                    <a>
+                        <img src="img/captures/Simulation-Layers-09-Trades.gif" />
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section id="Highlight1" class="turquoise_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>Touch up a rule, run a quick backtesting session, analyze the results on the charts, and go back to tweaking the rules. Spend some time optimizing, and you will hopelessly fall for a thrilling game in the quest to push ROI higher with each tweak!</span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="TestingTradingStrategies" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title sc_title_underline">Testing Trading Strategies</h2>
+                        <p class="sc_content text-center"><strong>One of the most valuable features of systematic trading is the ability to evaluate the effectiveness and profitability of the trading system via backtesting and paper-trading, before actually risking capital.</strong></p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>The features available for testing strategies are explained in the <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank">User Manual</a>, therefore, we will not go into the details here. Suffice to say that you have full control over how you organize backtesting, paper-trading and forward-testing sessions.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Not only will you be able to set up assumptions in terms of slippage, exchange fees and so on, but you will also be in full control of your datasets. This means you may split backtesting sessions in any arbitrary set of time ranges to avoid overfitting.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Paper-trading is a live simulation without placing orders at the exchange, and forward-testing sessions do place orders&mdash;for a fraction of the assigned capital. All of these types of testing sessions produce the same kind of visualizations over the charts.</p>
+                    </div>
+                </div>
+                <div class="row text-center polaroid margin_top_small">
+                    <a>
+                        <img src="img/captures/Backtesting-02-Run.gif" />
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section id="DeployingTradingStrategies" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center margin_bottom_mini" ">
+                        <h2 class="sc_title sc_title_underline">Deploying Trading Strategies</h2>
+                        <p class="sc_content text-center"><strong>Once your trading system is tried and tested, deploying it as a fully automated bot to trade live is a matter of setting up your exchange account keys and hitting run on a live trading session.</strong></p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>The definition of the strategy conforming to the Superalgos Trading Protocol is all you need to backtest, paper-trade, forward-test or trade live, when you pair that definition with the platform's trading bot. </p>
+                        <p>The trading bot is a very complex piece of software. However, you do not need to worry about that. The bot reads the definition of strategies and follows the instructions set.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>If for whatever reason you prefer to trade manually instead of having the trading bot assist you with trading execution, you will set up a paper-trading session instead of a live trading session. </p>
+                        <p>The paper trading session will simulate triggering strategies, taking positions and exiting trades as prescribed by the rules. It is up to you how to follow the simulation trading manually.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>A great way to use a paper-trading session to signal potential trades is to set up announcements in your trading system, getting the signals over Telegram. Announcements may be customized and include precise, dynamic market data.</p>
+                        <p>Superalgos Systematic Trading sets you up with pre-configured announcements, and the <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank">User Manual</a> teaches you how to customize them.</p>
+                    </div>
+                </div>
+                <div class="row text-center polaroid margin_top_small">
+                    <a>
+                        <img src="img/captures/Backtesting-02-Run.gif" />
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section id="Included" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center margin_bottom_mini" ">
+                        <h2 class="sc_title sc_title_underline">Included in Superalgos Systematic Trading</h2>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <h5>Bull run rider and Weak-hands buster strategies</h5>
+                        <p>These are two strategies in the bitcoin-US dollar market that you will use as examples of how to build your own.</p>
+                        <p>The Basic Use section in the <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank">User Manual</a> teaches you the elementary operation of the platform, running backtesting and live trading sessions with either of these strategies.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <h5>Basic Strategy</br>Structure</h5>
+                        <p>This is the basic structure required for setting up your strategies from scratch.</p>
+                        <p>The Power Use section in the <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank">User Manual</a> walks you through the learning curve so that you may make the most out of the platform while you build them. Use this structure if you intend to fully automate your crypto-trading.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <h5>Basic Strategy Structure with Announcements</h5>
+                        <p>This structure is similar to the previous one but contains the basic Telegram announcements set up to trigger signals while paper-trading.</p>
+                        <p>There is work you need to do at Telegram, which includes setting up a Telegram Group and a Telegram Bot. The setup process is simple and is carefully explained in the <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank">User Manual</a>.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Highlight2" class="color_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>No matter what product you start with, you will always be able to tap into all features and functionality in the suite, including those associated with other products.</span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="GettingStarted" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center margin_bottom_mini" ">
+                        <h2 class="sc_title sc_title_underline">Getting Started</h2>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>Follow the instructions in the <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank">User Manual</a> to get up and running with the Superalgos Suite. You'll find it useful throughout the learning curve.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Should you need any help, please direct all questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Superalgos Telegram Group</a>. The Community will be happy to help you.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Make sure you take a look at the overall features of the <a href="index.shtml">Superalgos Crypto Intelligence Suite</a>. The intro video will quickly get you up to speed.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="text-center margin_top_mini">
+                        <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
+                            <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="TheFuture" class="turquoise_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center margin_bottom_mini" ">
+                        <h2 class="sc_title sc_title_underline">The Future of Systematic Trading</h2>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>The vocation of Superalgos Systematic Trading is to become the most advanced and comprehensive strategy testing and automation platform. To get there, the platform needs to advance in several directions as well as complete the basic set of indicators and technical studies.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>The next milestone is providing robust control over execution. Users should be able to use limit orders, monitor the filling of orders, move orders when not filled, fragment orders, set multiple stop-loss and take profit targets, set and manage execution ranges, and so on.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Another significant milestone will be the ability to access multiple markets and even multiple exchanges from within the same strategy. Such features will unleash interesting possibilities at the strategy level, including the option of spreading orders across multiple exchanges.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+        <!--preloader2 = flymenu reference-->
+
+</body>
+    </html>

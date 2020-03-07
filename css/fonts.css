@@ -1083,7 +1083,7 @@ a.socialico-aim:before {content: "Z";}
 .fa-rub:before {content: "\f158";}
 .fa-won:before,
 .fa-krw:before {content: "\f159";}
-.fa-bitcoin:before,
+.fa-bitcoin:before {content: "\f379";}
 .fa-btc:before {content: "\f15a";}
 .fa-file:before {content: "\f15b";}
 .fa-file-text:before {content: "\f15c";}
@@ -1277,7 +1277,8 @@ a.socialico-aim:before {content: "Z";}
 .fa-ils:before {content: "\f20b";}
 .fa-meanpath:before {content: "\f20c";}
 
-
+/* New FA codes */ satellite-dish
+.fa-satellite-dish:before {content: "\f7c0";}
 
 
 @font-face {

@@ -498,7 +498,7 @@ border-top: none;
 
 /**transparent section*/
 .transparent_section {
-    background: transparent;
+    background: transparent;color
     color: #fff;
 }
 .transparent_section .sc_title,
@@ -510,7 +510,7 @@ border-top: none;
 
 /**color section*/
 .color_section {
-background-color: #EAE2DE;
+    background-color: #EAE2DE;
 }
 
 .red_section {
@@ -4280,7 +4280,9 @@ input[type="button"],
 .squareButton { height:30px; list-style: none; display: inline-block; vertical-align:bottom; position:relative; }
 
 .squareButton.medium{ height:40px;}
-.squareButton.big { height:50px;}
+    .squareButton.big {
+        height: 50px;
+    }
 .squareButton.banner { height:90px;}
 
 .squareButton.fullSize{ display: block; text-align: center; margin: 0; clear:both; width: 100%; height: auto;}
@@ -4292,7 +4294,7 @@ input[type="button"],
 .squareButton > a, .squareButton > button, .squareButton > span { height:40px; line-height:40px; display: block; padding: 0 10px; color: #ffffff; position: relative; font-size:14px; cursor:pointer; font-weight:100; background-color:#e3493c; overflow: hidden;}
 
 .squareButton.medium > a, .squareButton.medium > button, .squareButton.medium > span { height:40px; line-height:40px; font-size:14px; font-weight: 100; letter-spacing: 0; padding:0 30px; }
-.squareButton.big  > a, .squareButton.big  > button, .squareButton.big  > span { height:50px; line-height:50px; font-size:14px; font-weight: 100; letter-spacing: 2px; text-transform: uppercase; padding:0 30px; }
+.squareButton.big  > a, .squareButton.big  > button, .squareButton.big  > span { height:50px; line-height:50px; font-size:14px; font-weight: 100; letter-spacing: 2px; text-transform: uppercase; padding:0 30px; margin: 0px 10px 0px 10px}
 
 
 /* for chrom, right truncated. */
@@ -4321,7 +4323,7 @@ input[type="button"],
 
 .squareButton.border > a,
 .squareButton.border_1 > a,
-.squareButton.border > a:active,
+.squareButton.border > a:active
 .squareButton.border_1 > a:active { border: 1px solid rgba(210, 217, 224, 0.5); -moz-box-sizing: border-box; box-sizing: border-box; }
 
 .squareButton.medium > a:after,
