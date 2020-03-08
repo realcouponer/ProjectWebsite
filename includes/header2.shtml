@@ -35,54 +35,9 @@
                             <li class="menu-item-has-children">
                                 <a href="about-project.shtml">THE PROJECT</a>
                                 <ul>
-                                    <li class="menu-item-has-children">
+                                    <li>
                                         <a href="about-project.shtml">Masterplan</a>
-                                        <ul>
-                                            <li>
-                                                <a href="about-project.shtml"><nobr>Overview &amp; Roadmap</nobr></a>
-                                            </li>
-
-                                            <li class="menu-item-has-children">
-                                                <a href="index.shtml">STAGE 1: Automation</a>
-                                                <ul>
-                                                    <li>
-                                                        <a href="index.shtml"><nobr>Superalgos Suite</nobr></a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-
-                                            <li class="menu-item-has-children">
-                                                <a href="competition-overview.shtml">STAGE 2: Competitions</a>
-                                                <ul>
-                                                    <li>
-                                                        <a href="competition-overview.shtml">Overview</a>
-                                                    </li>
-                                                    <li style="white-space:nowrap">
-                                                        <a href="competition-guidelines.shtml">Alpha-stage Competitions</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="competition-league.shtml">Trading League</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-
-                                            <li class="menu-item-has-children">
-                                                <a href="Intelli Ecosystem">STAGE 3: Marketplace</a>
-                                                <ul>
-                                                    <li>
-                                                        <a href="about-ecosystem.shtml" class="sf-with-ul">Intelli Ecosystem</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="about-network.shtml" class="sf-with-ul">Superalgos Network</a>
-                                                    </li>
-                                                    <li style="white-space:nowrap">
-                                                        <a href="about-marketplace.shtml">Trading Intelligence Marketplace</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
                                     </li>
-
                                     <li class="menu-item-has-children">
                                         <a href="social-constitution.shtml">Social Contracts</a>
                                         <ul>
@@ -98,69 +53,22 @@
                                         </ul>
                                     </li>
 
-                                    <li class="menu-item-has-children">
+                                    <li>
                                         <a href="about-vision-mission-culture.shtml">Foundational Concepts</a>
-                                        <ul>
-                                            <li>
-                                                <a href="about-vision-mission-culture.shtml" class="sf-with-ul">Vision, Mission, Culture</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-evolution.shtml" class="sf-with-ul">Evolution</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-superalgo.shtml" class="sf-with-ul">Superalgos</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-supermind.shtml" class="sf-with-ul">Supermind</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-financial-beings.shtml" class="sf-with-ul">Financial Life</a>
-                                            </li>
-                                        </ul>
                                     </li>
 
-                                    <li class="menu-item-has-children">
-                                        <a href="about-team.shtml">People</a>
-                                        <ul>
-                                            <li>
-                                                <a href="about-team.shtml" class="sf-with-ul">Core Team</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-contributing.shtml" class="sf-with-ul">Work With Us</a>
-                                            </li>
-                                            <li>
-                                                <a href="developers-join-dev-team.shtml"><nobr>Join the Dev Team</nobr></a>
-                                            </li>
-                                        </ul>
+                                    <li>
+                                        <a href="about-team.shtml">Core Team</a>
                                     </li>
 
-                                    <li class="menu-item-has-children">
-                                        <a href="media-articles.shtml">Expanding Knowledge</a>
-                                        <ul>
-                                            <li>
-                                                <a href="media-articles.shtml" class="sf-with-ul">Articles &amp; Context</a>
-                                            </li>
-                                            <li>
-                                                <a href="about-faqs.shtml" class="sf-with-ul">FAQs</a>
-                                            </li>
-                                        </ul>
+                                    <li>
+                                        <a href="media-articles.shtml">Media &amp; Articles</a>
                                     </li>
                                 </ul>
                             </li>
 
-                            <li class="menu-item-has-children">
+                            <li>
                                 <a href="about-intelli-overview.shtml">INTELLI TOKEN</a>
-                                <ul>
-                                    <li>
-                                        <a href="about-intelli-overview.shtml" class="sf-with-ul">Overview &amp; Utility</a>
-                                    </li>
-                                    <li>
-                                        <a href="about-intelli-flow.shtml" class="sf-with-ul">Economy &amp; Distribution</a>
-                                    </li>
-                                    <li>
-                                        <a href="about-intelli-streams.shtml" class="sf-with-ul">Intelli Streams</a>
-                                    </li>
-                                </ul>
                             </li>
 
                             <li>

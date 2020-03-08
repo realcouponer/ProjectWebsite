@@ -47,7 +47,7 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
-                            <span>Can't wait to try the Superalgos Suite?</span>
+                            <span>Can't wait to try Superalgos?</span>
                             <span class="sc_button sc_button_size_big squareButton accent_2 big">
                                 <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Download &amp; Install</a>
                             </span>
@@ -62,8 +62,9 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
 
-                        <h2 class="sc_title">Get up to Speed!</h2>
-                        <h5 class="sc_title sc_title_underline">Watch a quick video with the bird's-eye view intro</h5>
+                        <h2 class="sc_title">What is Superalgos?</h2>
+                        <h5 class="sc_title sc_title_underline">Watch the video to get up to speed</h5>
+                        <p class="sc_content text-center"><strong>Superalgos is a free, open-source and trustless suite of crypto-trading tools running on users' premises. It provides a robust infrastructure enabling unprecedented control over market data, information processing, systematic strategy testing, and trading automation. The emphasis on the visual experience makes Superalgos the one-stop solution for both technical and non-technical users.</strong></p>
 
                         <br />
                         <div style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; max-width: 1120px; max-height: 630px;">
@@ -89,8 +90,8 @@
                             <h5 class="sc_title ">Free of Charge</h5>
                             <ul>
                                 <li><p><span class="turq_text">Use all functionality for free</span> with no tiered or gated access, and no premium plans.</p></li>
-                                <li><p><span class="turq_text">Run the platform in your own machine</span> so that you pay nothing for execution time.</p></li>
-                                <li><p><span class="turq_text">Own your data sets</span> by downloading and keeping market data up-to-date in your machine.</p></li>
+                                <li><p><span class="turq_text">Run the platform in your own premises</span> so that you pay nothing for execution time.</p></li>
+                                <li><p><span class="turq_text">Own your data sets</span> by downloading and keeping market data up-to-date in your machines.</p></li>
                                 <li><p><span class="turq_text">Accept no limits</span> and run as many bots or backtests as you need.</p></li>
                             </ul>
                         </div>
@@ -126,7 +127,7 @@
                         <br />
                         <div class="text-center">
                             <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                                <a href="about-project.shtml">it's part of a bigger plan</a>
+                                <a href="about-project.shtml">It's part of a bigger plan</a>
                             </span>
                         </div>
                     </div>
@@ -220,7 +221,7 @@
                             <ul>
                                 <li><p><span class="turq_text">Trade live with multiple strategies</span> from within the same instance of the platform and the same machine.</p></li>
                                 <li><p><span class="turq_text">Trade live on multiple markets</span> and even multiple exchanges at the same time, from within the same machine.</p></li>
-                                <li><p><span class="turq_text">Use multiple accounts</span> or sub-accounts at the exchange, each with their own API keys.</p></li>
+                                <li><p><span class="turq_text">Use multiple accounts</span> at the exchange, each with their own API keys.</p></li>
                             </ul>
                         </div>
                     </div>
@@ -252,7 +253,9 @@
                         <div class="sc_column">
                             <a class="sc_icon fa fa-laptop sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
                             <h5 class="sc_title ">Multi-OS</h5>
-                            <p><span class="darkturq_text">The system is cross-platform </span> thus works on Windows, Mac OS, Linux, and every operating system that supports Node JS.</p>
+                        </div>
+                        <div>
+                            <p><span class="darkturq_text">The system is cross-platform </span> thus works on Windows, Mac OS, Linux, and every operating system that supports <a href="https://nodejs.org" rel="nofollow" rel="noopener" target="_blank">Node JS</a>.</p>
                             <img src="img/illustrations/multi-os.svg" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
                         </div>
                     </div>
@@ -385,7 +388,7 @@
                     <div class="col-sm-12 text-center">
                         <h2 class="sc_title">Superalgos Suite</h2>
                         <h5 class="sc_title sc_title_underline">We cater to your specific needs</h5>
-                        <p class="sc_content text-center"><strong>To meet your specific needs, we've set up specialized products bundling the Superalgos Platform with customized workspaces. Start with the bundle that better matches your current focus and freely grow to adjacent specialties when the time is right.</strong></p>
+                        <p class="sc_content text-center"><strong>Superalgos is a vast system with multiple use-cases. To learn more about how the system addresses your specific needs, follow the link to your main area of interest. Regardless of what your focus is, the system gives you access to all tools.</strong></p>
                     </div>
                 </div>
 
@@ -414,7 +417,7 @@
                             <h5 class="sc_title ">Algorithmic Trading</h5>
                             <ul>
                                 <li><p><span class="turq_text">Don't waste your time on infrastructure</span>; we have it all tried, tested and documented.</p></li>
-                                <li><p><span class="turq_text">Exchange connectivity via CCXT </span>will soon offer access to a list of top-exchanges.</p></li>
+                                <li><p><span class="turq_text">Exchange connectivity via CCXT </span>offers access to <a href="https://github.com/ccxt/ccxt#supported-cryptocurrency-exchange-markets" rel="nofollow" rel="noopener" target="_blank">a list of top-exchanges</a>.</p></li>
                                 <li><p><span class="turq_text">Trading and backtesting engine</span> provides reliable trading and accurate simulations.</p></li>
                                 <li><p><span class="turq_text">Trading protocol standardizing strategies</span> allows easy reutilization.</p></li>
                                 <li><p><span class="turq_text">Your work will not be wasted</span> as our open-source code is yours, forever.</p></li>
@@ -604,10 +607,10 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The button below will take you to the User Manual, featuring detailed instructions that will guide you in the process of downloading and running Superalgos in your machine. Once the suite is installed, you'll be able to start with your preferred product. </p>
+                        <p>The button below will take you to the documentation, featuring detailed instructions that will guide you in the process of downloading and running Superalgos in your machine.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>Feel free to direct questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> should you run into any issues; developers and other users will be happy to help. The User Manual provides complete documentation, so keep it at hand once you are up and running.</p>
+                        <p>Follow the Getting Started guide to get up and running. Feel free to direct questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> should you run into any issues; developers and other users will be happy to help. </p>
                     </div>
                 </div>
                 <div class="row">
