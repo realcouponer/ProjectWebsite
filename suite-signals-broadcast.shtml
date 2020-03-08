@@ -209,17 +209,17 @@
                     <div class="col-md-4 col-sm-12">
                         <h5>Bullish Reversal Signal Testing</h5>
                         <p>This structure contains the signal described in the example above. Use it as a reference for building your own signals.</p>
-                        <p>The Basic Use section in the <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank">User Manual</a> teaches you the elementary operation of the platform, which includes running backtesting and paper trading sessions with this signal.</p>
+                        <p>The Basic Use section in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a> teaches you the elementary operation of the platform, which includes running backtesting and paper trading sessions with this signal.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <h5>BASIC SIGNAL STRUCTURE WITH ANNOUNCEMENTS</h5>
                         <p>This is the basic structure required for setting up your signals, including the basic Telegram announcements set up to broadcast signals while paper-trading.</p>
-                        <p>There is work you need to do at Telegram, which includes setting up a Telegram Group and a Telegram Bot. The setup process is simple and is carefully explained in the <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank">User Manual</a>.</p>
+                        <p>There is work you need to do at Telegram, which includes setting up a Telegram Group and a Telegram Bot. The setup process is simple and is carefully explained in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a>.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <h5>BULL RUN RIDER AND WEAK-HANDS BUSTER WITH ANNOUNCEMENTS</h5>
                         <p>These are two strategies in the bitcoin-US dollar market that you may want to check out as examples of complex strategies with dynamic stop loss and take profit targets.</p>
-                        <p>The Power Use section in the <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank">User Manual</a> walks you through the learning curve so that you may learn to build complete strategies too.</p>
+                        <p>The Power Use section in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a> walks you through the learning curve so that you may learn to build complete strategies too.</p>
                     </div>
                 </div>
             </div>
@@ -246,7 +246,7 @@
                 </div>
                 <div class="row text-center" style="margin-top: -20px;">
                     <div class="col-md-4 col-sm-12">
-                        <p>Follow the instructions in the <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank">User Manual</a> to get up and running with the Superalgos Suite. You'll find it useful throughout the learning curve.</p>
+                        <p>Follow the instructions in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a> to get up and running with the Superalgos Suite. You'll find it useful throughout the learning curve.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <p>Should you need any help, please direct all questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Superalgos Telegram Group</a>. The Community will be happy to help you.</p>
@@ -258,7 +258,7 @@
                 <div class="row">
                     <div class="text-center margin_top_mini">
                         <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                            <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
+                            <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
                         </span>
                     </div>
                 </div>

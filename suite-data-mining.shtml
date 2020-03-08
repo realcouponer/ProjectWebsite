@@ -133,7 +133,7 @@
                 </div>
                 <div class="row text-center" style="margin-top: -20px;">
                     <div class="col-md-4 col-sm-12">
-                        <p>Follow the instructions in the <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank">User Manual</a> to get up and running with the Superalgos Suite. You'll find it useful throughout the learning curve.</p>
+                        <p>Follow the instructions in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a> to get up and running with the Superalgos Suite. You'll find it useful throughout the learning curve.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <p>Should you need any help, please direct all questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Superalgos Telegram Group</a>. The Community will be happy to help you.</p>
@@ -145,7 +145,7 @@
                 <div class="row">
                     <div class="text-center margin_top_mini">
                         <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                            <a href="https://github.com/Superalgos/Platform/wiki" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
+                            <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
                         </span>
                     </div>
                 </div>
