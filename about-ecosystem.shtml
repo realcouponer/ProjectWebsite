@@ -141,7 +141,7 @@
                         <h2>Exchanges</h2>
                     </div>
                     <div class="col-sm-6">
-                        <p>All crypto exchanges offering APIs to trade on their listed markets can participate in the <!--#include file="tooltips/intelli-ecosystem.shtml" -->. The Superalgos Platform is exchange-agnostic.</p>
+                        <p>All crypto exchanges offering APIs to trade on their listed markets can participate in the <!--#include file="tooltips/intelli-ecosystem.shtml" -->. Superalgos is exchange-agnostic.</p>
                         <p>Exchanges play a crucial role in the ecosystem as they are the actor hosting and incentivizing <!--#include file="tooltips/superalgos-competitions.shtml" -->&mdash;the ultimate driver of evolution&mdash;by offering significant prize money to winners.</p>
                     </div>
                     <div class="col-sm-6">

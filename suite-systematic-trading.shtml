@@ -163,7 +163,7 @@
                 <div class="row text-center" style="margin-top: -20px;">
                     <div class="col-md-4 col-sm-12">
                         <p>The statement above is true when the candle at the 1-hour chart closes above the Bollinger Bands moving average.</p>
-                        <p>Statements have a clear structure and syntax, carefully explained in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a>, along with the variables provided by indicators.</p>
+                        <p>Statements have a clear structure and syntax, carefully explained in the <a href="https://docs.superalgos.org" target="_blank">documentation</a>, along with the variables provided by indicators.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <p>The beauty of Superalgos Systematic Trading becomes apparent when you realize that you may define highly elaborate strategies without writing a single line of computer code.</p>
@@ -204,7 +204,7 @@
                 </div>
                 <div class="row text-center" style="margin-top: -20px;">
                     <div class="col-md-4 col-sm-12">
-                        <p>The features available for testing strategies are explained in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a>, therefore, we will not go into the details here. Suffice to say that you have full control over how you organize backtesting, paper-trading and forward-testing sessions.</p>
+                        <p>The features available for testing strategies are explained in the <a href="https://docs.superalgos.org" target="_blank">documentation</a>, therefore, we will not go into the details here. Suffice to say that you have full control over how you organize backtesting, paper-trading and forward-testing sessions.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <p>Not only will you be able to set up assumptions in terms of slippage, exchange fees and so on, but you will also be in full control of your datasets. This means you may split backtesting sessions in any arbitrary set of time ranges to avoid overfitting.</p>
@@ -240,7 +240,7 @@
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <p>A great way to use a paper-trading session to signal potential trades is to set up announcements in your trading system, getting the signals over Telegram. Announcements may be customized and include precise, dynamic market data.</p>
-                        <p>Superalgos Systematic Trading sets you up with pre-configured announcements, and the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a> teaches you how to customize them.</p>
+                        <p>Superalgos Systematic Trading sets you up with pre-configured announcements, and the <a href="https://docs.superalgos.org" target="_blank">documentation</a> teaches you how to customize them.</p>
                     </div>
                 </div>
                 <div class="row text-center polaroid margin_top_small">
@@ -251,39 +251,12 @@
             </div>
         </section>
 
-        <section id="Included" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center margin_bottom_mini" ">
-                        <h2 class="sc_title sc_title_underline">Included in Superalgos Systematic Trading</h2>
-                    </div>
-                </div>
-                <div class="row text-center" style="margin-top: -20px;">
-                    <div class="col-md-4 col-sm-12">
-                        <h5>Bull run rider and Weak-hands buster strategies</h5>
-                        <p>These are two strategies in the bitcoin-US dollar market that you will use as examples of how to build your own.</p>
-                        <p>The Basic Use section in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a> teaches you the elementary operation of the platform, running backtesting and live trading sessions with either of these strategies.</p>
-                    </div>
-                    <div class="col-md-4 col-sm-12">
-                        <h5>Basic Strategy</br>Structure</h5>
-                        <p>This is the basic structure required for setting up your strategies from scratch.</p>
-                        <p>The Power Use section in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a> walks you through the learning curve so that you may make the most out of the platform while you build them. Use this structure if you intend to fully automate your crypto-trading.</p>
-                    </div>
-                    <div class="col-md-4 col-sm-12">
-                        <h5>Basic Strategy Structure with Announcements</h5>
-                        <p>This structure is similar to the previous one but contains the basic Telegram announcements set up to trigger signals while paper-trading.</p>
-                        <p>There is work you need to do at Telegram, which includes setting up a Telegram Group and a Telegram Bot. The setup process is simple and is carefully explained in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a>.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="Highlight2" class="color_section no_padding_container">
+        <section id="Highlight2" class="rustred_section no_padding_container">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
-                            <span>No matter what product you start with, you will always be able to tap into all features and functionality in the suite, including those associated with other products.</span>
+                            <span>The systematic trading features described in this page are built-in the Superalgos software.  No matter what focus you start with, you will always be able to tap into all the features and functionality in the suite, including those associated with other fields.</span>
                         </h3>
                     </div>
                 </div>
@@ -299,7 +272,7 @@
                 </div>
                 <div class="row text-center" style="margin-top: -20px;">
                     <div class="col-md-4 col-sm-12">
-                        <p>Follow the instructions in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a> to get up and running with the Superalgos Suite. You'll find it useful throughout the learning curve.</p>
+                        <p>Follow the instructions in the <a href="https://docs.superalgos.org" target="_blank">documentation</a> to get up and running with Superalgos. You'll find it useful throughout the learning curve.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <p>Should you need any help, please direct all questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Superalgos Telegram Group</a>. The Community will be happy to help you.</p>
@@ -311,7 +284,7 @@
                 <div class="row">
                     <div class="text-center margin_top_mini">
                         <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                            <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
+                            <a href="https://docs.superalgos.org" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
                         </span>
                     </div>
                 </div>

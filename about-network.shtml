@@ -73,7 +73,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The main purpose of the Superalgos Network is to remove trust requirements by allowing all stakeholders to run their instances of the Superalgos Platform, as a network node.</p>
+                        <p>The main purpose of the Superalgos Network is to remove trust requirements by allowing all stakeholders to run their instances of Superalgos, as a network node.</p>
                         <p>Anyone may download the Superalgos Node and deploy it in their server, becoming a Node Operator.</p>
                         <p>Node Operators may run the software for their use or offer a hosted solution for users who chose to trust the operator with their Strategies/Algorithms and/or Exchange API Keys.</p>
                     </div>
@@ -104,7 +104,7 @@
                         <p>The agreement provisions for all of the volume originating at federated nodes to be bundled and computed for additional discounts on top of discounts each Exchange grants to individual accounts within the said Exchange.</p>
                         <p>In technical terms, federated nodes route their orders through the Exchange Node so that the Exchange may account for the volume coming from each node and to enable the Superalgos Organization to audit the said volume.</p>
                         <p>Then, additional discounts are automatically distributed back to Node Operators of federated nodes on a pro-rata basis of the volume contributed to the bundle. Node Operators may choose to pass on the benefit to users of the node, as a means to promote the use of the said node.</p>
-                        <p>Existing talks confirm that, until the network’s business evolves into a more mature state in which there will be real numbers to analyze, Exchanges may give back 50% of the gross profit generated from Transaction Fees in the form of additional discounts.</p>
+                        <p>Existing talks confirm that, until the networkï¿½s business evolves into a more mature state in which there will be real numbers to analyze, Exchanges may give back 50% of the gross profit generated from Transaction Fees in the form of additional discounts.</p>
                     </div>
                 </div>
             </div>

@@ -153,13 +153,13 @@
             <div class="container">
                 <div class="row text-center" style="margin-top: -20px;">
                     <div class="col-md-4 col-sm-12">
-                        <p>Strategies running on the Superalgos Suite consist of rules that dictate how the strategy operates. There are rules for establishing in what precise market situations the strategy shall be triggered, and there are rules that determine the exact situations in which the strategy shall take a position. More rules determine the stop loss and take profit targets. All of these rules are visible to the user, right within the user interface. The <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a> teaches you how to read them. We hope you put these features to good use.</p>
+                        <p>Strategies running on the Superalgos Suite consist of rules that dictate how the strategy operates. There are rules for establishing in what precise market situations the strategy shall be triggered, and there are rules that determine the exact situations in which the strategy shall take a position. More rules determine the stop loss and take profit targets. All of these rules are visible to the user, right within the user interface. The <a href="https://docs.superalgos.org" target="_blank">documentation</a> teaches you how to read them. We hope you put these features to good use.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <p>In addition, the strategies made available with Superalgos Smart Holding have their own repositories on Github. Repositories feature README files explaining the strategies, describing the main trading idea and how it is implemented. Also covered in the explanation is the strategy track-record, both in terms of backtesting and also in terms of live-trading. That said, you do not need to trust these numbers. Instead, you should backtest the strategies yourself. </p>
                     </div>
                     <div class="col-md-4 col-sm-12">
-                        <p>The Superalgos Suite features easy to use strategy testing features, including backtesting (testing over historical data), paper trading (a live simulation) and forward testing (trading live but with a fraction of available capital), as well as live trading capabilities. The Basic Use section of the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a> encourages you&mdash;and shows you how&mdash;to test strategies before actually deploying them. As you can see, you do have all the tools to understand what strategies do, and to decide for yourself how to use them.</p>
+                        <p>The Superalgos Suite features easy to use strategy testing features, including backtesting (testing over historical data), paper trading (a live simulation) and forward testing (trading live but with a fraction of available capital), as well as live trading capabilities. The Basic Use section of the <a href="https://docs.superalgos.org" target="_blank">documentation</a> encourages you&mdash;and shows you how&mdash;to test strategies before actually deploying them. As you can see, you do have all the tools to understand what strategies do, and to decide for yourself how to use them.</p>
                     </div>
                 </div>
             </div>
@@ -175,7 +175,7 @@
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4 col-sm-12">
-                        <p>Getting ready to trade with one of the open-source strategies in Superalgos Smart Holding is surprisingly easy. That said, you do need to be a savvy Windows, Mac OS or Linux user. If you are not confident using a computer, it may be a bit tricky, but you can still try, as the process is carefully explained in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a>. All you need to do is follow the instructions.</p>
+                        <p>Getting ready to trade with one of the open-source strategies in Superalgos Smart Holding is surprisingly easy. That said, you do need to be a savvy Windows, Mac OS or Linux user. If you are not confident using a computer, it may be a bit tricky, but you can still try, as the process is carefully explained in the <a href="https://docs.superalgos.org" target="_blank">documentation</a>. All you need to do is follow the instructions.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <p>The set-up process takes around 5 minutes, but you will need some extra time waiting for market data files to download and decompress. To trade live, you will run the software, load the workspace that ships with it and do some minor configurations, including setting up an exchange API key so that you may access your account at the exchange.</p>
@@ -209,27 +209,6 @@
             </div>
         </section>
 
-        <section id="Included" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center margin_bottom_mini" ">
-                        <h2 class="sc_title sc_title_underline">Included in Superalgos Smart Holding</h2>
-                    </div>
-                </div>
-                <div class="row text-center" style="margin-top: -20px;">
-                    <div class="col-md-6 col-sm-12">
-                        <h5>Combined Bull run rider and Weak-hands buster strategies</h5>
-                        <p>These are two strategies in the bitcoin-US dollar market that you may choose to trade with. The <a href="https://github.com/Superalgos/Strategy-BTC-WeakHandsBuster" rel="nofollow" rel="noopener" target="_blank">Weak-hands buster</a> is a BTC-based strategy designed to accumulate bitcoin during bear markets or corrections, pursuing the goal of smart crypto-holders as described above. The <a href="https://github.com/Superalgos/Strategy-USDT-BullRunRider" rel="nofollow" rel="noopener" target="_blank">Bull run rider</a> is a USDT-based strategy designed to extract profits from the BTC-USDT market during bull runs, cashing out to USDT after each trade.</p>
-                    </div>
-                    <div class="col-md-6 col-sm-12">
-                        <h5>Bull run rider and Weak-hands buster with Announcements</h5>
-                        <p>This structure is similar to the previous one. The difference is it contains the basic Telegram announcements setup to get notifications about the activities of the strategies.</p>
-                        <p>There is work you need to do at Telegram, which includes setting up a Telegram Group and a Telegram Bot. The setup process is simple and is carefully explained in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a>.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
         <section id="Highlight2" class="rustred_section no_padding_container">
             <div class="container">
                 <div class="row">
@@ -251,7 +230,7 @@
                 </div>
                 <div class="row text-center" style="margin-top: -20px;">
                     <div class="col-md-4 col-sm-12">
-                        <p>Follow the instructions in the <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank">User Manual</a> to get up and running with the Superalgos Suite. You'll find it useful throughout the learning curve.</p>
+                        <p>Follow the instructions in the <a href="https://docs.superalgos.org" target="_blank">documentation</a> to get up and running with the Superalgos Suite. You'll find it useful throughout the learning curve.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <p>Should you need any help, please direct all questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Superalgos Telegram Group</a>. The Community will be happy to help you.</p>
@@ -263,7 +242,7 @@
                 <div class="row">
                     <div class="text-center margin_top_mini">
                         <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                            <a href="https://docs.superalgos.org" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
+                            <a href="https://docs.superalgos.org" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
                         </span>
                     </div>
                 </div>

@@ -33,7 +33,7 @@
                                                 <div>
                                                     <div style="padding: 0 15px 0 15px;">
                                                         <h2 style="font-weight:700;">
-                                                            A medium of exchange and the energy necessary for financial life
+                                                            A medium of exchange to be deployed on the Superalgos Network
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -53,7 +53,7 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
-                            <span>The Intelli Token has not been implemented yet. This page refers to a future state of affairs.<br /></span>
+                            <span>The Intelli Token has not been implemented yet... </span>
                             <span class="sc_button sc_button_size_big squareButton accent_2 big">
                                 <a href="about-project.shtml#roadmap">Progress Log & Roadmap</a>
                             </span>
@@ -63,20 +63,14 @@
             </div>
         </section>
 
-        <section id="rules_section" class="light_section">
+        <section id="Highlight2" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">Overview</h2>
-                        <br />
-                    </div>
-                    <div class="col-sm-6">
-                        <p>The Intelli Token is the medium of exchange within the <!--#include file="tooltips/intelli-ecosystem.shtml" -->, by which stakeholders transfer value in exchange for products or services. Stakeholders may be humans or machines. Products and services range from trading <!--#include file="tooltips/superalgos-competitions.shtml" --> or automated trading services to data products that trading <!--#include file="tooltips/algorithms.shtml" --> consume to make decisions.</p>
-                        <p>Intelli also represents a form of energy turning bots into beings with a <!--#include file="tooltips/financial-life.shtml" -->. It represents a scarce resource&mdash;like food&mdash;in the financial biosphere which <!--#include file="tooltips/financial-beings.shtml" --> need to obtain to stay alive.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>The scarce nature of the Intelli Token along with its floating price in the markets turns this resource into a regulating feature of the environment in which financial beings live in.</p>
-                        <p>If Intelli price increases, the resource becomes more scarce, putting the population of financial beings under pressure, thus conditioning the life of the less efficient ones. Decreasing Intelli prices favor the proliferation of financial beings, incentivizing <!--#include file="tooltips/algo-makers.shtml" --> to try out new ideas in the wild.</p>
+                        <h2 class="sc_title">What is the Intelli Token?</h2>
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>The Intelli Token will be the medium of exchange within the <!--#include file="tooltips/intelli-ecosystem.shtml" -->, by which stakeholders may transfer value in exchange for products or services. Stakeholders may be humans or machines. Products and services include data products that human traders and <!--#include file="tooltips/algorithms.shtml" --> may consume to make decisions, <!--#include file="tooltips/superalgos-competition.shtml" --> tickets and prizes, and asset management services. </span>
+                        </h3>
                     </div>
                 </div>
             </div>
@@ -87,19 +81,19 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h2 class="sc_title">Utility</h2>
-                        <h5 class="sc_title sc_title_underline">Specific Use Cases</h5>
+                        <h5 class="sc_title sc_title_underline">Emergence of Specific Use Cases</h5>
                     </div>
                 </div>
                 <div class="row text-center" style="margin-top: -20px;">
                     <div class="col-md-4 col-sm-12">
                         <div class="sc_column">
                             <a class="sc_icon fa fa-robot sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
-                            <h5 class="sc_title ">STAGE 1<br/>Automate Trading</h5>
+                            <h5 class="sc_title ">STAGE 1<br />Automate Trading</h5>
                         </div>
                         <div>
                             <ul>
                                 <li><p>Paying for computational resources rented at a <!--#include file="tooltips/superalgos-node.shtml" -->, like processing time, memory and storage;</p></li>
-                                <li><p>Paying for <!--#include file="tooltips/data-services.shtml" --> provided by Algo-Makers;</p></li>
+                                <li><p>Paying for <!--#include file="tooltips/data-services.shtml" --> provided by Data Mines;</p></li>
                             </ul>
                         </div>
                     </div>
@@ -119,7 +113,7 @@
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
                             <a class="sc_icon fa fa-handshake sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
-                            <h5 class="sc_title ">STAGE 3<br/>Make Intelligence Accessible</h5>
+                            <h5 class="sc_title ">STAGE 3<br />Make Intelligence Accessible</h5>
                         </div>
                         <div>
                             <ul>
@@ -132,21 +126,6 @@
                 </div>
 
         </section>
-
-        <section id="rules_section" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">Technical Details</h2>
-                        <h3>
-                            Intelli is an ERC 20 token soon to be deployed on the Ethereum platform. If you are interested in the technicalities and code, please visit our <a href="https://github.com/Superalgos/IntelliToken" rel="noopener" target="_blank">Intelli Smart Contracts</a> repository.
-                        </h3>
-                        <br />
-                    </div>
-                </div>
-            </div>
-        </section>
-
 
 
         <!--#include file="includes/footer.shtml" -->
