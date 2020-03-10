@@ -38,19 +38,8 @@
                                     <li>
                                         <a href="about-project.shtml">Masterplan</a>
                                     </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="social-constitution.shtml">Social Contracts</a>
-                                        <ul>
-                                            <li>
-                                                <a href="social-constitution.shtml" class="sf-with-ul">Superalgos Constitution</a>
-                                            </li>
-                                            <li style="white-space:nowrap">
-                                                <a href="social-intelli-macroeconomic-guidance.shtml" class="sf-with-ul">Intelli Macroeconomics Guidance</a>
-                                            </li>
-                                            <li>
-                                                <a href="social-intelli-governance-charter.shtml" class="sf-with-ul">Intelli Governance Charter</a>
-                                            </li>
-                                        </ul>
+                                    <li>
+                                        <a href="social-constitution.shtml" class="sf-with-ul">Superalgos Constitution</a>
                                     </li>
 
                                     <li>
