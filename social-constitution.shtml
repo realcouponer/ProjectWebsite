@@ -65,7 +65,7 @@
 
                         <p>The provisions prescribed in this Constitution shall have precedence over any other document. The spirit and intent of these paragraphs shall constitute a binding guidance for generations to come.</p>
 
-                        <p>Definitions of terms presented in Title Case are provided on the <a href="https://github.com/Superalgos/Improvement-Proposals/blob/master/SIP%20012%20-%20SOCIAL%20CONTRACT%20-%20Definitions%20Appendix.md" rel="nofollow" rel="noopener" target="_blank">Definitions Appendix</a>, which shall be considered an integral part of this document.</p>
+                        <p>Definitions of terms presented in Title Case are provided on the Definitions Appendix, which shall be considered an integral part of this document.</p>
                     </div>
                     <div class="col-sm-1">
                     </div>
@@ -101,14 +101,14 @@
 
                         <p>The Superalgos Project is the result of the collective work of a number of stakeholders investing time, money and effort&mdash;initially building the project from scratch and later developing the project and helping it achieve its purpose.</p>
 
-                        <p>This work&mdash;upon which the success of the project depends&mdash;on is incentivized with <!--#include file="tooltips/intelli-tokens.shtml" -->. </p>
+                        <p>This work&mdash;upon which the success of the project depends&mdash; is incentivized with <!--#include file="tooltips/intelli-tokens.shtml" -->. </p>
 
                         <p><strong>Therefore, the single most important aspect of the Social Contract binding the people and companies participating in the Superalgos Project is that the Intelli Token shall be the sole medium of payment to be used in the network for the use cases that tie the <!--#include file="tooltips/superalgos-network.shtml" --> together:</strong></p>
 
                         <ul>
                             <li>Paying for computational resources rented at a <!--#include file="tooltips/superalgos-node.shtml" -->, like processing time, memory and storage.</li>
 
-                            <li>Paying for <!--#include file="tooltips/data-services.shtml" --> provided by <!--#include file="tooltips/algo-makers.shtml" --> at the <!--#include file="tooltips/marketplace.shtml" -->;</li>
+                            <li>Paying for <!--#include file="tooltips/data-services.shtml" --> provided by users at the <!--#include file="tooltips/marketplace.shtml" -->;</li>
 
                             <li>Paying for <!--#include file="tooltips/trading-services.shtml" --> provided by Algo-Makers at the Marketplace;</li>
 
@@ -118,7 +118,7 @@
 
                             <li>Paying for Official Competitions <!--#include file="tooltips/prizes.shtml" -->;</li>
 
-                            <li>Paying <!--#include file="tooltips/bundled-volume-discounts.shtml" --> distributed back to <!--#include file="tooltips/node-operators.shtml" --> by <!--#include file="tooltips/exchanges.shtml" -->.</li>
+                            <li>Paying bundled volume discounts distributed back to <!--#include file="tooltips/node-operators.shtml" --> by <!--#include file="tooltips/exchanges.shtml" -->.</li>
                         </ul>
 
                         <p>For other types of economic activity, such as consuming services provided by external service providers, consumers should be free to use the currency of their preference.</p>

@@ -1,1 +1,3 @@
-<span class="tooltip-custom">Strategies<span class="tooltiptext-custom" style="text-align: justify;">A set of actions occurring in stages, designed to achieve a specific goal within a broader plan, via executing trades. In the context of Superalgos, <strong>Strategies are designed with the Designer</strong>, a module available below the charts. Strategies may be turned into Algorithms&mdash;trading bots able to trade live&mdash;with a single click of a button in the app.</span></span>
+<span class="tooltip-custom">Strategies<span class="tooltiptext-custom" style="text-align: justify;">A set of actions
+        occurring in stages, designed to achieve a specific goal within a broader plan, via executing trades. In the
+        context of Superalgos, strategies are defined within Trading Systems.</span></span>

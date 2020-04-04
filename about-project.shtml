@@ -37,7 +37,7 @@
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
                                                 <h2>
                                                     <strong>Superalgos Project</strong><br />
-                                                    The Quest for a Collective Trading Intelligence
+                                                    A Quest for a Collective Trading Intelligence
                                                 </h2>
                                             </div>
                                         </div>
@@ -71,7 +71,8 @@
 
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">The Superalgos Project</h2>
+                        <h2 class="sc_title">The Superalgos Project</h2>
+                        <h5 class="sc_title sc_title_underline">A Quest for a Collective Trading Intelligence</h5>
                         <p class="sc_content text-center"><strong>We are an open-source project with the vision of a superior trading intelligence evolving within an open global collaboration of humans and machines, at the service of all people. We build towards our vision with a bottom-up approach, and are currently delivering Stage 1.</strong></p>
                     </div>
                 </div>
@@ -82,24 +83,12 @@
                             <h5 class="sc_title ">Stage 1:<br />Automate Trading</h5>
                             <p>In stage 1, we empower traders with free, open-source tools that enable comprehensive trading automation, superior data mining, unique data visualization, and effective collaboration. This stage will see the growth of the <!--#include file="tooltips/community.shtml" --> and culture of cooperation in trading&mdash;an essential trait that will set the foundations for an effective Collective Trading Intelligence.</p>
                         </div>
-                        <div class="text-center">
-                            <br /><br />
-                            <span class="squareButton accent_3 big">
-                                <a href="index.shtml">Superalgos Suite</a>
-                            </span>
-                        </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
                             <a href="competition-overview.shtml" class="sc_icon fa fa-dna sc_icon_round bg_icon margin_bottom_mini margin_top_small"></a>
                             <h5 class="sc_title ">Stage 2:<br />Evolve Trading Intelligence</h5>
                             <p>Stage 2 is about engaging the Community in an evolutionary model.  <!--#include file="tooltips/algorithms.shtml" --> participate in <!--#include file="tooltips/superalgos-competitions.shtml" --> for cash prizes, producing a key shift in incentives. Winner Algorithms are open-sourced, disseminating knowledge right after each Competition. The collective improves the winners and puts them back to compete again, triggering an accelerated evolutionary process.</p>
-                        </div>
-                        <div class="text-center">
-                            <br /><br />
-                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                                <a href="competition-overview.shtml">Future Competitions</a>
-                            </span>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
@@ -108,56 +97,31 @@
                             <h5 class="sc_title ">Stage 3:<br />Make Intelligence Accessible</h5>
                             <p>In stage 3, then counting with highly-evolved Algorithms, the project will deploy a Trading Intelligence Marketplace over a permissionless peer-to-peer network. Investors of all sizes will hire Asset Management Services from providers within the network, which, in turn, will rent the trading intelligence evolving within the Community to manage investors' funds.</p>
                         </div>
-                        <div class="text-center">
-                            <br /><br />
-                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                                <a href="about-marketplace.shtml">Future Marketplace</a>
-                            </span>
-                        </div>
                     </div>
 
                 </div>
             </div>
         </section>
 
-
-        <section id="Join" class="darkgrey_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">Join the Team</h2>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <h5 style="text-align: center; color:#fff;">Development Team</h5>
-                        <p>Superalgos is an open-source project at an early stage, welcoming developers who wish to participate in realizing the project's vision. Technical contributions may earn you an <!--#include file="tooltips/intelli-stream.shtml" --> and make you a <!--#include file="tooltips/team-member.shtml" -->.</p>
-                        <br />
-                        <div class="text-center">
-                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="developers-join-dev-team.shtml">Join the Dev Team</a>
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col-sm-6">
-                        <h5 style="text-align: center; color:#fff;">Business &amp; Research Teams</h5>
-                        <p>We welcome experts in fields such as collective intelligence, social psychology, game theory, artificial intelligence, evolutionary theory, distributed governance, management, economics, communication, marketing, law, and business.</p>
-                        <br />
-                        <div class="text-center">
-                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="about-contributing.shtml">Get Involved</a>
-                            </span>
-                        </div>
-                    </div>
-                </div>
+<section id="Highlight1" class="darkgrey_section no_padding_container">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                    <span>Superalgos is currently delivering Stage 1. Find the progress log and overall roadmap below.</span>
+                </h3>
             </div>
-        </section>
+        </div>
+    </div>
+</section>
 
         <section id="roadmap" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">Project Status</h2>
+                        <h2 class="sc_title">Project Status</h2>
+                        <h5 class="sc_title sc_title_underline">Realising our vision step by step</h5>
+                        <p class="sc_content text-center"><strong>Superalgos was born in the summer of 2017. After conceptualizing an ambitious, multi-stage project around our vision, we started delivering the core technology in incremental steps. This is a brief account of the project's achievements and the bird's-eye view of what is to come next.</strong></p>
                     </div>
                 </div>
 
@@ -166,14 +130,12 @@
                         <div class="sc_column">
                             <a class="sc_icon fa fa-clipboard-check sc_icon_round bg_icon margin_bottom_mini margin_top_small"></a>
                             <h5 class="sc_title ">Progress Log</h5>
-                            <p>The project is currently transiting Stage 1, having delivered V.0.0.6 of the software in March 2020.</p>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6">
                         <div class="sc_column">
                             <a class="sc_icon fa fa-road sc_icon_round bg_icon margin_bottom_mini margin_top_small"></a>
                             <h5 class="sc_title ">Roadmap</h5>
-                            <p>The current focus is still the Superalgos software, aiming to complete the functionality required for an official release by the end of 2020.</p>
                         </div>
                     </div>
 
@@ -187,13 +149,14 @@
                             <div class="sc_accordion_item panel row">
                                 <h6 class="sc_accordion_title" style="position: relative; ">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_15" class="collapsed">
-                                        <strong>March 2020</strong>: Superalgos V.0.0.6 Beta.
+                                        <strong>April 2020</strong>: Superalgos Beta.
                                     </a>
                                 </h6>
                                 <div id="accordion_left_15" class="panel-collapse collapse" style="position: relative; ">
                                     <div class="sc_accordion_content">
-                                        <p>In March 2020, Superalgos released version 0.0.6 of the software comprising a new charting space, the implementation of the <a href="https://github.com/ccxt/ccxt" rel="nofollow" rel="noopener" target="_blank">CCXT Library</a>providing access to top exchanges, along with all the infrastructure to provide support to multi-exchange and multi-markets use.</p>
-                                        <p>The new charting space enabled the setup of a dashboard with mutiple charts, and the ability to combine and syncronize data from different exchanges, markets and time frames within time machines.</p>
+                                        <p>In April 2020, Superalgos released version 0.0.6 of the software lifting the self-imposed limitation of trading on a single exchange and a single market. The software was therefore open to a list of more than 120 cryptocurrency exchanges supported by the <a href="https://github.com/ccxt/ccxt" rel="nofollow" rel="noopener" target="_blank">CCXT Library</a>.</p>
+                                        <p>The upgrade included a complete redesign of the charting space enabling the setup of dashboards with mutiple charts, and the ability to combine and syncronize data from different exchanges, markets and time frames within time machines.</p>
+                                        <p>The new version of the software featured a more robust infrastructure, with many optimizations to improve performance and reliability.</p>
                                     </div>
                                 </div>
                             </div>
@@ -298,11 +261,6 @@
                                         <p>The Superalgos Network will be a P2P Network consisting of Superalgos Nodes. Superalgos Nodes are instances of the Superalgos software running on users' machines, and which have been connected to the network by their owners.</p>
                                         <p>The main purpose of the Superalgos Network is to exchange markets and trading intelligence.</p>
                                         <p>Superalgos Nodes work mostly on a stand-alone, independent basis in terms of their core activities, but may speak with each other to consume data and services from other nodes and to relay relevant network information. The data and services offered among nodes may be black-boxed&mdash;offered on an input/output basis, without revealing how the output is obtained&mdash;and sold for micro fees, payable in Intelli Tokens. The transactions may include indicator data, signals or any form of trading intelligence that lives distributed across the network.</p>
-                                        <div class="col-sm-12 text-center margin_top_mini margin_bottom_mini">
-                                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                                <a href="about-network.shtml">Superalgos Network</a>
-                                            </span>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -317,11 +275,6 @@
                                     <div class="sc_accordion_content">
                                         <p>The project aims to issue <!--#include file="tooltips/intelli-tokens.shtml" --> making them available to the public by means of rolling Micro Exchange Offerings (MEO), through a network of partner <!--#include file="tooltips/exchanges.shtml" -->. Offerings will happen at some point after each Exchange is on-boarded to support trading via Superalgos.</p>
                                         <p>This distribution strategy intends to serve Exchange's clients as they start using Superalgos, satisfying the organic demand for the <!--#include file="tooltips/intelli-token.shtml" --> to access <!--#include file="tooltips/superalgos-network.shtml" --> services. </p>
-                                        <div class="col-sm-12 text-center margin_top_mini margin_bottom_mini">
-                                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                                <a href="about-intelli-flow.shtml">Intelli Token</a>
-                                            </span>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -336,13 +289,7 @@
                                 <div id="accordion_right_20" class="panel-collapse collapse" style="position: relative; ">
                                     <div class="sc_accordion_content">
                                         <p>Alpha-stage <!--#include file="tooltips/superalgos-competitions.shtml" --> are a preliminary version of the Superalgos Trading League.</p>
-                                        <p>This version will likely consist of Competitions in the 10th Division format, as described in the <a href="competition-league.shtml">League's page</a></p>
-
-                                        <div class="col-sm-12 text-center margin_top_mini margin_bottom_mini">
-                                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                                <a href="competition-guidelines.shtml">Competition Guidelines</a>
-                                            </span>
-                                        </div>
+                                        <p>The Superalgos Trading League will be a full-fledged competition system involving multiple divisions and competition formats.</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -359,12 +306,6 @@
                                         <p>The open source segment of the <!--#include file="tooltips/marketplace.shtml" --> will be the one evolving within the Superalgos Trading League, representing the collective intellectual property of the <!--#include file="tooltips/community.shtml" -->.</p>
                                         <p>One fundamental design goal of the league system is that teams winning an event get enough prize money to meet the capital requirements for the next league higher up the rank, promoting mobility across leagues.</p>
                                         <p><!--#include file="tooltips/superalgos-competitions.shtml" --> represent a significant shift in incentives by which the Community relentlessly evolves trading intelligence.</p>
-
-                                        <div class="col-sm-12 text-center margin_top_mini margin_bottom_mini">
-                                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                                <a href="competition-league.shtml">How We Compete</a>
-                                            </span>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -379,13 +320,7 @@
                                 <div id="accordion_right_22" class="panel-collapse collapse" style="position: relative; ">
                                     <div class="sc_accordion_content">
                                         <p>The <!--#include file="tooltips/marketplace.shtml" --> is the business of the crowd creating and training <!--#include file="tooltips/algorithms.shtml" -->. In the beginning, the crowd is incentivized solely by <!--#include file="tooltips/superalgos-competition.shtml" --> dynamics, cash prizes and <!--#include file="tooltips/intelli-tokens.shtml" -->.</p>
-                                        <p>However, as soon as the collective trading intelligence becomes marketable, the crowds' intelligence shall be open to the public, constituting a direct line of business for <!--#include file="tooltips/algo-makers.shtml" -->.</p>
-
-                                        <div class="col-sm-12 text-center margin_top_mini margin_bottom_mini">
-                                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                                <a href="about-marketplace.shtml">The Marketplace</a>
-                                            </span>
-                                        </div>
+                                        <p>However, as soon as the collective trading intelligence becomes marketable, the crowds' intelligence shall be open to the public, constituting a direct line of business for users.</p>
                                     </div>
                                 </div>
                             </div>

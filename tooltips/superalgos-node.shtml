@@ -1,1 +1,3 @@
-<span class="tooltip-custom">Superalgos Node<span class="tooltiptext-custom" style="text-align: justify;">A software package containing Superalgos freely available <strong>for deployment on user's servers / computers</strong>.</br><a href="about-network.shtml">Learn more about the Superalgos Network...</a></span></span>
+<span class="tooltip-custom">Superalgos Node<span class="tooltiptext-custom" style="text-align: justify;">In the future,
+        users of Superalgos will be able to use their instance of Superalgos to run data mining operations and 
+        production environments serving other users. These service providers will become operators of a Superalgos Node.</span></span>

@@ -91,7 +91,7 @@
                             <ul>
                                 <li><p><span class="turq_text">Use all functionality for free</span> with no tiered or gated access, and no premium plans.</p></li>
                                 <li><p><span class="turq_text">Run the platform in your own premises</span> so that you pay nothing for execution time.</p></li>
-                                <li><p><span class="turq_text">Own your data sets</span> by downloading and keeping market data up-to-date in your machines.</p></li>
+                                <li><p><span class="turq_text">Own your datasets</span> by downloading and keeping market data up-to-date in your machines.</p></li>
                                 <li><p><span class="turq_text">Accept no limits</span> and run as many bots or backtests as you need.</p></li>
                             </ul>
                         </div>
@@ -101,7 +101,7 @@
                             <a class="sc_icon fab fa-github sc_icon_round bg_icon margin_bottom_mini margin_top_small"></a>
                             <h5 class="sc_title ">Open-source</h5>
                             <ul>
-                                <li><p><span class="turq_text">Stay away from malware</span> trusting only transparent, public, and auditable code.</p></li>
+                            <li><p><span class="turq_text">Stay away from malware</span> trusting only transparent, public, and auditable code.</p></li>
                                 <li><p><span class="turq_text">Invest your time in a certain future</span> with a license-based legal guarantee that the software released will never be gated.</p></li>
                                 <li><p><span class="turq_text">Become a part of the community</span> pushing Superalgos to the state-of-the-art.</p></li>
                                 <li><p><span class="turq_text">If you wish, give back to the community</span> by open-sourcing some of your intelligence.</p></li>
@@ -199,7 +199,7 @@
                                 <li><p><span class="turq_text">Set up unlimited backtesting sessions</span>, each with their parameters including time range, fees and slippage assumptions.</p></li>
                                 <li><p><span class="turq_text">Visualize and analyze</span> individual trades right on the charts.</p></li>
                                 <li><p><span class="turq_text">Test multiple rule variations</span> all at once and compare results visually over the charts.</p></li>
-                                <li><p><span class="turq_text">Avoid overfitting</span> exercising full control over how you use your data sets.</p></li>
+                                <li><p><span class="turq_text">Avoid overfitting</span> exercising full control over how you use your datasets.</p></li>
                             </ul>
                         </div>
                     </div>
@@ -285,38 +285,43 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h2 class="sc_title sc_title_underline">Data Mining</h2>
-                        <p class="sc_content text-center"><strong>Most platforms give you access to standard indicators and technical studies, but only Superalgos allows you to perform custom calculations over all that data, and store the results as new datasets for your strategies to consume.</strong> </p>
+                        <h2 class="sc_title">Data Mining</h2>
+                        <h5 class="sc_title sc_title_underline">Own The Data</h5>
+                        <p class="sc_content text-center"><strong>Superalgos downloads raw data from exchanges, generates a dataset for each time frame organized by market, and by exchange, helps you perform custom calculations, and stores the results as new datasets for market research or for your strategies to consume.</strong> </p>
                     </div>
                 </div>
                 <div class="row text-center" style="margin-top: -20px;">
-                    <div class="col-md-4 col-sm-12">
-                        <div class="sc_column">
-                            <a class="sc_icon fa fa-code sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
-                            <h5 class="sc_title ">Minimal Coding</h5>
-                            <ul>
-                                <li><p><span class="turq_text">Code the calculation formulas only</span>; the system takes care of the rest, generating a data file for each time period.</p></li>
-                                <li><p><span class="turq_text">Use a visual environment </span> to define input dependencies, and output's architecture.</p></li>
-                            </ul>
-                        </div>
+                <div class="col-md-4 col-sm-12">
+                    <div class="sc_column">
+                        <a class="sc_icon fa fa-lock-open sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
+                        <h5 class="sc_title ">Data Accessibility</h5>
+                        <ul>
+                            <li><p><span class="turq_text">Download market data from exchanges </span>both in historic datasets and live data feeds.</p></li>
+                            <li><p><span class="turq_text">Store data in your computer </span>so that you may access it any time, on or off-line, at zero cost.</p></li>
+                            <li><p><span class="turq_text">Use data with other tools </span>including spreadsheets, other bots or any other system in your workflow.</p></li>
+                        </ul>
                     </div>
+                </div>
+
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
-                            <a class="sc_icon fa fa-lock-open sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
-                            <h5 class="sc_title ">Accessibility</h5>
+                            <a class="sc_icon fa fa-code sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
+                            <h5 class="sc_title ">Data Processing</h5>
                             <ul>
-                                <li><p><span class="turq_text">All data is stored in your computer</span>, under your control, so that you may access it any time, at zero cost.</p></li>
-                                <li><p><span class="turq_text">Access data off-line</span> to run tests or perform analysis of any kind.</p></li>
+                                <li><p><span class="turq_text">Nest processes </span>feeding from each other's output and build intelligence from the ground up in unlimited layers.</p></li>
+                                <li><p><span class="turq_text">Use a visual environment </span>to define dependencies, execution sequences, and datasets architecture.</p></li>
+                                <li><p><span class="turq_text">Limit coding to calculation procedures </span>and let the system take care of the intricacies of the infrastructure.</p></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <div class="sc_column">
                             <a class="sc_icon fa fa-stamp sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
-                            <h5 class="sc_title ">Standardization</h5>
+                            <h5 class="sc_title ">Quality Assurance</h5>
                             <ul>
-                                <li><p><span class="turq_text">Ensure consistency in all your data</span> in all time periods, in all markets, across exchanges.</p></li>
-                                <li><p><span class="turq_text">Share data or use data from third parties</span> in a plug-and-play kind of way.</p></li>
+                                <li><p><span class="turq_text">Use recursive processes </span>to ensure data continuity, completeness, and accuracy, both while downloading and processing.</p></li>
+                                <li><p><span class="turq_text">Ensure data comparability </span>with standardized datasets in all time frames, markets, and exchanges.</p></li>
+                                <li><p><span class="turq_text">Ensure data accessibility </span>with datasets fragmented in per- exchange / market / time frame / day files.</p></li>
                             </ul>
                         </div>
                     </div>
@@ -388,7 +393,7 @@
                     <div class="col-sm-12 text-center">
                         <h2 class="sc_title">Superalgos Suite</h2>
                         <h5 class="sc_title sc_title_underline">We cater to your specific needs</h5>
-                        <p class="sc_content text-center"><strong>Superalgos is a vast system with multiple use-cases. To learn more about how the system addresses your specific needs, follow the link to your main area of interest. Regardless of what your focus is, the system gives you access to all tools.</strong></p>
+                        <p class="sc_content text-center"><strong>Superalgos is a vast system with multiple use cases. To learn more about how the system addresses your specific needs, follow the link to your main area of interest. Regardless of what your focus is, the system gives you access to all tools.</strong></p>
                     </div>
                 </div>
 
@@ -436,8 +441,9 @@
                             <h5 class="sc_title ">Discretionary Trading</h5>
                             <ul>
                                 <li><p><span class="turq_text">Set up bots to monitor the market </span>and get notifications when specific situations arise.</p></li>
-                                <li><p><span class="turq_text">Set up bots to monitor indicators</span> for crossovers, divergences and every other signal you need.</p></li>
-                                <li><p><span class="turq_text">Test ideas and assumptions </span>to understand their effectiveness in the markets you are trading.</p></li>
+                                <li><p><span class="turq_text">Set up bots to monitor indicators</span> for crossovers, divergences or other signals.</p></li>
+                                <li><p><span class="turq_text">Test ideas and assumptions </span>to validate their effectiveness in new markets.</p></li>
+                                <li><p><span class="turq_text">Set up a dashboard of charts </span>comparing time frames, markets and exchanges.</p></li>
                                 <li><p><span class="turq_text">Tap into the realm of systematic trading</span> to grow your trading toolbox.</p></li>
                             </ul>
                         </div>
@@ -521,7 +527,7 @@
                                 <li><p><span class="turq_text">Nest multiple calculation processes </span>feeding from each other's outputs.</p></li>
                                 <li><p><span class="turq_text">Feed machine learning AIs </span>with datasets you create, combine, classify and label.</p></li>
                                 <li><p><span class="turq_text">Create custom visualizations </span>of your datasets over the timeline.</p></li>
-                                <li><p><span class="turq_text">Use your intuition in a visual environment </span>to find patterns other can't see.</p></li>
+                                <li><p><span class="turq_text">Use your intuition in a visual environment </span>to find patterns others can't see.</p></li>
                             </ul>
                         </div>
                         <div class="text-center margin_top_mini">
@@ -607,7 +613,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The button below will take you to the documentation, featuring detailed instructions that will guide you in the process of downloading and running Superalgos in your machine.</p>
+                        <p>The button below will take you to the documentation, featuring detailed instructions and video tutorials that will guide you in the process of downloading and running Superalgos in your machine.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>Follow the Getting Started guide to get up and running. Feel free to direct questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> should you run into any issues; developers and other users will be happy to help. </p>
