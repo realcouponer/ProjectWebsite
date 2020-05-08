@@ -349,6 +349,10 @@ section > .container,
     padding-top: 70px;
 }
 
+.dark_section h3 {
+  color: #fff;
+}
+
 .grey_section h3 {
     color: #fff;
 }

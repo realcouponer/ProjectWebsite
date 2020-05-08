@@ -1,8 +1,8 @@
 ﻿<!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Superalgos Project</title>
-    <meta name="description" content="The quest for a Collective Trading Intelligence.">
+    <title>Superalgos Project | A Collective Trading Intelligence</title>
+    <meta name="description" content="An open-source project with the vision of a superior trading intelligence evolving within an open global collaboration of humans and machines, at the service of all people.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -36,7 +36,7 @@
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
                                                 <h2>
-                                                    <strong>Superalgos Project</strong><br />
+                                                    The Superalgos Project<br />
                                                     A Quest for a Collective Trading Intelligence
                                                 </h2>
                                             </div>
@@ -73,7 +73,7 @@
                     <div class="col-sm-12 text-center">
                         <h2 class="sc_title">The Superalgos Project</h2>
                         <h5 class="sc_title sc_title_underline">A Quest for a Collective Trading Intelligence</h5>
-                        <p class="sc_content text-center"><strong>We are an open-source project with the vision of a superior trading intelligence evolving within an open global collaboration of humans and machines, at the service of all people. We build towards our vision with a bottom-up approach, and are currently delivering Stage 1.</strong></p>
+                        <p class="sc_content text-center">We are an open-source project with the vision of a superior trading intelligence evolving within an open global collaboration of humans and machines, at the service of all people. We build towards our vision with a bottom-up approach, and are currently delivering Stage 1.</p>
                     </div>
                 </div>
                 <div class="row text-center" style="margin-top: -20px;">
@@ -103,7 +103,7 @@
             </div>
         </section>
 
-<section id="Highlight1" class="darkgrey_section no_padding_container">
+<section id="Highlight1" class="rustred_section no_padding_container">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
@@ -121,7 +121,7 @@
                     <div class="col-sm-12 text-center">
                         <h2 class="sc_title">Project Status</h2>
                         <h5 class="sc_title sc_title_underline">Realising our vision step by step</h5>
-                        <p class="sc_content text-center"><strong>Superalgos was born in the summer of 2017. After conceptualizing an ambitious, multi-stage project around our vision, we started delivering the core technology in incremental steps. This is a brief account of the project's achievements and the bird's-eye view of what is to come next.</strong></p>
+                        <p class="sc_content text-center">Superalgos was born in the summer of 2017. After conceptualizing an ambitious, multi-stage project around our vision, we started delivering the core technology in incremental steps. This is a brief account of the project's achievements and what is to come next.</p>
                     </div>
                 </div>
 
@@ -148,15 +148,58 @@
 
                             <div class="sc_accordion_item panel row">
                                 <h6 class="sc_accordion_title" style="position: relative; ">
+                                    <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_17" class="collapsed">
+                                        <strong>May 2020</strong>: Superalgos Beta 4.
+                                    </a>
+                                </h6>
+                                <div id="accordion_left_17" class="panel-collapse collapse" style="position: relative; ">
+                                    <div class="sc_accordion_content">
+                                        <p>In May 2020, Superalgos released the fourth beta version of the software turning Superalgos into a distributed system running over a network of nodes, with central management.</p>
+                                        <p>With Beta 4, data mining and trading tasks may be distributed over multiple machines, and the whole trading operation may be managed from any node in the network, giving birth to the concept of Crypto Trading Farms.</p>
+                                    </div>
+                                    <div class="sc_accordion_content text-center">
+                                        <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                            <a href="https://medium.com/superalgos/crypto-trading-farms-flexible-and-scalable-trading-operations-a25658f38f44" rel="noopener" target="_blank" marker="_nosymbol">Official Announcement</a>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="sc_accordion_item panel row">
+                                <h6 class="sc_accordion_title" style="position: relative; ">
+                                    <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_16" class="collapsed">
+                                        <strong>April 2020</strong>: Superalgos Beta 3.
+                                    </a>
+                                </h6>
+                                <div id="accordion_left_16" class="panel-collapse collapse" style="position: relative; ">
+                                    <div class="sc_accordion_content">
+                                        <p>In April 2020, Superalgos released the third beta version of the software lifting the self-imposed limitation of trading on a single exchange and a single market. The software was therefore open to a list of more than 120 cryptocurrency exchanges supported by the <a href="https://github.com/ccxt/ccxt" rel="nofollow" rel="noopener" target="_blank">CCXT Library</a>.</p>
+                                        <p>The upgrade included a complete redesign of the charting space enabling the setup of dashboards with mutiple charts, and the ability to combine and syncronize data from different exchanges, markets and time frames within time machines.</p>
+                                        <p>The new version of the software featured a more robust infrastructure, with many optimizations to improve performance and reliability.</p>
+                                    </div>
+                                    <div class="sc_accordion_content text-center">
+                                        <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                            <a href="https://medium.com/superalgos/superalgos-multiple-exchanges-multiple-markets-and-a-major-infrastructure-upgrade-836fd7a46d06" rel="noopener" target="_blank" marker="_nosymbol">Official Announcement</a>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="sc_accordion_item panel row">
+                                <h6 class="sc_accordion_title" style="position: relative; ">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_15" class="collapsed">
-                                        <strong>April 2020</strong>: Superalgos Beta.
+                                        <strong>December 2020</strong>: Superalgos Beta 2.
                                     </a>
                                 </h6>
                                 <div id="accordion_left_15" class="panel-collapse collapse" style="position: relative; ">
                                     <div class="sc_accordion_content">
-                                        <p>In April 2020, Superalgos released version 0.0.6 of the software lifting the self-imposed limitation of trading on a single exchange and a single market. The software was therefore open to a list of more than 120 cryptocurrency exchanges supported by the <a href="https://github.com/ccxt/ccxt" rel="nofollow" rel="noopener" target="_blank">CCXT Library</a>.</p>
-                                        <p>The upgrade included a complete redesign of the charting space enabling the setup of dashboards with mutiple charts, and the ability to combine and syncronize data from different exchanges, markets and time frames within time machines.</p>
-                                        <p>The new version of the software featured a more robust infrastructure, with many optimizations to improve performance and reliability.</p>
+                                        <p>A few weeks after Beta 1 was released, and before the end of 2019, the project released Superalgos Beta 2 featuring plotters: built-in, zero-coding required data visualization tools. Plotters read data produced by other bots and create customized graphic overlays on top of the charts, in all time frames.</p>
+                                        <p>The new feature complemeted the data-mining tools released earlier the same month.</p>
+                                    </div>
+                                    <div class="sc_accordion_content text-center">
+                                        <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                            <a href="https://medium.com/superalgos/new-data-visualization-and-productivity-tools-a4b4e9eb100b" rel="noopener" target="_blank" marker="_nosymbol">Official Announcement</a>
+                                        </span>
                                     </div>
                                 </div>
                             </div>
@@ -164,19 +207,23 @@
                             <div class="sc_accordion_item panel row">
                                 <h6 class="sc_accordion_title" style="position: relative; ">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_14" class="collapsed">
-                                        <strong>December 2019</strong>: Superalgos V.0.0.3 Beta.
+                                        <strong>December 2019</strong>: Superalgos Beta 1.
                                     </a>
                                 </h6>
                                 <div id="accordion_left_14" class="panel-collapse collapse" style="position: relative; ">
                                     <div class="sc_accordion_content">
-                                        <p>After multiple alpha pre-releases, on December 2019, the project released the first beta-stage version of Superalgos. At this stage, the software had been successfully trading live for a few months.</p>
+                                        <p>After multiple alpha pre-releases, in December 2019, the project released the first beta-stage version of Superalgos. At this stage, the software had been successfully trading live for a few months.</p>
                                         <p>The first beta release version counted with a robust infrastructure implementing the architecture that would allow it to grow in stages to come. It also featured extensive functionality, like: </p>
                                         <ul>
                                             <li><p>Complete strategy automation, standardized to comply with the Superalgos Trading Protocol, with smart access to all charts and dynamically managed stop loss and take profit targets.</p></li>
                                             <li><p>Four versatile execution modes: backtesting, paper-trading, forward-testing and live-trading.</p></li>
                                             <li><p>Robust, minimal-coding data mining features allowing the processing of market data and standard indicators into custom studies—stored as new custom datasets—that strategies may consume.</p></li>
-                                            <li><p>Versatile, zero-coding custom data visualization features rendering graphics over the charts, in all time periods.</p></li>
                                         </ul>
+                                    </div>
+                                    <div class="sc_accordion_content text-center">
+                                        <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                            <a href="https://medium.com/superalgos/laying-out-the-foundations-for-robust-data-mining-b5c80d863320" rel="noopener" target="_blank" marker="_nosymbol">Official Announcement</a>
+                                        </span>
                                     </div>
                                 </div>
                             </div>
@@ -184,14 +231,19 @@
                             <div class="sc_accordion_item panel row">
                                 <h4 class="sc_accordion_title" style="position: relative; ">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_13" class="collapsed">
-                                        <strong>August 2019</strong>: Superalgos V.0.0.1 Alpha.
+                                        <strong>August 2019</strong>: Superalgos Alpha.
                                     </a>
                                 </h4>
                                 <div id="accordion_left_13" class="panel-collapse collapse" style="position: relative; ">
                                     <div class="sc_accordion_content">
-                                        <p>On August 2019, the project pre-released an alpha-stage version of Superalgos, a piece of open-source, free software that allowed traders to automate <!--#include file="tooltips/strategies.shtml" --> and deploy them as <!--#include file="tooltips/algorithms.shtml" --> to trade live in a fully automated fashion, directly from user's accounts at the Exchange.</p>
+                                        <p>In August 2019, the project pre-released an alpha-stage version of Superalgos, a piece of open-source, free software that allowed traders to automate <!--#include file="tooltips/strategies.shtml" --> and deploy them as <!--#include file="tooltips/algorithms.shtml" --> to trade live in a fully automated fashion, directly from user's accounts at the Exchange.</p>
                                         <p>The software implemented the Superalgos Trading Protocol, making automation of simple and complex strategies possible, with virtually zero coding requirements. Rules were defined with simple mathematical statements defining conditions, situations and formulas.</p>
                                         <p>The alpha-stage pre-release featured basic backtesting capabilities, however, the first few successful trend-following strategies were built with this early version, proving its worth and prospects.</p>
+                                    </div>
+                                    <div class="sc_accordion_content text-center">
+                                        <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                            <a href="https://medium.com/superalgos/advanced-backtesting-multi-strategy-live-trading-and-usability-improvements-42247a4c2555" rel="noopener" target="_blank" marker="_nosymbol">Official Announcement</a>
+                                        </span>
                                     </div>
                                 </div>
                             </div>

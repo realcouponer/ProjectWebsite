@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Superalgos Crypto Intelligence Suite</title>
+    <title>Superalgos | Crypto Trading Bots & Crypto Market Intelligence</title>
     <meta name="description" content="Enhance and automate your crypto-trading, even if you have literally zero coding skills. It's free, open-source and trustless.">
     <meta charset="utf-8">
 
@@ -11,7 +11,7 @@
 <body>
 
     <!--[if lt IE 7]>
-        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http:/br /owsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
     <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
@@ -50,7 +50,7 @@
                             <span>Can't wait to try Superalgos?</span>
                             <span class="sc_button sc_button_size_big squareButton accent_2 big">
                                 <a href="https://docs.superalgos.org" target="_blank" marker="_nosymbol">Download &amp; Install</a>
-                            </span>
+                            </span> 
                         </h3>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
 
                         <h2 class="sc_title">What is Superalgos?</h2>
                         <h5 class="sc_title sc_title_underline">Watch the video to get up to speed</h5>
-                        <p class="sc_content text-center"><strong>Superalgos is a free, open-source and trustless suite of crypto-trading tools running on users' premises. It provides a robust infrastructure enabling unprecedented control over market data, information processing, systematic strategy testing, and trading automation. The emphasis on the visual experience makes Superalgos the one-stop solution for both technical and non-technical users.</strong></p>
+                        <p class="sc_content text-center">Superalgos is a free, open-source and trustless crypto trading bots and crypto market intelligence suite. It integrates and leverages all important aspects of trading intelligence: data-mining and visualization, strategy testing, trading execution, and full trading automation. The visual experience makes Superalgos accessible to both technical and non-technical users.</p>
 
                         <br />
                         <div style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; max-width: 1120px; max-height: 630px;">
@@ -72,10 +72,21 @@
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3>Not sure if it'll work for you?<br />Need some answers before taking the plunge?</h3>
+                        <br />
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
+                                <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Touch base with the Community</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
 
-        <section id="FreeOpenTrustless" class="darkgrey_section">
+        <section id="FreeOpenTrustless" class="dark_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -93,6 +104,7 @@
                                 <li><p><span class="turq_text">Run the platform in your own premises</span> so that you pay nothing for execution time.</p></li>
                                 <li><p><span class="turq_text">Own your datasets</span> by downloading and keeping market data up-to-date in your machines.</p></li>
                                 <li><p><span class="turq_text">Accept no limits</span> and run as many bots or backtests as you need.</p></li>
+                                <li><p><span class="turq_text">Enjoy and ad-free experience</span> with no collection of use statistics.</p></li>
                             </ul>
                         </div>
                     </div>
@@ -103,8 +115,9 @@
                             <ul>
                             <li><p><span class="turq_text">Stay away from malware</span> trusting only transparent, public, and auditable code.</p></li>
                                 <li><p><span class="turq_text">Invest your time in a certain future</span> with a license-based legal guarantee that the software released will never be gated.</p></li>
-                                <li><p><span class="turq_text">Become a part of the community</span> pushing Superalgos to the state-of-the-art.</p></li>
-                                <li><p><span class="turq_text">If you wish, give back to the community</span> by open-sourcing some of your intelligence.</p></li>
+                                <li><p><span class="turq_text">Get open-source strategies</span> to get started until you build your own.</p></li>
+                                <li><p><span class="turq_text">Get free support</span> from a community that is eager to share, learn, and grow.</p></li>
+                                <li><p><span class="turq_text">Build your reputation</span> and give back to the community sharing your knowledge.</p></li>
                             </ul>
                         </div>
                     </div>
@@ -117,13 +130,14 @@
                                 <li><p><span class="turq_text">Keep your strategies and targets hidden</span> from parties who may front-run or squeeze you out.</p></li>
                                 <li><p><span class="turq_text">Lock your exchange keys out</span> of centralized services that may be hacked!</p></li>
                                 <li><p><span class="turq_text">Keep your trading history away</span> from prying eyes, and personal data for yourself.</p></li>
+                                <li><p><span class="turq_text">Enjoy a login-free experience</span> with no granting of emails or personal information.</p></li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h3>Too good to be true? Wondering what the catch is?</br>There is no catch...</h3>
+                        <h3>Too good to be true? Wondering what the catch is?<br />There is no catch...</h3>
                         <br />
                         <div class="text-center">
                             <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
@@ -182,7 +196,7 @@
                 </div>
         </section>
 
-        <section id="ExecutionModes" class="darkgrey_section">
+        <section id="ExecutionModes" class="dark_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -229,13 +243,11 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h3>Did we mention you can run all of these testing and live trading sessions simultaneously?</h3>
-                        <!--
-                    <div class="text-center">
-                        <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big margin_top_mini">
-                            <a href="https://docs.superalgos.org" target="_blank" marker="_nosymbol">Impressive! Get me started!</a>
-                        </span>
-                    </div>
-                        -->
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big margin_top_mini">
+                                <a href="https://docs.superalgos.org/suite-trading-sessions.html" target="_blank" marker="_nosymbol">Trading Sessions</a>
+                            </span>
+                        </div>
                     </div>
                 </div>
         </section>
@@ -277,17 +289,137 @@
                             <img src="img/illustrations/multi-markets.svg" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
                         </div>
                     </div>
-
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
+                                <a href="https://docs.superalgos.org/suite-system-requirements.html" target="_blank" marker="_nosymbol">System Requirements</a>
+                            </span>
+                        </div>
+                    </div>
                 </div>
         </section>
 
-        <section id="DataMining" class="darkgrey_section">
+        <section id="Webhooks" class="dark_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title">TradingView Integration</h2>
+                        <h5 class="sc_title sc_title_underline">Integration With Systems Supporting Webhooks</h5>
+                        <p class="sc_content text-center">You may set up alerts in TradingView and send them as webhook messages. Superalgos gets the signal and you may handle it from within a strategy to make decisions, take positions, and manage trades in a fully automated fashion.</p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                <div class="col-md-4 col-sm-12">
+                    <div class="sc_column">
+                        <a class="sc_icon fa fa-exclamation-circle sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
+                        <h5 class="sc_title ">Set Up A TV Alert and Send a Webhoook Message</h5>
+                        <ul>
+                            <li><p><span class="turq_text">Set up your alerts</span> using whatever method and logic you wish to use.</p></li>
+                            <li><p><span class="turq_text">Set the alert action</span> as a webhook URL with your IP address. </p></li>
+                        </ul>
+                    </div>
+                </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <a class="sc_icon fa fa-cogs sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
+                            <h5 class="sc_title ">Process the Signal In Superalgos</h5>
+                            <ul>
+                                <li><p><span class="turq_text">Let Superalgos take the message</span> and make it available to your strategies.</p></li>
+                                <li><p><span class="turq_text">Use the signal</span> and incorporate native Superalgos logic to make decisions.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <a class="sc_icon fa fa-university sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
+                            <h5 class="sc_title ">Handle Execution & Trade Management</h5>
+                            <ul>
+                                <li><p><span class="turq_text">Take positions</span> and dynamically manage take profit and stop-loss targets.</p></li>
+                                <li><p><span class="turq_text">Automate the whole process</span> and let the trading bot take care of execution.</p></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3></h3>
+                        <br />
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
+                                <a href="https://docs.superalgos.org/suite-webhook-notifications.html" target="_blank" marker="_nosymbol">Webhook Notifications</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </section>
+
+        <section id="CryptoTradingFarms" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title">Crypto Trading Farms</h2>
+                        <h5 class="sc_title sc_title_underline">Flexible and Scalable Trading Operations</h5>
+                        <p class="sc_content text-center">The system may run distributed over a network of Superalgos nodes, with central management. In short, data mining and trading tasks may be distributed over multiple machines, and the whole trading operation may be managed from any node in the network.</p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <div class="sc_column">
+                            <a class="sc_icon fas fa-wifi sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
+                            <h5 class="sc_title ">Easy Deployment</h5>
+                        </div>
+                        <div>
+                            <p><span class="darkturq_text">Deploy a network of nodes with easy and minimal configuration requirements</span> as the system dynamically discovers the state of the network and the distribution of tasks, ensuring that all dependencies are preserved every time there is a change at the network level.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <a class="sc_icon fas fa-hands-helping sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
+                            <h5 class="sc_title ">F&F Collaboration</h5>
+                        </div>
+                        <div>
+                            <p><span class="darkturq_text">Recycle pieces of cheap and outdated hardware to overcome the limitations</span> of a single machine. Harness the collaboration with friends and family with a single data-mining operation supporting unlimited trading operations, by adding more cheap hardware to the network. </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="sc_column">
+                            <a class="sc_icon fas fa-briefcase sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
+                            <h5 class="sc_title ">Robust Deployments</h5>
+                            <p><span class="darkturq_text">Invest in a serious trading operation and deploy elaborate architectures</span> to trade in multiple markets and multiple exchanges with multiple strategies, leveraging a flexible and integrated solution that is ready to scale to business-size operations. </p>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="row text-center polaroid margin_top_small">
+                    <a>
+                        <img src="https://docs.superalgos.org/images/design-space/trading-farm-03.gif" />
+                    </a>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3></h3>
+                        <br />
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
+                                <a href="https://docs.superalgos.org/suite-fundamental-trading-farms-concepts.html" target="_blank" marker="_nosymbol">Crypto Trading Farms</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </section>
+
+        <section id="DataMining" class="dark_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h2 class="sc_title">Data Mining</h2>
                         <h5 class="sc_title sc_title_underline">Own The Data</h5>
-                        <p class="sc_content text-center"><strong>Superalgos downloads raw data from exchanges, generates a dataset for each time frame organized by market, and by exchange, helps you perform custom calculations, and stores the results as new datasets for market research or for your strategies to consume.</strong> </p>
+                        <p class="sc_content text-center">Superalgos downloads raw data from exchanges, generates a dataset for each time frame organized by market, and by exchange, helps you perform custom calculations, and stores the results as new datasets for market research or for your strategies to consume. </p>
                     </div>
                 </div>
                 <div class="row text-center" style="margin-top: -20px;">
@@ -332,7 +464,7 @@
                         <br />
                         <div class="text-center">
                             <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                                <a href="https://docs.superalgos.org/Data-Mining-Overview" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Tell me more!</a>
+                                <a href="https://docs.superalgos.org/suite-data-mines.html" target="_blank" marker="_nosymbol">Data Mines</a>
                             </span>
                         </div>
                     </div>
@@ -376,28 +508,26 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h3>You may also use conditional styles so that the same polygon may be rendered differently depending on custom conditions!</h3>
-                        <!--
-                    <div class="text-center">
-                        <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big margin_top_mini">
-                            <a href="https://docs.superalgos.org" target="_blank" marker="_nosymbol">Wow! Get me started!</a>
-                        </span>
-                    </div>
-                        -->
+                        <div class="text-center">
+                            <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big margin_top_mini">
+                                <a href="https://docs.superalgos.org/suite-plotters.html" target="_blank" marker="_nosymbol">Plotters</a>
+                            </span>
+                        </div>
                     </div>
                 </div>
         </section>
 
-        <section id="SuperalgosSuite" class="darkgrey_section">
+        <section id="SuperalgosSuite" class="dark_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h2 class="sc_title">Superalgos Suite</h2>
                         <h5 class="sc_title sc_title_underline">We cater to your specific needs</h5>
-                        <p class="sc_content text-center"><strong>Superalgos is a vast system with multiple use cases. To learn more about how the system addresses your specific needs, follow the link to your main area of interest. Regardless of what your focus is, the system gives you access to all tools.</strong></p>
+                        <p class="sc_content text-center">Superalgos is a vast system with multiple use cases. To learn more about how the system addresses your specific needs, follow the link to your main area of interest. Regardless of what your focus is, the system gives you access to all tools.</p>
                     </div>
                 </div>
 
-                <div class="row text-center margin_top_big">
+                <div class="row text-center">
                     <div class="col-md-4 col-sm-12">
                         <div>
                             <a href="suite-systematic-trading.shtml"><img src="img/various/product-systematic-trading.png" /></a>
@@ -455,7 +585,7 @@
                     </div>
                 </div>
 
-                <div class="row text-center margin_top_big">
+                <div class="row text-center">
                     <div class="col-md-4 col-sm-12">
                         <div>
                             <a href="suite-smart-holding"><img src="img/various/product-smart-holding.png" /></a>
@@ -512,7 +642,7 @@
                     </div>
                 </div>
 
-                <div class="row text-center margin_top_big">
+                <div class="row text-center">
 
                     <div class="col-md-2 col-sm-12">
 
@@ -560,45 +690,6 @@
 
                     </div>
 
-                    <!--
-        <div class="col-md-4 col-sm-12">
-            <div class="sc_column">
-                <a class="sc_icon fab fa-youtube sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
-                <h5 class="sc_title ">Youtube Content</h5>
-                <ul>
-                    <li><p><span class="turq_text"> If you create trading content for YouTube </span> help us create a specific product for you.</p></li>
-                    <li><p><span class="turq_text">You have specific needs </span>and we'd love to know what they are.</p></li>
-                    <li><p><span class="turq_text"> Superalgos markets analysis capacity </span> may become a very powerful tool in your hands.</p></li>
-                    <li><p><span class="turq_text">A future Superalgos Youtube Content </span>may be even better!</p></li>
-                    <li><p><span class="turq_text">Get in touch with the core team </span>so that we may understand your specific needs.</p></li>
-                </ul>
-            </div>
-            <div class="text-center margin_top_mini">
-                <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                    <a href="contacts.shtml">Contact us!</a>
-                </span>
-            </div>
-        </div>
-
-    <div class="col-md-4 col-sm-12">
-        <div class="sc_column">
-            <a class="sc_icon fa fa-question sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
-            <h5 class="sc_title ">Tell Us What You Need</h5>
-            <ul>
-                <li><p><span class="turq_text">If you think Superalgos could be awesome </span> for a different application...</p></li>
-                <li><p><span class="turq_text">If you have a specific use case </span>we are not properly addressing...</p></li>
-                <li><p><span class="turq_text">If you need an improvement </span>on any part of the system...</p></li>
-                <li><p><span class="turq_text">If something is not working </span>as you would expect...</p></li>
-                <li><p><span class="turq_text">If you have an idea </span>to make Superalgos better...</p></li>
-            </ul>
-        </div>
-        <div class="text-center margin_top_mini">
-            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                <a href="https://github.com/Superalgos/Platform/issues" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Create an Issue!</a>
-            </span>
-        </div>
-    </div>
-    -->
                 </div>
 
         </section>
@@ -613,16 +704,16 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The button below will take you to the documentation, featuring detailed instructions and video tutorials that will guide you in the process of downloading and running Superalgos in your machine.</p>
+                        <p>The button below takes you to the documentation site featuring detailed instructions and video tutorials that will guide you in the process of downloading and running Superalgos in your machine.</p>
                     </div>
                     <div class="col-sm-6">
-                        <p>Follow the Getting Started guide to get up and running. Feel free to direct questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> should you run into any issues; developers and other users will be happy to help. </p>
+                        <p>Follow the Getting Started guide to get up and running. Direct all questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> should you run into any issues; developers and other users will be happy to help. </p>
                     </div>
                 </div>
                 <div class="row">
                     <div class="text-center margin_top_mini">
                         <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                            <a href="https://docs.superalgos.org" target="_blank" marker="_nosymbol">Installation &amp; Documentation</a>
+                            <a href="https://docs.superalgos.org" target="_blank" marker="_nosymbol">Get Me Started!</a>
                         </span>
                     </div>
                 </div>

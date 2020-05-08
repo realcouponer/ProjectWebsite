@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Contact Us</title>
+    <title>Contact the Superalgos Project</title>
     <meta name="description" content="Get in touch with the Superalgos Core Team. We'd love to hear from you!">
     <meta charset="utf-8">
 
@@ -31,7 +31,7 @@
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="padding: 0 15px 0 15px;">
-                                                        <h2 style="font-weight:700;">
+                                                        <h2>
                                                             Your feedback, comments and questions are important
                                                         </h2>
                                                     </div>
