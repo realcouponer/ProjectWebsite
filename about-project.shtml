@@ -148,6 +148,25 @@
 
                             <div class="sc_accordion_item panel row">
                                 <h6 class="sc_accordion_title" style="position: relative; ">
+                                    <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_18" class="collapsed">
+                                        <strong>June 2020</strong>: Superalgos Beta 5.
+                                    </a>
+                                </h6>
+                                <div id="accordion_left_18" class="panel-collapse collapse" style="position: relative; ">
+                                    <div class="sc_accordion_content">
+                                        <p>In June 2020, the project released the fifth beta version of Superalgos incorporating several new features: a visual conditions editor to make life easier for non-coders while building strategies; a snapshot function that captures all relevant information of trades in a session and makes it available in a CSV file to be analyzed in spreadsheet software; a new debug button that allows developers to seamlessly debug tasks; and the functionality to handle multiple workspaces from within the system.</p>
+                                        <p>Additionally, the project released BB Top Bounce, a second-generation trading system featuring eight hyper-specialized strategies for the BTC - USDT market. Adding further to the open-source intelligence available to the community, a new Resistance & Support indicator was added to the Masters data mine.</p>
+                                    </div>
+                                    <div class="sc_accordion_content text-center">
+                                        <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                            <a href="https://medium.com/superalgos/new-open-source-bitcoin-strategy-support-resistance-indicator-trades-snapshots-and-more-c225be392e8" rel="noopener" target="_blank" marker="_nosymbol">Official Announcement</a>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="sc_accordion_item panel row">
+                                <h6 class="sc_accordion_title" style="position: relative; ">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_17" class="collapsed">
                                         <strong>May 2020</strong>: Superalgos Beta 4.
                                     </a>
