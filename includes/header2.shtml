@@ -35,29 +35,23 @@
                             <li class="menu-item-has-children">
                                 <a href="about-project.shtml">THE PROJECT</a>
                                 <ul>
+
+                                    <li>
+                                        <a href="about-team.shtml">Core Team</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="about-contributors.shtml">Top Contributors</a>
+                                    </li>
+
                                     <li>
                                         <a href="about-project.shtml">Masterplan</a>
-                                    </li>
-                                    <li>
-                                        <a href="social-constitution.shtml" class="sf-with-ul">Superalgos Constitution</a>
-                                    </li>
-
-                                    <li>
-                                        <a href="about-vision-mission-culture.shtml">Foundational Principles</a>
-                                    </li>
-
-                                    <li>
-                                        <a href="about-team.shtml">The Team</a>
                                     </li>
 
                                     <li>
                                         <a href="media-articles.shtml">Media &amp; Articles</a>
                                     </li>
                                 </ul>
-                            </li>
-
-                            <li>
-                                <a href="about-intelli-overview.shtml">INTELLI TOKEN</a>
                             </li>
 
                             <li>

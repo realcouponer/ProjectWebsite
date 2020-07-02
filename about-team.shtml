@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>The Superalgos Team</title>
+    <title>The Superalgos Core Team</title>
     <meta name="description" content="Joining forces to trigger the Era of Superalgos.">
     <meta charset="utf-8">
 
@@ -33,7 +33,8 @@
                                                 <div>
                                                     <div style="padding: 0 15px 0 15px;">
                                                         <h2>
-                                                            A team on a mission: to trigger the era of Superalgos
+                                                            A Team on a Mission:<br />
+                                                            To Trigger the Era of Superalgos
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -52,9 +53,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">The Core Team</h1>
-                        <p class="sc_content text-center">The group of people tasked with bootstrapping and leading the <!--#include file="tooltips/superalgos-project.shtml" -->. </p>
-                        <br />
+                        <h1 class="sc_title">The Core Team</h1>
+                        <h5 class="sc_title sc_title_underline">The People Bootstrapping the Project</h5>
                     </div>
                 </div>
                 <div class="row">
@@ -84,7 +84,7 @@
                                 <div class="sc_team_item_avatar">
                                     <img src="img/people/Julian-color.jpg" alt="">
                                     <ul class="sc_team_item_socials">
-                                        <li style="color:#FFF; font-weight: 600;">Lifelong entrepreneur in fintech, arts, design, engineering and manufacturing; in crypto since 2016.</li>
+                                        <li style="color:#FFF; font-weight: 600;">Lifelong entrepreneur in fintech, arts, design, engineering, and manufacturing; in crypto since 2016.</li>
                                         <li>
                                             <a href="https://www.linkedin.com/in/julian-molina/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
                                         </li>
@@ -102,7 +102,7 @@
                                 <div class="sc_team_item_avatar">
                                     <img src="img/people/Andreja.jpg" alt="">
                                     <ul class="sc_team_item_socials">
-                                        <li style="color:#FFF; font-weight: 600;">Pro-trader in Goldman Sachs & UBS, Portfolio Manager, cross-asset trading, equity derivatives, FX and options; in crypto since 2016. </li>
+                                        <li style="color:#FFF; font-weight: 600;">Head of Derivatives Trading at SEBA Bank AG, former Trader in Goldman Sachs & UBS, Portfolio Manager, cross-asset trading, FX and options; in crypto since 2016. </li>
                                         <li>
                                             <a href="https://www.linkedin.com/in/andreja-cobeljic-77135b28/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
                                         </li>
@@ -115,143 +115,6 @@
                             </div>
                         </div>
 
-                        <div class="col-md-1">
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Main Contributors</h1>
-                        <p class="sc_content text-center">The group of people whose contributions have greatly impacted the project. </p>
-                        <br />
-                    </div>
-                </div>
-
-                <div class="sc_team col-sm-12">
-                    <div class="col-md-1">
-                    </div>
-
-                    <div class="col-md-3">
-                        <div class="sc_team_item">
-                            <div class="sc_team_item_avatar">
-                                <img src="img/people/Matias.jpg" alt="">
-                                <ul class="sc_team_item_socials">
-                                    <li style="color:#FFF; font-weight: 600;">Information Systems Engineer, MBA, former Hewlett Packard and General Motors; in crypto since 2017.</li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/in/matias-e-benitez-bb4b1926/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="sc_team_item_info">
-                                <h4 class="sc_team_item_title">Mat&iacute;as Benitez</h4>
-                                <div class="sc_team_item_position">Early code</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-3">
-                        <div class="sc_team_item">
-                            <div class="sc_team_item_avatar">
-                                <img src="img/people/Ira-color.jpg" alt="">
-                                <ul class="sc_team_item_socials">
-                                    <li style="color:#FFF; font-weight: 600;">Bitcoin entrepreneur, tech-visionary, crypto-trader, systems architect, blockchain developer; in crypto since 2011. </li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/in/ira-miller-5352668/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="sc_team_item_info">
-                                <h4 class="sc_team_item_title">Ira Miller</h4>
-                                <div class="sc_team_item_position">Visionary advice</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-3">
-                        <div class="sc_team_item">
-                            <div class="sc_team_item_avatar">
-                                <img src="img/people/Eduardo-color.jpg" alt="">
-                                <ul class="sc_team_item_socials">
-                                    <li style="color:#FFF; font-weight: 600;">Entrepreneur, Mechanical Engineer specialized in nuclear reactors, Master in Business Administration, in crypto since 2018.</li>
-                                    <li>
-                                        
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="sc_team_item_info">
-                                <h4 class="sc_team_item_title">Eduardo Remis</h4>
-
-                                <div class="sc_team_item_position">Testing & Data Mines</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-1">
-                    </div>
-                </div>
-
-                <div class="sc_team col-sm-12">
-                    <div class="col-md-1">
-                    </div>
-
-                    <div class="col-md-3">
-                        <div class="sc_team_item">
-                            <div class="sc_team_item_avatar">
-                                <img src="img/people/Jeff-low.jpg" alt="">
-                                <ul class="sc_team_item_socials">
-                                    <li style="color:#FFF; font-weight: 600;">Master's degree in Private Law (Universit&eacute; Libre de Bruxelles), track record in capital markets & corporate law, crypto finance and distributed trust networks; in crypto since 2016.</li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/in/jeff-braun-09206475/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="sc_team_item_info">
-                                <h4 class="sc_team_item_title">Jeff Braun</h4>
-
-                                <div class="sc_team_item_position">Legal advice</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-3">
-                        <div class="sc_team_item">
-                            <div class="sc_team_item_avatar">
-                                <img src="img/people/Barry-color.jpg" alt="">
-                                <ul class="sc_team_item_socials">
-                                    <li style="color:#FFF; font-weight: 600;">Web developer, vision-based brand consultant, graphic designer, UX/UI designer; in crypto since 2017.</li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/in/bnlow/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="sc_team_item_info">
-                                <h4 class="sc_team_item_title">Barry Low</h4>
-
-                                <div class="sc_team_item_position">Early code & Branding</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-3">
-                        <div class="sc_team_item">
-                            <div class="sc_team_item_avatar">
-                                <img src="img/people/Nikola-color.jpg" alt="">
-                                <ul class="sc_team_item_socials">
-                                    <li style="color:#FFF; font-weight: 600;">Hacker, web developer; in crypto since 2018.</li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/in/nikola-bjelogrlic-624995118/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="sc_team_item_info">
-                                <h4 class="sc_team_item_title">Nikola Bjelogrlic</h4>
-                                <div class="sc_team_item_position">Early code</div>
-                            </div>
-                        </div>
-                    </div>
-
-
                     <div class="col-md-1">
                     </div>
                 </div>
@@ -259,8 +122,6 @@
             </div>
         </div>
     </section>
-
-
 
     <!--#include file="includes/footer.shtml" -->
     <!--#include file="includes/preloader2.shtml" -->
