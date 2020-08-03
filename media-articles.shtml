@@ -33,7 +33,7 @@
                                                 <div>
                                                     <div style="padding: 0 15px 0 15px;">
                                                         <h2>
-                                                            <strong>Wise men speak because they have something to say;<br />fools because they have to say something. &mdash;Plato</strong>
+                                                            Wise men speak because they have something to say;<br />fools because they have to say something. &mdash;Plato
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -60,6 +60,37 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12">
                         <div class="portfolioWrap">
+
+                            <article class="excerptSmall post bg_post">
+                                <div class="thumb hoverIncrease hoverTwo inited" data-link="#" data-image="img/shore.jpg" data-title="New Post With Image">
+                                    <div class="isotopePadding">
+                                        <img alt="New Post With Image" src="img/captures/Superalgos-Charting-Space.PNG">
+                                        <span class="hoverShadow"></span>
+                                        <div class="wrap_hover">
+                                            <a href="img/captures/Superalgos-Charting-Space.PNG" title="The Open-Source Goldmine of Crypto-Markets Datasets" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                                <span class="hoverIcon"></span>
+                                            </a>
+                                            <a title="The Open-Source Goldmine of Crypto-Markets Datasets" href="https://towardsdatascience.com/the-open-source-goldmine-of-crypto-markets-datasets-43d173e0df33?source=friends_link&sk=ab28e1af80193e1af34df2d5c395ee21" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                                <span class="hoverLink"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post_wrap">
+                                    <h4>
+                                        <a href="https://towardsdatascience.com/the-open-source-goldmine-of-crypto-markets-datasets-43d173e0df33?source=friends_link&sk=ab28e1af80193e1af34df2d5c395ee21" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">The Open-Source Goldmine of Crypto-Markets Datasets</a>
+                                    </h4>
+                                    <div class="post_format_wrap postImage">
+                                        <p>How to run a distributed data-mining operation to source and process crypto market data at zero cost. Superalgos Data Mines solve the software and data engineering needs of data scientists&mdash;like extracting, collecting, cleaning, and storing market data&mdash;as well as some of the data analysis needs&mdash;like transforming, aggregating, and processing data.</p>
+                                    </div>
+                                    <div class="bog_post_info infoPost">
+                                        <span class="datePost">
+                                            July 2, 2020&mdash;Towards Data Science
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
 
                             <article class="excerptSmall post bg_post">
                                 <div class="thumb hoverIncrease hoverTwo inited" data-link="#" data-image="img/shore.jpg" data-title="New Post With Image">

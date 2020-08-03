@@ -1,7 +1,7 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Superalgos | Crypto Trading Bots & Crypto Market Intelligence</title>
+    <title>Superalgos | Crypto Trading Bots & Crypto Markets Intelligence</title>
     <meta name="description" content="Enhance and automate your crypto-trading, even if you have literally zero coding skills. It's free, open-source and trustless.">
     <meta charset="utf-8">
 
@@ -49,7 +49,7 @@
                         <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
                             <span>Can't wait to try Superalgos?</span>
                             <span class="sc_button sc_button_size_big squareButton accent_2 big">
-                                <a href="https://docs.superalgos.org" target="_blank" marker="_nosymbol">Download &amp; Install</a>
+                                <a href="https://t.me/superalgoscommunity" target="_blank" marker="_nosymbol">Join the Community, Download &amp; Install</a>
                             </span> 
                         </h3>
                     </div>
@@ -63,8 +63,8 @@
                     <div class="col-sm-12 text-center">
 
                         <h2 class="sc_title">What is Superalgos?</h2>
-                        <h5 class="sc_title sc_title_underline">Watch the video to get up to speed</h5>
-                        <p class="sc_content text-center">Superalgos is a free, open-source and trustless crypto trading bots and crypto market intelligence suite. It integrates and leverages all important aspects of trading intelligence: data-mining and visualization, strategy testing, trading execution, and full trading automation. The visual experience makes Superalgos accessible to both technical and non-technical users.</p>
+                        <h5 class="sc_title sc_title_underline">Crypto Trading Bots & Crypto Markets Intelligence</h5>
+                        <p class="sc_content text-center">Superalgos is a free, open-source and trustless crypto trading bots and crypto markets intelligence suite. It integrates and leverages all important aspects of trading intelligence: data-mining and visualization, strategy testing, trading execution, and full trading automation. The visual experience makes Superalgos accessible to both technical and non-technical users.</p>
 
                         <br />
                         <div style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; max-width: 1120px; max-height: 630px;">
@@ -104,7 +104,7 @@
                                 <li><p><span class="turq_text">Run the platform in your own premises</span> so that you pay nothing for execution time.</p></li>
                                 <li><p><span class="turq_text">Own your datasets</span> by downloading and keeping market data up-to-date in your machines.</p></li>
                                 <li><p><span class="turq_text">Accept no limits</span> and run as many bots or backtests as you need.</p></li>
-                                <li><p><span class="turq_text">Enjoy and ad-free experience</span> with no collection of use statistics.</p></li>
+                                <li><p><span class="turq_text">Enjoy an ad-free experience</span> with no collection of use statistics.</p></li>
                             </ul>
                         </div>
                     </div>
@@ -185,13 +185,6 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h3>A visual environment encapsulates complexity so that coding is left for geeks!</h3>
-                        <!--
-                    <div class="text-center">
-                        <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big margin_top_mini">
-                            <a href="https://docs.superalgos.org" target="_blank" marker="_nosymbol">You had me at 'visual'... I want it!</a>
-                        </span>
-                    </div>
-                        -->
                     </div>
                 </div>
         </section>
@@ -542,7 +535,7 @@
                         </div>
                         <div class="text-center margin_top_mini">
                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="suite-systematic-trading.shtml">Tell me more!</a>
+                                <a href="suite-systematic-trading.shtml">Systematic Trading</a>
                             </span>
                         </div>
                     </div>
@@ -561,7 +554,7 @@
                         </div>
                         <div class="text-center margin_top_mini">
                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="suite-algorithmic-trading.shtml">Tell me more!</a>
+                                <a href="suite-algorithmic-trading.shtml">Algorithmic Trading</a>
                             </span>
                         </div>
                     </div>
@@ -579,7 +572,7 @@
                         </div>
                         <div class="text-center margin_top_mini">
                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="suite-discretionary-trading.shtml">Tell me more!</a>
+                                <a href="suite-discretionary-trading.shtml">Discretionary Trading</a>
                             </span>
                         </div>
                     </div>
@@ -600,7 +593,7 @@
                         </div>
                         <div class="text-center margin_top_mini">
                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="suite-smart-holding.shtml">Tell me more!</a>
+                                <a href="suite-smart-holding.shtml">Smart Holding</a>
                             </span>
                         </div>
                     </div>
@@ -618,7 +611,7 @@
                         </div>
                         <div class="text-center margin_top_mini">
                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="suite-trading-coach.shtml">Tell me more!</a>
+                                <a href="suite-trading-coach.shtml">Trading Coach</a>
                             </span>
                         </div>
                     </div>
@@ -636,7 +629,7 @@
                         </div>
                         <div class="text-center margin_top_mini">
                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="suite-signals-broadcast.shtml">Tell me more!</a>
+                                <a href="suite-signals-broadcast.shtml">Signals Broadcast</a>
                             </span>
                         </div>
                     </div>
@@ -662,7 +655,7 @@
                         </div>
                         <div class="text-center margin_top_mini">
                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="suite-markets-research.shtml">Tell me more!</a>
+                                <a href="suite-markets-research.shtml">Markets Research</a>
                             </span>
                         </div>
                     </div>
@@ -681,7 +674,7 @@
                         </div>
                         <div class="text-center margin_top_mini">
                             <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
-                                <a href="suite-data-mining.shtml">Tell me more!</a>
+                                <a href="suite-data-mining.shtml">Data Mining</a>
                             </span>
                         </div>
                     </div>
@@ -704,7 +697,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <p>The button below takes you to the documentation site featuring detailed instructions and video tutorials that will guide you in the process of downloading and running Superalgos in your machine.</p>
+                        <p>The button below takes you to the Community Telegram where you will find links to the documentation site featuring detailed instructions and video tutorials that will guide you in the process of downloading and running Superalgos in your machine.</p>
                     </div>
                     <div class="col-sm-6">
                         <p>Follow the Getting Started guide to get up and running. Direct all questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> should you run into any issues; developers and other users will be happy to help. </p>
@@ -713,7 +706,7 @@
                 <div class="row">
                     <div class="text-center margin_top_mini">
                         <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                            <a href="https://docs.superalgos.org" target="_blank" marker="_nosymbol">Get Me Started!</a>
+                            <a href="https://t.me/superalgoscommunity" target="_blank" marker="_nosymbol">Join the Community &amp; Get Started!</a>
                         </span>
                     </div>
                 </div>

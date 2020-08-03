@@ -33,8 +33,8 @@
                                                 <div>
                                                     <div style="padding: 0 15px 0 15px;">
                                                         <h2>
-                                                            Help us Build the Puzzle:<br />
-                                                            Plug Yourself in the Collective Trading Intelligence
+                                                            Help us build<br />
+                                                            a Collective Trading Intelligence
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -56,7 +56,7 @@
                     <div class="col-sm-12 text-center">
                         <h1 class="sc_title">Top Contributors</h1>
                         <h5 class="sc_title sc_title_underline">Thanks for your help building the puzzle!</h5>
-                        <p class="sc_content text-center">Superalgos is an open community working towards a common goal: to succeed at trading crypto. No matter how you got here or what your skill set is, <a href="https://medium.com/superalgos/why-we-open-sourced-superalgos-55a5cbf83922" rel="noopener" target="_blank">you can help</a>, build your reputation, and directly benefit in the process!</p>
+                        <p class="sc_content text-center">Superalgos is an open community working towards a common goal: to succeed at trading crypto. No matter how you got here or what your skill set is, <a href="https://docs.superalgos.org/contributing-to-superalgos.html" rel="noopener" target="_blank">you can help</a>, build your reputation, and directly benefit in the process!</p>
                     </div>
                 </div>
 
