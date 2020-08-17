@@ -5,6 +5,17 @@
     <meta name="description" content="Enhance and automate your crypto-trading, even if you have literally zero coding skills. It's free, open-source and trustless.">
     <meta charset="utf-8">
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175560410-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-175560410-1');
+</script>
+
     <!--#include file="includes/headlinks.shtml" -->
 
 </head>
