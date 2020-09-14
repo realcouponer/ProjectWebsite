@@ -1,8 +1,8 @@
 <!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Superalgos | Crypto Trading Bots & Crypto Markets Intelligence</title>
-    <meta name="description" content="Enhance and automate your crypto-trading, even if you have literally zero coding skills. It's free, open-source and trustless.">
+    <title>Superalgos | Open-Source Crypto Trading Bots</title>
+    <meta name="description" content="Automate your bitcoin and altcoins trading, even if you have zero coding skills. Superalgos is free, open-source, and runs in your machine.">
     <meta charset="utf-8">
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -74,7 +74,7 @@
                     <div class="col-sm-12 text-center">
 
                         <h2 class="sc_title">What is Superalgos?</h2>
-                        <h5 class="sc_title sc_title_underline">Crypto Trading Bots & Crypto Markets Intelligence</h5>
+                        <h5 class="sc_title sc_title_underline">Open-Source Crypto Trading Bots</h5>
                         <p class="sc_content text-center">Superalgos is a free, open-source and trustless crypto trading bots and crypto markets intelligence suite. It integrates and leverages all important aspects of trading intelligence: data-mining and visualization, strategy testing, trading execution, and full trading automation. The visual experience makes Superalgos accessible to both technical and non-technical users.</p>
 
                         <br />
@@ -289,7 +289,7 @@
                         <div class="sc_column">
                             <a class="sc_icon fab fa-btc sc_icon_round bg_icon margin_bottom_mini margin_top_mini"></a>
                             <h5 class="sc_title ">Multi-Market</h5>
-                            <p><span class="darkturq_text">You can work with all markets supported </span> by the exchanges in the list, both to test on historic data and to trade live.</p>
+                            <p><span class="darkturq_text">Trade bitcoin and all altcoins </span>in the markets listed by the supported crypto exchanges. If the market is listed, you can trade it.</p>
                             <img src="img/illustrations/multi-markets.svg" style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; margin-top: 35px; border: solid 1px #666;" />
                         </div>
                     </div>
