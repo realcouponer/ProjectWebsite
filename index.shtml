@@ -2,7 +2,7 @@
 
 <head>
     <title>Superalgos | Open-Source Crypto Trading Bots</title>
-    <meta name="description" content="Automate your bitcoin and altcoins trading, even if you have zero coding skills. Superalgos is free, open-source, and runs in your machine.">
+    <meta name="description" content="Automate your bitcoin and altcoins trading, even if you have zero coding skills. Superalgos is free, open-source, and runs on your machine.">
     <meta charset="utf-8">
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -58,9 +58,9 @@
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
-                            <span>Can't wait to try Superalgos?</span>
+                            <span>How cool is Superalgos? Ask users!</span>
                             <span class="sc_button sc_button_size_big squareButton accent_2 big">
-                                <a href="https://t.me/superalgoscommunity" target="_blank" marker="_nosymbol">Join the Community, Download &amp; Install</a>
+                                <a href="download.shtml" target="_blank" marker="_nosymbol">Join the Community!</a>
                             </span> 
                         </h3>
                     </div>
@@ -525,7 +525,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <h2 class="sc_title">Superalgos Suite</h2>
+                        <h2 class="sc_title">Use Cases</h2>
                         <h5 class="sc_title sc_title_underline">We cater to your specific needs</h5>
                         <p class="sc_content text-center">Superalgos is a vast system with multiple use cases. To learn more about how the system addresses your specific needs, follow the link to your main area of interest. Regardless of what your focus is, the system gives you access to all tools.</p>
                     </div>
@@ -534,8 +534,7 @@
                 <div class="row text-center">
                     <div class="col-md-4 col-sm-12">
                         <div>
-                            <a href="suite-systematic-trading.shtml"><img src="img/various/product-systematic-trading.png" /></a>
-                            <h5 class="sc_title ">Systematic Trading</h5>
+                            <h5 class="sc_title margin_top_small">Systematic Trading</h5>
                             <ul>
                                 <li><p><span class="turq_text">Automate strategies without coding</span> defining rules with simple statements.</p></li>
                                 <li><p><span class="turq_text">Analyze backtests trade by trade </span>directly over the charts, and on aggregated reports.</p></li>
@@ -552,8 +551,7 @@
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <div>
-                            <a href="suite-algorithmic-trading.shtml"><img src="img/various/product-algorithmic-trading.png" /></a>
-                            <h5 class="sc_title ">Algorithmic Trading</h5>
+                            <h5 class="sc_title margin_top_small">Algorithmic Trading</h5>
                             <ul>
                                 <li><p><span class="turq_text">Don't waste your time on infrastructure</span>; we have it all tried, tested and documented.</p></li>
                                 <li><p><span class="turq_text">Exchange connectivity via CCXT </span>offers access to <a href="https://github.com/ccxt/ccxt#supported-cryptocurrency-exchange-markets" rel="nofollow" rel="noopener" target="_blank">a list of top-exchanges</a>.</p></li>
@@ -571,8 +569,7 @@
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <div>
-                            <a href="suite-discretionary-trading.shtml"><img src="img/various/product-discretionary-trading.png" /></a>
-                            <h5 class="sc_title ">Discretionary Trading</h5>
+                            <h5 class="sc_title margin_top_small">Discretionary Trading</h5>
                             <ul>
                                 <li><p><span class="turq_text">Set up bots to monitor the market </span>and get notifications when specific situations arise.</p></li>
                                 <li><p><span class="turq_text">Set up bots to monitor indicators</span> for crossovers, divergences or other signals.</p></li>
@@ -592,8 +589,7 @@
                 <div class="row text-center">
                     <div class="col-md-4 col-sm-12">
                         <div>
-                            <a href="suite-smart-holding"><img src="img/various/product-smart-holding.png" /></a>
-                            <h5 class="sc_title ">Smart Holding</h5>
+                            <h5 class="sc_title margin_top_small">Smart Holding</h5>
                             <ul>
                                 <li><p><span class="turq_text">Stop suffering during bear markets </span>watching your holdings' value evaporate.</p></li>
                                 <li><p><span class="turq_text">Instead, increase your holdings</span> every time prices drop, with an open-source strategy.</p></li>
@@ -610,8 +606,7 @@
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <div>
-                            <a href="suite-trading-coach"><img src="img/various/product-trading-coach.png" /></a>
-                            <h5 class="sc_title ">Trading Coach</h5>
+                            <h5 class="sc_title margin_top_small">Trading Coach</h5>
                             <ul>
                                 <li><p><span class="turq_text">Adopt a trading framework </span>that will guide you through your learning curve.</p></li>
                                 <li><p><span class="turq_text">Start with open-source strategies</span>, learn their logic and try to improve them.</p></li>
@@ -628,8 +623,7 @@
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <div>
-                            <a href="suite-signals-broadcast"><img src="img/various/product-signals-broadcast.png" /></a>
-                            <h5 class="sc_title ">Signals Broadcast</h5>
+                            <h5 class="sc_title margin_top_small">Signals Broadcast</h5>
                             <ul>
                                 <li><p><span class="turq_text">Implement a simple business model</span> to monetize your following.</p></li>
                                 <li><p><span class="turq_text">Sell subscriptions to your signals</span> and lead subscribers to a private Telegram Group.</p></li>
@@ -654,8 +648,7 @@
 
                     <div class="col-md-4 col-sm-12">
                         <div>
-                            <a href="suite-markets-research.shtml"><img src="img/various/product-markets-research.png" /></a>
-                            <h5 class="sc_title ">Markets Research</h5>
+                            <h5 class="sc_title margin_top_small">Markets Research</h5>
                             <ul>
                                 <li><p><span class="turq_text">Mine market data</span> with efficiency and the absolute minimum coding requirements.</p></li>
                                 <li><p><span class="turq_text">Nest multiple calculation processes </span>feeding from each other's outputs.</p></li>
@@ -673,8 +666,7 @@
 
                     <div class="col-md-4 col-sm-12">
                         <div>
-                            <a href="suite-data-mining.shtml"><img src="img/various/product-data-mining.png" /></a>
-                            <h5 class="sc_title ">Data Mining</h5>
+                            <h5 class="sc_title margin_top_small">Data Mining</h5>
                             <ul>
                                 <li><p><span class="turq_text">Process data like with Markets Research </span>and get ready for business.</p></li>
                                 <li><p><span class="turq_text">Market intelligence will be distributed </span>over a decentralized peer-to-peer network.</p></li>
@@ -698,32 +690,7 @@
 
         </section>
 
-
-        <section id="Installation" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="sc_title sc_title_underline">Getting Started</h1>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <p>The button below takes you to the Community Telegram where you will find links to the documentation site featuring detailed instructions and video tutorials that will guide you in the process of downloading and running Superalgos in your machine.</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Follow the Getting Started guide to get up and running. Direct all questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Community</a> should you run into any issues; developers and other users will be happy to help. </p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="text-center margin_top_mini">
-                        <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                            <a href="https://t.me/superalgoscommunity" target="_blank" marker="_nosymbol">Join the Community &amp; Get Started!</a>
-                        </span>
-                    </div>
-                </div>
-            </div>
-        </section>
-
+        <!--#include file="includes/getting-started.shtml" -->
 
         <!--#include file="includes/footer.shtml" -->
         <!--#include file="includes/preloader2.shtml" -->

@@ -27,14 +27,13 @@
                             <ul class="slides text-center">
                                 <li>
                                     <img src="img/photos/teams-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="padding: 0 15px 0 15px;">
                                                         <h2>
-                                                            A team on a mission<br />
-                                                            to trigger the Era of Superalgos
+
                                                         </h2>
                                                     </div>
                                                 </div>

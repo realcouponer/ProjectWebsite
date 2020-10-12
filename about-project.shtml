@@ -32,12 +32,11 @@
 
                                 <li>
                                     <img src="img/photos/supermind-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center" style="padding: 45px 20px 10px 20px;">
                                                 <h2>
-                                                    The Superalgos Project is<br />
-                                                    the quest for a Collective Trading Intelligence
+
                                                 </h2>
                                             </div>
                                         </div>
@@ -66,51 +65,12 @@
             </div>
         </section>
 
-        <section id="SuperalgosProject" class="light_section">
-            <div class="container">
-
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h2 class="sc_title">The Superalgos Project</h2>
-                        <h5 class="sc_title sc_title_underline">A Quest for a Collective Trading Intelligence</h5>
-                        <p class="sc_content text-center">We are an open-source project with the vision of a superior trading intelligence evolving within an open global collaboration of humans and machines, at the service of all people. We build towards our vision with a bottom-up approach, and are currently delivering Stage 1.</p>
-                    </div>
-                </div>
-                <div class="row text-center" style="margin-top: -20px;">
-                    <div class="col-md-4 col-sm-12">
-                        <div class="sc_column">
-                            <a href="index.shtml" class="sc_icon fa fa-robot sc_icon_round bg_icon margin_bottom_mini margin_top_small"></a>
-                            <h5 class="sc_title ">Stage 1:<br />Automate Trading</h5>
-                            <p>In stage 1, we empower traders with free, open-source tools that enable comprehensive trading automation, superior data mining, unique data visualization, and effective collaboration. This stage will see the growth of the <!--#include file="tooltips/community.shtml" --> and culture of cooperation in trading&mdash;an essential trait that will set the foundations for an effective Collective Trading Intelligence.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="sc_column">
-                            <a href="competition-overview.shtml" class="sc_icon fa fa-dna sc_icon_round bg_icon margin_bottom_mini margin_top_small"></a>
-                            <h5 class="sc_title ">Stage 2:<br />Evolve Trading Intelligence</h5>
-                            <p>Stage 2 is about engaging the Community in an evolutionary model.  <!--#include file="tooltips/algorithms.shtml" --> participate in <!--#include file="tooltips/superalgos-competitions.shtml" --> for cash prizes, producing a key shift in incentives. Winner Algorithms are open-sourced, disseminating knowledge right after each Competition. The collective improves the winners and puts them back to compete again, triggering an accelerated evolutionary process.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="sc_column">
-                            <a href="about-marketplace.shtml" class="sc_icon fa fa-handshake sc_icon_round bg_icon margin_bottom_mini margin_top_small"></a>
-                            <h5 class="sc_title ">Stage 3:<br />Make Intelligence Accessible</h5>
-                            <p>In stage 3, then counting with highly-evolved Algorithms, the project will deploy a Trading Intelligence Marketplace over a permissionless peer-to-peer network. Investors of all sizes will hire Asset Management Services from providers within the network, which, in turn, will rent the trading intelligence evolving within the Community to manage investors' funds.</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-
-
-
         <section id="roadmap" class="light_section">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
                         <h2 class="sc_title">Project Status</h2>
-                        <h5 class="sc_title sc_title_underline">Realising our vision, step by step</h5>
+                        <h5 class="sc_title sc_title_underline">The quest for a collective trading intelligence</h5>
                         <p class="sc_content text-center">Superalgos was born in the summer of 2017. After conceptualizing an ambitious, multi-stage project around our vision, we started delivering stage 1&mdash;the core technology&mdash;in incremental steps. This is a brief account of the project's achievements.</p>
                     </div>
                 </div>

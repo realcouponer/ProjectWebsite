@@ -1,0 +1,108 @@
+﻿<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Superalgos Project | A Collective Trading Intelligence</title>
+    <meta name="description"
+        content="An open-source project with the vision of a superior trading intelligence evolving within an open global collaboration of humans and machines, at the service of all people.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+    <style>
+        h3,
+        .h3 {
+            padding: 0 0 0.5em 0 !important;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+
+                                <li>
+                                    <img src="img/photos/superalgo-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center"
+                                                style="padding: 45px 20px 10px 20px;">
+                                                <h2>
+                                                    
+                                                </h2>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="PurchaseSection" class="color_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>Find detailed, step-by-step instructions on the Documentation site!</span>
+                            <span class="sc_button sc_button_size_big squareButton accent_2 big">
+                                <a href="https://docs.superalgos.org/suite-download-and-set-up.html">Take me to the detailed version!</a>
+                            </span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="SuperalgosProject" class="light_section">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title">Download and Set Up</h2>
+                        <h5 class="sc_title sc_title_underline">The quick version for technical users</h5>
+                        <h3 class="sc_title">&mdash; One &mdash;</h3>
+                        <p class="sc_content text-center sc_title_underline">
+                             If you don't have it yet, <a href="https://nodejs.org/en/download/" rel="nofollow" rel="noopener" target="_blank">install Node.JS</a>.
+                        </p>
+                        <h3 class="sc_title">&mdash; Two &mdash;</h3>
+                        <p class="sc_content text-center sc_title_underline">
+                            Open your command line/terminal app and type:<br />
+                            <code>git clone https://github.com/Superalgos/Superalgos</code>
+                        </p>
+                        <h3 class="sc_title">&mdash; Three &mdash;</h3>
+                        <p class="sc_content text-center">
+                            Change directories to Superalgos and type:<br/>
+                            <code>node run</code><br/>
+                            (use <code>node run minMemo</code> for computers with less than 8GB of RAM)
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+        <!--preloader2 = flymenu reference-->
+
+</body>
+
+</html>

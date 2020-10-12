@@ -31,7 +31,7 @@
                             <ul class="slides text-center">
 
                                 <li>
-                                    <img src="img/photos/suite-trading-coach.jpg" alt="">
+                                    <img src="img/photos/crypto-brain-original.jpg" alt="">
                                     <div class="slide_description_wrapper slider_textblock_center">
 
                                     </div>
@@ -44,18 +44,17 @@
             </div>
         </section>
 
-        <section id="SeeOurHomepage" class="color_section no_padding_container">
+        <section id="PurchaseSection" class="color_section no_padding_container">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <p class="sc_content margin_top_small margin_bottom_mini sc_purchase text-center">
-                            <span><strong>It's open-source, trustless, and free of charge. Learn more about the features common to the whole suite...</strong></span>
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>It's open-source, trustless, and free of charge!</span>
                             <span class="sc_button sc_button_size_big squareButton accent_2 big">
-                                <a href="index.shtml">Home</a>
-                            </span>
-                        </p>
+                                <a href="index.shtml">Learn More!</a>
+                            </span> 
+                        </h3>
                     </div>
-
                 </div>
             </div>
         </section>
@@ -218,56 +217,7 @@
             </div>
         </section>
 
-        <section id="GettingStarted" class="light_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center margin_bottom_mini" ">
-                        <h2 class="sc_title sc_title_underline">Getting Started</h2>
-                    </div>
-                </div>
-                <div class="row text-center" style="margin-top: -20px;">
-                    <div class="col-md-4 col-sm-12">
-                        <p>Follow the instructions in the <a href="https://docs.superalgos.org" target="_blank">documentation</a> to get up and running with the Superalgos Suite. You'll find it useful throughout the learning curve.</p>
-                    </div>
-                    <div class="col-md-4 col-sm-12">
-                        <p>Should you need any help, please direct all questions to the <a href="https://t.me/superalgoscommunity" rel="nofollow" rel="noopener" target="_blank">Superalgos Telegram Group</a>. The Community will be happy to help you.</p>
-                    </div>
-                    <div class="col-md-4 col-sm-12">
-                        <p>Make sure you take a look at the overall features of the <a href="index.shtml">Superalgos Crypto Intelligence Suite</a>. The intro video will quickly get you up to speed.</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="text-center margin_top_mini">
-                        <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big">
-                            <a href="https://t.me/superalgoscommunity" target="_blank" marker="_nosymbol">Join the Community &amp; Get Started!</a>
-                        </span>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="TheFuture" class="turquoise_section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 text-center margin_bottom_mini" ">
-                        <h2 class="sc_title sc_title_underline">The Future of Trading Coach</h2>
-                    </div>
-                </div>
-                <div class="row text-center" style="margin-top: -20px;">
-                    <div class="col-md-4 col-sm-12">
-                        <p>Democratizing access to trading intelligence is at the core of the Superalgos Project vision: a superior trading intelligence evolving within an open global collaboration of humans and machines, at the service of all people. </p>
-                    </div>
-                    <div class="col-md-4 col-sm-12">
-                        <p>The core mission of Superalgos Trading Coach is to provide advanced tools to assist your trading education. The project will launch a campaign to incentivize the Community to create educational content for Superalgos Trading Coach. </p>
-                    </div>
-                    <div class="col-md-4 col-sm-12">
-                        <p>In the near future, you should enjoy a growing library of tutorials and master classes, more open-source strategies to use as examples, and features oriented to accelerating your understanding of the markets.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
+        <!--#include file="includes/getting-started.shtml" -->
 
         <!--#include file="includes/footer.shtml" -->
         <!--#include file="includes/preloader2.shtml" -->

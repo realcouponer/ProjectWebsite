@@ -27,13 +27,13 @@
                             <ul class="slides text-center">
                                 <li>
                                     <img src="img/photos/connect-original.jpg" alt="">
-                                    <div class="slide_description_wrapper slider_textblock_center bg-overlay">
+                                    <div class="slide_description_wrapper slider_textblock_center">
                                         <div class="slide_description to_animate">
                                             <div data-animation="fadeInUp" align="center">
                                                 <div>
                                                     <div style="padding: 0 15px 0 15px;">
                                                         <h2>
-                                                            Wise men speak because they have something to say;<br />fools because they have to say something. &mdash;Plato
+
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -225,7 +225,7 @@
                                             <a href="img/photos/puzzle-original.jpg" title="Why Crypto-Trading Will Get Social in 2020" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
                                                 <span class="hoverIcon"></span>
                                             </a>
-                                            <a title="Why Crypto-Trading Will Get Social in 2020" href="https://hackernoon.com/when-crypto-trading-gets-social-p43ba2c2w" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                            <a title="Why Crypto-Trading Will Get Social in 2020" href="https://medium.com/coinmonks/why-crypto-trading-will-get-social-in-2020-2b1b7bfdb3fa?source=friends_link&sk=27edea2bfe2f518533ef182f341056ab" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
                                                 <span class="hoverLink"></span>
                                             </a>
                                         </div>
@@ -234,7 +234,7 @@
 
                                 <div class="post_wrap">
                                     <h4>
-                                        <a href="https://hackernoon.com/when-crypto-trading-gets-social-p43ba2c2w" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Why Crypto-Trading Will Get Social in 2020</a>
+                                        <a href="Why Crypto-Trading Will Get Social in 2020" href="https://medium.com/coinmonks/why-crypto-trading-will-get-social-in-2020-2b1b7bfdb3fa?source=friends_link&sk=27edea2bfe2f518533ef182f341056ab" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Why Crypto-Trading Will Get Social in 2020</a>
                                     </h4>
                                     <div class="post_format_wrap postImage">
                                         <p>Few traders join forces spontaneously, but industry trends may push collective trading to the forefront sooner than later. Long gone are the times when an incipient industry was driven by idealist souls sharing the values of freedom and power to the people that transpire from the libertarian interpretation of the potential of cryptocurrencies. Nowadays, the suits are taking over.</p>
@@ -304,68 +304,6 @@
                                     <div class="bog_post_info infoPost">
                                         <span class="datePost">
                                             March 19, 2019&mdash;Hacker Noon
-                                        </span>
-                                    </div>
-                                </div>
-                            </article>
-
-                            <article class="excerptSmall post bg_post">
-                                <div class="thumb hoverIncrease hoverTwo inited">
-                                    <div class="isotopePadding">
-                                        <img alt="New Post With Image" src="img/photos/supermind-original.jpg">
-                                        <span class="hoverShadow"></span>
-                                        <div class="wrap_hover">
-                                            <a href="img/photos/supermind-original.jpg" title="Superalgos, Part Two: Building a Trading Supermind" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
-                                                <span class="hoverIcon"></span>
-                                            </a>
-                                            <a title="Superalgos, Part Two:  Building a Trading Supermind" href="https://hackernoon.com/superalgos-part-two-building-a-trading-supermind-a47bdc73aed" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
-                                                <span class="hoverLink"></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="post_wrap">
-                                    <h4>
-                                        <a href="https://hackernoon.com/superalgos-part-two-building-a-trading-supermind-a47bdc73aed" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Superalgos, Part Two:  Building a Trading Supermind</a>
-                                    </h4>
-                                    <div class="post_format_wrap postImage">
-                                        <p>A supermind of humans and machines thinking and working together, doing everything required to maximize the group's collective intelligence so as to minimize the time needed for superalgos to emerge is being built right now.</p>
-                                    </div>
-                                    <div class="bog_post_info infoPost">
-                                        <span class="datePost">
-                                            January 14, 2019&mdash;Hacker Noon
-                                        </span>
-                                    </div>
-                                </div>
-                            </article>
-
-                            <article class="excerptSmall post bg_post">
-                                <div class="thumb hoverIncrease hoverTwo inited">
-                                    <div class="isotopePadding">
-                                        <img alt="New Post With Image" src="img/photos/markets-original.jpg">
-                                        <span class="hoverShadow"></span>
-                                        <div class="wrap_hover">
-                                            <a href="img/photos/markets-original.jpg" title="Superalgos, Part One: The Trading Singularity" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
-                                                <span class="hoverIcon"></span>
-                                            </a>
-                                            <a title="Superalgos, Part One: The Trading Singularity" href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
-                                                <span class="hoverLink"></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="post_wrap">
-                                    <h4>
-                                        <a href="https://hackernoon.com/superalgos-part-one-the-trading-singularity-6f66f419982f" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Superalgos, Part One: The Trading Singularity</a>
-                                    </h4>
-                                    <div class="post_format_wrap postImage">
-                                        <p>One day in the future, a trading intelligence capable of outperforming every other entity at the markets will emerge. Both humans and current algorithms will be surpassed by Superalgos.</p>
-                                    </div>
-                                    <div class="bog_post_info infoPost">
-                                        <span class="datePost">
-                                            January 14, 2019&mdash;Hacker Noon
                                         </span>
                                     </div>
                                 </div>
