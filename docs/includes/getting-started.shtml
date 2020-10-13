@@ -1,0 +1,25 @@
+<section id="Installation" class="light_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <h1 class="sc_title sc_title_underline">Getting Started</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 text-center">
+                <h5 class="sc_title sc_title_underline ">Technical Users</h5>
+                <p>Follow the quick, 3-step guide for technical users (install Node.JS, clone the repo, and run!), and join the <a href="https://t.me/superalgosdevelop" rel="nofollow" rel="noopener" target="_blank">Developers</a>  Telegram Group for online support.</p>
+                <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big text_center">
+                    <a href="download.shtml">Download</a>
+                </span>
+            </div>
+            <div class="col-sm-6 text-center">
+                <h5 class="sc_title sc_title_underline ">All Users</h5>
+                <p>Follow the detailed, step-by-step instructions on the Documentation site, and join the <a href="https://t.me/superalgosdevelop" rel="nofollow" rel="noopener" target="_blank">Superalgos Community</a> Telegram Group for online support.</p>
+                <span class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big text_center">
+                    <a href="https://docs.superalgos.org/suite-download-and-set-up.html">Documentation Site</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</section>

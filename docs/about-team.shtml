@@ -1,0 +1,129 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>The Superalgos Core Team</title>
+    <meta name="description" content="Joining forces to trigger the Era of Superalgos.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/teams-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding: 0 15px 0 15px;">
+                                                        <h2>
+
+                                                        </h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="team_section" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">The Core Team</h1>
+                        <h5 class="sc_title sc_title_underline">The People Bootstrapping the Project</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="sc_team col-sm-12">
+                        <div class="col-md-1">
+                        </div>
+                        <div class="col-md-3">
+                            <div class="sc_team_item">
+                                <div class="sc_team_item_avatar">
+                                    <img src="img/people/Luis-color.jpg" alt="">
+                                    <ul class="sc_team_item_socials">
+                                        <li style="color:#FFF; font-weight: 600;">Visionary entrepreneur, systems architect, 15 years in fintech developing mission-critical systems for banks; in crypto since 2013.</li>
+                                        <li>
+                                            <a href="https://www.linkedin.com/in/luisfernandomolina/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="sc_team_item_info">
+                                    <h4 class="sc_team_item_title">Luis Molina</h4>
+                                    <div class="sc_team_item_position">Lead Developer</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="sc_team_item">
+                                <div class="sc_team_item_avatar">
+                                    <img src="img/people/Julian-color.jpg" alt="">
+                                    <ul class="sc_team_item_socials">
+                                        <li style="color:#FFF; font-weight: 600;">Lifelong entrepreneur in fintech, arts, design, engineering, and manufacturing; in crypto since 2016.</li>
+                                        <li>
+                                            <a href="https://www.linkedin.com/in/julian-molina/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="sc_team_item_info">
+                                    <h4 class="sc_team_item_title">Julian Molina</h4>
+                                    <div class="sc_team_item_position">Wild Card Entrepreneur</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="sc_team_item">
+                                <div class="sc_team_item_avatar">
+                                    <img src="img/people/Andreja.jpg" alt="">
+                                    <ul class="sc_team_item_socials">
+                                        <li style="color:#FFF; font-weight: 600;">Head of Derivatives Trading at SEBA Bank AG, former Trader in Goldman Sachs & UBS, Portfolio Manager, cross-asset trading, FX and options; in crypto since 2016. </li>
+                                        <li>
+                                            <a href="https://www.linkedin.com/in/andreja-cobeljic-77135b28/" class="socialico-linkedin" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="sc_team_item_info">
+                                    <h4 class="sc_team_item_title">Andreja Cobeljic</h4>
+                                    <div class="sc_team_item_position">Pro-Trader</div>
+                                </div>
+                            </div>
+                        </div>
+
+                    <div class="col-md-1">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!--#include file="includes/footer.shtml" -->
+    <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>

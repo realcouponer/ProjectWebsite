@@ -1,0 +1,49 @@
+﻿<footer id="footer" class="dark_section footerStyleDark"><hr />
+    <div class="container">
+        <div class="row margintop-25">
+            <div class="col-md-4 col-sm-4 ">
+                <div class="logo">
+                    <a href="index.shtml">
+                        <img src="img/logos/superalgos/Superalgos-logo-horz-dark.svg" alt="Superalgos Logo" />
+                    </a>
+                </div>
+                <div class="logo_descr">
+                    <p><strong>Superalgos.org</strong><br />Ground Floor, Palace Court, Church Street,<br />St. Julians&nbsp;STJ3049, Malta</p>
+                    <p><a href="legal-privacy-statement.shtml">Privacy Statement</a> | <a href="legal-terms-of-service.shtml">Terms of Service</a></p>
+                </div>
+            </div>
+
+            <div class="col-md-2 col-sm-2"></div>
+
+                <div class="col-md-6 col-sm-6">
+
+                    <!--#include file="email-signup.shtml" -->
+                    <p>Meet us on your preferred network:</p>
+                    <div class="socPage widgetWrap">
+                        <ul>
+                            <li><a class="fab fa-telegram-plane" href="https://t.me/superalgoscommunity" title="Join us on Telgram" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a></li>
+                            <li><a class="fab fa-youtube" href="https://www.youtube.com/channel/UCmYSGbB151xFQPNxj7KfKBg" title="Watch tutorials on YouTube" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a></li>
+                            <li><a class="fab fa-twitter" href="https://twitter.com/superalgos" title="Follow us on Twitter" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a></li>
+                            <li><a class="fab fa-facebook-f" href="https://www.facebook.com/superalgos" title="Meet us on Facebook" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a></li>
+                            <li><a class="fab fa-medium" href="https://medium.com/Superalgos/" title="Read About Us on Medium" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a></li>
+                            <li><a class="fab fa-github" href="https://github.com/Superalgos/" title="Check our Code" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"></a></li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+</footer>
+
+<section id="copyright" class="dark_section copyWrap no_padding_container">
+    <div class="container">
+        <div class="row copy">
+            <div class="col-sm-6 margin_bottom_micro">
+                <p>&copy; Superalgos.org <!--#config timefmt="%Y" --> <!--#echo var="DATE_LOCAL" --> | All Rights Reserved</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+</div>

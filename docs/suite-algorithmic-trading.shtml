@@ -1,0 +1,204 @@
+﻿<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Open-source Algorithmic Crypto Trading | Superalgos</title>
+    <meta name="description" content="A free, open-source and trustless algorithmic trading platform to trade cryptocurrencies.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+    <style>
+        h3, .h3 {padding: 0 0 0.5em 0 !important;}
+    </style>
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+
+                                <li>
+                                    <img src="img/photos/financial-beings-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+
+                                    </div>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="PurchaseSection" class="color_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>It's open-source, trustless, and free of charge!</span>
+                            <span class="sc_button sc_button_size_big squareButton accent_2 big">
+                                <a href="index.shtml">Learn More!</a>
+                            </span> 
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="AlgorithmicTrading" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center margin_bottom_mini">
+                        <h2 class="sc_title sc_title_underline">Superalgos Algorithmic Trading</h2>
+                        <p class="sc_content text-center"><strong>Superalgos Algorithmic Trading solves all major trading infrastructure concerns so that you may focus solely on what truly matters: evolving trading intelligence. </strong></p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>To such extent is infrastructure taken care of, that&mdash;truth be told&mdash;both simple and complex trading strategies may be built without coding. However, because you can code, you should be able to achieve things non-coders may not.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Your first and foremost resource is the option of extending the trading system capabilities by using JavaScript code instead of the simpler mathematical statements used by non-coders, to define trading rules and formulas.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>The second major resource is data mines. Superalgos Algorithmic Trading sets you up to take all market data available, process it by performing calculations and studies, and storing new datasets that strategies may consume.</p>
+                    </div>
+                </div>
+
+                <div class="portfolioWrap margin_top_mini">
+
+                    <article class="excerptSmall post bg_post">
+                        <div class="thumb hoverIncrease hoverTwo inited">
+                            <div class="isotopePadding">
+                                <img alt="New Post With Image" src="img/photos/financial-beings-original.jpg">
+                                <span class="hoverShadow"></span>
+                                <div class="wrap_hover">
+                                    <a href="img/photos/financial-beings.jpg" title="The Starter's Guide to Coding Killer Crypto-Trading Bots" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                        <span class="hoverIcon"></span>
+                                    </a>
+                                    <a title="A Starter's Guide to Coding Killer Crypto-Trading Bots" href="https://hackernoon.com/the-starters-guide-to-coding-killer-trading-bots-r21a2gzh" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                        <span class="hoverLink"></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="post_wrap">
+                            <h4>
+                                <a href="https://hackernoon.com/the-starters-guide-to-coding-killer-trading-bots-r21a2gzh" rel="nofollow" rel="noopener" target="_blank"><strong>A Starter's Guide to Coding Killer Crypto-Trading Bots</strong></a>
+                            </h4>
+                            <div class="post_format_wrap postImage">
+                                <p>Learn how Superalgos Algorithmic Trading solves all major trading infrastructure requirements including exchange connectivity, trading engine, access to reliable data, strategy testing environment, and the implementation of a trading framework paired with the Superalgos Trading Protocol so that developers may focus on what truly matters: evolving trading intelligence.</p>
+                            </div>
+                            <div class="bog_post_info infoPost">
+                                <span class="datePost">
+                                    October 14, 2019&mdash;Hacker Noon
+                                </span>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="BuildingTestingDeploying" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center margin_bottom_mini" ">
+                        <h2 class="sc_title sc_title_underline">Building, Testing and Deploying Trading Strategies</h2>
+                        <p class="sc_content text-center"><strong>The Superalgos Suite offers a consistent and integrated workflow to build, test and deploy trading systems, with the Superalgos Trading Protocol as the guiding thread.</strong></p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>To build a strategy, you will program the rules to call the strategy's trigger on and trigger off events, as well as the take position event. You will define formulas for the position size and will set the initial stop and initial take profit targets. Those targets may be dynamically managed in phases triggered when certain market situations arise. A trading system manages any number of strategies within a specific market, and you may have as many trading systems as you wish.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>The platform features a trading bot whose job is to evaluate the data made available by sensor and indicator bots applying the trading logic defined on trading systems. As a result, the trading bot produces, on one side, a complete trading simulation outputting datasets that include trades, the action of strategies, validation or rules, etc. On the other side, the trading bot manages the execution of orders when running on forward-testing and live trading sessions.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>The simulations stored in datasets are rendered over the charts by plotters, allowing the user to see strategies in action in real-time, trade by trade, directly over the charts. Such features are instrumental in the process of fine-tuning strategies, as you may analyze&mdash;on a trade by trade basis&mdash;what is going well and what may be improved. Tuning a strategy is usually an iterative process going back and forth between the strategy rules and the results over the charts.</p>
+                    </div>
+                </div>
+
+            </br>
+            <div style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; max-width: 1120px; max-height: 630px;">
+                <iframe width="1120" height="630" src="https://www.youtube.com/embed/FbYxPSQ9Huw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            </div>
+        </section>
+
+        <section id="Highlight1" class="turquoise_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>Touch up a rule, run a quick backtesting session, analyze the results on the charts, and go back to tweaking the rules. Spend some time optimizing, and you will hopelessly fall for a thrilling game in the quest to push ROI higher with each tweak!</span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="DataMining" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center margin_bottom_mini" ">
+                        <h2 class="sc_title sc_title_underline">Data Mines</h2>
+                        <p class="sc_content text-center"><strong>A data mine is a unique concept by which developers may leverage raw market data and indicators to produce more elaborate studies, and make them accessible to trading strategies, creating significant competitive advantages.</strong></p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>The platform's focus is on resolving infrastructure requirements to help developers increase productivity. In the case of data mines, the system provides a visual interface on which users define the workings of processes and data products without any coding requirements.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Processes use data produced by sensors and indicators as input. After performing any number of custom calculations, they produce custom data products as outputs. Users define status and data dependencies, and the architecture of the output datasets on the visual interface.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>The one thing you will need to code is the calculations procedure. Everything else, starting with administering dependencies with other processes to producing standardized datasets for each time frame (from 1 minute to 24 hours intervals), is handled internally by the system.</p>
+                    </div>
+                </div>
+
+                </br>
+                <div style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; max-width: 1120px; max-height: 630px;">
+                    <iframe width="1120" height="630" src="https://www.youtube.com/embed/_GBiggKCjpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+
+            </div>
+        </section>
+
+        <section id="Highlight2" class="rustred_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>The algorithmic trading features described in this page are built-in the Superalgos software.  No matter what focus you start with, you will always be able to tap into all the features and functionality in the suite, including those associated with other fields.</span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--#include file="includes/getting-started.shtml" -->
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+        <!--preloader2 = flymenu reference-->
+
+</body>
+    </html>

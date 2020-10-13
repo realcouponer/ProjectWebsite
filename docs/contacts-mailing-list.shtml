@@ -1,0 +1,59 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Mailing List</title>
+    <meta name="description" content="Stay in touch by joining the Superalgos mailing list!">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper">
+
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-white-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/contacts.jpg" alt="Competition">
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contacts_section" class="grey_section">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-sm-12">
+
+                        <!--#include file="includes/email-signup.shtml" -->
+
+                        <div class="sc_content">
+
+                            <p>We will never share your email address with anyone. Learn more about our <a href="legal-privacy-statement.shtml" rel="noopener" target="_blank">Privacy Statement</a>.</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader.shtml" -->
+
+</body>
+</html>

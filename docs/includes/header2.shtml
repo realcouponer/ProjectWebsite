@@ -1,0 +1,67 @@
+                    <a href="#" class="openResponsiveMenu">Menu</a>
+                    <nav id="mainmenu_wrapper" class="menuTopWrap topMenuStyleLine">
+                        <ul id="mainmenu" class="nav sf-menu inited">
+
+                            <li>
+                                <a href="download.shtml">DOWNLOAD</a>
+                            </li>
+
+                            <li class="menu-item-has-children">
+                                <a href="about-project.shtml">THE PROJECT</a>
+                                <ul>
+                                    <li>
+                                        <a href="about-team.shtml">Core Team</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="about-contributors.shtml">Contributors</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="about-project.shtml">Project Status</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="media-articles.shtml">Media &amp; Articles</a>
+                                    </li>
+                                    <li class="menu-item-has-children">
+                                        <a href="suite-systematic-trading.shtml">Use Cases</a>
+                                        <ul>
+                                            <li>
+                                                <a href="suite-systematic-trading.shtml"><nobr>Systematic Trading</nobr></a>
+                                            </li>
+                                            <li>
+                                                <a href="suite-algorithmic-trading.shtml"><nobr>Algorithmic Trading</nobr></a>
+                                            </li>
+                                            <li>
+                                                <a href="suite-discretionary-trading.shtml"><nobr>Discretionary Trading</nobr></a>
+                                            </li>
+                                            <li>
+                                                <a href="suite-smart-holding.shtml"><nobr>Smart Holding</nobr></a>
+                                            </li>
+                                            <li>
+                                                <a href="suite-trading-coach.shtml"><nobr>Trading Coach</nobr></a>
+                                            </li>
+                                            <li>
+                                                <a href="suite-signals-broadcast.shtml"><nobr>Signals Broadcast</nobr></a>
+                                            </li>
+                                            <li>
+                                                <a href="suite-markets-research.shtml"><nobr>Markets Research</nobr></a>
+                                            </li>
+                                            <li>
+                                                <a href="suite-data-mining.shtml"><nobr>Data Mining</nobr></a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li>
+                                <a href="contacts.shtml">CONTACT US</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>

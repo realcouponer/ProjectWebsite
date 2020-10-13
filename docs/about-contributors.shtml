@@ -1,0 +1,78 @@
+<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Superalgos Top Contributors</title>
+    <meta name="description" content="Help us Build the Puzzle: Plug Yourself in the Collective Trading Intelligence!">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+                                <li>
+                                    <img src="img/photos/puzzle-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+                                        <div class="slide_description to_animate">
+                                            <div data-animation="fadeInUp" align="center">
+                                                <div>
+                                                    <div style="padding: 0 15px 0 15px;">
+                                                        <h2>
+
+                                                        </h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="team_section" class="light_section">
+            <div class="container">
+
+                <div class="row margin_bottom_mini">
+                    <div class="col-sm-12 text-center">
+                        <h1 class="sc_title">Contributors</h1>
+                        <h5 class="sc_title sc_title_underline">Thanks for your help building the puzzle!</h5>
+
+                        <p class="sc_content text-center sc_title_underline">
+                            <strong>Luis Fernando Molina, Julian Molina, Andreja Cobeljic, Matías Benitez, Ira Miller, Eduardo Remis, Jeff Braun, rico4dev, Barry Low, Nikola Bjelogrlic, Hirajin Koizuko, Francisco J. Santillán, Viktoria B., Javier A., Gustavo J., Romina GS, Pedro P., Thais M., Loui M., Natalia M., Bashar A., Carlos V., Diego M., Sebastian E., Bogdan P., Marko V., Igor S., Niksa K., Rodrigo M. and Nicanor M.</strong>
+                        </p>
+
+                        <p class="sc_content text-center">Superalgos is an open community working towards a common goal: to succeed at trading crypto. No matter how you got here or what your skillset may be, <a href="https://docs.superalgos.org/contributing-to-superalgos.html" rel="noopener" target="_blank">you can help</a>, build your reputation, and directly benefit in the process!</p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+    <!--#include file="includes/footer.shtml" -->
+    <!--#include file="includes/preloader2.shtml" -->
+
+</body>
+</html>

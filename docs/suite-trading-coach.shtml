@@ -1,0 +1,227 @@
+﻿<!--#include file="includes/doctype.shtml" -->
+
+<head>
+    <title>Open-source Crypto Trading Coach | Superalgos</title>
+    <meta name="description" content="A free, open-source and trustless platform to learn to trade cryptocurrencies.">
+    <meta charset="utf-8">
+
+    <!--#include file="includes/headlinks.shtml" -->
+
+    <style>
+        h3, .h3 {padding: 0 0 0.5em 0 !important;}
+    </style>
+
+</head>
+<body>
+
+    <!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="box_wrapper" class="landing_page header_style_1 header_wrapper_height_auto slider_style_1">
+        <!--#include file="includes/header.shtml" -->
+        <!--#include file="includes/header-logo-dark-bg.shtml" -->
+        <!--#include file="includes/header2.shtml" -->
+
+        <section id="mainslider" class="fullwidth no_padding_container no_margin_col">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="flexslider slider_height_max">
+                            <ul class="slides text-center">
+
+                                <li>
+                                    <img src="img/photos/crypto-brain-original.jpg" alt="">
+                                    <div class="slide_description_wrapper slider_textblock_center">
+
+                                    </div>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="PurchaseSection" class="color_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>It's open-source, trustless, and free of charge!</span>
+                            <span class="sc_button sc_button_size_big squareButton accent_2 big">
+                                <a href="index.shtml">Learn More!</a>
+                            </span> 
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="TradingCoach" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center margin_bottom_mini">
+                        <h2 class="sc_title sc_title_underline">Superalgos Trading Coach</h2>
+                        <p class="sc_content text-center"><strong>Superalgos helps you build a solid foundation for your trading career, providing you with tools designed to keep you out of harm's way. </strong></p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>Trading cryptocurrency can be a profitable and fulfilling endeavor, both as a full-time job or a part-time hobby. However, the activity is not without risk. Not only do traders risk their capital, but many also risk assets that are a lot more valuable, like health&mdash;both mental and physical&mdash;as well as relationships, family and friends.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Some traders risk their physical wellbeing by developing a sedentary lifestyle, spending too much time glued to the screen. Some frequently feel stressed out, putting a considerable strain on their mental health. Some suffer emotionally from alternating winning and losing strakes, taking a hit on their mood and social abilities.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Superalgos Trading Coach helps you take a sustainable approach to trading. It teaches you a trading framework that is designed to make your trading consistent and reliable, but also, to steer you away from hazardous behaviors. Learn the most appropriate approach for beginners and build a solid foundation from day one.</p>
+                    </div>
+                </div>
+
+                <div class="portfolioWrap margin_top_mini">
+                    <article class="excerptSmall post bg_post">
+                        <div class="thumb hoverIncrease hoverTwo inited">
+                            <div class="isotopePadding">
+                                <img alt="New Post With Image" src="img/photos/strategizer-original.jpg">
+                                <span class="hoverShadow"></span>
+                                <div class="wrap_hover">
+                                    <a href="img/photos/strategizer-original.jpg" title="Developing Your Trading System: A Step by Step Logical Guide" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                        <span class="hoverIcon"></span>
+                                    </a>
+                                    <a title="How to Increase your Bitcoin Holdings in a Bear Market - Part I" href="https://hackernoon.com/crypto-trading-systems-101-qh8jv2cch" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                        <span class="hoverLink"></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="post_wrap">
+                            <h4>
+                                <a href="https://hackernoon.com/crypto-trading-systems-101-qh8jv2cch" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol"><strong>Developing Your Trading System: A Step by Step Guide</strong></a>
+                            </h4>
+                            <div class="post_format_wrap postImage">
+                                <p>You've probably heard before that trading is all about developing your system and sticking to it. This article lays out a rational framework for developing your trading system, dissecting trading logic, step by step.</p>
+                            </div>
+                            <div class="bog_post_info infoPost">
+                                <span class="datePost">
+                                    September 9, 2019&mdash;Hacker Noon
+                                </span>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="SystematicApproach" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center margin_bottom_mini" ">
+                        <h2 class="sc_title sc_title_underline">The Systematic Approach to Trading</h2>
+                        <p class="sc_content text-center"><strong>Consistent and reliable trading performance requires a solid trading system. Superalgos Trading Coach helps you build your own.</strong></p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>Superalgos Trading Coach puts the focus on the systematic approach to trading, which Superalgos believes is the proper way to learn to trade. The term "systematic" refers to the methodic nature of the process by which aspiring traders first learn the basics of technical analysis and markets psychology, then develop a trading system, test it, and only then deploy it.</p>
+                        <p>Systematic trading works well with all sorts of trading frequencies. However, beginner traders should focus on the lower side of the range. Trading at high frequencies, in the order of minutes, seconds or higher, requires factoring many different kinds of market forces. The analysis is greatly simplified when the focus is placed on lower frequencies such as hours, days or weeks.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <ul>
+                            <p>The flip-side of the coin is discretionary trading, which incorporates all sorts of analysis in the decision-making process, including intuition and experience. There are advantages and disadvantages to relying on intuition and experience, but the reason why beginner traders should refrain from making discretionary decisions is simply that they lack both.</p>
+                            <p>Inexperienced traders making decisions in real-time are likely acting upon emotional drivers, such as fear and greed. For example, the fear of missing out drives beginners to chase rallies after they have matured, resulting in late entries and mistimed exits, often ending up on the wrong side of the trade.</p>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Emotions need to be rooted out for traders to have fair chances of success. In part, that is what systematic trading does. It removes the option of making trading decisions in real-time, as the market unfolds. Instead, decisions are made in a cool state of mind, with plenty of time for thorough analysis and testing, while developing the trading system.</p>
+                        <p>A trading system is a set of pre-defined rules that determine&mdash;among other things&mdash;when and how positions shall be open, how they shall be managed, and when and how they shall be closed. A clear set of rules enforces an effective separation of decision-making from trading execution. The trader must always execute the rules in the system, effectively blocking emotional drives.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="AVisualParadigm" class="light_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title sc_title_underline">A Visual Paradigm</h2>
+                        <p class="sc_content text-center"><strong>Superalgos Trading Coach provides an accessible and intuitive framework in which the visual element is the key. </strong></p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>Humans are sensory beings, thus, we are more effective when we can see. Superalgos brings you a powerful graphics environment in which you may visualize all the information required&mdash;and resulting from&mdash;trading cryptocurrencies.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>There is no need to work with hard numbers; that is optional. There is no need to write computer code; that is optional too. Everything you do is supported by the visual environment which not only presents data but also guides your work.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Building, testing and deploying trading systems takes place in this visual setting. You will be able to see exactly how your strategies perform, analyze each trade, tweak the rules in your trading system and see the results in real-time.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Highlight1" class="turquoise_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>Touch up a rule, run a quick backtesting session, analyze the results on the charts, and go back to tweaking the rules. Spend some time optimizing, and you will hopelessly fall for a thrilling game in the quest to push ROI higher with each tweak!</span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Illustration" class="light_section">
+            <div class="container">
+                <div style="background-color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin-bottom: 35px; max-width: 1120px; max-height: 630px;">
+                    <iframe width="1120" height="630" src="https://www.youtube.com/embed/FbYxPSQ9Huw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </section>
+
+        <section id="TradingAutomation" class="darkgrey_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title sc_title_underline">Trading Automation</h2>
+                        <p class="sc_content text-center"><strong>Automation is the ultimate remedy for all the ailments associated with the trading profession. Superalgos Trading Coach equips you with state-of-the-art trading automation tools.</strong></p>
+                    </div>
+                </div>
+                <div class="row text-center" style="margin-top: -20px;">
+                    <div class="col-md-4 col-sm-12">
+                        <p>The systematic approach to trading puts you on the right path to develop healthy and sustainable trading habits. Automation takes your trading to a whole new level. Not only will you manage to separate trading decisions from trading execution, but you will also effectively delegate execution to your trading assistant bot.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>The Superalgos Suite incorporates a robust trading bot that reads the rules in your trading system and executes them with machine efficiency. Your bot may work 24/7/365. It may handle as many strategies as you chose to develop, in as many markets as you chose to trade, on as many exchanges as you wish.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <p>Trading execution automation extends your resources by releasing you from the pointless and harmful task of staring at the screen all day. As a result, you may use your time for the formative and creative aspects of your trading career: acquiring knowledge that you may build into your ever-expanding set of strategies.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Highlight2" class="rustred_section no_padding_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3 class="sc_title margin_top_small margin_bottom_mini sc_purchase">
+                            <span>The trading coach features described in this page are built-in the Superalgos software.  No matter what focus you start with, you will always be able to tap into all the features and functionality in the suite, including those associated with other fields.</span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--#include file="includes/getting-started.shtml" -->
+
+        <!--#include file="includes/footer.shtml" -->
+        <!--#include file="includes/preloader2.shtml" -->
+        <!--preloader2 = flymenu reference-->
+
+</body>
+    </html>
