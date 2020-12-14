@@ -57,7 +57,7 @@
                             </li>
 
                             <li>
-                                <a href="contacts.shtml">CONTACT US</a>
+                                <a href="contacts.php">CONTACT US</a>
                             </li>
                         </ul>
                     </nav>

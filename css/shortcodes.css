@@ -3900,12 +3900,12 @@ label.required:after{ color:#e3493c; content:'*'; display:block; float:left; mar
 
 .socPage {
     min-height: 40px;
-    text-align: left;
+    text-align: right;
 }
 .socPage ul{
     margin: 0 0 0 0;
     padding: 0;
-    text-align: left;
+    text-align: right;
     min-height: 40px;
     overflow: hidden;
 }

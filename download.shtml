@@ -1,9 +1,8 @@
 ﻿<!--#include file="includes/doctype.shtml" -->
 
 <head>
-    <title>Superalgos Project | A Collective Trading Intelligence</title>
-    <meta name="description"
-        content="An open-source project with the vision of a superior trading intelligence evolving within an open global collaboration of humans and machines, at the service of all people.">
+    <title>Download the Ultimate Open-Source Crypto Trading Bots Platform</title>
+    <meta name="description" content="Automate every aspect of cryptocurrency trading with access to all markets in major exchanges. Superalgos is free and open-source.">
     <meta charset="utf-8">
 
     <!--#include file="includes/headlinks.shtml" -->
@@ -71,7 +70,7 @@
             </div>
         </section>
 
-        <section id="SuperalgosProject" class="light_section">
+        <section id="Download" class="light_section">
             <div class="container">
 
                 <div class="row">
@@ -80,24 +79,65 @@
                         <h5 class="sc_title sc_title_underline">The quick version for technical users</h5>
                         <h3 class="sc_title">&mdash; One &mdash;</h3>
                         <p class="sc_content text-center sc_title_underline">
-                             If you don't have it yet, <a href="https://nodejs.org/en/download/" rel="nofollow" rel="noopener" target="_blank">install Node.JS</a>.
+                             If you don't have these yet, <a href="https://nodejs.org/en/download/" rel="nofollow" rel="noopener" target="_blank">install Node.JS</a> and <a href="https://git-scm.com/downloads" rel="nofollow" rel="noopener" target="_blank">Git</a>.
                         </p>
                         <h3 class="sc_title">&mdash; Two &mdash;</h3>
                         <p class="sc_content text-center sc_title_underline">
-                            Open your command line/terminal app and type:<br />
+                            Open your command line/terminal app in your preferred location (as Admin if the location requires write privileges) and type:<br />
                             <code>git clone https://github.com/Superalgos/Superalgos</code>
                         </p>
                         <h3 class="sc_title">&mdash; Three &mdash;</h3>
-                        <p class="sc_content text-center">
+                        <p class="sc_content text-center sc_title_underline">
                             Change directories to Superalgos and type:<br/>
                             <code>node run</code><br/>
-                            (use <code>node run minMemo</code> for computers with less than 8GB of RAM)
+                            (use <code>node run minMemo</code> for computers with 8GB of RAM or less)<br/>
+                            (use <code>node run noBrowser</code> if you intend to access the backend from a remote computer)<br/>
+                            (use <code>node run noBrowser minMemo</code> if both of the above are true)
+                        </p>
+                        <h3 class="sc_title">&mdash; Four &mdash;</h3>
+                        <p class="sc_content text-center">
+                            Follow the <i>Welcome</i> tutorial!<br/>It's the ultimate onboarding experience, superior to all other resources available.
                         </p>
                     </div>
                 </div>
             </div>
         </section>
 
+        <section id="Download" class="darkgrey_section">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h2 class="sc_title">Welcome Tutorial</h2>
+                        <h5 class="sc_title sc_title_underline">Onboarding at Speed</h5>
+
+                        <p class="sc_content text-center sc_title_underline">
+                            Once the app finishes loading, an interactive tutorial takes you by the hand and walks you all around the system. You will learn the skills required to use the interface, mine data, backtest strategies, and even run a live trading session! We highly recommend following the tutorial until the end, as it will make your onboarding much easier!
+                        </p>
+                    </div>
+                </div>
+
+                <div class="row text-center polaroid margin_top_small">
+                    <a>
+                        <img src="img/captures/wide-superalgos-welcome-tutorial.gif" />
+                    </a>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h3>Welcome to Superalgos!
+                        </h3>
+                        <div class="text-center">
+                            <span
+                                class="sc_button sc_button_style_accent_3 sc_button_size_big squareButton accent_3 big margin_top_mini">
+                                <a href="https://docs.superalgos.org/suite-about-this-documentation.html" target="_blank"
+                                    marker="_nosymbol">Documentation Site</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!--#include file="includes/footer.shtml" -->
         <!--#include file="includes/preloader2.shtml" -->

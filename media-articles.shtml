@@ -54,12 +54,74 @@
                     <div class="col-sm-12 text-center">
 
                         <h2 class="sc_title">We Have Things to Say</h2>
-                        <h5 class="sc_title sc_title_underline">Learn more about the project and it's context</h5>
+                        <h5 class="sc_title sc_title_underline">Learn more about the project and its context</h5>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-sm-12">
                         <div class="portfolioWrap">
+
+                            <article class="excerptSmall post bg_post">
+                                <div class="thumb hoverIncrease hoverTwo inited" data-link="#" data-image="img/shore.jpg" data-title="New Post With Image">
+                                    <div class="isotopePadding">
+                                        <img alt="New Post With Image" src="img/articles/trading-bots/superalgos-charting-space-02.png">
+                                        <span class="hoverShadow"></span>
+                                        <div class="wrap_hover">
+                                            <a href="img/articles/trading-bots/superalgos-charting-space-02.png" title="Crypto Trading Bots and the Emergence of Trading Intelligence" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                                <span class="hoverIcon"></span>
+                                            </a>
+                                            <a title="Crypto Trading Bots and the Emergence of Trading Intelligence" href="https://medium.com/better-programming/crypto-trading-bots-and-the-emergence-of-trading-intelligence-27104e7cbf84?source=friends_link&sk=100a1ba99ef718e3760f04a896e5f699" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                                <span class="hoverLink"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post_wrap">
+                                    <h4>
+                                        <a href="https://medium.com/better-programming/crypto-trading-bots-and-the-emergence-of-trading-intelligence-27104e7cbf84?source=friends_link&sk=100a1ba99ef718e3760f04a896e5f699" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">Trading Bots&mdash;The Emergence of Trading Intelligence</a>
+                                    </h4>
+                                    <div class="post_format_wrap postImage">
+                                        <p>Algorithmic trading is a data-driven application. It is the ability to derive intelligence from data&mdash;above all&mdash;that gives the data science approach entailed in systematic trading an edge over intuitive approaches associated with discretionary trading. However, it would be wrong&mdash;simplistic&mdash;to assume that trading intelligence emerges from data science alone. </p>
+                                    </div>
+                                    <div class="bog_post_info infoPost">
+                                        <span class="datePost">
+                                            December 1, 2020&mdash;Better Programming
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="excerptSmall post bg_post">
+                                <div class="thumb hoverIncrease hoverTwo inited" data-link="#" data-image="img/shore.jpg" data-title="New Post With Image">
+                                    <div class="isotopePadding">
+                                        <img alt="New Post With Image" src="img/articles/raspberry-pi/raspberry-pi-superalgos.png">
+                                        <span class="hoverShadow"></span>
+                                        <div class="wrap_hover">
+                                            <a href="img/articles/raspberry-pi/raspberry-pi-superalgos.png" title="The Open-Source Goldmine of Crypto-Markets Datasets" class="inited p-view prettyPhoto" data-gal="prettyPhoto[gal]">
+                                                <span class="hoverIcon"></span>
+                                            </a>
+                                            <a title="How to Turn a Raspberry Pi into a Crypto Trading Bot" href="https://www.codeproject.com/Tips/5286182/How-to-Turn-a-Raspberry-Pi-into-a-Crypto-Trading-B" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">
+                                                <span class="hoverLink"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="post_wrap">
+                                    <h4>
+                                        <a href="https://www.codeproject.com/Tips/5286182/How-to-Turn-a-Raspberry-Pi-into-a-Crypto-Trading-B" rel="nofollow" rel="noopener" target="_blank" marker="_nosymbol">How to Turn a Raspberry Pi into a Crypto Trading Bot</a>
+                                    </h4>
+                                    <div class="post_format_wrap postImage">
+                                        <p>This tutorial goes through the steps required to install Superalgos to mine data from crypto exchanges, run backtests, and run live trading sessions. The key teaching focuses on setting up the Raspberry Pi the smart way: to optimize the use of the limited resources by avoiding running the software GIU on the Pi itself, instead, providing the solution to run the GIU from a regular machine on the Local Area Network.</p>
+                                    </div>
+                                    <div class="bog_post_info infoPost">
+                                        <span class="datePost">
+                                            November 13, 2020&mdash;Code Project
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
 
                             <article class="excerptSmall post bg_post">
                                 <div class="thumb hoverIncrease hoverTwo inited" data-link="#" data-image="img/shore.jpg" data-title="New Post With Image">

@@ -83,6 +83,54 @@
 
                             <div class="sc_accordion_item panel row">
                                 <h6 class="sc_accordion_title" style="position: relative; ">
+                                    <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_20" class="collapsed">
+                                        <strong>November 2020, Superalgos Beta 7:</strong><br />
+                                        Superalgos Becomes a Multi-Project Platform
+                                    </a>
+                                </h6>
+                                <div id="accordion_left_20" class="panel-collapse collapse" style="position: relative; ">
+                                    <div class="sc_accordion_content">
+                                        <div class="col-md-6 col-sm-6">
+                                            <p>In November 2020, the project released the seventh beta version of Superalgos featuring a significant infrastructure upgrade paving the way for the integrations of blockchain and other crypto projects.</p>
+                                        </div>
+                                        <div class="col-md-6 col-sm-6">
+                                            <p>The infrastructure would eventually allow users to connect to blockchain nodes from within Superalgos, exposing the blockchain data to the rest of the Superalgos infrastructure.</p>
+                                        </div>
+                                        <div class="text-center col-md-12 margin_bottom_mini margin_top_mini">
+                                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                                <a href="https://medium.com/superalgos/superalgos-becomes-a-multi-project-platform-9d5c35bc744a" rel="noopener" target="_blank" marker="_nosymbol">Official Announcement</a>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="sc_accordion_item panel row">
+                                <h6 class="sc_accordion_title" style="position: relative; ">
+                                    <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_19" class="collapsed">
+                                        <strong>October 2020, Superalgos Beta 6:</strong><br />
+                                        Superalgos New Trading Execution Completes Advanced Crypto Trading Automation Toolkit
+                                    </a>
+                                </h6>
+                                <div id="accordion_left_19" class="panel-collapse collapse" style="position: relative; ">
+                                    <div class="sc_accordion_content">
+                                        <div class="col-md-6 col-sm-6">
+                                            <p>In October 2020, the project released the sixth beta version of Superalgos featuring a re-write of the trading bot to implement flexible and robust order execution functionality. The solution allowed complete control over the execution of market and limit orders by which users could define execution algorithms, setting situations and conditions to determine when orders shall be placed.</p>
+                                        </div>
+                                        <div class="col-md-6 col-sm-6">
+                                            <p>The new Trading Engine hierarchy made information processed by the trading bot available to users, trading systems, and even external systems, providing visual debugging features and extending user analysis capabilities when designing, testing, and debugging strategies. Interactive tutorials improved the user experience, softening the learning curve, and lowering entry barriers.</p>
+                                        </div>
+                                        <div class="text-center col-md-12 margin_bottom_mini margin_top_mini">
+                                            <span class="sc_button sc_button_style_border_1 sc_button_size_big squareButton border_1 big">
+                                                <a href="https://medium.com/superalgos/superalgos-new-trading-execution-completes-advanced-crypto-trading-automation-toolkit-47a11dd2376c?source=friends_link&sk=34178473efb744e7728f0c414e8c3074" rel="noopener" target="_blank" marker="_nosymbol">Official Announcement</a>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="sc_accordion_item panel row">
+                                <h6 class="sc_accordion_title" style="position: relative; ">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_18" class="collapsed">
                                         <strong>June 2020, Superalgos Beta 5:</strong><br />
                                         New Open-Source Bitcoin Strategy (BBTB), Support &amp; Resistance Indicator, Trades Snapshots, Conditions Editor
@@ -156,7 +204,7 @@
                             <div class="sc_accordion_item panel row">
                                 <h6 class="sc_accordion_title" style="position: relative; ">
                                     <a data-toggle="collapse" data-parent="#accordion_left" href="#accordion_left_15" class="collapsed">
-                                        <strong>December 2020, Superalgos Beta 2:</strong><br />
+                                        <strong>December 2019, Superalgos Beta 2:</strong><br />
                                         New Data Visualization and Productivity Tools
                                     </a>
                                 </h6>
